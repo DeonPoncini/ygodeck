@@ -1,0 +1,1915 @@
+# date	name	status
+Illegal	Aggiba, the Malevolent Sh'nn S'yo	Illegal
+Illegal	Armament of the Lethal Lords	Illegal
+Illegal	Chimaera, the Master of Beasts	Illegal
+Illegal	Emperor of Lightning	Illegal
+Illegal	Get Your Game On!	Illegal
+Illegal	Grizzly, the Red Star Beast	Illegal
+Illegal	King Landia the Goldfang	Illegal
+Illegal	King of Destruction - Xexex	Illegal
+Illegal	Lorelei, the Symphonic Arsenal	Illegal
+Illegal	Meteo the Matchless	Illegal
+Illegal	Obelisk the Tormentor (original)	Illegal
+Illegal	Queen Nereia the Silvercrown	Illegal
+Illegal	Queen of Fate - Eternia	Illegal
+Illegal	The Seal of Orichalcos	Illegal
+Illegal	Skuna, the Leonine Rakan	Illegal
+Illegal	Slifer the Sky Dragon (original)	Illegal
+Illegal	Stardust Divinity	Illegal
+Illegal	Testament of the Arcane Lords	Illegal
+Illegal	The Winged Dragon of Ra (original)	Illegal
+Illegal	Tyr, the Vanquishing Warlord	Illegal
+Illegal	Ulevo	Illegal
+2002 May	Cyber Jar	Limited
+2002 May	Exodia the Forbidden One	Limited
+2002 May	Jinzo	Limited
+2002 May	Left Arm of the Forbidden One	Limited
+2002 May	Left Leg of the Forbidden One	Limited
+2002 May	Morphing Jar	Limited
+2002 May	Right Leg of the Forbidden One	Limited
+2002 May	Right Arm of the Forbidden One	Limited
+2002 May	Card Destruction	Limited
+2002 May	Change of Heart	Limited
+2002 May	Confiscation	Limited
+2002 May	Dark Hole	Limited
+2002 May	Delinquent Duo	Limited
+2002 May	Harpie's Feather Duster	Limited
+2002 May	Mage Power	Limited
+2002 May	Monster Reborn	Limited
+2002 May	Painful Choice	Limited
+2002 May	Pot of Greed	Limited
+2002 May	Premature Burial	Limited
+2002 May	Raigeki	Limited
+2002 May	Snatch Steal	Limited
+2002 May	The Forceful Sentry	Limited
+2002 May	United We Stand	Limited
+2002 May	Upstart Goblin	Limited
+2002 May	Call of the Haunted	Limited
+2002 May	Ceasefire	Limited
+2002 May	Imperial Order	Limited
+2002 May	Magic Cylinder	Limited
+2002 May	Mirror Force	Limited
+2002 May	Ring of Destruction	Limited
+2002 May	Sangan	Semi-limited
+2002 May	Witch of the Black Forest	Semi-limited
+2002 May	Morphing Jar 2	Semi-limited
+2002 May	Graceful Charity	Semi-limited
+2002 May	Nobleman of Crossout	Semi-limited
+2002 May	Heavy Storm	Semi-limited
+2002 May	Swords of Revealing Light	Semi-limited
+2002 May	Backup Soldier	Semi-limited
+2003 Sep	Breaker the Magical Warrior	Limited
+2003 Sep	Butterfly Dagger - Elma	Limited
+2003 Sep	Chaos Emperor Dragon - Envoy of the End	Limited
+2003 Sep	Creature Swap	Semi-limited
+2003 Sep	Cyber Jar	Limited
+2003 Sep	Exiled Force	Limited
+2003 Sep	Exodia the Forbidden One	Limited
+2003 Sep	Fiber Jar	Limited
+2003 Sep	Injection Fairy Lily	Forbidden
+2003 Sep	Jinzo	Limited
+2003 Sep	Left Arm of the Forbidden One	Limited
+2003 Sep	Left Leg of the Forbidden One	Limited
+2003 Sep	Morphing Jar	Limited
+2003 Sep	Makyura the Destructor	Semi-limited
+2003 Sep	Marauding Captain	Semi-limited
+2003 Sep	Reinforcement of the Army	Semi-limited
+2003 Sep	Right Leg of the Forbidden One	Limited
+2003 Sep	Right Arm of the Forbidden One	Limited
+2003 Sep	Card Destruction	Limited
+2003 Sep	Change of Heart	Limited
+2003 Sep	Confiscation	Limited
+2003 Sep	Dark Hole	Limited
+2003 Sep	Delinquent Duo	Limited
+2003 Sep	Harpie's Feather Duster	Limited
+2003 Sep	Last Turn	Semi-limited
+2003 Sep	Mage Power	Limited
+2003 Sep	Mirage of Nightmare	Limited
+2003 Sep	Monster Reborn	Limited
+2003 Sep	Painful Choice	Limited
+2003 Sep	Pot of Greed	Limited
+2003 Sep	Premature Burial	Limited
+2003 Sep	Raigeki	Limited
+2003 Sep	Snatch Steal	Limited
+2003 Sep	Sinister Serpent	Limited
+2003 Sep	Tribe-Infecting Virus	Limited
+2003 Sep	Twin-Headed Behemoth	Limited
+2003 Sep	Vampire Lord	Limited
+2003 Sep	The Forceful Sentry	Limited
+2003 Sep	United We Stand	Limited
+2003 Sep	Upstart Goblin	Limited
+2003 Sep	Call of the Haunted	Limited
+2003 Sep	Ceasefire	Limited
+2003 Sep	Exchange of the Spirit	Limited
+2003 Sep	Imperial Order	Limited
+2003 Sep	Magic Cylinder	Limited
+2003 Sep	Mirror Force	Limited
+2003 Sep	Reckless Greed	Limited
+2003 Sep	Ring of Destruction	Limited
+2003 Sep	Sangan	Limited
+2003 Sep	Witch of the Black Forest	Limited
+2003 Sep	Yata-Garasu	Limited
+2003 Sep	Morphing Jar 2	Semi-limited
+2003 Sep	Graceful Charity	Limited
+2003 Sep	Nobleman of Crossout	Semi-limited
+2003 Sep	Heavy Storm	Limited
+2003 Sep	Swords of Revealing Light	Limited
+2004 Apr	Black Luster Soldier - Envoy of the Beginning	Limited
+2004 Apr	Breaker the Magical Warrior	Limited
+2004 Apr	Butterfly Dagger - Elma	Limited
+2004 Apr	Chaos Emperor Dragon - Envoy of the End	Limited
+2004 Apr	Creature Swap	Semi-limited
+2004 Apr	Cyber Jar	Forbidden
+2004 Apr	Dark Magician of Chaos	Limited
+2004 Apr	Exiled Force	Limited
+2004 Apr	Exodia the Forbidden One	Limited
+2004 Apr	Fiber Jar	Forbidden
+2004 Apr	Injection Fairy Lily	Forbidden
+2004 Apr	Jinzo	Limited
+2004 Apr	Left Arm of the Forbidden One	Limited
+2004 Apr	Left Leg of the Forbidden One	Limited
+2004 Apr	Morphing Jar	Limited
+2004 Apr	Magical Scientist	Semi-limited
+2004 Apr	Makyura the Destructor	Semi-limited
+2004 Apr	Manticore of Darkness	Semi-limited
+2004 Apr	Reflect Bounder	Semi-limited
+2004 Apr	Reinforcement of the Army	Semi-limited
+2004 Apr	Right Leg of the Forbidden One	Limited
+2004 Apr	Right Arm of the Forbidden One	Limited
+2004 Apr	Card Destruction	Limited
+2004 Apr	Change of Heart	Forbidden
+2004 Apr	Confiscation	Limited
+2004 Apr	Dark Hole	Limited
+2004 Apr	Delinquent Duo	Forbidden
+2004 Apr	Harpie's Feather Duster	Forbidden
+2004 Apr	Last Turn	Semi-limited
+2004 Apr	Mage Power	Limited
+2004 Apr	Mirage of Nightmare	Limited
+2004 Apr	Monster Reborn	Limited
+2004 Apr	Painful Choice	Forbidden
+2004 Apr	Pot of Greed	Limited
+2004 Apr	Premature Burial	Limited
+2004 Apr	Raigeki	Forbidden
+2004 Apr	Snatch Steal	Limited
+2004 Apr	Sinister Serpent	Limited
+2004 Apr	Tribe-Infecting Virus	Limited
+2004 Apr	Twin-Headed Behemoth	Limited
+2004 Apr	Vampire Lord	Limited
+2004 Apr	The Forceful Sentry	Limited
+2004 Apr	United We Stand	Limited
+2004 Apr	Upstart Goblin	Limited
+2004 Apr	Call of the Haunted	Limited
+2004 Apr	Ceasefire	Limited
+2004 Apr	Exchange of the Spirit	Limited
+2004 Apr	Imperial Order	Forbidden
+2004 Apr	Magic Cylinder	Limited
+2004 Apr	Mirror Force	Limited
+2004 Apr	Reckless Greed	Limited
+2004 Apr	Ring of Destruction	Limited
+2004 Apr	Sangan	Limited
+2004 Apr	Witch of the Black Forest	Limited
+2004 Apr	Yata-Garasu	Forbidden
+2004 Apr	Morphing Jar 2	Semi-limited
+2004 Apr	Graceful Charity	Limited
+2004 Apr	Nobleman of Crossout	Semi-limited
+2004 Apr	Heavy Storm	Limited
+2004 Apr	Swords of Revealing Light	Limited
+2004 Sep	Black Luster Soldier - Envoy of the Beginning	Limited
+2004 Sep	Breaker the Magical Warrior	Limited
+2004 Sep	Butterfly Dagger - Elma	Limited
+2004 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2004 Sep	Creature Swap	Semi-limited
+2004 Sep	Cyber Jar	Limited
+2004 Sep	Card Destruction	Limited
+2004 Sep	Change of Heart	Limited
+2004 Sep	Confiscation	Limited
+2004 Sep	Call of the Haunted	Limited
+2004 Sep	Ceasefire	Limited
+2004 Sep	Crush Card Virus	Limited
+2004 Sep	Dark Magician of Chaos	Limited
+2004 Sep	Dark Hole	Forbidden
+2004 Sep	Delinquent Duo	Forbidden
+2004 Sep	Exiled Force	Limited
+2004 Sep	Exodia the Forbidden One	Limited
+2004 Sep	Exchange of the Spirit	Limited
+2004 Sep	Fiber Jar	Limited
+2004 Sep	Graceful Charity	Forbidden
+2004 Sep	Harpie's Feather Duster	Forbidden
+2004 Sep	Heavy Storm	Limited
+2004 Sep	Injection Fairy Lily	Limited
+2004 Sep	Imperial Order	Forbidden
+2004 Sep	Jinzo	Limited
+2004 Sep	Left Arm of the Forbidden One	Limited
+2004 Sep	Left Leg of the Forbidden One	Limited
+2004 Sep	Last Turn	Semi-limited
+2004 Sep	Morphing Jar	Limited
+2004 Sep	Magical Scientist	Limited
+2004 Sep	Makyura the Destructor	Semi-limited
+2004 Sep	Manticore of Darkness	Semi-limited
+2004 Sep	Mage Power	Limited
+2004 Sep	Morphing Jar 2	Semi-limited
+2004 Sep	Mirage of Nightmare	Limited
+2004 Sep	Monster Reborn	Forbidden
+2004 Sep	Magic Cylinder	Limited
+2004 Sep	Marauding Captain	Semi-limited
+2004 Sep	Mirror Force	Forbidden
+2004 Sep	Mystical Space Typhoon	Limited
+2004 Sep	Nobleman of Crossout	Semi-limited
+2004 Sep	Painful Choice	Limited
+2004 Sep	Premature Burial	Limited
+2004 Sep	Protector of the Sanctuary	Limited
+2004 Sep	Pot of Greed	Limited
+2004 Sep	Reflect Bounder	Semi-limited
+2004 Sep	Reinforcement of the Army	Semi-limited
+2004 Sep	Right Leg of the Forbidden One	Limited
+2004 Sep	Right Arm of the Forbidden One	Limited
+2004 Sep	Reckless Greed	Limited
+2004 Sep	Ring of Destruction	Limited
+2004 Sep	Raigeki	Forbidden
+2004 Sep	Sangan	Forbidden
+2004 Sep	Snatch Steal	Limited
+2004 Sep	Sinister Serpent	Limited
+2004 Sep	Sixth Sense	Limited
+2004 Sep	Swords of Revealing Light	Limited
+2004 Sep	Torrential Tribute	Limited
+2004 Sep	Tribe-Infecting Virus	Limited
+2004 Sep	Twin-Headed Behemoth	Limited
+2004 Sep	The Forceful Sentry	Limited
+2004 Sep	United We Stand	Forbidden
+2004 Sep	Upstart Goblin	Limited
+2004 Sep	Vampire Lord	Limited
+2004 Sep	Witch of the Black Forest	Forbidden
+2004 Sep	Yata-Garasu	Forbidden
+2005 Apr	Abyss Soldier	Semi-limited
+2005 Apr	Black Luster Soldier - Envoy of the Beginning	Limited
+2005 Apr	Breaker the Magical Warrior	Limited
+2005 Apr	Butterfly Dagger - Elma	Forbidden
+2005 Apr	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2005 Apr	Creature Swap	Semi-limited
+2005 Apr	Cyber Jar	Limited
+2005 Apr	Card Destruction	Limited
+2005 Apr	Change of Heart	Forbidden
+2005 Apr	Confiscation	Forbidden
+2005 Apr	Call of the Haunted	Limited
+2005 Apr	Ceasefire	Limited
+2005 Apr	Crush Card Virus	Limited
+2005 Apr	Dark Scorpion - Chick the Yellow	Semi-limited
+2005 Apr	Dark Magician of Chaos	Limited
+2005 Apr	Dark Hole	Forbidden
+2005 Apr	D.D. Warrior Lady	Limited
+2005 Apr	Delinquent Duo	Limited
+2005 Apr	Deck Devastation Virus	Limited
+2005 Apr	Emergency Provisions	Semi-limited
+2005 Apr	Exiled Force	Limited
+2005 Apr	Exodia the Forbidden One	Limited
+2005 Apr	Exchange of the Spirit	Limited
+2005 Apr	Fiber Jar	Forbidden
+2005 Apr	Graceful Charity	Limited
+2005 Apr	Gravity Bind	Semi-limited
+2005 Apr	Good Goblin Housekeeping	Semi-limited
+2005 Apr	Harpie's Feather Duster	Forbidden
+2005 Apr	Heavy Storm	Limited
+2005 Apr	Injection Fairy Lily	Limited
+2005 Apr	Imperial Order	Forbidden
+2005 Apr	Jinzo	Limited
+2005 Apr	Left Arm of the Forbidden One	Limited
+2005 Apr	Left Leg of the Forbidden One	Limited
+2005 Apr	Last Turn	Semi-limited
+2005 Apr	Level Limit - Area B	Semi-limited
+2005 Apr	Lightning Vortex	Limited
+2005 Apr	Morphing Jar	Limited
+2005 Apr	Magical Scientist	Forbidden
+2005 Apr	Makyura the Destructor	Forbidden
+2005 Apr	Manticore of Darkness	Semi-limited
+2005 Apr	Mage Power	Limited
+2005 Apr	Magician of Faith	Limited
+2005 Apr	Marshmallon	Limited
+2005 Apr	Mirage of Nightmare	Forbidden
+2005 Apr	Monster Reborn	Forbidden
+2005 Apr	Magic Cylinder	Limited
+2005 Apr	Marauding Captain	Semi-limited
+2005 Apr	Mirror Force	Limited
+2005 Apr	Mystical Space Typhoon	Limited
+2005 Apr	Night Assailant	Semi-limited
+2005 Apr	Nobleman of Crossout	Limited
+2005 Apr	Painful Choice	Forbidden
+2005 Apr	Premature Burial	Limited
+2005 Apr	Protector of the Sanctuary	Limited
+2005 Apr	Pot of Greed	Limited
+2005 Apr	Reflect Bounder	Semi-limited
+2005 Apr	Reinforcement of the Army	Semi-limited
+2005 Apr	Right Leg of the Forbidden One	Limited
+2005 Apr	Right Arm of the Forbidden One	Limited
+2005 Apr	Reckless Greed	Limited
+2005 Apr	Ring of Destruction	Limited
+2005 Apr	Raigeki	Forbidden
+2005 Apr	Sacred Phoenix of Nephthys	Limited
+2005 Apr	Sangan	Limited
+2005 Apr	Snatch Steal	Limited
+2005 Apr	Sinister Serpent	Limited
+2005 Apr	Sixth Sense	Limited
+2005 Apr	Swords of Revealing Light	Limited
+2005 Apr	Torrential Tribute	Limited
+2005 Apr	Tribe-Infecting Virus	Limited
+2005 Apr	Twin-Headed Behemoth	Limited
+2005 Apr	The Forceful Sentry	Forbidden
+2005 Apr	United We Stand	Limited
+2005 Apr	Upstart Goblin	Semi-limited
+2005 Apr	Vampire Lord	Semi-limited
+2005 Apr	Witch of the Black Forest	Forbidden
+2005 Apr	Yata-Garasu	Forbidden
+2005 Sep	Abyss Soldier	Semi-limited
+2005 Sep	Book of Moon	Limited
+2005 Sep	Book of Taiyou	Limited
+2005 Sep	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2005 Sep	Breaker the Magical Warrior	Limited
+2005 Sep	Butterfly Dagger - Elma	Forbidden
+2005 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2005 Sep	Creature Swap	Semi-limited
+2005 Sep	Cyber Jar	Limited
+2005 Sep	Card Destruction	Limited
+2005 Sep	Change of Heart	Forbidden
+2005 Sep	Confiscation	Limited
+2005 Sep	Call of the Haunted	Limited
+2005 Sep	Ceasefire	Limited
+2005 Sep	Crush Card Virus	Limited
+2005 Sep	Dark Magician of Chaos	Limited
+2005 Sep	Dark Hole	Limited
+2005 Sep	D.D. Warrior Lady	Limited
+2005 Sep	Delinquent Duo	Forbidden
+2005 Sep	Deck Devastation Virus	Limited
+2005 Sep	Emergency Provisions	Semi-limited
+2005 Sep	Exiled Force	Limited
+2005 Sep	Exodia the Forbidden One	Limited
+2005 Sep	Exchange of the Spirit	Limited
+2005 Sep	Fiber Jar	Forbidden
+2005 Sep	Graceful Charity	Forbidden
+2005 Sep	Gravity Bind	Semi-limited
+2005 Sep	Good Goblin Housekeeping	Semi-limited
+2005 Sep	Harpie's Feather Duster	Forbidden
+2005 Sep	Heavy Storm	Limited
+2005 Sep	Injection Fairy Lily	Limited
+2005 Sep	Imperial Order	Forbidden
+2005 Sep	Jinzo	Limited
+2005 Sep	Left Arm of the Forbidden One	Limited
+2005 Sep	Left Leg of the Forbidden One	Limited
+2005 Sep	Last Turn	Semi-limited
+2005 Sep	Level Limit - Area B	Semi-limited
+2005 Sep	Lightning Vortex	Limited
+2005 Sep	Limiter Removal	Limited
+2005 Sep	Morphing Jar	Limited
+2005 Sep	Magical Scientist	Forbidden
+2005 Sep	Makyura the Destructor	Forbidden
+2005 Sep	Manticore of Darkness	Semi-limited
+2005 Sep	Mage Power	Limited
+2005 Sep	Magician of Faith	Limited
+2005 Sep	Marshmallon	Limited
+2005 Sep	Metamorphosis	Limited
+2005 Sep	Mirage of Nightmare	Forbidden
+2005 Sep	Monster Reborn	Forbidden
+2005 Sep	Magic Cylinder	Limited
+2005 Sep	Mirror Force	Forbidden
+2005 Sep	Mystical Space Typhoon	Limited
+2005 Sep	Night Assailant	Limited
+2005 Sep	Nobleman of Crossout	Limited
+2005 Sep	Painful Choice	Forbidden
+2005 Sep	Premature Burial	Limited
+2005 Sep	Protector of the Sanctuary	Limited
+2005 Sep	Pot of Greed	Forbidden
+2005 Sep	Reflect Bounder	Semi-limited
+2005 Sep	Reinforcement of the Army	Semi-limited
+2005 Sep	Right Leg of the Forbidden One	Limited
+2005 Sep	Right Arm of the Forbidden One	Limited
+2005 Sep	Reckless Greed	Limited
+2005 Sep	Ring of Destruction	Forbidden
+2005 Sep	Raigeki	Forbidden
+2005 Sep	Sacred Phoenix of Nephthys	Limited
+2005 Sep	Sangan	Limited
+2005 Sep	Scapegoat	Limited
+2005 Sep	Snatch Steal	Limited
+2005 Sep	Sinister Serpent	Forbidden
+2005 Sep	Sixth Sense	Limited
+2005 Sep	Swords of Revealing Light	Limited
+2005 Sep	Torrential Tribute	Limited
+2005 Sep	Thousand-Eyes Restrict	Limited
+2005 Sep	Tsukuyomi	Limited
+2005 Sep	Tribe-Infecting Virus	Forbidden
+2005 Sep	Twin-Headed Behemoth	Limited
+2005 Sep	The Forceful Sentry	Forbidden
+2005 Sep	United We Stand	Limited
+2005 Sep	Upstart Goblin	Semi-limited
+2005 Sep	Witch of the Black Forest	Forbidden
+2005 Sep	Yata-Garasu	Forbidden
+2006 Apr	Apprentice Magician	Semi-limited
+2006 Apr	Book of Moon	Limited
+2006 Apr	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2006 Apr	Breaker the Magical Warrior	Limited
+2006 Apr	Butterfly Dagger - Elma	Forbidden
+2006 Apr	Chaos Sorceror	Forbidden
+2006 Apr	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2006 Apr	Creature Swap	Semi-limited
+2006 Apr	Cyber Stein	Forbidden
+2006 Apr	Cyber Jar	Forbidden
+2006 Apr	Cathedral of Nobles	Forbidden
+2006 Apr	Card Destruction	Limited
+2006 Apr	Change of Heart	Forbidden
+2006 Apr	Confiscation	Limited
+2006 Apr	Call of the Haunted	Limited
+2006 Apr	Ceasefire	Limited
+2006 Apr	Crush Card Virus	Limited
+2006 Apr	Dark Magician of Chaos	Limited
+2006 Apr	Dark Hole	Forbidden
+2006 Apr	D.D. Assailant	Limited
+2006 Apr	D.D. Warrior Lady	Limited
+2006 Apr	Dandylion	Limited
+2006 Apr	Delinquent Duo	Forbidden
+2006 Apr	Deck Devastation Virus	Semi-limited
+2006 Apr	Drop Off	Limited
+2006 Apr	Exiled Force	Limited
+2006 Apr	Exodia the Forbidden One	Limited
+2006 Apr	Exchange of the Spirit	Forbidden
+2006 Apr	Fiber Jar	Forbidden
+2006 Apr	Graceful Charity	Limited
+2006 Apr	Gravity Bind	Semi-limited
+2006 Apr	Good Goblin Housekeeping	Semi-limited
+2006 Apr	Harpie's Feather Duster	Forbidden
+2006 Apr	Heavy Storm	Limited
+2006 Apr	Injection Fairy Lily	Limited
+2006 Apr	Imperial Order	Forbidden
+2006 Apr	Jinzo	Limited
+2006 Apr	Left Arm of the Forbidden One	Limited
+2006 Apr	Left Leg of the Forbidden One	Limited
+2006 Apr	Last Will	Limited
+2006 Apr	Last Turn	Forbidden
+2006 Apr	Level Limit - Area B	Limited
+2006 Apr	Lightning Vortex	Limited
+2006 Apr	Limiter Removal	Limited
+2006 Apr	Morphing Jar	Limited
+2006 Apr	Magical Stone Excavation	Limited
+2006 Apr	Magical Scientist	Forbidden
+2006 Apr	Makyura the Destructor	Forbidden
+2006 Apr	Manticore of Darkness	Semi-limited
+2006 Apr	Mage Power	Limited
+2006 Apr	Magician of Faith	Semi-limited
+2006 Apr	Marshmallon	Limited
+2006 Apr	Metamorphosis	Limited
+2006 Apr	Mirage of Nightmare	Forbidden
+2006 Apr	Monster Reborn	Forbidden
+2006 Apr	Magic Cylinder	Limited
+2006 Apr	Mirror Force	Limited
+2006 Apr	Mystical Space Typhoon	Limited
+2006 Apr	Night Assailant	Limited
+2006 Apr	Nobleman of Crossout	Semi-limited
+2006 Apr	Painful Choice	Forbidden
+2006 Apr	Premature Burial	Limited
+2006 Apr	Protector of the Sanctuary	Limited
+2006 Apr	Pot of Greed	Forbidden
+2006 Apr	Pot of Avarice	Limited
+2006 Apr	Reflect Bounder	Semi-limited
+2006 Apr	Reinforcement of the Army	Semi-limited
+2006 Apr	Right Leg of the Forbidden One	Limited
+2006 Apr	Right Arm of the Forbidden One	Limited
+2006 Apr	Reckless Greed	Limited
+2006 Apr	Ring of Destruction	Forbidden
+2006 Apr	Raigeki	Forbidden
+2006 Apr	Sacred Phoenix of Nephthys	Limited
+2006 Apr	Sangan	Limited
+2006 Apr	Scapegoat	Limited
+2006 Apr	Snatch Steal	Forbidden
+2006 Apr	Sinister Serpent	Forbidden
+2006 Apr	Sixth Sense	Limited
+2006 Apr	Swords of Revealing Light	Limited
+2006 Apr	Time Seal	Forbidden
+2006 Apr	Torrential Tribute	Limited
+2006 Apr	Thousand-Eyes Restrict	Limited
+2006 Apr	Tsukuyomi	Limited
+2006 Apr	Tribe-Infecting Virus	Forbidden
+2006 Apr	Twin-Headed Behemoth	Limited
+2006 Apr	The Forceful Sentry	Forbidden
+2006 Apr	United We Stand	Limited
+2006 Apr	Upstart Goblin	Semi-limited
+2006 Apr	Victory Dragon	Forbidden
+2006 Apr	Witch of the Black Forest	Forbidden
+2006 Apr	Yata-Garasu	Forbidden
+2006 Sep	Apprentice Magician	Semi-limited
+2006 Sep	Book of Moon	Limited
+2006 Sep	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2006 Sep	Breaker the Magical Warrior	Limited
+2006 Sep	Butterfly Dagger - Elma	Forbidden
+2006 Sep	Chaos Sorceror	Forbidden
+2006 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2006 Sep	Creature Swap	Semi-limited
+2006 Sep	Cyber Stein	Forbidden
+2006 Sep	Cyber Jar	Forbidden
+2006 Sep	Cathedral of Nobles	Forbidden
+2006 Sep	Card Destruction	Limited
+2006 Sep	Change of Heart	Forbidden
+2006 Sep	Confiscation	Limited
+2006 Sep	Call of the Haunted	Limited
+2006 Sep	Ceasefire	Limited
+2006 Sep	Crush Card Virus	Limited
+2006 Sep	Dark Magician of Chaos	Limited
+2006 Sep	Dark Hole	Forbidden
+2006 Sep	D.D. Assailant	Limited
+2006 Sep	D.D. Warrior Lady	Limited
+2006 Sep	Dandylion	Limited
+2006 Sep	Delinquent Duo	Forbidden
+2006 Sep	Deck Devastation Virus	Semi-limited
+2006 Sep	Exiled Force	Semi-limited
+2006 Sep	Exodia the Forbidden One	Limited
+2006 Sep	Exchange of the Spirit	Forbidden
+2006 Sep	Future Fusion	Limited
+2006 Sep	Fiber Jar	Forbidden
+2006 Sep	Giant Trunade	Semi-limited
+2006 Sep	Graceful Charity	Limited
+2006 Sep	Gravity Bind	Limited
+2006 Sep	Green Baboon, Defender of the Forest	Limited
+2006 Sep	Good Goblin Housekeeping	Semi-limited
+2006 Sep	Harpie's Feather Duster	Forbidden
+2006 Sep	Heavy Storm	Limited
+2006 Sep	Injection Fairy Lily	Limited
+2006 Sep	Imperial Order	Forbidden
+2006 Sep	Jinzo	Limited
+2006 Sep	Left Arm of the Forbidden One	Limited
+2006 Sep	Left Leg of the Forbidden One	Limited
+2006 Sep	Last Will	Limited
+2006 Sep	Last Turn	Forbidden
+2006 Sep	Level Limit - Area B	Limited
+2006 Sep	Limiter Removal	Limited
+2006 Sep	Morphing Jar	Limited
+2006 Sep	Magical Stone Excavation	Limited
+2006 Sep	Magical Scientist	Forbidden
+2006 Sep	Makyura the Destructor	Forbidden
+2006 Sep	Manticore of Darkness	Semi-limited
+2006 Sep	Mage Power	Limited
+2006 Sep	Magician of Faith	Limited
+2006 Sep	Marshmallon	Limited
+2006 Sep	Metamorphosis	Limited
+2006 Sep	Mirage of Nightmare	Forbidden
+2006 Sep	Monster Reborn	Forbidden
+2006 Sep	Magic Cylinder	Limited
+2006 Sep	Mirror Force	Limited
+2006 Sep	Mystical Space Typhoon	Limited
+2006 Sep	Night Assailant	Limited
+2006 Sep	Nobleman of Crossout	Limited
+2006 Sep	Painful Choice	Forbidden
+2006 Sep	Premature Burial	Limited
+2006 Sep	Protector of the Sanctuary	Limited
+2006 Sep	Pot of Greed	Forbidden
+2006 Sep	Pot of Avarice	Limited
+2006 Sep	Reinforcement of the Army	Semi-limited
+2006 Sep	Right Leg of the Forbidden One	Limited
+2006 Sep	Right Arm of the Forbidden One	Limited
+2006 Sep	Reckless Greed	Semi-limited
+2006 Sep	Ring of Destruction	Limited
+2006 Sep	Raigeki	Forbidden
+2006 Sep	Sacred Phoenix of Nephthys	Limited
+2006 Sep	Sangan	Limited
+2006 Sep	Scapegoat	Limited
+2006 Sep	Snatch Steal	Forbidden
+2006 Sep	Spirit Reaper	Forbidden
+2006 Sep	Sinister Serpent	Forbidden
+2006 Sep	Sixth Sense	Limited
+2006 Sep	Swords of Revealing Light	Limited
+2006 Sep	Time Seal	Forbidden
+2006 Sep	Torrential Tribute	Limited
+2006 Sep	Thousand-Eyes Restrict	Forbidden
+2006 Sep	Tsukuyomi	Forbidden
+2006 Sep	Tribe-Infecting Virus	Forbidden
+2006 Sep	Twin-Headed Behemoth	Limited
+2006 Sep	The Forceful Sentry	Forbidden
+2006 Sep	United We Stand	Limited
+2006 Sep	Ultimate Offering	Limited
+2006 Sep	Upstart Goblin	Semi-limited
+2006 Sep	Victory Dragon	Limited
+2006 Sep	Wall of Revealing Light	Semi-limited
+2006 Sep	Witch of the Black Forest	Forbidden
+2006 Sep	Yata-Garasu	Forbidden
+2007 Mar	Apprentice Magician	Semi-limited
+2007 Mar	Book of Moon	Limited
+2007 Mar	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2007 Mar	Breaker the Magical Warrior	Forbidden
+2007 Mar	Butterfly Dagger - Elma	Forbidden
+2007 Mar	Chaos Sorceror	Forbidden
+2007 Mar	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2007 Mar	Creature Swap	Semi-limited
+2007 Mar	Cyber Stein	Forbidden
+2007 Mar	Cyber Jar	Forbidden
+2007 Mar	Cathedral of Nobles	Forbidden
+2007 Mar	Card Destruction	Limited
+2007 Mar	Change of Heart	Forbidden
+2007 Mar	Confiscation	Limited
+2007 Mar	Call of the Haunted	Limited
+2007 Mar	Ceasefire	Limited
+2007 Mar	Chain Strike	Limited
+2007 Mar	Crush Card Virus	Limited
+2007 Mar	Dark Magician of Chaos	Limited
+2007 Mar	Dark Hole	Forbidden
+2007 Mar	D.D. Assailant	Semi-limited
+2007 Mar	D.D. Warrior Lady	Limited
+2007 Mar	Dandylion	Limited
+2007 Mar	Delinquent Duo	Forbidden
+2007 Mar	Deck Devastation Virus	Semi-limited
+2007 Mar	Dimension Fusion	Limited
+2007 Mar	Elemental Hero Stratos	Limited
+2007 Mar	Exodia the Forbidden One	Limited
+2007 Mar	Exchange of the Spirit	Forbidden
+2007 Mar	Future Fusion	Limited
+2007 Mar	Fiber Jar	Forbidden
+2007 Mar	Giant Trunade	Limited
+2007 Mar	Graceful Charity	Forbidden
+2007 Mar	Gravity Bind	Limited
+2007 Mar	Green Baboon, Defender of the Forest	Limited
+2007 Mar	Good Goblin Housekeeping	Semi-limited
+2007 Mar	Gold Sarcophagus	Limited
+2007 Mar	Gorz the Emissary of Darkness	Limited
+2007 Mar	Harpie's Feather Duster	Forbidden
+2007 Mar	Heavy Storm	Limited
+2007 Mar	Imperial Order	Forbidden
+2007 Mar	Jinzo	Limited
+2007 Mar	Left Arm of the Forbidden One	Limited
+2007 Mar	Left Leg of the Forbidden One	Limited
+2007 Mar	Last Will	Forbidden
+2007 Mar	Last Turn	Forbidden
+2007 Mar	Level Limit - Area B	Limited
+2007 Mar	Limiter Removal	Limited
+2007 Mar	Morphing Jar	Limited
+2007 Mar	Magical Stone Excavation	Limited
+2007 Mar	Magical Scientist	Forbidden
+2007 Mar	Makyura the Destructor	Forbidden
+2007 Mar	Manticore of Darkness	Semi-limited
+2007 Mar	Mage Power	Limited
+2007 Mar	Magician of Faith	Forbidden
+2007 Mar	Marshmallon	Limited
+2007 Mar	Mask of Darkness	Semi-limited
+2007 Mar	Metamorphosis	Semi-limited
+2007 Mar	Mirage of Nightmare	Forbidden
+2007 Mar	Monster Reborn	Forbidden
+2007 Mar	Magic Cylinder	Limited
+2007 Mar	Mind Crush	Limited
+2007 Mar	Mirror Force	Limited
+2007 Mar	Mystical Space Typhoon	Limited
+2007 Mar	Neo-Spacian Grand Mole	Limited
+2007 Mar	Night Assailant	Limited
+2007 Mar	Nobleman of Crossout	Limited
+2007 Mar	Overload Fusion	Limited
+2007 Mar	Painful Choice	Forbidden
+2007 Mar	Premature Burial	Limited
+2007 Mar	Protector of the Sanctuary	Limited
+2007 Mar	Pot of Greed	Forbidden
+2007 Mar	Pot of Avarice	Limited
+2007 Mar	Reinforcement of the Army	Semi-limited
+2007 Mar	Right Leg of the Forbidden One	Limited
+2007 Mar	Right Arm of the Forbidden One	Limited
+2007 Mar	Reckless Greed	Semi-limited
+2007 Mar	Ring of Destruction	Limited
+2007 Mar	Raigeki	Forbidden
+2007 Mar	Sangan	Limited
+2007 Mar	Scapegoat	Limited
+2007 Mar	Snatch Steal	Limited
+2007 Mar	Spirit Reaper	Forbidden
+2007 Mar	Sinister Serpent	Forbidden
+2007 Mar	Sixth Sense	Limited
+2007 Mar	Swords of Revealing Light	Limited
+2007 Mar	Time Seal	Forbidden
+2007 Mar	Torrential Tribute	Limited
+2007 Mar	Thousand-Eyes Restrict	Forbidden
+2007 Mar	Tsukuyomi	Forbidden
+2007 Mar	Tribe-Infecting Virus	Forbidden
+2007 Mar	Twin-Headed Behemoth	Limited
+2007 Mar	The Forceful Sentry	Forbidden
+2007 Mar	United We Stand	Limited
+2007 Mar	Ultimate Offering	Limited
+2007 Mar	Victory Dragon	Forbidden
+2007 Mar	Wall of Revealing Light	Semi-limited
+2007 Mar	Witch of the Black Forest	Forbidden
+2007 Mar	Yata-Garasu	Forbidden
+2007 Sep	Apprentice Magician	Semi-limited
+2007 Sep	Brain Control	Limited
+2007 Sep	Book of Moon	Limited
+2007 Sep	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2007 Sep	Breaker the Magical Warrior	Limited
+2007 Sep	Butterfly Dagger - Elma	Forbidden
+2007 Sep	Card Trooper	Limited
+2007 Sep	Chaos Sorceror	Forbidden
+2007 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2007 Sep	Creature Swap	Semi-limited
+2007 Sep	Cyber Stein	Forbidden
+2007 Sep	Cyber Jar	Forbidden
+2007 Sep	Cathedral of Nobles	Forbidden
+2007 Sep	Card Destruction	Limited
+2007 Sep	Change of Heart	Forbidden
+2007 Sep	Confiscation	Forbidden
+2007 Sep	Call of the Haunted	Limited
+2007 Sep	Ceasefire	Limited
+2007 Sep	Chain Strike	Limited
+2007 Sep	Crush Card Virus	Limited
+2007 Sep	Dark Magician of Chaos	Limited
+2007 Sep	Dark Hole	Forbidden
+2007 Sep	D.D. Warrior Lady	Limited
+2007 Sep	Dandylion	Limited
+2007 Sep	Delinquent Duo	Forbidden
+2007 Sep	Destiny Hero - Malicious	Semi-limited
+2007 Sep	Destiny Hero - Disk Commander	Limited
+2007 Sep	Dimension Fusion	Limited
+2007 Sep	Elemental Hero Stratos	Limited
+2007 Sep	Exodia the Forbidden One	Limited
+2007 Sep	Exchange of the Spirit	Forbidden
+2007 Sep	Future Fusion	Limited
+2007 Sep	Fiber Jar	Forbidden
+2007 Sep	Fissure	Limited
+2007 Sep	Giant Trunade	Limited
+2007 Sep	Graceful Charity	Forbidden
+2007 Sep	Gravity Bind	Limited
+2007 Sep	Green Gadget	Semi-limited
+2007 Sep	Green Baboon, Defender of the Forest	Limited
+2007 Sep	Gold Sarcophagus	Limited
+2007 Sep	Gorz the Emissary of Darkness	Limited
+2007 Sep	Harpie's Feather Duster	Forbidden
+2007 Sep	Heavy Storm	Limited
+2007 Sep	Imperial Order	Forbidden
+2007 Sep	Jinzo	Semi-limited
+2007 Sep	Left Arm of the Forbidden One	Limited
+2007 Sep	Left Leg of the Forbidden One	Limited
+2007 Sep	Last Will	Forbidden
+2007 Sep	Last Turn	Forbidden
+2007 Sep	Level Limit - Area B	Limited
+2007 Sep	Limiter Removal	Limited
+2007 Sep	Morphing Jar	Limited
+2007 Sep	Magical Stone Excavation	Limited
+2007 Sep	Magical Scientist	Forbidden
+2007 Sep	Makyura the Destructor	Forbidden
+2007 Sep	Manticore of Darkness	Semi-limited
+2007 Sep	Mage Power	Limited
+2007 Sep	Magician of Faith	Limited
+2007 Sep	Marshmallon	Limited
+2007 Sep	Mask of Darkness	Semi-limited
+2007 Sep	Metamorphosis	Forbidden
+2007 Sep	Megamorph	Limited
+2007 Sep	Mirage of Nightmare	Forbidden
+2007 Sep	Monster Reborn	Forbidden
+2007 Sep	Magic Cylinder	Limited
+2007 Sep	Mind Crush	Limited
+2007 Sep	Mirror Force	Limited
+2007 Sep	Mystical Space Typhoon	Limited
+2007 Sep	Neo-Spacian Grand Mole	Limited
+2007 Sep	Night Assailant	Limited
+2007 Sep	Nobleman of Crossout	Semi-limited
+2007 Sep	Overload Fusion	Limited
+2007 Sep	Painful Choice	Forbidden
+2007 Sep	Premature Burial	Limited
+2007 Sep	Pot of Greed	Forbidden
+2007 Sep	Pot of Avarice	Semi-limited
+2007 Sep	Reinforcement of the Army	Semi-limited
+2007 Sep	Right Leg of the Forbidden One	Limited
+2007 Sep	Right Arm of the Forbidden One	Limited
+2007 Sep	Reckless Greed	Semi-limited
+2007 Sep	Ring of Destruction	Forbidden
+2007 Sep	Raigeki	Forbidden
+2007 Sep	Red Gadget	Semi-limited
+2007 Sep	Royal Decree	Semi-limited
+2007 Sep	Sangan	Limited
+2007 Sep	Scapegoat	Limited
+2007 Sep	Smashing Ground	Limited
+2007 Sep	Snatch Steal	Forbidden
+2007 Sep	Snipe Hunter	Limited
+2007 Sep	Spirit Reaper	Forbidden
+2007 Sep	Sinister Serpent	Forbidden
+2007 Sep	Sixth Sense	Limited
+2007 Sep	Swords of Revealing Light	Limited
+2007 Sep	Time Seal	Forbidden
+2007 Sep	Torrential Tribute	Limited
+2007 Sep	Thousand-Eyes Restrict	Forbidden
+2007 Sep	Tsukuyomi	Forbidden
+2007 Sep	Trap Dustshoot	Limited
+2007 Sep	Tribe-Infecting Virus	Forbidden
+2007 Sep	Twin-Headed Behemoth	Limited
+2007 Sep	The Transmigration Prophecy	Limited
+2007 Sep	The Forceful Sentry	Forbidden
+2007 Sep	United We Stand	Limited
+2007 Sep	Ultimate Offering	Limited
+2007 Sep	Victory Dragon	Forbidden
+2007 Sep	Wall of Revealing Light	Limited
+2007 Sep	Witch of the Black Forest	Forbidden
+2007 Sep	Yata-Garasu	Forbidden
+2007 Sep	Yellow Gadget	Semi-limited
+2008 Mar	Advanced Ritual Art	Limited
+2008 Mar	Brain Control	Limited
+2008 Mar	Book of Moon	Semi-limited
+2008 Mar	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2008 Mar	Breaker the Magical Warrior	Forbidden
+2008 Mar	Butterfly Dagger - Elma	Forbidden
+2008 Mar	Card Trooper	Limited
+2008 Mar	Chaos Sorceror	Forbidden
+2008 Mar	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2008 Mar	Cyber Dragon	Semi-limited
+2008 Mar	Cyber Stein	Forbidden
+2008 Mar	Cyber Jar	Forbidden
+2008 Mar	Cathedral of Nobles	Forbidden
+2008 Mar	Card Destruction	Limited
+2008 Mar	Change of Heart	Forbidden
+2008 Mar	Confiscation	Forbidden
+2008 Mar	Call of the Haunted	Forbidden
+2008 Mar	Ceasefire	Limited
+2008 Mar	Chain Strike	Limited
+2008 Mar	Crush Card Virus	Limited
+2008 Mar	Dark Magician of Chaos	Limited
+2008 Mar	Dark Hole	Forbidden
+2008 Mar	D.D. Warrior Lady	Limited
+2008 Mar	Dandylion	Limited
+2008 Mar	Delinquent Duo	Forbidden
+2008 Mar	Destiny Hero - Malicious	Semi-limited
+2008 Mar	Destiny Hero - Disk Commander	Limited
+2008 Mar	Dimension Fusion	Limited
+2008 Mar	Elemental Hero Stratos	Limited
+2008 Mar	Exodia the Forbidden One	Limited
+2008 Mar	Exchange of the Spirit	Forbidden
+2008 Mar	Future Fusion	Limited
+2008 Mar	Foolish Burial	Semi-limited
+2008 Mar	Fiber Jar	Forbidden
+2008 Mar	Fissure	Limited
+2008 Mar	Giant Trunade	Limited
+2008 Mar	Graceful Charity	Forbidden
+2008 Mar	Gravity Bind	Limited
+2008 Mar	Green Baboon, Defender of the Forest	Limited
+2008 Mar	Gold Sarcophagus	Limited
+2008 Mar	Gorz the Emissary of Darkness	Limited
+2008 Mar	Harpie's Feather Duster	Forbidden
+2008 Mar	Heavy Storm	Limited
+2008 Mar	Imperial Order	Forbidden
+2008 Mar	Left Arm of the Forbidden One	Limited
+2008 Mar	Left Leg of the Forbidden One	Limited
+2008 Mar	Last Will	Forbidden
+2008 Mar	Last Turn	Forbidden
+2008 Mar	Level Limit - Area B	Limited
+2008 Mar	Limiter Removal	Limited
+2008 Mar	Light and Darkness Dragon	Semi-limited
+2008 Mar	Morphing Jar	Limited
+2008 Mar	Magical Stone Excavation	Semi-limited
+2008 Mar	Magical Scientist	Forbidden
+2008 Mar	Makyura the Destructor	Forbidden
+2008 Mar	Manticore of Darkness	Semi-limited
+2008 Mar	Mage Power	Semi-limited
+2008 Mar	Magician of Faith	Forbidden
+2008 Mar	Marshmallon	Limited
+2008 Mar	Mask of Darkness	Semi-limited
+2008 Mar	Metamorphosis	Forbidden
+2008 Mar	Megamorph	Limited
+2008 Mar	Mirage of Nightmare	Forbidden
+2008 Mar	Monster Reborn	Limited
+2008 Mar	Magic Cylinder	Limited
+2008 Mar	Mind Crush	Limited
+2008 Mar	Mirror Force	Limited
+2008 Mar	Mystical Space Typhoon	Limited
+2008 Mar	Neo-Spacian Grand Mole	Limited
+2008 Mar	Necroface	Semi-limited
+2008 Mar	Night Assailant	Limited
+2008 Mar	Nobleman of Crossout	Limited
+2008 Mar	Ojama Trio	Limited
+2008 Mar	Overload Fusion	Limited
+2008 Mar	Painful Choice	Forbidden
+2008 Mar	Premature Burial	Limited
+2008 Mar	Pot of Greed	Forbidden
+2008 Mar	Raiza the Storm Monarch	Limited
+2008 Mar	Reinforcement of the Army	Semi-limited
+2008 Mar	Right Leg of the Forbidden One	Limited
+2008 Mar	Right Arm of the Forbidden One	Limited
+2008 Mar	Ring of Destruction	Forbidden
+2008 Mar	Raigeki	Forbidden
+2008 Mar	Royal Decree	Semi-limited
+2008 Mar	Sangan	Limited
+2008 Mar	Scapegoat	Limited
+2008 Mar	Smashing Ground	Limited
+2008 Mar	Snatch Steal	Forbidden
+2008 Mar	Snipe Hunter	Limited
+2008 Mar	Spirit Reaper	Forbidden
+2008 Mar	Sinister Serpent	Forbidden
+2008 Mar	Sixth Sense	Limited
+2008 Mar	Swords of Revealing Light	Limited
+2008 Mar	Time Seal	Forbidden
+2008 Mar	Torrential Tribute	Limited
+2008 Mar	Thousand-Eyes Restrict	Forbidden
+2008 Mar	Tsukuyomi	Forbidden
+2008 Mar	Trap Dustshoot	Limited
+2008 Mar	Tribe-Infecting Virus	Forbidden
+2008 Mar	Twin-Headed Behemoth	Limited
+2008 Mar	The Transmigration Prophecy	Limited
+2008 Mar	The Forceful Sentry	Forbidden
+2008 Mar	United We Stand	Limited
+2008 Mar	Ultimate Offering	Limited
+2008 Mar	Victory Dragon	Forbidden
+2008 Mar	Wall of Revealing Light	Limited
+2008 Mar	Witch of the Black Forest	Forbidden
+2008 Mar	Yata-Garasu	Forbidden
+2008 May	Advanced Ritual Art	Limited
+2008 May	Allure of Darkness	Semi-limited
+2008 May	Brain Control	Limited
+2008 May	Book of Moon	Semi-limited
+2008 May	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2008 May	Breaker the Magical Warrior	Forbidden
+2008 May	Butterfly Dagger - Elma	Forbidden
+2008 May	Card Trooper	Limited
+2008 May	Chaos Sorceror	Forbidden
+2008 May	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2008 May	Cyber Dragon	Semi-limited
+2008 May	Cyber Stein	Forbidden
+2008 May	Cyber Jar	Forbidden
+2008 May	Cathedral of Nobles	Forbidden
+2008 May	Card Destruction	Limited
+2008 May	Change of Heart	Forbidden
+2008 May	Confiscation	Forbidden
+2008 May	Call of the Haunted	Forbidden
+2008 May	Ceasefire	Limited
+2008 May	Chain Strike	Limited
+2008 May	Crush Card Virus	Limited
+2008 May	Dark Magician of Chaos	Limited
+2008 May	Dark Hole	Forbidden
+2008 May	D.D. Warrior Lady	Limited
+2008 May	Dandylion	Limited
+2008 May	Delinquent Duo	Forbidden
+2008 May	Destiny Hero - Malicious	Semi-limited
+2008 May	Destiny Hero - Disk Commander	Limited
+2008 May	Dimension Fusion	Forbidden
+2008 May	Elemental Hero Stratos	Limited
+2008 May	Exodia the Forbidden One	Limited
+2008 May	Exchange of the Spirit	Forbidden
+2008 May	Future Fusion	Limited
+2008 May	Foolish Burial	Semi-limited
+2008 May	Fiber Jar	Forbidden
+2008 May	Fissure	Limited
+2008 May	Giant Trunade	Limited
+2008 May	Graceful Charity	Forbidden
+2008 May	Gravity Bind	Limited
+2008 May	Green Baboon, Defender of the Forest	Limited
+2008 May	Gold Sarcophagus	Limited
+2008 May	Gorz the Emissary of Darkness	Limited
+2008 May	Harpie's Feather Duster	Forbidden
+2008 May	Heavy Storm	Limited
+2008 May	Imperial Order	Forbidden
+2008 May	Left Arm of the Forbidden One	Limited
+2008 May	Left Leg of the Forbidden One	Limited
+2008 May	Last Will	Forbidden
+2008 May	Last Turn	Forbidden
+2008 May	Level Limit - Area B	Limited
+2008 May	Limiter Removal	Limited
+2008 May	Light and Darkness Dragon	Semi-limited
+2008 May	Morphing Jar	Limited
+2008 May	Magical Stone Excavation	Semi-limited
+2008 May	Magical Scientist	Forbidden
+2008 May	Makyura the Destructor	Forbidden
+2008 May	Manticore of Darkness	Semi-limited
+2008 May	Mage Power	Semi-limited
+2008 May	Magician of Faith	Forbidden
+2008 May	Marshmallon	Limited
+2008 May	Mask of Darkness	Semi-limited
+2008 May	Metamorphosis	Forbidden
+2008 May	Megamorph	Limited
+2008 May	Mirage of Nightmare	Forbidden
+2008 May	Monster Reborn	Limited
+2008 May	Magic Cylinder	Limited
+2008 May	Mind Crush	Limited
+2008 May	Mirror Force	Limited
+2008 May	Mystical Space Typhoon	Limited
+2008 May	Neo-Spacian Grand Mole	Limited
+2008 May	Necroface	Semi-limited
+2008 May	Night Assailant	Limited
+2008 May	Nobleman of Crossout	Limited
+2008 May	Ojama Trio	Limited
+2008 May	Overload Fusion	Limited
+2008 May	Painful Choice	Forbidden
+2008 May	Premature Burial	Limited
+2008 May	Pot of Greed	Forbidden
+2008 May	Raiza the Storm Monarch	Limited
+2008 May	Reinforcement of the Army	Semi-limited
+2008 May	Return from the Different Dimension	Limited
+2008 May	Right Leg of the Forbidden One	Limited
+2008 May	Right Arm of the Forbidden One	Limited
+2008 May	Ring of Destruction	Forbidden
+2008 May	Raigeki	Forbidden
+2008 May	Royal Decree	Semi-limited
+2008 May	Sangan	Limited
+2008 May	Scapegoat	Limited
+2008 May	Smashing Ground	Limited
+2008 May	Snatch Steal	Forbidden
+2008 May	Snipe Hunter	Limited
+2008 May	Spirit Reaper	Forbidden
+2008 May	Sinister Serpent	Forbidden
+2008 May	Sixth Sense	Limited
+2008 May	Swords of Revealing Light	Limited
+2008 May	Time Seal	Forbidden
+2008 May	Torrential Tribute	Limited
+2008 May	Thousand-Eyes Restrict	Forbidden
+2008 May	Tsukuyomi	Forbidden
+2008 May	Trap Dustshoot	Limited
+2008 May	Tribe-Infecting Virus	Forbidden
+2008 May	Twin-Headed Behemoth	Limited
+2008 May	The Transmigration Prophecy	Limited
+2008 May	The Forceful Sentry	Forbidden
+2008 May	United We Stand	Limited
+2008 May	Ultimate Offering	Limited
+2008 May	Victory Dragon	Forbidden
+2008 May	Wall of Revealing Light	Limited
+2008 May	Witch of the Black Forest	Forbidden
+2008 May	Yata-Garasu	Forbidden
+2008 Sep	Advanced Ritual Art	Limited
+2008 Sep	Brain Control	Limited
+2008 Sep	Book of Moon	Semi-limited
+2008 Sep	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2008 Sep	Breaker the Magical Warrior	Limited
+2008 Sep	Butterfly Dagger - Elma	Forbidden
+2008 Sep	Card Trooper	Limited
+2008 Sep	Card of Safe Return	Semi-limited
+2008 Sep	Chaos Sorceror	Forbidden
+2008 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2008 Sep	Cyber Dragon	Limited
+2008 Sep	Cyber Stein	Forbidden
+2008 Sep	Cyber Jar	Forbidden
+2008 Sep	Cathedral of Nobles	Forbidden
+2008 Sep	Card Destruction	Limited
+2008 Sep	Change of Heart	Forbidden
+2008 Sep	Confiscation	Forbidden
+2008 Sep	Call of the Haunted	Forbidden
+2008 Sep	Ceasefire	Limited
+2008 Sep	Chain Strike	Semi-limited
+2008 Sep	Crush Card Virus	Limited
+2008 Sep	Dark Magician of Chaos	Forbidden
+2008 Sep	Dark Hole	Forbidden
+2008 Sep	D.D. Warrior Lady	Limited
+2008 Sep	Dandylion	Limited
+2008 Sep	Dark Armed Dragon	Semi-limited
+2008 Sep	Delinquent Duo	Forbidden
+2008 Sep	Destiny Hero - Disk Commander	Forbidden
+2008 Sep	Dimension Fusion	Forbidden
+2008 Sep	Elemental Hero Stratos	Limited
+2008 Sep	Exodia the Forbidden One	Limited
+2008 Sep	Exchange of the Spirit	Forbidden
+2008 Sep	Future Fusion	Limited
+2008 Sep	Foolish Burial	Semi-limited
+2008 Sep	Fiber Jar	Forbidden
+2008 Sep	Fissure	Limited
+2008 Sep	Giant Trunade	Limited
+2008 Sep	Graceful Charity	Forbidden
+2008 Sep	Gravity Bind	Limited
+2008 Sep	Green Baboon, Defender of the Forest	Limited
+2008 Sep	Gold Sarcophagus	Limited
+2008 Sep	Gorz the Emissary of Darkness	Limited
+2008 Sep	Harpie's Feather Duster	Forbidden
+2008 Sep	Heavy Storm	Limited
+2008 Sep	Imperial Order	Forbidden
+2008 Sep	Judgment Dragon	Semi-limited
+2008 Sep	Left Arm of the Forbidden One	Limited
+2008 Sep	Left Leg of the Forbidden One	Limited
+2008 Sep	Last Will	Forbidden
+2008 Sep	Last Turn	Forbidden
+2008 Sep	Level Limit - Area B	Limited
+2008 Sep	Limiter Removal	Limited
+2008 Sep	Morphing Jar	Limited
+2008 Sep	Magical Stone Excavation	Semi-limited
+2008 Sep	Magical Scientist	Forbidden
+2008 Sep	Makyura the Destructor	Forbidden
+2008 Sep	Manticore of Darkness	Semi-limited
+2008 Sep	Magician of Faith	Forbidden
+2008 Sep	Marshmallon	Limited
+2008 Sep	Mask of Darkness	Semi-limited
+2008 Sep	Metamorphosis	Forbidden
+2008 Sep	Megamorph	Limited
+2008 Sep	Mirage of Nightmare	Forbidden
+2008 Sep	Monster Reborn	Limited
+2008 Sep	Monster Gate	Limited
+2008 Sep	Magic Cylinder	Limited
+2008 Sep	Mind Crush	Limited
+2008 Sep	Mirror Force	Limited
+2008 Sep	Mystical Space Typhoon	Limited
+2008 Sep	Neo-Spacian Grand Mole	Limited
+2008 Sep	Necroface	Semi-limited
+2008 Sep	Night Assailant	Limited
+2008 Sep	Nobleman of Crossout	Semi-limited
+2008 Sep	Ojama Trio	Limited
+2008 Sep	Overload Fusion	Limited
+2008 Sep	Painful Choice	Forbidden
+2008 Sep	Phantom of Chaos	Semi-limited
+2008 Sep	Premature Burial	Forbidden
+2008 Sep	Pot of Greed	Forbidden
+2008 Sep	Raiza the Storm Monarch	Limited
+2008 Sep	Reasoning	Limited
+2008 Sep	Rescue Cat	Semi-limited
+2008 Sep	Return from the Different Dimension	Limited
+2008 Sep	Right Leg of the Forbidden One	Limited
+2008 Sep	Right Arm of the Forbidden One	Limited
+2008 Sep	Ring of Destruction	Forbidden
+2008 Sep	Raigeki	Forbidden
+2008 Sep	Sangan	Limited
+2008 Sep	Scapegoat	Limited
+2008 Sep	Smashing Ground	Limited
+2008 Sep	Snatch Steal	Forbidden
+2008 Sep	Snipe Hunter	Limited
+2008 Sep	Spirit Reaper	Forbidden
+2008 Sep	Sinister Serpent	Forbidden
+2008 Sep	Sixth Sense	Limited
+2008 Sep	Summon Priest	Semi-limited
+2008 Sep	Swords of Revealing Light	Limited
+2008 Sep	Time Seal	Forbidden
+2008 Sep	Torrential Tribute	Limited
+2008 Sep	Thousand-Eyes Restrict	Forbidden
+2008 Sep	Tsukuyomi	Forbidden
+2008 Sep	Trap Dustshoot	Limited
+2008 Sep	Tribe-Infecting Virus	Forbidden
+2008 Sep	Twin-Headed Behemoth	Limited
+2008 Sep	The Transmigration Prophecy	Limited
+2008 Sep	The Forceful Sentry	Forbidden
+2008 Sep	United We Stand	Limited
+2008 Sep	Ultimate Offering	Limited
+2008 Sep	Victory Dragon	Forbidden
+2008 Sep	Wall of Revealing Light	Limited
+2008 Sep	Witch of the Black Forest	Forbidden
+2008 Sep	Yata-Garasu	Forbidden
+2009 Mar	Advanced Ritual Art	Limited
+2009 Mar	Allure of Darkness	Semi-limited
+2009 Mar	Brain Control	Limited
+2009 Mar	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2009 Mar	Breaker the Magical Warrior	Limited
+2009 Mar	Brionac, Dragon of the Ice Boundary	Limited
+2009 Mar	Butterfly Dagger - Elma	Forbidden
+2009 Mar	Card Trooper	Limited
+2009 Mar	Card of Safe Return	Limited
+2009 Mar	Chaos Sorceror	Limited
+2009 Mar	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2009 Mar	Cyber Dragon	Limited
+2009 Mar	Cyber Stein	Forbidden
+2009 Mar	Cyber Jar	Forbidden
+2009 Mar	Cathedral of Nobles	Forbidden
+2009 Mar	Card Destruction	Limited
+2009 Mar	Change of Heart	Forbidden
+2009 Mar	Confiscation	Forbidden
+2009 Mar	Call of the Haunted	Forbidden
+2009 Mar	Ceasefire	Limited
+2009 Mar	Chain Strike	Semi-limited
+2009 Mar	Crush Card Virus	Limited
+2009 Mar	Dark Magician of Chaos	Forbidden
+2009 Mar	Dark Hole	Forbidden
+2009 Mar	D.D. Warrior Lady	Limited
+2009 Mar	Dandylion	Limited
+2009 Mar	Dark Armed Dragon	Limited
+2009 Mar	Delinquent Duo	Forbidden
+2009 Mar	Destiny Hero - Malicious	Semi-limited
+2009 Mar	Destiny Hero - Disk Commander	Forbidden
+2009 Mar	Destiny Draw	Semi-limited
+2009 Mar	Dimension Fusion	Forbidden
+2009 Mar	Elemental Hero Stratos	Limited
+2009 Mar	Emergency Teleport	Limited
+2009 Mar	Exodia the Forbidden One	Limited
+2009 Mar	Exchange of the Spirit	Forbidden
+2009 Mar	Future Fusion	Limited
+2009 Mar	Foolish Burial	Semi-limited
+2009 Mar	Fiber Jar	Forbidden
+2009 Mar	Fissure	Limited
+2009 Mar	Giant Trunade	Limited
+2009 Mar	Graceful Charity	Forbidden
+2009 Mar	Gladiator Beast Bestiari	Limited
+2009 Mar	Goblin Zombie	Semi-limited
+2009 Mar	Goyo Guardian	Limited
+2009 Mar	Gravity Bind	Limited
+2009 Mar	Green Baboon, Defender of the Forest	Semi-limited
+2009 Mar	Gold Sarcophagus	Semi-limited
+2009 Mar	Gorz the Emissary of Darkness	Limited
+2009 Mar	Harpie's Feather Duster	Forbidden
+2009 Mar	Heavy Storm	Limited
+2009 Mar	Imperial Order	Forbidden
+2009 Mar	Judgment Dragon	Semi-limited
+2009 Mar	Left Arm of the Forbidden One	Limited
+2009 Mar	Left Leg of the Forbidden One	Limited
+2009 Mar	Last Will	Forbidden
+2009 Mar	Last Turn	Forbidden
+2009 Mar	Level Limit - Area B	Limited
+2009 Mar	Limiter Removal	Limited
+2009 Mar	Morphing Jar	Limited
+2009 Mar	Magical Stone Excavation	Semi-limited
+2009 Mar	Magical Scientist	Forbidden
+2009 Mar	Makyura the Destructor	Forbidden
+2009 Mar	Magician of Faith	Forbidden
+2009 Mar	Marshmallon	Limited
+2009 Mar	Mask of Darkness	Semi-limited
+2009 Mar	Metamorphosis	Forbidden
+2009 Mar	Megamorph	Limited
+2009 Mar	Mezuki	Limited
+2009 Mar	Mirage of Nightmare	Forbidden
+2009 Mar	Monster Reborn	Limited
+2009 Mar	Monster Gate	Limited
+2009 Mar	Magic Cylinder	Limited
+2009 Mar	Mind Crush	Semi-limited
+2009 Mar	Mirror Force	Limited
+2009 Mar	Mystical Space Typhoon	Limited
+2009 Mar	Neo-Spacian Grand Mole	Limited
+2009 Mar	Necroface	Semi-limited
+2009 Mar	Night Assailant	Limited
+2009 Mar	Ojama Trio	Limited
+2009 Mar	Overload Fusion	Limited
+2009 Mar	Painful Choice	Forbidden
+2009 Mar	Premature Burial	Forbidden
+2009 Mar	Plaguespreader Zombie	Limited
+2009 Mar	Pot of Greed	Forbidden
+2009 Mar	Raiza the Storm Monarch	Semi-limited
+2009 Mar	Reasoning	Limited
+2009 Mar	Rescue Cat	Semi-limited
+2009 Mar	Reinforcement of the Army	Limited
+2009 Mar	Return from the Different Dimension	Limited
+2009 Mar	Right Leg of the Forbidden One	Limited
+2009 Mar	Right Arm of the Forbidden One	Limited
+2009 Mar	Ring of Destruction	Forbidden
+2009 Mar	Raigeki	Forbidden
+2009 Mar	Sangan	Limited
+2009 Mar	Scapegoat	Limited
+2009 Mar	Smashing Ground	Limited
+2009 Mar	Snatch Steal	Forbidden
+2009 Mar	Snipe Hunter	Limited
+2009 Mar	Spirit Reaper	Forbidden
+2009 Mar	Sinister Serpent	Forbidden
+2009 Mar	Sixth Sense	Limited
+2009 Mar	Summon Priest	Semi-limited
+2009 Mar	Swords of Revealing Light	Limited
+2009 Mar	Time Seal	Forbidden
+2009 Mar	Torrential Tribute	Limited
+2009 Mar	Thousand-Eyes Restrict	Forbidden
+2009 Mar	Tsukuyomi	Forbidden
+2009 Mar	Trap Dustshoot	Limited
+2009 Mar	Tribe-Infecting Virus	Forbidden
+2009 Mar	The Transmigration Prophecy	Limited
+2009 Mar	The Forceful Sentry	Forbidden
+2009 Mar	United We Stand	Limited
+2009 Mar	Ultimate Offering	Semi-limited
+2009 Mar	Victory Dragon	Forbidden
+2009 Mar	Wall of Revealing Light	Limited
+2009 Mar	Witch of the Black Forest	Forbidden
+2009 Mar	Yata-Garasu	Forbidden
+2009 Sep	Advanced Ritual Art	Limited
+2009 Sep	Allure of Darkness	Semi-limited
+2009 Sep	Brain Control	Limited
+2009 Sep	Black Rose Dragon	Limited
+2009 Sep	Blackwing - Gale the Whirlwind	Limited
+2009 Sep	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2009 Sep	Bottomless Trap Hole	Semi-limited
+2009 Sep	Brionac, Dragon of the Ice Boundary	Limited
+2009 Sep	Butterfly Dagger - Elma	Forbidden
+2009 Sep	Card Trooper	Limited
+2009 Sep	Card of Safe Return	Forbidden
+2009 Sep	Chaos Sorceror	Semi-limited
+2009 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2009 Sep	Cyber Dragon	Limited
+2009 Sep	Cyber Stein	Forbidden
+2009 Sep	Cyber Jar	Forbidden
+2009 Sep	Cathedral of Nobles	Forbidden
+2009 Sep	Card Destruction	Limited
+2009 Sep	Change of Heart	Forbidden
+2009 Sep	Confiscation	Forbidden
+2009 Sep	Call of the Haunted	Limited
+2009 Sep	Ceasefire	Limited
+2009 Sep	Chain Strike	Semi-limited
+2009 Sep	Cold Wave	Limited
+2009 Sep	Crush Card Virus	Forbidden
+2009 Sep	Dark Magician of Chaos	Forbidden
+2009 Sep	Dark Hole	Forbidden
+2009 Sep	Dandylion	Limited
+2009 Sep	Dark Armed Dragon	Limited
+2009 Sep	Dark Strike Fighter	Forbidden
+2009 Sep	Delinquent Duo	Forbidden
+2009 Sep	Demise, King of Armageddon	Limited
+2009 Sep	Destiny Hero - Malicious	Semi-limited
+2009 Sep	Destiny Hero - Disk Commander	Forbidden
+2009 Sep	Dewloren, Tiger King of the Ice Barrier	Semi-limited
+2009 Sep	Dimension Fusion	Forbidden
+2009 Sep	Elemental Hero Stratos	Limited
+2009 Sep	Emergency Teleport	Limited
+2009 Sep	Exodia the Forbidden One	Limited
+2009 Sep	Exchange of the Spirit	Forbidden
+2009 Sep	Future Fusion	Limited
+2009 Sep	Foolish Burial	Semi-limited
+2009 Sep	Fiber Jar	Forbidden
+2009 Sep	Giant Trunade	Limited
+2009 Sep	Graceful Charity	Forbidden
+2009 Sep	Gladiator Beast Bestiari	Limited
+2009 Sep	Goblin Zombie	Semi-limited
+2009 Sep	Goyo Guardian	Limited
+2009 Sep	Gravity Bind	Limited
+2009 Sep	Gold Sarcophagus	Semi-limited
+2009 Sep	Gorz the Emissary of Darkness	Limited
+2009 Sep	Harpie's Feather Duster	Forbidden
+2009 Sep	Heavy Storm	Limited
+2009 Sep	Imperial Order	Forbidden
+2009 Sep	Judgment Dragon	Semi-limited
+2009 Sep	Left Arm of the Forbidden One	Limited
+2009 Sep	Left Leg of the Forbidden One	Limited
+2009 Sep	Last Will	Forbidden
+2009 Sep	Last Turn	Forbidden
+2009 Sep	Level Limit - Area B	Limited
+2009 Sep	Limiter Removal	Limited
+2009 Sep	Lonefire Blossom	Limited
+2009 Sep	Morphing Jar	Limited
+2009 Sep	Magical Stone Excavation	Semi-limited
+2009 Sep	Magical Scientist	Forbidden
+2009 Sep	Makyura the Destructor	Forbidden
+2009 Sep	Magician of Faith	Forbidden
+2009 Sep	Marshmallon	Limited
+2009 Sep	Mask of Darkness	Semi-limited
+2009 Sep	Metamorphosis	Forbidden
+2009 Sep	Megamorph	Limited
+2009 Sep	Mezuki	Semi-limited
+2009 Sep	Mirage of Nightmare	Forbidden
+2009 Sep	Monster Reborn	Forbidden
+2009 Sep	Monster Gate	Limited
+2009 Sep	Magic Cylinder	Limited
+2009 Sep	Mind Crush	Semi-limited
+2009 Sep	Mind Master	Limited
+2009 Sep	Mind Control	Limited
+2009 Sep	Mirror Force	Limited
+2009 Sep	Mystical Space Typhoon	Limited
+2009 Sep	Neo-Spacian Grand Mole	Limited
+2009 Sep	Necroface	Semi-limited
+2009 Sep	Night Assailant	Limited
+2009 Sep	One for One	Limited
+2009 Sep	Ojama Trio	Limited
+2009 Sep	Overload Fusion	Limited
+2009 Sep	Painful Choice	Forbidden
+2009 Sep	Premature Burial	Forbidden
+2009 Sep	Plaguespreader Zombie	Limited
+2009 Sep	Pot of Greed	Forbidden
+2009 Sep	Reasoning	Limited
+2009 Sep	Rescue Cat	Limited
+2009 Sep	Reinforcement of the Army	Limited
+2009 Sep	Return from the Different Dimension	Limited
+2009 Sep	Right Leg of the Forbidden One	Limited
+2009 Sep	Right Arm of the Forbidden One	Limited
+2009 Sep	Ring of Destruction	Forbidden
+2009 Sep	Raigeki	Forbidden
+2009 Sep	Sangan	Limited
+2009 Sep	Scapegoat	Limited
+2009 Sep	Smashing Ground	Limited
+2009 Sep	Snatch Steal	Forbidden
+2009 Sep	Snipe Hunter	Limited
+2009 Sep	Solemn Judgment	Limited
+2009 Sep	Spirit Reaper	Forbidden
+2009 Sep	Sinister Serpent	Forbidden
+2009 Sep	Sixth Sense	Limited
+2009 Sep	Summon Priest	Semi-limited
+2009 Sep	Summoner Monk	Limited
+2009 Sep	Swords of Revealing Light	Limited
+2009 Sep	Time Seal	Forbidden
+2009 Sep	Torrential Tribute	Limited
+2009 Sep	Thousand-Eyes Restrict	Forbidden
+2009 Sep	Tsukuyomi	Forbidden
+2009 Sep	Trap Dustshoot	Limited
+2009 Sep	Tribe-Infecting Virus	Forbidden
+2009 Sep	The Transmigration Prophecy	Limited
+2009 Sep	The Forceful Sentry	Forbidden
+2009 Sep	United We Stand	Limited
+2009 Sep	Ultimate Offering	Semi-limited
+2009 Sep	Victory Dragon	Forbidden
+2009 Sep	Wall of Revealing Light	Limited
+2009 Sep	Witch of the Black Forest	Forbidden
+2009 Sep	Yata-Garasu	Forbidden
+2010 Mar	Advanced Ritual Art	Limited
+2010 Mar	Allure of Darkness	Limited
+2010 Mar	Allure of Darkness	Semi-limited
+2010 Mar	Brain Control	Limited
+2010 Mar	Black Rose Dragon	Limited
+2010 Mar	Black Whirlwind	Semi-limited
+2010 Mar	Blackwing - Gale the Whirlwind	Limited
+2010 Mar	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2010 Mar	Bottomless Trap Hole	Semi-limited
+2010 Mar	Brionac, Dragon of the Ice Boundary	Limited
+2010 Mar	Butterfly Dagger - Elma	Forbidden
+2010 Mar	Burial from a Different Dimension	Limited
+2010 Mar	Card Trooper	Limited
+2010 Mar	Card of Safe Return	Forbidden
+2010 Mar	Chaos Sorceror	Limited
+2010 Mar	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2010 Mar	Charge of the Light Brigade	Limited
+2010 Mar	Cyber Dragon	Semi-limited
+2010 Mar	Cyber Stein	Forbidden
+2010 Mar	Cyber Jar	Forbidden
+2010 Mar	Cathedral of Nobles	Forbidden
+2010 Mar	Card Destruction	Limited
+2010 Mar	Change of Heart	Forbidden
+2010 Mar	Confiscation	Forbidden
+2010 Mar	Call of the Haunted	Limited
+2010 Mar	Ceasefire	Limited
+2010 Mar	Chain Strike	Semi-limited
+2010 Mar	Cold Wave	Limited
+2010 Mar	Crush Card Virus	Forbidden
+2010 Mar	Dark Magician of Chaos	Forbidden
+2010 Mar	Dark Hole	Forbidden
+2010 Mar	Dandylion	Semi-limited
+2010 Mar	Dark Armed Dragon	Limited
+2010 Mar	Dark Strike Fighter	Forbidden
+2010 Mar	Delinquent Duo	Forbidden
+2010 Mar	Demise, King of Armageddon	Semi-limited
+2010 Mar	Destiny Hero - Malicious	Semi-limited
+2010 Mar	Destiny Hero - Disk Commander	Forbidden
+2010 Mar	Destiny Draw	Limited
+2010 Mar	Dewloren, Tiger King of the Ice Barrier	Semi-limited
+2010 Mar	Dimension Fusion	Forbidden
+2010 Mar	Elemental Hero Stratos	Limited
+2010 Mar	Emergency Teleport	Limited
+2010 Mar	Exodia the Forbidden One	Limited
+2010 Mar	Exchange of the Spirit	Forbidden
+2010 Mar	Future Fusion	Limited
+2010 Mar	Foolish Burial	Limited
+2010 Mar	Fiber Jar	Forbidden
+2010 Mar	Giant Trunade	Limited
+2010 Mar	Graceful Charity	Forbidden
+2010 Mar	Gladiator Beast Bestiari	Limited
+2010 Mar	Goblin Zombie	Semi-limited
+2010 Mar	Goyo Guardian	Limited
+2010 Mar	Gravity Bind	Limited
+2010 Mar	Gold Sarcophagus	Semi-limited
+2010 Mar	Gorz the Emissary of Darkness	Limited
+2010 Mar	Harpie's Feather Duster	Forbidden
+2010 Mar	Heavy Storm	Limited
+2010 Mar	Honest	Semi-limited
+2010 Mar	Imperial Order	Forbidden
+2010 Mar	Judgment Dragon	Semi-limited
+2010 Mar	Left Arm of the Forbidden One	Limited
+2010 Mar	Left Leg of the Forbidden One	Limited
+2010 Mar	Last Will	Forbidden
+2010 Mar	Last Turn	Forbidden
+2010 Mar	Level Limit - Area B	Limited
+2010 Mar	Limiter Removal	Limited
+2010 Mar	Lonefire Blossom	Limited
+2010 Mar	Lumina, Lightsworn Summoner	Limited
+2010 Mar	Morphing Jar	Limited
+2010 Mar	Magical Stone Excavation	Semi-limited
+2010 Mar	Magical Scientist	Forbidden
+2010 Mar	Magical Explosion	Limited
+2010 Mar	Makyura the Destructor	Forbidden
+2010 Mar	Magician of Faith	Forbidden
+2010 Mar	Marshmallon	Limited
+2010 Mar	Metamorphosis	Forbidden
+2010 Mar	Megamorph	Limited
+2010 Mar	Mezuki	Limited
+2010 Mar	Mirage of Nightmare	Forbidden
+2010 Mar	Monster Reborn	Forbidden
+2010 Mar	Monster Gate	Limited
+2010 Mar	Magic Cylinder	Limited
+2010 Mar	Mind Crush	Limited
+2010 Mar	Mind Master	Limited
+2010 Mar	Mind Control	Limited
+2010 Mar	Mirror Force	Limited
+2010 Mar	Mystical Space Typhoon	Limited
+2010 Mar	Neo-Spacian Grand Mole	Limited
+2010 Mar	Necroface	Limited
+2010 Mar	Necro Gardna	Limited
+2010 Mar	Night Assailant	Limited
+2010 Mar	One for One	Limited
+2010 Mar	Ojama Trio	Limited
+2010 Mar	Overload Fusion	Limited
+2010 Mar	Painful Choice	Forbidden
+2010 Mar	Premature Burial	Forbidden
+2010 Mar	Plaguespreader Zombie	Limited
+2010 Mar	Pot of Greed	Forbidden
+2010 Mar	Reasoning	Limited
+2010 Mar	Rescue Cat	Limited
+2010 Mar	Reinforcement of the Army	Limited
+2010 Mar	Return from the Different Dimension	Limited
+2010 Mar	Right Leg of the Forbidden One	Limited
+2010 Mar	Right Arm of the Forbidden One	Limited
+2010 Mar	Ring of Destruction	Forbidden
+2010 Mar	Raigeki	Forbidden
+2010 Mar	Royal Decree	Semi-limited
+2010 Mar	Royal Oppression	Semi-limited
+2010 Mar	Sangan	Limited
+2010 Mar	Scapegoat	Limited
+2010 Mar	Snatch Steal	Forbidden
+2010 Mar	Snipe Hunter	Limited
+2010 Mar	Solemn Judgment	Limited
+2010 Mar	Spirit Reaper	Forbidden
+2010 Mar	Sinister Serpent	Forbidden
+2010 Mar	Sixth Sense	Limited
+2010 Mar	Skill Drain	Semi-limited
+2010 Mar	Summon Priest	Semi-limited
+2010 Mar	Summoner Monk	Limited
+2010 Mar	Swords of Revealing Light	Limited
+2010 Mar	Time Seal	Forbidden
+2010 Mar	Torrential Tribute	Limited
+2010 Mar	Thousand-Eyes Restrict	Forbidden
+2010 Mar	Tragoedia	Limited
+2010 Mar	Treeborn Frog	Semi-limited
+2010 Mar	Tsukuyomi	Forbidden
+2010 Mar	Trap Dustshoot	Limited
+2010 Mar	Tribe-Infecting Virus	Forbidden
+2010 Mar	The Transmigration Prophecy	Limited
+2010 Mar	The Forceful Sentry	Forbidden
+2010 Mar	United We Stand	Semi-limited
+2010 Mar	Ultimate Offering	Semi-limited
+2010 Mar	Victory Dragon	Forbidden
+2010 Mar	Wall of Revealing Light	Limited
+2010 Mar	Witch of the Black Forest	Forbidden
+2010 Mar	Yata-Garasu	Forbidden
+2010 Sep	Advanced Ritual Art	Limited
+2010 Sep	Allure of Darkness	Limited
+2010 Sep	Allure of Darkness	Semi-limited
+2010 Sep	Brain Control	Forbidden
+2010 Sep	Black Whirlwind	Limited
+2010 Sep	Blackwing - Gale the Whirlwind	Limited
+2010 Sep	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2010 Sep	Bottomless Trap Hole	Semi-limited
+2010 Sep	Brionac, Dragon of the Ice Boundary	Limited
+2010 Sep	Butterfly Dagger - Elma	Forbidden
+2010 Sep	Burial from a Different Dimension	Limited
+2010 Sep	Card Trooper	Limited
+2010 Sep	Card of Safe Return	Forbidden
+2010 Sep	Chaos Sorceror	Semi-limited
+2010 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2010 Sep	Charge of the Light Brigade	Limited
+2010 Sep	Cyber Stein	Forbidden
+2010 Sep	Cyber Jar	Forbidden
+2010 Sep	Cathedral of Nobles	Forbidden
+2010 Sep	Card Destruction	Limited
+2010 Sep	Change of Heart	Forbidden
+2010 Sep	Confiscation	Forbidden
+2010 Sep	Call of the Haunted	Limited
+2010 Sep	Ceasefire	Limited
+2010 Sep	Chain Strike	Semi-limited
+2010 Sep	Cold Wave	Limited
+2010 Sep	Crush Card Virus	Forbidden
+2010 Sep	Dark Magician of Chaos	Forbidden
+2010 Sep	Dark Hole	Limited
+2010 Sep	Dandylion	Semi-limited
+2010 Sep	Dark Armed Dragon	Limited
+2010 Sep	Dark Strike Fighter	Forbidden
+2010 Sep	Delinquent Duo	Forbidden
+2010 Sep	Demise, King of Armageddon	Semi-limited
+2010 Sep	Destiny Hero - Malicious	Semi-limited
+2010 Sep	Destiny Hero - Disk Commander	Forbidden
+2010 Sep	Destiny Draw	Limited
+2010 Sep	Dewloren, Tiger King of the Ice Barrier	Semi-limited
+2010 Sep	Dimension Fusion	Forbidden
+2010 Sep	Elemental Hero Stratos	Limited
+2010 Sep	Emergency Teleport	Limited
+2010 Sep	Exodia the Forbidden One	Limited
+2010 Sep	Exchange of the Spirit	Forbidden
+2010 Sep	Future Fusion	Limited
+2010 Sep	Foolish Burial	Limited
+2010 Sep	Fiber Jar	Forbidden
+2010 Sep	Giant Trunade	Limited
+2010 Sep	Graceful Charity	Forbidden
+2010 Sep	Gladiator Beast Bestiari	Limited
+2010 Sep	Goyo Guardian	Limited
+2010 Sep	Gravity Bind	Limited
+2010 Sep	Gold Sarcophagus	Semi-limited
+2010 Sep	Gorz the Emissary of Darkness	Limited
+2010 Sep	Harpie's Feather Duster	Forbidden
+2010 Sep	Heavy Storm	Forbidden
+2010 Sep	Honest	Semi-limited
+2010 Sep	Imperial Order	Forbidden
+2010 Sep	Infernity Launcher	Limited
+2010 Sep	Judgment Dragon	Semi-limited
+2010 Sep	Left Arm of the Forbidden One	Limited
+2010 Sep	Left Leg of the Forbidden One	Limited
+2010 Sep	Last Will	Forbidden
+2010 Sep	Last Turn	Forbidden
+2010 Sep	Level Limit - Area B	Limited
+2010 Sep	Limiter Removal	Limited
+2010 Sep	Lonefire Blossom	Limited
+2010 Sep	Lumina, Lightsworn Summoner	Limited
+2010 Sep	Morphing Jar	Limited
+2010 Sep	Magical Stone Excavation	Semi-limited
+2010 Sep	Magical Scientist	Forbidden
+2010 Sep	Magical Explosion	Limited
+2010 Sep	Makyura the Destructor	Forbidden
+2010 Sep	Magician of Faith	Forbidden
+2010 Sep	Marshmallon	Limited
+2010 Sep	Metamorphosis	Forbidden
+2010 Sep	Megamorph	Limited
+2010 Sep	Mezuki	Limited
+2010 Sep	Mirage of Nightmare	Forbidden
+2010 Sep	Monster Reborn	Limited
+2010 Sep	Monster Gate	Limited
+2010 Sep	Magic Cylinder	Semi-limited
+2010 Sep	Mind Crush	Limited
+2010 Sep	Mind Master	Limited
+2010 Sep	Mind Control	Limited
+2010 Sep	Mirror Force	Limited
+2010 Sep	Mystical Space Typhoon	Semi-limited
+2010 Sep	Neo-Spacian Grand Mole	Limited
+2010 Sep	Necroface	Limited
+2010 Sep	Necro Gardna	Limited
+2010 Sep	Night Assailant	Limited
+2010 Sep	One for One	Limited
+2010 Sep	Ojama Trio	Semi-limited
+2010 Sep	Overload Fusion	Limited
+2010 Sep	Painful Choice	Forbidden
+2010 Sep	Premature Burial	Forbidden
+2010 Sep	Plaguespreader Zombie	Limited
+2010 Sep	Pot of Greed	Forbidden
+2010 Sep	Reasoning	Limited
+2010 Sep	Rescue Cat	Forbidden
+2010 Sep	Reinforcement of the Army	Limited
+2010 Sep	Return from the Different Dimension	Limited
+2010 Sep	Right Leg of the Forbidden One	Limited
+2010 Sep	Right Arm of the Forbidden One	Limited
+2010 Sep	Ring of Destruction	Forbidden
+2010 Sep	Raigeki	Forbidden
+2010 Sep	Royal Oppression	Limited
+2010 Sep	Sangan	Limited
+2010 Sep	Scapegoat	Limited
+2010 Sep	Snatch Steal	Forbidden
+2010 Sep	Snipe Hunter	Semi-limited
+2010 Sep	Solemn Judgment	Limited
+2010 Sep	Spirit Reaper	Forbidden
+2010 Sep	Sinister Serpent	Forbidden
+2010 Sep	Sixth Sense	Limited
+2010 Sep	Skill Drain	Semi-limited
+2010 Sep	Summon Priest	Semi-limited
+2010 Sep	Summoner Monk	Limited
+2010 Sep	Substitoad	Forbidden
+2010 Sep	Swords of Revealing Light	Limited
+2010 Sep	Temple of the Kings	Forbidden
+2010 Sep	Time Seal	Forbidden
+2010 Sep	Torrential Tribute	Limited
+2010 Sep	Thousand-Eyes Restrict	Forbidden
+2010 Sep	Tragoedia	Limited
+2010 Sep	Trishula, Dragon of the Ice Barrier	Limited
+2010 Sep	Tsukuyomi	Forbidden
+2010 Sep	Trap Dustshoot	Limited
+2010 Sep	Tribe-Infecting Virus	Forbidden
+2010 Sep	The Transmigration Prophecy	Limited
+2010 Sep	The Forceful Sentry	Forbidden
+2010 Sep	Ultimate Offering	Semi-limited
+2010 Sep	Victory Dragon	Forbidden
+2010 Sep	Wall of Revealing Light	Limited
+2010 Sep	Witch of the Black Forest	Forbidden
+2010 Sep	Yata-Garasu	Forbidden
+2011 Mar	Advanced Ritual Art	Limited
+2011 Mar	Allure of Darkness	Limited
+2011 Mar	Archlord Kristya	Semi-limited
+2011 Mar	Advanced Ritual Art	Limited
+2011 Mar	Book of Moon	Limited
+2011 Mar	Brain Control	Forbidden
+2011 Mar	Black Whirlwind	Limited
+2011 Mar	Blackwing - Gale the Whirlwind	Limited
+2011 Mar	Blackwing - Kalut the Moon Shadow	Limited
+2011 Mar	Black Luster Soldier - Envoy of the Beginning	Forbidden
+2011 Mar	Bottomless Trap Hole	Semi-limited
+2011 Mar	Brionac, Dragon of the Ice Boundary	Limited
+2011 Mar	Butterfly Dagger - Elma	Forbidden
+2011 Mar	Burial from a Different Dimension	Limited
+2011 Mar	Card Trooper	Semi-limited
+2011 Mar	Card of Safe Return	Forbidden
+2011 Mar	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2011 Mar	Charge of the Light Brigade	Limited
+2011 Mar	Cyber Stein	Forbidden
+2011 Mar	Cyber Jar	Forbidden
+2011 Mar	Cathedral of Nobles	Forbidden
+2011 Mar	Card Destruction	Limited
+2011 Mar	Change of Heart	Forbidden
+2011 Mar	Confiscation	Forbidden
+2011 Mar	Call of the Haunted	Limited
+2011 Mar	Ceasefire	Limited
+2011 Mar	Chain Strike	Semi-limited
+2011 Mar	Cold Wave	Forbidden
+2011 Mar	Crush Card Virus	Forbidden
+2011 Mar	Dark Magician of Chaos	Forbidden
+2011 Mar	Dark Hole	Limited
+2011 Mar	Dandylion	Limited
+2011 Mar	Dark Armed Dragon	Limited
+2011 Mar	Dark Strike Fighter	Forbidden
+2011 Mar	Debris Dragon	Semi-limited
+2011 Mar	Delinquent Duo	Forbidden
+2011 Mar	Destiny Hero - Malicious	Semi-limited
+2011 Mar	Destiny Hero - Disk Commander	Forbidden
+2011 Mar	Destiny Draw	Limited
+2011 Mar	Dimension Fusion	Forbidden
+2011 Mar	Elemental Hero Stratos	Limited
+2011 Mar	Emergency Teleport	Limited
+2011 Mar	Exodia the Forbidden One	Limited
+2011 Mar	Exchange of the Spirit	Forbidden
+2011 Mar	Future Fusion	Limited
+2011 Mar	Foolish Burial	Limited
+2011 Mar	Fiber Jar	Forbidden
+2011 Mar	Gateway of the Six	Limited
+2011 Mar	Giant Trunade	Limited
+2011 Mar	Graceful Charity	Forbidden
+2011 Mar	Gladiator Beast Bestiari	Limited
+2011 Mar	Goyo Guardian	Forbidden
+2011 Mar	Gravity Bind	Limited
+2011 Mar	Gorz the Emissary of Darkness	Limited
+2011 Mar	Harpie's Feather Duster	Forbidden
+2011 Mar	Heavy Storm	Forbidden
+2011 Mar	Honest	Limited
+2011 Mar	Icarus Attack	Semi-limited
+2011 Mar	Imperial Order	Forbidden
+2011 Mar	Infernity Launcher	Limited
+2011 Mar	Judgment Dragon	Semi-limited
+2011 Mar	Left Arm of the Forbidden One	Limited
+2011 Mar	Left Leg of the Forbidden One	Limited
+2011 Mar	Last Will	Forbidden
+2011 Mar	Last Turn	Forbidden
+2011 Mar	Level Limit - Area B	Limited
+2011 Mar	Limiter Removal	Limited
+2011 Mar	Lonefire Blossom	Limited
+2011 Mar	Lumina, Lightsworn Summoner	Limited
+2011 Mar	Morphing Jar	Limited
+2011 Mar	Mass Driver	Forbidden
+2011 Mar	Magical Stone Excavation	Semi-limited
+2011 Mar	Magical Scientist	Forbidden
+2011 Mar	Magical Explosion	Limited
+2011 Mar	Makyura the Destructor	Forbidden
+2011 Mar	Magician of Faith	Forbidden
+2011 Mar	Marshmallon	Limited
+2011 Mar	Metamorphosis	Forbidden
+2011 Mar	Megamorph	Semi-limited
+2011 Mar	Mezuki	Limited
+2011 Mar	Mirage of Nightmare	Forbidden
+2011 Mar	Monster Reborn	Limited
+2011 Mar	Monster Gate	Limited
+2011 Mar	Magic Cylinder	Semi-limited
+2011 Mar	Mind Crush	Limited
+2011 Mar	Mind Master	Limited
+2011 Mar	Mind Control	Limited
+2011 Mar	Mirror Force	Limited
+2011 Mar	Mystical Space Typhoon	Semi-limited
+2011 Mar	Neo-Spacian Grand Mole	Limited
+2011 Mar	Necroface	Limited
+2011 Mar	Necro Gardna	Limited
+2011 Mar	Night Assailant	Limited
+2011 Mar	One for One	Limited
+2011 Mar	Ojama Trio	Semi-limited
+2011 Mar	Overload Fusion	Semi-limited
+2011 Mar	Painful Choice	Forbidden
+2011 Mar	Premature Burial	Forbidden
+2011 Mar	Plaguespreader Zombie	Limited
+2011 Mar	Pot of Greed	Forbidden
+2011 Mar	Reasoning	Limited
+2011 Mar	Rescue Cat	Forbidden
+2011 Mar	Reinforcement of the Army	Limited
+2011 Mar	Return from the Different Dimension	Limited
+2011 Mar	Right Leg of the Forbidden One	Limited
+2011 Mar	Right Arm of the Forbidden One	Limited
+2011 Mar	Ring of Destruction	Forbidden
+2011 Mar	Raigeki	Forbidden
+2011 Mar	Royal Oppression	Limited
+2011 Mar	Royal Tribute	Semi-limited
+2011 Mar	Sangan	Limited
+2011 Mar	Scapegoat	Limited
+2011 Mar	Snatch Steal	Forbidden
+2011 Mar	Solemn Judgment	Limited
+2011 Mar	Solemn Warning	Semi-limited
+2011 Mar	Spirit Reaper	Semi-limited
+2011 Mar	Sinister Serpent	Forbidden
+2011 Mar	Sixth Sense	Limited
+2011 Mar	Summon Priest	Semi-limited
+2011 Mar	Summoner Monk	Limited
+2011 Mar	Substitoad	Forbidden
+2011 Mar	Swords of Revealing Light	Limited
+2011 Mar	Temple of the Kings	Forbidden
+2011 Mar	Time Seal	Forbidden
+2011 Mar	Torrential Tribute	Limited
+2011 Mar	Thousand-Eyes Restrict	Forbidden
+2011 Mar	Tragoedia	Limited
+2011 Mar	Trishula, Dragon of the Ice Barrier	Limited
+2011 Mar	Tsukuyomi	Forbidden
+2011 Mar	Trap Dustshoot	Limited
+2011 Mar	Tribe-Infecting Virus	Forbidden
+2011 Mar	The Transmigration Prophecy	Limited
+2011 Mar	The Forceful Sentry	Forbidden
+2011 Mar	Victory Dragon	Forbidden
+2011 Mar	Wall of Revealing Light	Limited
+2011 Mar	Witch of the Black Forest	Forbidden
+2011 Mar	Yata-Garasu	Forbidden
+2011 Sep	Advanced Ritual Art	Limited
+2011 Sep	Allure of Darkness	Limited
+2011 Sep	Archlord Kristya	Semi-limited
+2011 Sep	Advanced Ritual Art	Limited
+2011 Sep	Book of Moon	Limited
+2011 Sep	Brain Control	Forbidden
+2011 Sep	Black Whirlwind	Limited
+2011 Sep	Blackwing - Gale the Whirlwind	Limited
+2011 Sep	Blackwing - Kalut the Moon Shadow	Limited
+2011 Sep	Black Luster Soldier - Envoy of the Beginning	Limited
+2011 Sep	Bottomless Trap Hole	Semi-limited
+2011 Sep	Brionac, Dragon of the Ice Boundary	Limited
+2011 Sep	Butterfly Dagger - Elma	Forbidden
+2011 Sep	Burial from a Different Dimension	Limited
+2011 Sep	Card Trooper	Semi-limited
+2011 Sep	Card of Safe Return	Forbidden
+2011 Sep	Chaos Emperor Dragon - Envoy of the End	Forbidden
+2011 Sep	Charge of the Light Brigade	Limited
+2011 Sep	Cyber Stein	Forbidden
+2011 Sep	Cyber Jar	Forbidden
+2011 Sep	Cathedral of Nobles	Forbidden
+2011 Sep	Card Destruction	Limited
+2011 Sep	Change of Heart	Forbidden
+2011 Sep	Confiscation	Forbidden
+2011 Sep	Call of the Haunted	Semi-limited
+2011 Sep	Ceasefire	Limited
+2011 Sep	Chain Strike	Semi-limited
+2011 Sep	Cold Wave	Forbidden
+2011 Sep	Crush Card Virus	Forbidden
+2011 Sep	Dark Magician of Chaos	Forbidden
+2011 Sep	Dark Hole	Limited
+2011 Sep	Dandylion	Limited
+2011 Sep	Dark Armed Dragon	Limited
+2011 Sep	Dark Strike Fighter	Forbidden
+2011 Sep	Debris Dragon	Limited
+2011 Sep	Delinquent Duo	Forbidden
+2011 Sep	Destiny Hero - Malicious	Semi-limited
+2011 Sep	Destiny Hero - Disk Commander	Forbidden
+2011 Sep	Destiny Draw	Semi-limited
+2011 Sep	Dewloren, Tiger King of the Ice Barrier	Semi-limited
+2011 Sep	Dimension Fusion	Forbidden
+2011 Sep	Elemental Hero Stratos	Limited
+2011 Sep	Emergency Teleport	Limited
+2011 Sep	Exodia the Forbidden One	Limited
+2011 Sep	Exchange of the Spirit	Forbidden
+2011 Sep	Fishborg Blaster	Forbidden
+2011 Sep	Formula Synchron	Limited
+2011 Sep	Future Fusion	Limited
+2011 Sep	Foolish Burial	Limited
+2011 Sep	Fiber Jar	Forbidden
+2011 Sep	Gateway of the Six	Limited
+2011 Sep	Giant Trunade	Forbidden
+2011 Sep	Graceful Charity	Forbidden
+2011 Sep	Gladiator Beast Bestiari	Limited
+2011 Sep	Goyo Guardian	Forbidden
+2011 Sep	Gorz the Emissary of Darkness	Limited
+2011 Sep	Harpie's Feather Duster	Forbidden
+2011 Sep	Heavy Storm	Limited
+2011 Sep	Honest	Limited
+2011 Sep	Imperial Order	Forbidden
+2011 Sep	Infernity Launcher	Limited
+2011 Sep	Left Arm of the Forbidden One	Limited
+2011 Sep	Left Leg of the Forbidden One	Limited
+2011 Sep	Legendary Six Samurai - Shi En	Limited
+2011 Sep	Last Will	Forbidden
+2011 Sep	Last Turn	Forbidden
+2011 Sep	Level Limit - Area B	Limited
+2011 Sep	Limiter Removal	Limited
+2011 Sep	Lonefire Blossom	Limited
+2011 Sep	Lumina, Lightsworn Summoner	Limited
+2011 Sep	Morphing Jar	Limited
+2011 Sep	Mass Driver	Forbidden
+2011 Sep	Magical Stone Excavation	Semi-limited
+2011 Sep	Magical Scientist	Forbidden
+2011 Sep	Magical Explosion	Limited
+2011 Sep	Makyura the Destructor	Forbidden
+2011 Sep	Magician of Faith	Forbidden
+2011 Sep	Marshmallon	Limited
+2011 Sep	Metamorphosis	Forbidden
+2011 Sep	Mezuki	Limited
+2011 Sep	Mirage of Nightmare	Forbidden
+2011 Sep	Monster Reborn	Limited
+2011 Sep	Monster Gate	Limited
+2011 Sep	Magic Cylinder	Semi-limited
+2011 Sep	Mind Crush	Semi-limited
+2011 Sep	Mind Master	Forbidden
+2011 Sep	Mind Control	Limited
+2011 Sep	Mirror Force	Limited
+2011 Sep	Neo-Spacian Grand Mole	Limited
+2011 Sep	Necroface	Limited
+2011 Sep	Necro Gardna	Semi-limited
+2011 Sep	Night Assailant	Limited
+2011 Sep	One for One	Limited
+2011 Sep	Ojama Trio	Semi-limited
+2011 Sep	Painful Choice	Forbidden
+2011 Sep	Premature Burial	Forbidden
+2011 Sep	Plaguespreader Zombie	Limited
+2011 Sep	Pot of Avarice	Limited
+2011 Sep	Pot of Greed	Forbidden
+2011 Sep	Primal Seed	Limited
+2011 Sep	Reasoning	Limited
+2011 Sep	Rescue Cat	Forbidden
+2011 Sep	Reinforcement of the Army	Limited
+2011 Sep	Return from the Different Dimension	Limited
+2011 Sep	Right Leg of the Forbidden One	Limited
+2011 Sep	Right Arm of the Forbidden One	Limited
+2011 Sep	Ring of Destruction	Forbidden
+2011 Sep	Raigeki	Forbidden
+2011 Sep	Royal Oppression	Forbidden
+2011 Sep	Royal Tribute	Semi-limited
+2011 Sep	Sangan	Limited
+2011 Sep	Scapegoat	Limited
+2011 Sep	Shien's Smoke Signal	Limited
+2011 Sep	Snatch Steal	Forbidden
+2011 Sep	Solemn Judgment	Limited
+2011 Sep	Solemn Warning	Semi-limited
+2011 Sep	Sinister Serpent	Forbidden
+2011 Sep	Sixth Sense	Limited
+2011 Sep	Summon Priest	Semi-limited
+2011 Sep	Summoner Monk	Semi-limited
+2011 Sep	Substitoad	Forbidden
+2011 Sep	Swords of Revealing Light	Semi-limited
+2011 Sep	Temple of the Kings	Forbidden
+2011 Sep	T.G. Hyper Librarian	Limited
+2011 Sep	Time Seal	Forbidden
+2011 Sep	Torrential Tribute	Limited
+2011 Sep	Thousand-Eyes Restrict	Forbidden
+2011 Sep	Tragoedia	Semi-limited
+2011 Sep	Trishula, Dragon of the Ice Barrier	Limited
+2011 Sep	Tsukuyomi	Forbidden
+2011 Sep	Trap Dustshoot	Limited
+2011 Sep	Tribe-Infecting Virus	Forbidden
+2011 Sep	The Transmigration Prophecy	Limited
+2011 Sep	The Forceful Sentry	Forbidden
+2011 Sep	Victory Dragon	Forbidden
+2011 Sep	Wall of Revealing Light	Limited
+2011 Sep	Witch of the Black Forest	Forbidden
+2011 Sep	Yata-Garasu	Forbidden
