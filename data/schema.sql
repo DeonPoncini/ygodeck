@@ -20,13 +20,15 @@ CREATE TABLE deck_set(
     name TEXT,
     format TEXT,
     format_date TEXT,
-    primary_deck_id INTEGER,
+    main_deck_id INTEGER,
     side_deck_id INTEGER,
     extra_deck_id INTEGER
 );
 
 CREATE TABLE deck(
-    deck_id INTEGER PRIMARY KEY
+    deck_id INTEGER PRIMARY KEY,
+    name TEXT,
+    type TEXT
 );
 
 CREATE TABLE formats (
