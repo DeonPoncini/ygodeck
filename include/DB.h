@@ -22,6 +22,8 @@ enum class Operator
 
 std::string operator_to_string(Operator op);
 
+std::string DBEsc(const std::string& s);
+
 class DB
 {
 public:

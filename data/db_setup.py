@@ -35,6 +35,8 @@ executeSql('schema.sql')
 with open('card.txt') as f:
    all_cards = []
    for line in f:
+       if line.startswith('#'):
+           continue
        items = re.split(r'\t+', line.rstrip())
        items.insert(0,None)
        all_cards.append(items)
@@ -45,6 +47,8 @@ with open('card.txt') as f:
 with open('formats.txt') as f:
     all_formats = []
     for line in f:
+        if line.startswith('#'):
+            continue
         items = re.split(r'\t+', line.rstrip())
         items.insert(0,None)
         all_formats.append(items)

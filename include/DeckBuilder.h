@@ -1,6 +1,8 @@
 #ifndef YGO_DECKBUILDER_H
 #define YGO_DECKBUILDER_H
+
 #include <string>
+#include <vector>
 
 #include "DB.h"
 #include "FormatData.h"
@@ -11,6 +13,8 @@ namespace ygo
 class DeckBuilder
 {
 public:
+    typedef std::vector<std::string> FormatType;
+
     enum class DeckError
     {
         OK,
@@ -31,6 +35,9 @@ public:
             const std::string& formatDate);
 
     DeckError addCard(DeckType deck, const std::string& name);
+
+    FormatType formats() const;
+    FormatType formatDates();
 
 private:
     DB mDB;

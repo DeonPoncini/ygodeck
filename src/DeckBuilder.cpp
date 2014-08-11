@@ -34,7 +34,7 @@ DeckBuilder::create(const std::string& name, Format format,
     createDeck(DeckType::SIDE);
     createDeck(DeckType::EXTRA);
 
-    // extract the ID's to make a link
+    // extract the IDs to make a link
     mMainID = deckID(DeckType::MAIN);
     mSideID = deckID(DeckType::SIDE);
     mExtraID = deckID(DeckType::EXTRA);
@@ -42,12 +42,12 @@ DeckBuilder::create(const std::string& name, Format format,
     // create the deck set entry
     mDB.insert("deck_set",
             std::string("NULL,") +
-            name + "," +
-            fromFormat(format) + "," +
-            formatDate + "," +
-            mMainID + "," +
-            mSideID + "," +
-            mExtraID + ",",
+            DBEsc(name) + "," +
+            DBEsc(fromFormat(format)) + "," +
+            DBEsc(formatDate) + "," +
+            DBEsc(mMainID) + "," +
+            DBEsc(mSideID) + "," +
+            DBEsc(mExtraID),
             [&](DB::DataMap){});
 
     return DeckCreateError::OK;
@@ -78,29 +78,62 @@ DeckBuilder::addCard(DeckType deck, const std::string& name)
     return DeckError::OK;
 }
 
+DeckBuilder::FormatType
+DeckBuilder::formats() const
+{
+    static FormatType ft = {
+        fromFormat(Format::TRADITIONAL),
+        fromFormat(Format::ADVANCED)
+    };
+    return ft;
+}
+
+DeckBuilder::FormatType
+DeckBuilder::formatDates()
+{
+    FormatType ft;
+    // get all the format dates
+    mDB.select("DISTINCT name","formats","1",
+            [&](DB::DataMap data)
+            {
+                for (auto&& kv : data)
+                {
+                    if (kv.second == fromLimitation(Limitation::ILLEGAL))
+                    {
+                        continue;
+                    }
+                    ft.push_back(kv.second);
+                }
+            });
+    return ft;
+}
+
 std::string DeckBuilder::deckID(DeckType deckType)
 {
     std::string id;
     mDB.select("deck_id","deck",
-            std::string("name = '") + mName + "' AND type = '" +
-            fromDeckType(deckType), [&](DB::DataMap data)
+            std::string("name = ") + DBEsc(mName) + " AND type = " +
+            DBEsc(fromDeckType(deckType)), [&](DB::DataMap data)
             {
-                id = data["deck_id"];
+                for (auto&& kv : data)
+                {
+                    id = kv.second;
+                }
             });
     return id;
 }
 
 void DeckBuilder::createDeck(DeckType deckType)
 {
-    mDB.insert("deck",std::string("NULL,") + mName + "," +
-            fromDeckType(deckType), [&](DB::DataMap){});
+    mDB.insert("deck",std::string("NULL,") + DBEsc(mName) + "," +
+            DBEsc(fromDeckType(deckType)), [&](DB::DataMap){});
 }
 
 bool DeckBuilder::exists()
 {
     auto exists = false;
     mDB.select("name","deck_set",
-            std::string("name = '") + mName + "'",
+            std::string("name = ") + DBEsc(mName),
             [&](DB::DataMap data)
             {
                 if (data.size() > 0)
@@ -115,7 +148,7 @@ bool DeckBuilder::formatExists()
 {
     auto formatExists = true;
     mDB.select("format_id", "formats",
-            std::string("name = '") + mFormatDate + "'",
+            std::string("name = ") + DBEsc(mFormatDate),
             [&](DB::DataMap data)
             {
                 if (data.size() == 0)
@@ -130,10 +163,13 @@ std::string DeckBuilder::cardID(const std::string& name)
 {
     std::string id;
     mDB.select("card_id","card",
-            std::string("name = '") + name + "'",
+            std::string("name = ") + DBEsc(name),
             [&](DB::DataMap data)
             {
-                id = data["card_id"];
+                for (auto&& kv : data)
+                {
+                    id = kv.second;
+                }
             });
     return id;
 }
@@ -143,9 +179,9 @@ int DeckBuilder::cardCount(const std::string& id)
     // look up this card in the formats database
     auto count = 0;
     mDB.select("card_status","formats",
-            std::string("card_id = '") + id + "' AND " +
-            "(name = '" + mFormatDate + "' OR name = '"
-            + fromLimitation(Limitation::ILLEGAL) + "')"
+            std::string("card_id = ") + DBEsc(id) + " AND " +
+            "(name = " + DBEsc(mFormatDate) + " OR name = "
+            + DBEsc(fromLimitation(Limitation::ILLEGAL)) + ")"
             ,[&](DB::DataMap data)
             {
                 if (data.size() == 0)
@@ -154,7 +190,10 @@ int DeckBuilder::cardCount(const std::string& id)
                 }
                 else
                 {
-                    count = limitation(toLimitation(data["card_status"]));
+                    for (auto&& kv : data)
+                    {
+                        count = limitation(toLimitation(kv.second));
+                    }
                 }
             });
     return count;
@@ -165,7 +204,7 @@ int DeckBuilder::cardCheck(const std::string& cardid,
 {
     auto count = 0;
     mDB.select("relation_id","deck_to_cards",
-            "deck_id = '" + deckid + "' AND card_id = '" + cardid + "'",
+            "deck_id = " + DBEsc(deckid) + " AND card_id = " + DBEsc(cardid),
             [&](DB::DataMap data)
             {
                 count = data.size();

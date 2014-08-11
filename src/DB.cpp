@@ -18,6 +18,11 @@ std::string operator_to_string(Operator op)
     }
 }
 
+std::string DBEsc(const std::string& s)
+{
+    return std::string("'") + s + "'";
+}
+
 DB::DB(const char* name)
 {
     if (sqlite3_open(name,&mDB))
