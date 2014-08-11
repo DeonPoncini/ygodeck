@@ -27,58 +27,23 @@ PENDULUM = PROPERTY_PATH + 'Pendulum_Scale'
 IMAGE = PROPERTY_PATH + 'Card_Image'
 TEXT = PROPERTY_PATH + 'Lore'
 
-# card sets to scrape
-CARD_SET_URI = 'http://yugioh.wikia.com/wiki/Set_Card_Lists:'
 SCRAPE_SETS = [
         # Booster packs
-        # Series 1
-        'Vol.1',
-        'Vol.2_(OCG-JP)'
+        # Series 1-3
+        'http://yugioh.wikia.com/wiki/Set_Card_Lists:Legend_of_Blue_Eyes_White_Dragon_(TCG-EN)'
         ]
 
-def check_error(data):
-    if not 'name' in data:
-        print "Name not defined"
-        sys.exit(-1)
-    elif not 'cardType' in data:
-        print "Cardtype not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'attribute' in data:
-        print "Attribute not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'monsterType' in data:
-        print "Monstertype not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'monsterAbility' in data:
-        print "Monsterability not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'type' in data:
-        print "Type not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'level' in data:
-        print "Level not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'attack' in data:
-        print "Attack not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'defense' in data:
-        print "Defense not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'lpendulum' in data:
-        print "Lpendulum not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'rpendulum' in data:
-        print "Rpendulum not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'spellType' in data:
-        print "Spelltype not defined for " + data['name']
-        sys.exit(-1)
-    elif not 'trapType' in data:
-        print "Traptype not defined for " + data['name']
-        sys.exit(-1)
+errors = []
+
+def log_error(name):
+    errors.append(name)
+
+def report_errors():
+    print "The following cards failed to parse: "
+    for error in errors:
+        print error
 
 def print_output(data):
-    check_error(data)
     print data['name'] + '\t' + \
           data['cardType'] + '\t' + \
           data['attribute'] + '\t' + \
@@ -197,6 +162,7 @@ def write_to_file(g):
         f.write('\n')
 
 def parse_card(cardname):
+    origcardname = cardname;
     cardname = cardname.replace(' ','_').replace('#','').strip()
     g = rdflib.Graph()
     g.load(LOAD_PATH + cardname)
@@ -232,23 +198,31 @@ def parse_card(cardname):
     # process the output
     if "cardType" in data and "Monster" in data['cardType']:
         parse_monster(data)
-    elif "Spell" in data['attribute']:
+    elif "attribute" in data and "Spell" in data['attribute']:
         parse_spell(data)
-    elif "Trap" in data['attribute']:
+    elif "attribute" in data and "Trap" in data['attribute']:
         parse_trap(data)
+    else:
+        log_error(origcardname)
 
-for s in SCRAPE_SETS:
-    r = requests.get(CARD_SET_URI + s)
-    data = r.text
-    soup = BeautifulSoup(data)
-    contents = soup.find_all("div",{"id":"mw-content-text"})
+def parse_sets():
+    for s in SCRAPE_SETS:
+        r = requests.get(s)
+        data = r.text
+        soup = BeautifulSoup(data)
+        contents = soup.find_all("div",{"id":"mw-content-text"})
 
-    for tag in contents:
-        trTags = tag.find_all("tr")
-        for trTag in trTags:
-            tdTags = trTag.find_all("td")
-            for tdTag in tdTags:
-                parse_card(tdTag.text.strip())
-                # we only want the first entry
-                break
+        for tag in contents:
+            trTags = tag.find_all("tr")
+            for trTag in trTags:
+                tdTags = trTag.find_all("td")
+                counter = 0;
+                for tdTag in tdTags:
+                    if counter == 1:
+                        parse_card(tdTag.text.strip())
+                        break
+                    # we only want the first entry
+                    counter = counter + 1
 
+parse_sets()
+report_errors()
