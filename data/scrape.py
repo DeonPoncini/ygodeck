@@ -27,11 +27,7 @@ PENDULUM = PROPERTY_PATH + 'Pendulum_Scale'
 IMAGE = PROPERTY_PATH + 'Card_Image'
 TEXT = PROPERTY_PATH + 'Lore'
 
-SCRAPE_SETS = [
-        # Booster packs
-        # Series 1-3
-        'http://yugioh.wikia.com/wiki/Set_Card_Lists:Legend_of_Blue_Eyes_White_Dragon_(TCG-EN)'
-        ]
+SCRAPE_SETS = []
 
 errors = []
 
@@ -216,13 +212,17 @@ def parse_sets():
             trTags = tag.find_all("tr")
             for trTag in trTags:
                 tdTags = trTag.find_all("td")
-                counter = 0;
                 for tdTag in tdTags:
-                    if counter == 1:
-                        parse_card(tdTag.text.strip())
-                        break
-                    # we only want the first entry
-                    counter = counter + 1
+                    parse_card(tdTag.text.strip())
+                    break
 
+def read_scrape_input():
+    with open('scrape_input.txt') as f:
+        for line in f:
+            if line.startswith('#'):
+                continue
+            SCRAPE_SETS.append(line)
+
+read_scrape_input()
 parse_sets()
 report_errors()
