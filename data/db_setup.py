@@ -4,7 +4,6 @@ import re
 import sqlite3
 from sqlite3 import OperationalError
 
-
 def executeSql(filename):
     # Open and read the file as a single buffer
     fd = open(filename, 'r')
