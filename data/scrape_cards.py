@@ -1,15 +1,18 @@
 #!/usr/bin/python
 
-import sys
 import logging
 import rdflib
 import codecs
-import requests
-from bs4 import BeautifulSoup
+
+from urllib2 import quote
 
 logging.basicConfig()
 
-# yugioh wiki rdf paths
+INPUT_FILE = 'cardunique.txt'
+ERROR_FILE = 'carderrors.txt'
+OUTPUT_FILE = 'card.txt'
+
+# yugioh wiki paths
 URI_PATH = 'http://yugioh.wikia.com/wiki/Special:URIResolver/'
 PROPERTY_PATH = URI_PATH + 'Property-3A'
 LOAD_PATH = 'http://yugioh.wikia.com/wiki/Special:ExportRDF/'
@@ -21,26 +24,24 @@ ATTRIBUTE = PROPERTY_PATH + 'Attribute_Text'
 MONSTER_TYPE = PROPERTY_PATH + 'Card_type_Text'
 TYPE = PROPERTY_PATH + 'Types'
 LEVEL = PROPERTY_PATH + 'Level'
+RANK = PROPERTY_PATH + 'Rank'
 ATK = PROPERTY_PATH + 'ATK'
+ATKSTR = PROPERTY_PATH + 'ATK_string'
 DEF = PROPERTY_PATH + 'DEF'
+DEFSTR = PROPERTY_PATH + 'DEF_string'
 PENDULUM = PROPERTY_PATH + 'Pendulum_Scale'
 IMAGE = PROPERTY_PATH + 'Card_Image'
 TEXT = PROPERTY_PATH + 'Lore'
 
-SCRAPE_SETS = []
-
-errors = []
+cardin = codecs.open(INPUT_FILE,'r','utf-8')
+cardout = codecs.open(OUTPUT_FILE,'w','utf-8')
+errorfile = codecs.open(ERROR_FILE,'w','utf-8')
 
 def log_error(name):
-    errors.append(name)
-
-def report_errors():
-    print "The following cards failed to parse: "
-    for error in errors:
-        print error
+    errorfile.write(name + '\n')
 
 def print_output(data):
-    print data['name'] + '\t' + \
+    cardout.write(data['name'] + '\t' + \
           data['cardType'] + '\t' + \
           data['attribute'] + '\t' + \
           data['monsterType'] + '\t' + \
@@ -52,7 +53,7 @@ def print_output(data):
           str(data['lpendulum']) + '\t' + \
           str(data['rpendulum']) + '\t' + \
           data['spellType'] + '\t' + \
-          data['trapType']
+          data['trapType'] + '\n')
 
 def check_type(t, monsterType):
     # we don't know what type is present
@@ -111,7 +112,7 @@ def parse_monster(data):
     if not 'monsterAbility' in data:
         output['monsterAbility'] = 'None'
 
-    print_output(output)
+    return output
 
 def parse_spell(data):
     # fill out the output data structure
@@ -129,7 +130,7 @@ def parse_spell(data):
     output['rpendulum'] = '0'
     output['spellType'] = data['type0']
     output['trapType'] = 'None'
-    print_output(output)
+    return output
 
 def parse_trap(data):
     # fill out the output data structure
@@ -147,82 +148,77 @@ def parse_trap(data):
     output['rpendulum'] = '0'
     output['spellType'] = 'None'
     output['trapType'] = data['type0']
-    print_output(output)
-
-def write_to_file(g):
-    f = codecs.open('g.txt','w','utf-8')
-    for s,p,o in g:
-        f.write(p)
-        f.write(' ')
-        f.write(o)
-        f.write('\n')
+    return output
 
 def parse_card(cardname):
     origcardname = cardname;
     cardname = cardname.replace(' ','_').replace('#','').strip()
     g = rdflib.Graph()
-    g.load(LOAD_PATH + cardname)
-    #write_to_file(g)
+    uri = LOAD_PATH + cardname
+    g.load(LOAD_PATH + quote(cardname.encode('utf-8')))
 
     # load up the data dictionary
     data = {}
     type_count = 0
 
     for s,p,o in g:
-        k = str(p)
-        if k == CARD_NAME:
-            data['name'] = str(o)
-        elif k == CARD_TYPE:
-            data['cardType'] = str(o)
-        elif k == ATTRIBUTE:
-            data['attribute'] = str(o)
-        elif k == MONSTER_TYPE:
-            data['monsterType'] = str(o)
-        elif k == TYPE:
-            data['type' + str(type_count)] = str(o)
-            type_count = type_count + 1
-        elif k == LEVEL:
-            data['level'] = int(float(o))
-        elif k == ATK:
-            data['attack'] = int(float(o))
-        elif k == DEF:
-            data['defense'] = int(float(o))
-        elif k == PENDULUM:
-            data['lpendulum'] = int(float(o))
-            data['rpendulum'] = int(float(o))
+        try:
+            k = str(p)
+            if k == CARD_NAME:
+                data['name'] = o.encode('utf-8')
+            elif k == CARD_TYPE:
+                data['cardType'] = str(o)
+            elif k == ATTRIBUTE:
+                data['attribute'] = str(o)
+            elif k == MONSTER_TYPE:
+                data['monsterType'] = str(o)
+            elif k == TYPE:
+                data['type' + str(type_count)] = str(o)
+                type_count = type_count + 1
+            elif k == LEVEL:
+                data['level'] = int(float(o))
+            elif k == RANK:
+                data['level'] = int(float(o))
+            elif k == ATK:
+                data['attack'] = int(float(o))
+            elif k == ATKSTR:
+                if o.isnumeric():
+                    data['attack'] = int(float(o))
+                else:
+                    data['attack'] = str(o)
+            elif k == DEF:
+                data['defense'] = int(float(o))
+            elif k == DEFSTR:
+                if o.isnumeric():
+                    data['defense'] = int(float(o))
+                else:
+                    data['defense'] = str(o)
+            elif k == PENDULUM:
+                data['lpendulum'] = int(float(o))
+                data['rpendulum'] = int(float(o))
+        except ValueError:
+            continue
 
     # process the output
-    if "cardType" in data and "Monster" in data['cardType']:
-        parse_monster(data)
-    elif "attribute" in data and "Spell" in data['attribute']:
-        parse_spell(data)
-    elif "attribute" in data and "Trap" in data['attribute']:
-        parse_trap(data)
-    else:
-        log_error(origcardname)
+    try:
+        print data
+        if "cardType" in data and "Monster" in data['cardType']:
+            print_output(parse_monster(data))
+        elif "attribute" in data and "Spell" in data['attribute']:
+            print_output(parse_spell(data))
+        elif "attribute" in data and "Trap" in data['attribute']:
+            print_output(parse_trap(data))
+        else:
+            log_error(origcardname)
+    except:
+            log_error(origcardname)
 
-def parse_sets():
-    for s in SCRAPE_SETS:
-        r = requests.get(s)
-        data = r.text
-        soup = BeautifulSoup(data)
-        contents = soup.find_all("div",{"id":"mw-content-text"})
 
-        for tag in contents:
-            trTags = tag.find_all("tr")
-            for trTag in trTags:
-                tdTags = trTag.find_all("td")
-                for tdTag in tdTags:
-                    parse_card(tdTag.text.strip())
-                    break
+def parse_cards():
+    for line in cardin:
+        if line.startswith('#'):
+            continue
+        line = line.strip()
+        parse_card(line)
 
-def read_scrape_input():
-    with open('scrape_input.txt') as f:
-        for line in f:
-            if line.startswith('#'):
-                continue
-            SCRAPE_SETS.append(line)
-
-read_scrape_input()
-parse_sets()
-report_errors()
+parse_cards()

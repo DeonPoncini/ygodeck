@@ -1,0 +1,250 @@
+# Booster sets
+# Series 1
+Vol.1	XXXX	1
+Vol.2	(OCG-JP)	1
+Vol.3	(OCG-JP)	1
+Vol.4	(OCG-JP)	1
+Vol.5	(OCG-JP)	1
+Vol.7	(OCG-JP)	1
+Booster 1	XXXX	1
+# Booster 2
+# Booster 3
+# Booster 4
+# Booster 5
+# Booster 6
+# Booster 7
+# Series 2
+Magic Ruler	(OCG-JP)	2
+Pharoah's Servant	(OCG-JP)	2
+Curse of Anubis	(OCG-JP)	2
+Thousand Eyes Bible	(OCG-JP)	2
+Spell of Mask	(OCG-JP)	2
+Labyrinth of Nightmare	(OCG-JP)	2
+Struggle of Chaos	(OCG-JP)	2
+Mythological Age	(OCG-JP)	2
+Pharaonic Guardian	(OCG-JP)	2
+# Series 3
+The New Ruler	(OCG-JP)	2
+Advent of Union	(OCG-JP)	2
+Champion of Black Magic	(OCG-JP)	2
+Power of the Guardian	(OCG-JP)	2
+Threat of the Dark Demon World	(OCG-JP)	2
+Controller of Chaos	(OCG-JP)	2
+Invader of Darkness	(OCG-JP)	2
+The Sanctuary in the Sky	(OCG-JP)	2
+Pharaoh's Inheritance	(OCG-JP)	2
+# International Series 3
+Legend of Blue Eyes White Dragon	(TCG-EN)	0
+Metal Raiders	(TCG-EN)	0
+Spell Ruler	(TCG-EN)	0
+Pharaoh%27s Servant	(TCG-EN)	0
+Labyrinth of Nightmare	(TCG-EN)	0
+Legacy of Darkness	(TCG-EN)	0
+Pharaonic Guardian	(TCG-EN)	0
+Magician%27s Force	(TCG-EN)	0
+Dark Crisis	(TCG-EN)	0
+Invasion of Chaos	(TCG-EN)	0
+Ancient Sanctuary 	(TCG-NA)	0
+# Series 4
+Soul of the Duelist	(TCG-EN)	0
+Rise of Destiny	(TCG-EN)	0
+Flaming Eternity	(TCG-EN)	0
+The Lost Millennium	(TCG-EN)	0
+Cybernetic Revolution	(TCG-EN)	0
+Elemental Energy	(TCG-EN)	0
+Shadow of Infinity	(TCG-EN)	0
+Enemy of Justice	(TCG-EN)	0
+# Series 5
+Power of the Duelist	(TCG-EN)	0
+Cyberdark Impact	(TCG-EN)	0
+Strike of Neos	(TCG-EN)	0
+Force of the Breaker	(TCG-EN)	0
+Tactical Evolution	(TCG-EN)	0
+Gladiator%27s Assault	(TCG-EN)	0
+Phantom Darkness	(TCG-EN)	0
+Light of Destruction	(TCG-EN)	0
+# Series 6
+The Duelist Genesis	(TCG-EN)	0
+Crossroads of Chaos	(TCG-EN)	0
+Crimson Crisis	(TCG-EN)	0
+Raging Battle	(TCG-EN)	0
+Ancient Prophecy	(TCG-EN)	0
+Stardust Overdrive	(TCG-EN)	0
+Absolute Powerforce	(TCG-EN)	0
+The Shining Darkness	(TCG-EN)	0
+# Series 7
+Duelist Revolution	(TCG-EN)	0
+Starstrike Blast	(TCG-EN)	0
+Storm of Ragnarok	(TCG-EN)	0
+Extreme Victory	(TCG-EN)	0
+Generation Force	(TCG-EN)	0
+Photon Shockwave	(TCG-EN)	0
+Order of Chaos	(TCG-EN)	0
+Galactic Overlord	(TCG-EN)	0
+# Series 8
+Return of the Duelist	(TCG-EN)	0
+Abyss Rising	(TCG-EN)	0
+Cosmo Blazer	(TCG-EN)	0
+Lord of the Tachyon Galaxy	(TCG-EN)	0
+Judgment of the Light	(TCG-EN)	0
+Shadow Specters	(TCG-EN)	0
+Legacy of the Valiant	(TCG-EN)	0
+Primal Origin	(TCG-EN)	0
+# Battle Packs
+Battle Pack: Epic Dawn	(TCG-EN)	0
+Battle Pack 2: War of the Giants	(TCG-EN)	0
+Battle Pack 2: War of the Giants - Round 2	(TCG-EN)	0
+War of the Giants Reinforcements	(TCG-EN)	0
+Battle Pack 3: Monster League	(TCG-EN)	0
+# Duelist Packs
+Duelist Pack: Jaden Yuki	(TCG-EN)	0
+Duelist Pack: Chazz Princeton	(TCG-EN)	0
+Duelist Pack: Jaden Yuki 2	(TCG-EN)	0
+Duelist Pack: Zane Truesdale	(TCG-EN)	0
+Duelist Pack: Aster Phoenix	(TCG-EN)	0
+Duelist Pack: Jaden Yuki 3	(TCG-EN)	0
+Duelist Pack: Jesse Anderson	(TCG-EN)	0
+Duelist Pack: Yusei	(TCG-EN)	0
+Duelist Pack: Yugi	(TCG-EN)	0
+Duelist Pack: Yusei 2	(TCG-EN)	0
+Duelist Pack: Kaiba	(TCG-EN)	0
+Duelist Pack: Yusei 3	(TCG-EN)	0
+Duelist Pack: Crow	(TCG-EN)	0
+Duelist Pack: Yuma	(OCG-JP)	2
+Duelist Pack: Kite	(OCG-JP)	2
+Duelist Pack: Yuma 2: Gogogo %26 Dododo	(OCG-JP)	2
+Duelist Pack: Kastle Siblings	(OCG-JP)	2
+# Extra Packs
+Extra Pack	(OCG-JP)	2
+Extra Pack Volume 2	(OCG-JP)	2
+Extra Pack Volume 3	(OCG-JP)	2
+Extra Pack Volume 4	(OCG-JP)	2
+Extra Pack 2012	(OCG-JP)	2
+Extra Pack: Sword of Knights	(OCG-JP)	2
+# Gold Series
+Gold Series	(TCG-EN)	0
+Gold Series 2009	(TCG-EN)	0
+Gold Series 3	(TCG-EN)	0
+Gold Series 4: Pyramids Edition	(TCG-EN)	0
+Gold Series: Haunted Mine	(TCG-EN)	0
+Premium Gold	(TCG-EN)	0
+# Hidden Arsenal
+Hidden Arsenal	(TCG-EN)	0
+Hidden Arsenal 2	(TCG-EN)	0
+Hidden Arsenal 3	(TCG-EN)	0
+Hidden Arsenal 4: Trishula%27s Triumph	(TCG-EN)	0
+Hidden Arsenal 5: Steelswarm Invasion	(TCG-EN)	0
+Hidden Arsenal 6: Omega Xyz	(TCG-EN)	0
+Hidden Arsenal 7: Knight of Stars	(TCG-EN)	0
+# Mega Pack
+# http://yugioh.wikia.com/wiki/Ra Yellow Mega-Pack
+Legendary Collection 2 Mega-Pack	(TCG-EN)	0
+Legendary Collection 3 Mega-Pack	(TCG-EN)	0
+Legendary Collection 4 Mega-Pack	(TCG-EN)	0
+# Premium Packs
+Premium Pack	(TCG-EN)	0
+Premium Pack 2	(TCG-EN)	0
+# Other
+Anniversary Pack	(TCG-EN)	0
+Booster SP: Raging Masters	(OCG-JP)	2
+Number Hunters	(TCG-EN)	0
+Dragons of Legend	(TCG-EN)	0
+Deck Custom Pack 01	(OCG-JP)	2
+Demo Pack	(TCG-EN)	0
+Duelist Set: Version Machine-Gear Troopers Enhancement Pack	(OCG-JP)	2
+Duelist Set: Version Lightlord Judgment Enhancement Pack	(OCG-JP)	2
+Exclusive Pack	(TCG-EN)	0
+# http://yugioh.wikia.com/wiki/Movie Pack
+# http://yugioh.wikia.com/wiki/Yu-Gi-Oh: Super Fusion! Bonds That Transcend Time Movie Pack
+# http://yugioh.wikia.com/wiki/Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack
+Starter Deck: Yugi	 (TCG-SP)	0
+Star Pack 2013	(TCG-EN)	0
+Star Pack 2014	(TCG-EN)	0
+Starter Deck 2013 Enhancement Pack	(OCG-JP)	2
+Starter Deck 2014 Enhancement Pack	(OCG-JP)	2
+Super Starter Power-Up Pack	(TCG-EN)	0
+Space-Time Showdown Power-Up Pack	(TCG-EN)	0
+Starter Pack Volume 1 	(OCG-TC)	2
+World Championship 2010 Card Pack	(TCG-EN)	0
+World Championship 2011 Card Pack	(TCG-EN)	0
+# Starter decks
+Starter Box	(OCG-JP)	1
+Starter Box: Theatrical Release	(OCG-JP)	1
+# http://yugioh.wikia.com/wiki/EX Starter Box
+# http://yugioh.wikia.com/wiki/EX-R Starter Box
+Starter Deck: Yugi 	(TCG-NA)	0
+Starter Deck: Kaiba 	(TCG-NA)	0
+Starter Deck: Joey		(TCG-EN)	0
+Starter Deck: Pegasus 	(TCG-NA)	0
+Starter Deck: Yugi Evolution	(TCG-EN)	0
+Starter Deck: Kaiba Evolution	(TCG-EN)	0
+Starter Deck: Jaden Yuki	(TCG-EN)	0
+Starter Deck: Syrus Truesdale	(TCG-EN)	0
+Starter Deck: Yugi Reloaded	(TCG-EN)	0
+Starter Deck: Kaiba Reloaded	(TCG-EN)	0
+Starter Deck 2006	(TCG-EN)	0
+Starter Deck: Yu-Gi-Oh! 5D%27s	(TCG-EN)	0
+Starter Deck: Yu-Gi-Oh! 5D%27s 2009	(TCG-EN)	0
+Starter Deck: Duelist Toolbox	(TCG-EN)	0
+Starter Deck: Dawn of the Xyz	(TCG-EN)	0
+Starter Deck: Xyz Symphony	(TCG-EN)	0
+Super Starter: V for Victory	(TCG-EN)	0
+Super Starter: Space-Time Showdown	(TCG-EN)	0
+# Structure Decks
+Structure Deck: Yugi	(OCG-JP)	2
+Structure Deck: Joey	(OCG-JP)	2
+Structure Deck: Kaiba	(OCG-JP)	2
+Structure Deck: Pegasus	(OCG-JP)	2
+Structure Deck: Yugi Volume 2	(OCG-JP)	2
+Structure Deck: Joey Volume 2	(OCG-JP)	2
+Structure Deck: Kaiba Volume 2	(OCG-JP)	2
+Structure Deck: Marik	(OCG-JP)	2
+Structure Deck: Dragon%27s Roar	(TCG-EN)	0
+Structure Deck: Zombie Madness	(TCG-EN)	0
+Structure Deck: Blaze of Destruction	(TCG-EN)	0
+Structure Deck: Fury from the Deep	(TCG-EN)	0
+Structure Deck: Warrior%27s Triumph	(TCG-EN)	0
+Structure Deck: Spellcaster%27s Judgment	(TCG-EN)	0
+Structure Deck: Invincible Fortress	(TCG-EN)	0
+Structure Deck: Lord of the Storm	(TCG-EN)	0
+Structure Deck: Dinosaur%27s Rage	(TCG-EN)	0
+Structure Deck: Machine Re-Volt	(TCG-EN)	0
+Rise of the Dragon Lords Structure Deck	(TCG-EN)	0
+The Dark Emperor Structure Deck	(TCG-EN)	0
+Zombie World Structure Deck	(TCG-EN)	0
+Spellcaster%27s Command Structure Deck	(TCG-EN)	0
+Warriors%27 Strike Structure Deck	(TCG-EN)	0
+Machina Mayhem Structure Deck	(TCG-EN)	0
+Structure Deck: Marik	(TCG-EN)	0
+Dragunity Legion Structure Deck	(TCG-EN)	0
+Lost Sanctuary Structure Deck	(TCG-EN)	0
+Gates of the Underworld Structure Deck	(TCG-EN)	0
+Dragons Collide Structure Deck	(TCG-EN)	0
+Samurai Warlords Structure Deck	(TCG-EN)	0
+Realm of the Sea Emperor Structure Deck	(TCG-EN)	0
+Onslaught of the Fire Kings Structure Deck	(TCG-EN)	0
+Saga of Blue-Eyes White Dragon Structure Deck	(TCG-EN)	0
+Cyber Dragon Revolution Structure Deck	(TCG-EN)	0
+Realm of Light Structure Deck	(TCG-EN)	0
+# Duel Terminals
+Duel Terminal - Preview	(TCG-EN)	0
+Duel Terminal 1	(TCG-EN)	0
+Duel Terminal 2	(TCG-EN)	0
+Duel Terminal 3	(TCG-EN)	0
+Duel Terminal 4	(TCG-EN)	0
+Duel Terminal 5	(TCG-EN)	0
+Duel Terminal 6	(TCG-EN)	0
+Duel Terminal 7	(TCG-EN)	0
+# Promotional
+Yu-Gi-Oh! Character Guidebook: The Gospel of Truth promotional cards	(OCG-JP)	2
+Master Guide promotional cards	(OCG-JP)	2
+Master Guide 2 promotional cards	(OCG-JP)	2
+Master Guide 4 promotional cards	(OCG-JP)	2
+Numbers Guide promotional card	(OCG-JP)	2
+Numbers Guide 2 promotional card	(OCG-JP)	2
+Numbers Guide 3 promotional card	(OCG-JP)	2
+# Official Guide Starter Book
+# The Thousand Rule Bible
+The Valuable Book promotional cards	(OCG-JP)	2
+Primal Origin Booster Pack Guide promotional card	(OCG-JP)	2
+Perfect Rulebook promotional card	(OCG-JP)	2
