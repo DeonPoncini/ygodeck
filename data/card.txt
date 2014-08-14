@@ -1,220 +1,77 @@
-"A" Cell Breeding Device	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-"A" Cell Incubator	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-"A" Cell Scatter Burst	Spell	None	None	None	None	0	0	0	0	0	Quick-Play	None
-3-Hump Lacooda	Monster	Earth	Effect	None	Beast	3	500	1500	0	0	None	None
-4-Starred Ladybug of Doom	Monster	Wind	Effect	None	Insect	3	800	1200	0	0	None	None
-7	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-7 Colored Fish	Monster	Water	Normal	None	Fish	4	1800	800	0	0	None	None
-7 Completed	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-8-Claws Scorpion	Monster	Dark	Effect	None	Insect	2	300	200	0	0	None	None
-A Cat of Ill Omen	Monster	Dark	Effect	None	Beast	2	500	300	0	0	None	None
-A Deal with Dark Ruler	Spell	None	None	None	None	0	0	0	0	0	Quick-Play	None
-A Feather of the Phoenix	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-A Feint Plan	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-A Hero Emerges	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-A Hero Lives	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-A Legendary Ocean	Spell	None	None	None	None	0	0	0	0	0	Field	None
-A Major Upset	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-A Man with Wdjat	Monster	Dark	Effect	None	Spellcaster	4	1600	1600	0	0	None	None
-A Rival Appears!	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-A Wingbeat of Giant Dragon	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-A-Team: Trap Disposal Unit	Monster	Fire	Effect	None	Machine	2	300	400	0	0	None	None
-A/D Changer	Monster	Light	Effect	None	Warrior	1	100	100	0	0	None	None
-Abaki	Monster	Fire	Effect	None	Fiend	4	1700	1000	0	0	None	None
-Abare Ushioni	Monster	Earth	Effect	None	Beast-Warrior	4	1200	1200	0	0	None	None
-Absolute Crusader	Monster	Earth	Effect	None	Warrior	4	1800	1200	0	0	None	None
-Absolute End	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Absorbing Jar	Monster	Earth	Effect	None	Rock	3	600	500	0	0	None	None
-Absorbing Kid from the Sky	Monster	Light	Effect	None	Fairy	4	1300	1000	0	0	None	None
-Abyss Dweller	Monster	Water	Xyz	None	Sea Serpent	4	1700	1400	0	0	None	None
-Abyss Soldier	Monster	Water	Effect	None	Aqua	4	1800	1300	0	0	None	None
-Abyss Warrior	Monster	Water	Effect	None	Aqua	4	1800	1300	0	0	None	None
-Abyss-scale of Cetus	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-Abyss-scale of the Kraken	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-Abyss-scale of the Mizuchi	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-Abyss-scorn	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Abyss-sphere	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-Abyss-squall	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Abyss-strom	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Abyssal Designator	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Abyssal Kingshark	Monster	Water	Effect	None	Fish	4	1700	600	0	0	None	None
-Accellight	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Accumulated Fortune	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Achacha Archer	Monster	Fire	Effect	None	Warrior	3	1200	600	0	0	None	None
-Achacha Chanbara	Monster	Fire	Effect	None	Warrior	3	1400	400	0	0	None	None
-Acid Crawler	Monster	Earth	Normal	None	Insect	3	900	700	0	0	None	None
-Acid Rain	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Acid Trap Hole	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Acidic Downpour	Spell	None	None	None	None	0	0	0	0	0	Field	None
-Acorno	Monster	Earth	Effect	None	Plant	1	200	400	0	0	None	None
-Acrobat Monkey	Monster	Earth	Normal	None	Machine	3	1000	1800	0	0	None	None
-Adhesion Trap Hole	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Adhesive Explosive	Monster	Wind	Effect	None	Machine	3	1000	1000	0	0	None	None
-Adreus, Keeper of Armageddon	Monster	Dark	Xyz	None	Fiend	5	2600	1700	0	0	None	None
-Advance Draw	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Advance Force	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-Advance Zone	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-Advanced Dark	Spell	None	None	None	None	0	0	0	0	0	Field	None
-Advanced Heraldry Art	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Advanced Ritual Art	Spell	None	None	None	None	0	0	0	0	0	Ritual	None
-Aegis of Gaia	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-Aegis of the Ocean Dragon Lord	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Aerial Recharge	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-After The Struggle	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-After the Storm	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-After The Struggle	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Against the Wind	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Agido	Monster	Earth	Effect	None	Fairy	4	1500	1300	0	0	None	None
-Air Armor Ninja	Monster	Wind	Effect	None	Warrior	4	1400	1400	0	0	None	None
-Airknight Parshath	Monster	Light	Effect	None	Fairy	5	1900	1400	0	0	None	None
-Airorca	Monster	Wind	Effect	None	Sea Serpent	3	1400	300	0	0	None	None
-Aitsu	Monster	Fire	Normal	None	Fairy	5	100	100	0	0	None	None
-Akakieisu	Monster	Dark	Normal	None	Spellcaster	3	1000	800	0	0	None	None
-Akihiron	Monster	Water	Normal	None	Aqua	5	1700	1400	0	0	None	None
-Akz, the Pumer	Monster	Earth	Effect	None	Beast-Warrior	6	1500	1000	0	0	None	None
-Alchemic Magician	Monster	Dark	Xyz	None	Spellcaster	4	1500	1500	0	0	None	None
-Alchemist of Black Spells	Monster	Wind	Effect	None	Spellcaster	4	1200	1800	0	0	None	None
-Alchemy Cycle	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Alector, Sovereign of Birds	Monster	Wind	Effect	None	Winged Beast	6	2400	2000	0	0	None	None
-Alexandrite Dragon	Monster	Light	Normal	None	Dragon	4	2000	100	0	0	None	None
-Alien Ammonite	Monster	Light	Effect	None	Reptile	1	500	200	0	0	None	None
-Alien Brain	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Alien Dog	Monster	Light	Effect	None	Reptile	3	1500	1000	0	0	None	None
-Alien Grey	Monster	Light	Effect	None	Reptile	2	300	800	0	0	None	None
-Alien Hunter	Monster	Water	Effect	None	Reptile	4	1600	800	0	0	None	None
-Alien Hypno	Monster	Water	Effect	None	Reptile	4	1600	700	0	0	None	None
-Alien Infiltrator	Monster	Earth	Effect	None	Reptile	2	800	500	0	0	None	None
-Alien Kid	Monster	Light	Effect	None	Reptile	4	1600	700	0	0	None	None
-Alien Mars	Monster	Fire	Effect	None	Reptile	3	1000	1000	0	0	None	None
-Alien Mother	Monster	Dark	Effect	None	Reptile	6	2300	1500	0	0	None	None
-Alien Overlord	Monster	Dark	Effect	None	Reptile	6	2200	1600	0	0	None	None
-Alien Psychic	Monster	Dark	Effect	None	Reptile	1	200	100	0	0	None	None
-Alien Shocktrooper	Monster	Earth	Normal	None	Reptile	4	1900	800	0	0	None	None
-Alien Skull	Monster	Wind	Effect	None	Reptile	4	1600	1800	0	0	None	None
-Alien Telepath	Monster	Fire	Effect	None	Reptile	4	1600	1000	0	0	None	None
-Alien Warrior	Monster	Earth	Effect	None	Reptile	4	1800	1000	0	0	None	None
-All-Out Attacks	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-Alligator's Sword	Monster	Earth	Normal	None	Beast	4	1500	1200	0	0	None	None
-Alligator's Sword Dragon	Monster	Wind	Fusion	None	Dragon	5	1700	1500	0	0	None	None
-Allure Queen LV3	Monster	Dark	Effect	None	Spellcaster	3	500	500	0	0	None	None
-Allure Queen LV5	Monster	Dark	Effect	None	Spellcaster	5	1000	1000	0	0	None	None
-Allure of Darkness	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ally Mind	Monster	Dark	Normal	None	Machine	5	1800	1400	0	0	None	None
-Ally Salvo	Monster	Dark	Effect	None	Machine	2	400	300	0	0	None	None
-Ally of Justice Catastor	Monster	Dark	Synchro	None	Machine	5	2200	1200	0	0	None	None
-Ally of Justice Clausolas	Monster	Dark	Normal	None	Machine	6	2300	1200	0	0	None	None
-Ally of Justice Core Destroyer	Monster	Dark	Effect	None	Machine	3	1200	200	0	0	None	None
-Ally of Justice Cosmic Gateway	Monster	Dark	Effect	None	Machine	8	2400	1200	0	0	None	None
-Ally of Justice Cycle Reader	Monster	Dark	Effect	None	Machine	3	1000	1000	0	0	None	None
-Ally of Justice Cyclone Creator	Monster	Dark	Effect	None	Machine	3	1400	1200	0	0	None	None
-Ally of Justice Decisive Armor	Monster	Dark	Synchro	None	Machine	10	3300	3300	0	0	None	None
-Ally of Justice Enemy Catcher	Monster	Dark	Effect	None	Machine	6	1800	1800	0	0	None	None
-Ally of Justice Field Marshal	Monster	Dark	Synchro	None	Machine	9	2900	2600	0	0	None	None
-Ally of Justice Garadholg	Monster	Dark	Effect	None	Machine	4	1600	400	0	0	None	None
-Ally of Justice Light Gazer	Monster	Dark	Synchro	None	Machine	8	2400	1600	0	0	None	None
-Ally of Justice Nullfier	Monster	Dark	Effect	None	Machine	4	1600	1200	0	0	None	None
-Ally of Justice Omni-Weapon	Monster	Dark	Effect	None	Machine	5	2200	800	0	0	None	None
-Ally of Justice Quarantine	Monster	Dark	Effect	None	Machine	4	1700	1200	0	0	None	None
-Ally of Justice Reverse Break	Monster	Dark	Effect	None	Machine	4	1200	1200	0	0	None	None
-Ally of Justice Rudra	Monster	Dark	Effect	None	Machine	5	1900	1200	0	0	None	None
-Ally of Justice Searcher	Monster	Dark	Effect	None	Machine	3	1400	100	0	0	None	None
-Ally of Justice Thousand Arms	Monster	Dark	Effect	None	Machine	4	1700	0	0	0	None	None
-Ally of Justice Thunder Armor	Monster	Dark	Effect	None	Machine	8	2700	2200	0	0	None	None
-Ally of Justice Unknown Crusher	Monster	Dark	Effect	None	Machine	3	1200	800	0	0	None	None
-Ally of Justice Unlimiter	Monster	Dark	Effect	None	Machine	2	600	200	0	0	None	None
-Alpacaribou, Mystical Beast of the Forest	Monster	Earth	Effect	None	Beast	7	2700	2100	0	0	None	None
-Alpha The Magnet Warrior	Monster	Earth	Normal	None	Rock	4	1400	1700	0	0	None	None
-Alsei, the Sylvan High Protector	Monster	Light	Xyz	None	Plant	8	2300	3200	0	0	None	None
-Altar for Tribute	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Temple of the Sun	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-Altitude Knight	Monster	Wind	Effect	None	Warrior	4	1400	1200	0	0	None	None
-Amarylease	Monster	Earth	Effect	None	Plant	1	100	200	0	0	None	None
-Amazoness Archer	Monster	Earth	Effect	None	Warrior	4	1400	1000	0	0	None	None
-Amazoness Archers	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Amazoness Blowpiper	Monster	Earth	Effect	None	Warrior	3	800	1500	0	0	None	None
-Amazoness Chain Master	Monster	Earth	Effect	None	Warrior	4	1500	1300	0	0	None	None
-Amazoness Fighter	Monster	Earth	Effect	None	Warrior	4	1500	1300	0	0	None	None
-Amazoness Fighting Spirit	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-Amazoness Heirloom	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-Amazoness Paladin	Monster	Earth	Effect	None	Warrior	4	1700	300	0	0	None	None
-Amazoness Queen	Monster	Earth	Effect	None	Warrior	6	2400	1800	0	0	None	None
-Amazoness Sage	Monster	Earth	Effect	None	Warrior	4	1400	700	0	0	None	None
-Amazoness Scouts	Monster	Earth	Effect	None	Warrior	2	500	1100	0	0	None	None
-Amazoness Shamanism	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Amazoness Spellcaster	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Amazoness Swords Woman	Monster	Earth	Effect	None	Warrior	4	1500	1600	0	0	None	None
-Amazoness Tiger	Monster	Earth	Effect	None	Beast	4	1100	1500	0	0	None	None
-Amazoness Trainee	Monster	Earth	Effect	None	Warrior	4	1500	1300	0	0	None	None
-Amazoness Village	Spell	None	None	None	None	0	0	0	0	0	Field	None
-Amazoness Willpower	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-Ambitious Gofer	Monster	Dark	Effect	None	Fiend	6	2400	100	0	0	None	None
-Ambulance Rescueroid	Monster	Fire	Fusion	None	Machine	6	2300	1800	0	0	None	None
-Ambulanceroid	Monster	Earth	Effect	None	Machine	3	300	1200	0	0	None	None
-Ambush Fangs	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Ameba	Monster	Water	Effect	None	Aqua	1	300	350	0	0	None	None
-Amores of Prophecy	Monster	Earth	Effect	None	Spellcaster	3	600	2000	0	0	None	None
-Amphibian Beast	Monster	Water	Normal	None	Fish	6	2400	2000	0	0	None	None
-Amphibious Bugroth MK-3	Monster	Water	Effect	None	Machine	4	1500	1300	0	0	None	None
-Amplifier	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-Amulet Dragon	Monster	Dark	Fusion	None	Dragon	8	2900	2500	0	0	None	None
-Amulet of Ambition	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-An Owl of Luck	Monster	Wind	Effect	None	Winged Beast	2	300	500	0	0	None	None
-An Unfortunate Report	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Anarchist Monk Ranshin	Monster	Earth	Effect	None	Spellcaster	4	1800	100	0	0	None	None
-Ancient Brain	Monster	Dark	Normal	None	Fiend	3	1000	700	0	0	None	None
-Ancient City - Rainbow Ruins	Spell	None	None	None	None	0	0	0	0	0	Field	None
-Ancient Crimson Ape	Monster	Light	Effect	None	Beast	7	2600	1800	0	0	None	None
-Ancient Dragon	Monster	Light	Effect	None	Dragon	4	1400	1300	0	0	None	None
-Ancient Elf	Monster	Light	Normal	None	Spellcaster	4	1450	1200	0	0	None	None
-Ancient Fairy Dragon	Monster	Light	Synchro	None	Dragon	7	2100	3000	0	0	None	None
-Ancient Flamvell Deity	Monster	Fire	Synchro	None	Pyro	7	2500	200	0	0	None	None
-Ancient Forest	Spell	None	None	None	None	0	0	0	0	0	Field	None
-Ancient Gear Beast	Monster	Earth	Effect	None	Machine	6	2000	2000	0	0	None	None
-Ancient Gear Box	Monster	Earth	Effect	None	Machine	4	500	2000	0	0	None	None
-Ancient Gear Cannon	Monster	Earth	Effect	None	Machine	2	500	500	0	0	None	None
-Ancient Gear Castle	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
-Ancient Gear Drill	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ancient Gear Engineer	Monster	Earth	Effect	None	Machine	5	1500	1500	0	0	None	None
-Ancient Gear Explosive	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ancient Gear Factory	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ancient Gear Fist	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-Ancient Gear Gadjiltron Chimera	Monster	Earth	Effect	None	Machine	6	2300	1300	0	0	None	None
-Ancient Gear Gadjiltron Dragon	Monster	Earth	Effect	None	Machine	8	3000	2000	0	0	None	None
-Ancient Gear Golem	Monster	Earth	Effect	None	Machine	8	3000	3000	0	0	None	None
-Ancient Gear Knight	Monster	Earth	Effect	None	Machine	4	1800	500	0	0	None	None
-Ancient Gear Soldier	Monster	Earth	Effect	None	Machine	4	1300	1300	0	0	None	None
-Ancient Gear Tank	Spell	None	None	None	None	0	0	0	0	0	Equip	None
-Ancient Gear Workshop	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ancient Jar	Monster	Earth	Normal	None	Rock	1	400	200	0	0	None	None
-Ancient Lamp	Monster	Wind	Effect	None	Spellcaster	3	900	1400	0	0	None	None
-Ancient Leaf	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ancient Lizard Warrior	Monster	Earth	Normal	None	Reptile	4	1400	1100	0	0	None	None
-Ancient One of the Deep Forest	Monster	Earth	Normal	None	Beast	6	1800	1900	0	0	None	None
-Ancient Pixie Dragon	Monster	Dark	Synchro	None	Dragon	7	2100	3000	0	0	None	None
-Ancient Rules	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ancient Sacred Wyvern	Monster	Light	Synchro	None	Fairy	7	2100	2000	0	0	None	None
-Ancient Telescope	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Ancient Tool	Monster	Dark	Normal	None	Machine	5	1700	1400	0	0	None	None
-Ancient Tree of Enlightenment	Monster	Earth	Normal	None	Plant	3	600	1500	0	0	None	None
-And the Band Played On	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-Andro Sphinx	Monster	Light	Effect	None	Beast	10	3000	2500	0	0	None	None
-Angel O7	Monster	Light	Effect	None	Fairy	7	2500	1500	0	0	None	None
-Angel of Zera	Monster	Light	Synchro	None	Fairy	8	2800	2300	0	0	None	None
-Ansatsu	Monster	Earth	Normal	None	Warrior	5	1700	1200	0	0	None	None
-Ante	Spell	None	None	None	None	0	0	0	0	0	Normal	None
-Anteatereatingant	Monster	Earth	Effect	None	Insect	5	2000	500	0	0	None	None
-Anthrosaurus	Monster	Earth	Normal	None	Dinosaur	3	1000	850	0	0	None	None
-Anti Raigeki	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Anti-Aircraft Flower	Monster	Earth	Effect	None	Plant	3	0	1600	0	0	None	None
-Anti-Fusion Device	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Anti-Magic Prism	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Anti-Spell	Trap	None	None	None	None	0	0	0	0	0	None	Counter
-Anti-Spell Fragrance	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-Ape Fighter	Monster	Dark	Effect	None	Beast	4	1900	1200	0	0	None	None
-Ape Magician	Monster	Dark	Effect	None	Beast	3	800	1200	0	0	None	None
-Apocatequil	Monster	Light	Effect	None	Thunder	4	1800	1200	0	0	None	None
-Appointer of the Red Lotus	Trap	None	None	None	None	0	0	0	0	0	None	Normal
-Apprentice Magician	Monster	Dark	Effect	None	Spellcaster	2	400	800	0	0	None	None
-Appropriate	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
-Aqua Armor Ninja	Monster	Water	Effect	None	Warrior	4	800	1600	0	0	None	None
-Aqua Chorus	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
+Dark Magic Attack	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+Dark Magic Curtain	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+Dark Magician	Monster	DARK	Normal	None	Spellcaster	7	2500	2100	0	0	None	None
+Dark Magician Girl	Monster	DARK	Effect	None	Spellcaster	6	2000	1700	0	0	None	None
+Dark Magician Girl the Dragon Knight	Monster	DARK	Fusion	Effect	Dragon	7	2600	1700	0	0	None	None
+Dark Magician Knight	Monster	DARK	Effect	None	Warrior	7	2500	2100	0	0	None	None
+Dark Magician of Chaos	Monster	DARK	Effect	None	Spellcaster	8	2800	2600	0	0	None	None
+Dark Mambele	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+Dark Master - Zorc	Monster	DARK	Ritual	Effect	Fiend	8	2700	1500	0	0	None	None
+Dark Mimic LV1	Monster	DARK	Effect	None	Fiend	1	100	1000	0	0	None	None
+Dark Mimic LV3	Monster	DARK	Effect	None	Fiend	3	1000	1000	0	0	None	None
+Dark Mirror Force	Trap	None	None	None	None	0	0	0	0	0	None	Normal
+Dark Necrofear	Monster	DARK	Effect	None	Fiend	8	2200	2800	0	0	None	None
+Dark Nephthys	Monster	DARK	Effect	None	Winged Beast	8	2400	1600	0	0	None	None
+Dark Paladin	Monster	DARK	Fusion	Effect	Spellcaster	8	2900	2400	0	0	None	None
+Dark Plant	Monster	DARK	Normal	None	Plant	1	300	400	0	0	None	None
+Dark Prisoner	Monster	DARK	Normal	None	Fiend	3	600	1000	0	0	None	None
+Dark Rabbit	Monster	DARK	Normal	None	Beast	4	1100	1500	0	0	None	None
+Dark Red Enchanter	Monster	DARK	Effect	None	Spellcaster	6	1700	2200	0	0	None	None
+Dark Resonator	Monster	DARK	Tuner	None	Fiend	3	1300	300	0	0	None	None
+Dark Room of Nightmare	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
+Dark Ruler Ha Des	Monster	DARK	Effect	None	Fiend	6	2450	1600	0	0	None	None
+Dark Sage	Monster	DARK	Effect	None	Spellcaster	9	2800	3200	0	0	None	None
+Dark Scheme	Trap	None	None	None	None	0	0	0	0	0	None	Normal
+Dark Scorpion - Chick the Yellow	Monster	DARK	Effect	None	Warrior	3	1000	1000	0	0	None	None
+Dark Scorpion - Cliff the Trap Remover	Monster	DARK	Effect	None	Warrior	3	1200	1000	0	0	None	None
+Dark Scorpion - Gorg the Strong	Monster	DARK	Effect	None	Warrior	5	1800	1500	0	0	None	None
+Dark Scorpion - Meanae the Thorn	Monster	DARK	Effect	None	Warrior	4	1000	1800	0	0	None	None
+Dark Scorpion Burglars	Monster	DARK	Effect	None	Warrior	4	1000	1000	0	0	None	None
+Dark Scorpion Combination	Trap	None	None	None	None	0	0	0	0	0	None	Normal
+Dark Shade	Monster	WIND	Normal	None	Fiend	3	1000	1000	0	0	None	None
+Dark Simorgh	Monster	DARK	Effect	None	Winged Beast	7	2700	1000	0	0	None	None
+Dark Smog	Trap	None	None	None	None	0	0	0	0	0	None	Continuous
+Dark Snake Syndrome	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
+Dark Spider	Monster	DARK	Effect	None	Insect	1	0	0	0	0	None	None
+Dark Spirit Art - Greed	Trap	None	None	None	None	0	0	0	0	0	None	Normal
+Dark Spirit of the Silent	Trap	None	None	None	None	0	0	0	0	0	None	Normal
+Dark Strike Fighter	Monster	DARK	Synchro	Effect	Machine	7	2600	1800	0	0	None	None
+Dark Tinker	Monster	DARK	Tuner	None	Fiend	2	1000	1300	0	0	None	None
+Dark Titan of Terror	Monster	DARK	Normal	None	Fiend	4	1300	1100	0	0	None	None
+Dark Valkyria	Monster	DARK	Gemini	None	Fairy	4	1800	1050	0	0	None	None
+Dark Verger	Monster	EARTH	Effect	None	Plant	2	0	1000	0	0	None	None
+Dark Voltanis	Monster	DARK	Effect	None	Fairy	8	2800	1400	0	0	None	None
+Dark Witch	Monster	LIGHT	Normal	None	Fairy	5	1800	1700	0	0	None	None
+Dark World Dealings	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+Dark World Grimoire	Spell	None	None	None	None	0	0	0	0	0	Continuous	None
+Dark World Lightning	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+Dark Zebra	Monster	EARTH	Effect	None	Beast	4	1800	400	0	0	None	None
+Dark-Eyes Illusionist	Monster	DARK	Effect	None	Spellcaster	2	0	1400	0	0	None	None
+Darkbishop Archfiend	Monster	WATER	Effect	None	Fiend	3	300	1400	0	0	None	None
+Darkblaze Dragon	Monster	FIRE	Effect	None	Dragon	7	1200	1000	0	0	None	None
+Darkfire Dragon	Monster	DARK	Fusion	None	Dragon	4	1500	1250	0	0	None	None
+Darkfire Soldier #1	Monster	FIRE	Normal	None	Pyro	4	1700	1150	0	0	None	None
+Darkfire Soldier #2	Monster	FIRE	Normal	None	Pyro	4	1700	1100	0	0	None	None
+Darkflare Dragon	Monster	DARK	Effect	None	Dragon	5	2400	1200	0	0	None	None
+Darklight	Trap	None	None	None	None	0	0	0	0	0	None	Normal
+Darklon	Monster	DARK	Effect	None	Fiend	1	100	100	0	0	None	None
+Darklord Desire	Monster	DARK	Effect	None	Fairy	10	3000	2800	0	0	None	None
+Darklord Zerato	Monster	DARK	Effect	None	Fairy	8	2800	2300	0	0	None	None
+Darkness Approaches	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+Darkness Destroyer	Monster	DARK	Effect	None	Fiend	7	2300	1800	0	0	None	None
+Darknight Parshath	Monster	DARK	Effect	None	Fairy	5	1900	1400	0	0	None	None
+Darksea Float	Monster	DARK	Effect	None	Machine	1	0	300	0	0	None	None
+Darksea Rescue	Monster	DARK	Effect	None	Machine	1	0	0	0	0	None	None
+Darkstorm Dragon	Monster	DARK	Gemini	None	Dragon	8	2700	2500	0	0	None	None
+Darkworld Shackles	Spell	None	None	None	None	0	0	0	0	0	Equip	None
+Darkworld Thorns	Monster	EARTH	Normal	None	Plant	3	1200	900	0	0	None	None
+Dash Warrior	Monster	WIND	Effect	None	Warrior	3	600	1200	0	0	None	None
+Dawn Knight	Monster	LIGHT	Effect	None	Warrior	4	1400	1200	0	0	None	None
+Dawn of the Herald	Spell	None	None	None	None	0	0	0	0	0	Ritual	None
+Dawnbreak Gardna	Monster	LIGHT	Gemini	None	Warrior	3	1500	500	0	0	None	None
+Daybreaker	Monster	LIGHT	Effect	None	Warrior	4	1700	0	0	0	None	None
+De-Fusion	Spell	None	None	None	None	0	0	0	0	0	Quick-Play	None
+De-Spell	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+De-Synchro	Spell	None	None	None	None	0	0	0	0	0	Normal	None
+Deal of Phantom	Trap	None	None	None	None	0	0	0	0	0	None	Normal
+Debris Dragon	Monster	WIND	Tuner	None	Dragon	4	1000	2000	0	0	None	None
