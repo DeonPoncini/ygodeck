@@ -23,6 +23,64 @@ std::string DBEsc(const std::string& s)
     return std::string("'") + s + "'";
 }
 
+std::string DBPair(const std::string& key, const std::string& value)
+{
+    return key + "= " + DBEsc(value);
+}
+
+std::string DBFuzzyPair(const std::string& key, const std::string& value)
+{
+    return key + " LIKE " + DBEsc(std::string("%") + value + "%");
+}
+
+std::string DBNull()
+{
+    return "NULL";
+}
+
+std::string DBList(const std::vector<std::string>& list)
+{
+    std::string s;
+    if (list.empty())
+    {
+        return s;
+    }
+
+    s += DBNull();
+    for (auto&& l : list)
+    {
+        s += "," + DBEsc(l);
+    }
+    return s;
+}
+
+std::string DBUnique(const std::string& s)
+{
+    return std::string("DISTINCT ") + s;
+}
+
+std::string DBAnd(const std::vector<std::string>& list)
+{
+    std::string where = "(";
+    for (auto&& q : list)
+    {
+        where += q + " AND ";
+    }
+    where += "1)";
+    return where;
+}
+
+std::string DBOr(const std::vector<std::string>& list)
+{
+    std::string where = "(";
+    for (auto&& q : list)
+    {
+        where += q + " OR ";
+    }
+    where += "0)";
+    return where;
+}
+
 DB::DB(const char* name)
 {
     if (sqlite3_open(name,&mDB))

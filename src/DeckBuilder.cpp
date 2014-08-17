@@ -41,13 +41,14 @@ DeckBuilder::create(const std::string& name, Format format,
 
     // create the deck set entry
     mDB.insert("deck_set",
-            std::string("NULL,") +
-            DBEsc(name) + "," +
-            DBEsc(fromFormat(format)) + "," +
-            DBEsc(formatDate) + "," +
-            DBEsc(mMainID) + "," +
-            DBEsc(mSideID) + "," +
-            DBEsc(mExtraID),
+            DBList({
+                name,
+                fromFormat(format),
+                formatDate,
+                mMainID,
+                mSideID,
+                mExtraID
+                }),
             [&](DB::DataMap){});
 
     return DeckCreateError::OK;
@@ -72,7 +73,10 @@ DeckBuilder::addCard(DeckType deck, const std::string& name)
 
     // otherwise insert into the deck
     mDB.insert("deck_to_cards",
-            std::string("NULL, ") + deckTypeToId(deck) + "," + id,
+            DBList({
+                deckTypeToId(deck),
+                id
+                }),
             [&](DB::DataMap){});
 
     return DeckError::OK;
@@ -93,7 +97,7 @@ DeckBuilder::formatDates()
 {
     FormatType ft;
     // get all the format dates
-    mDB.select("DISTINCT name","formats","1",
+    mDB.select(DBUnique("name"),"formats","1",
             [&](DB::DataMap data)
             {
                 for (auto&& kv : data)
@@ -112,8 +116,9 @@ std::string DeckBuilder::deckID(DeckType deckType)
 {
     std::string id;
     mDB.select("deck_id","deck",
-            std::string("name = ") + DBEsc(mName) + " AND type = " +
-            DBEsc(fromDeckType(deckType)), [&](DB::DataMap data)
+            DBAnd({DBPair("name",mName),
+                DBPair("type",fromDeckType(deckType))})
+            , [&](DB::DataMap data)
             {
                 for (auto&& kv : data)
                 {
@@ -125,15 +130,18 @@ std::string DeckBuilder::deckID(DeckType deckType)
 
 void DeckBuilder::createDeck(DeckType deckType)
 {
-    mDB.insert("deck",std::string("NULL,") + DBEsc(mName) + "," +
-            DBEsc(fromDeckType(deckType)), [&](DB::DataMap){});
+    mDB.insert("deck",
+            DBList({
+                mName,
+                fromDeckType(deckType)
+                }), [&](DB::DataMap){});
 }
 
 bool DeckBuilder::exists()
 {
     auto exists = false;
     mDB.select("name","deck_set",
-            std::string("name = ") + DBEsc(mName),
+            DBPair("name",mName),
             [&](DB::DataMap data)
             {
                 if (data.size() > 0)
@@ -148,7 +156,7 @@ bool DeckBuilder::formatExists()
 {
     auto formatExists = true;
     mDB.select("format_id", "formats",
-            std::string("name = ") + DBEsc(mFormatDate),
+            DBPair("name",mFormatDate),
             [&](DB::DataMap data)
             {
                 if (data.size() == 0)
@@ -163,7 +171,7 @@ std::string DeckBuilder::cardID(const std::string& name)
 {
     std::string id;
     mDB.select("card_id","card",
-            std::string("name = ") + DBEsc(name),
+            DBPair("name",name),
             [&](DB::DataMap data)
             {
                 for (auto&& kv : data)
@@ -179,10 +187,12 @@ int DeckBuilder::cardCount(const std::string& id)
     // look up this card in the formats database
     auto count = 0;
     mDB.select("card_status","formats",
-            std::string("card_id = ") + DBEsc(id) + " AND " +
-            "(name = " + DBEsc(mFormatDate) + " OR name = "
-            + DBEsc(fromLimitation(Limitation::ILLEGAL)) + ")"
-            ,[&](DB::DataMap data)
+            DBAnd({
+                DBPair("card_id",id),
+                DBOr({
+                    DBPair("name",mFormatDate),
+                    DBPair("name",fromLimitation(Limitation::ILLEGAL))})}),
+            [&](DB::DataMap data)
             {
                 if (data.size() == 0)
                 {
@@ -204,7 +214,9 @@ int DeckBuilder::cardCheck(const std::string& cardid,
 {
     auto count = 0;
     mDB.select("relation_id","deck_to_cards",
-            "deck_id = " + DBEsc(deckid) + " AND card_id = " + DBEsc(cardid),
+            DBAnd({
+                DBPair("deck_id",deckid),
+                DBPair("card_id",cardid)}),
             [&](DB::DataMap data)
             {
                 count = data.size();

@@ -6,6 +6,7 @@
 #include <functional>
 #include <string>
 #include <unordered_map>
+#include <vector>
 
 namespace ygo
 {
@@ -23,6 +24,13 @@ enum class Operator
 std::string operator_to_string(Operator op);
 
 std::string DBEsc(const std::string& s);
+std::string DBPair(const std::string& key, const std::string& value);
+std::string DBFuzzyPair(const std::string& key, const std::string& value);
+std::string DBAnd(const std::vector<std::string>& list);
+std::string DBOr(const std::vector<std::string>& list);
+std::string DBNull();
+std::string DBList(const std::vector<std::string>& list);
+std::string DBUnique(const std::string& s);
 
 class DB
 {
