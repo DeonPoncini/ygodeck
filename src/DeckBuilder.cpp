@@ -283,7 +283,7 @@ int DeckBuilder::cardCheck(const std::string& cardid,
                 DBPair("card_id",cardid)}),
             [&](DB::DataMap data)
             {
-                count = data.size();
+                count += data.size();
             });
     return count;
 }
