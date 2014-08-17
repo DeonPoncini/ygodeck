@@ -54,6 +54,42 @@ DeckBuilder::create(const std::string& name, Format format,
     return DeckCreateError::OK;
 }
 
+DeckBuilder::DeckOpenError
+DeckBuilder::open(const std::string& name)
+{
+    mName = name;
+    if (!exists())
+    {
+        return DeckOpenError::DOES_NOT_EXIST;
+    }
+    // select the rest of the information
+    mDB.select("format","deck_set",
+            DBPair("name",mName),
+            [&](DB::DataMap data)
+            {
+                for (auto&& f : data)
+                {
+                    mFormat = toFormat(f.second);
+                }
+            });
+
+    mDB.select("format_date","deck_set",
+            DBPair("name",mName),
+            [&](DB::DataMap data)
+            {
+                for (auto&& f : data)
+                {
+                    mFormatDate = std::string(f.second);
+                }
+            });
+
+    mMainID = deckID(DeckType::MAIN);
+    mSideID = deckID(DeckType::SIDE);
+    mExtraID = deckID(DeckType::EXTRA);
+
+    return DeckOpenError::OK;
+}
+
 DeckBuilder::DeckError
 DeckBuilder::addCard(DeckType deck, const std::string& name)
 {
@@ -80,6 +116,35 @@ DeckBuilder::addCard(DeckType deck, const std::string& name)
             [&](DB::DataMap){});
 
     return DeckError::OK;
+}
+
+std::vector<std::string> DeckBuilder::getCards(DeckType deck)
+{
+    std::vector<std::string> ids;
+    mDB.select("card_id","deck_to_cards",
+            DBPair("deck_id",deckTypeToId(deck)),
+            [&](DB::DataMap data)
+            {
+                for (auto&& d : data)
+                {
+                    ids.push_back(d.second);
+                }
+            });
+
+    std::vector<std::string> names;
+    for (auto&& i : ids)
+    {
+        mDB.select("name","card",
+                DBPair("card_id",i),
+                [&](DB::DataMap data)
+                {
+                    for (auto&& d : data)
+                    {
+                        names.push_back(d.second);
+                    }
+                });
+    }
+    return names;
 }
 
 DeckBuilder::FormatType
@@ -154,14 +219,14 @@ bool DeckBuilder::exists()
 
 bool DeckBuilder::formatExists()
 {
-    auto formatExists = true;
+    auto formatExists = false;
     mDB.select("format_id", "formats",
             DBPair("name",mFormatDate),
             [&](DB::DataMap data)
             {
-                if (data.size() == 0)
+                if (data.size() > 0)
                 {
-                    formatExists = false;
+                    formatExists = true;
                 }
             });
     return formatExists;

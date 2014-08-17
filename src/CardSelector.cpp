@@ -10,6 +10,29 @@ CardSelector::CardSelector() :
 {
 }
 
+StaticCardData CardSelector::query(const std::string& name)
+{
+    StaticCardData s;
+    mDB.select("*","card",DBPair("name",name),
+            [&](DB::DataMap data)
+            {
+                s.name = name;
+                s.cardType = toCardType(data["cardType"]);
+                s.attribute = toAttribute(data["attribute"]);
+                s.monsterType = toMonsterType(data["monsterType"]);
+                s.type = toType(data["type"]);
+                s.monsterAbility = toMonsterAbility(data["monsterAbility"]);
+                s.level = std::atoi(data["level"].c_str());
+                s.attack = std::atoi(data["attack"].c_str());
+                s.defense = std::atoi(data["defense"].c_str());
+                s.lpendulum = std::atoi(data["lpendulum"].c_str());
+                s.rpendulum = std::atoi(data["rpendulum"].c_str());
+                s.spellType = toSpellType(data["spellType"]);
+                s.trapType = toTrapType(data["trapType"]);
+            });
+    return s;
+}
+
 CardSelector::CardList CardSelector::execute()
 {
     CardList list;

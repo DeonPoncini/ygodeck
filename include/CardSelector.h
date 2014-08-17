@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-#include "CardType.h"
+#include "CardData.h"
 #include "DB.h"
 
 namespace ygo
@@ -15,6 +15,8 @@ class CardSelector
 public:
     typedef std::vector<std::string> CardList;
     CardSelector();
+
+    StaticCardData query(const std::string& name);
 
     CardList execute();
 

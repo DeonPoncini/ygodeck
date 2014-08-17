@@ -29,15 +29,27 @@ public:
         INVALID_FORMAT
     };
 
+    enum class DeckOpenError
+    {
+        OK,
+        DOES_NOT_EXIST
+    };
+
     DeckBuilder();
 
     DeckCreateError create(const std::string& name, Format format,
             const std::string& formatDate);
 
+    DeckOpenError open(const std::string& name);
+
     DeckError addCard(DeckType deck, const std::string& name);
+    std::vector<std::string> getCards(DeckType deck);
 
     FormatType formats() const;
     FormatType formatDates();
+
+    inline Format format() const { return mFormat; }
+    inline std::string formatDate() const { return mFormatDate; }
 
 private:
     DB mDB;

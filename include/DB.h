@@ -35,7 +35,7 @@ std::string DBUnique(const std::string& s);
 class DB
 {
 public:
-    typedef std::unordered_map<const char*, const char*> DataMap;
+    typedef std::unordered_map<std::string, std::string> DataMap;
     typedef std::function<void(DataMap)> DataMapFn;
 
     explicit DB(const char* name);
