@@ -34,7 +34,7 @@ CREATE TABLE deck(
 CREATE TABLE formats (
     format_id INTEGER PRIMARY KEY,
     name TEXT,
-    card_id INTEGER,
+    card_name TEXT,
     card_status INTEGER
 );
 

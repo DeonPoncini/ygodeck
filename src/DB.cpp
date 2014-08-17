@@ -61,23 +61,33 @@ std::string DBUnique(const std::string& s)
 
 std::string DBAnd(const std::vector<std::string>& list)
 {
-    std::string where = "(";
-    for (auto&& q : list)
+    if (list.empty())
     {
-        where += q + " AND ";
+        return "1";
     }
-    where += "1)";
+    std::string where = "(";
+    where += list[0];
+    for (auto i = 1; i < list.size(); ++i)
+    {
+        where += " AND " + list[i];
+    }
+    where += ")";
     return where;
 }
 
 std::string DBOr(const std::vector<std::string>& list)
 {
-    std::string where = "(";
-    for (auto&& q : list)
+    if (list.empty())
     {
-        where += q + " OR ";
+        return "1";
     }
-    where += "0)";
+    std::string where = "(";
+    where += list[0];
+    for (auto i = 1; i < list.size(); ++i)
+    {
+        where += " OR " + list[i];
+    }
+    where += ")";
     return where;
 }
 
@@ -151,6 +161,5 @@ void DB::exec(const std::string& statement, DataMapFn f)
         throw std::runtime_error(err);
     }
 }
-
 
 }

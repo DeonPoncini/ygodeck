@@ -60,7 +60,7 @@ DeckBuilder::addCard(DeckType deck, const std::string& name)
     // get the card id
     auto id = cardID(name);
     // check how many of this card can be put into the deck
-    auto count = cardCount(id);
+    auto count = cardCount(name);
     // check how many of this card we already have
     auto exist = cardCheck(id,mMainID);
     exist += cardCheck(id,mSideID);
@@ -182,30 +182,29 @@ std::string DeckBuilder::cardID(const std::string& name)
     return id;
 }
 
-int DeckBuilder::cardCount(const std::string& id)
+int DeckBuilder::cardCount(const std::string& name)
 {
     // look up this card in the formats database
     auto count = 0;
+    auto callback = false;
     mDB.select("card_status","formats",
             DBAnd({
-                DBPair("card_id",id),
+                DBPair("card_id",name),
                 DBOr({
                     DBPair("name",mFormatDate),
                     DBPair("name",fromLimitation(Limitation::ILLEGAL))})}),
             [&](DB::DataMap data)
             {
-                if (data.size() == 0)
+                callback = true;
+                for (auto&& kv : data)
                 {
-                    count = limitation(Limitation::UNLIMITED);
-                }
-                else
-                {
-                    for (auto&& kv : data)
-                    {
-                        count = limitation(toLimitation(kv.second));
-                    }
+                    count = limitation(toLimitation(kv.second));
                 }
             });
+    if (!callback)
+    {
+        count = limitation(Limitation::UNLIMITED);
+    }
     return count;
 }
 

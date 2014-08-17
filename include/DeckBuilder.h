@@ -55,7 +55,7 @@ private:
     bool exists();
     bool formatExists();
     std::string cardID(const std::string& name);
-    int cardCount(const std::string& id);
+    int cardCount(const std::string& name);
     int cardCheck(const std::string& cardid, const std::string& deckid);
 
     std::string deckTypeToId(DeckType deckType) const;
