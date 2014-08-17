@@ -38,6 +38,21 @@ std::string DBNull()
     return "NULL";
 }
 
+std::string DBTrue()
+{
+    return "1";
+}
+
+std::string DBFalse()
+{
+    return "0";
+}
+
+std::string DBAll()
+{
+    return "*";
+}
+
 std::string DBList(const std::vector<std::string>& list)
 {
     std::string s;
@@ -50,6 +65,22 @@ std::string DBList(const std::vector<std::string>& list)
     for (auto&& l : list)
     {
         s += "," + DBEsc(l);
+    }
+    return s;
+}
+
+std::string DBKeyList(const std::vector<std::string>& list)
+{
+    std::string s;
+    if (list.empty())
+    {
+        return s;
+    }
+
+    s += DBNull();
+    for (auto&& l : list)
+    {
+        s += "," + l;
     }
     return s;
 }
@@ -125,27 +156,26 @@ void DB::select(const std::string& select, const std::string& from,
     exec(sql,f);
 }
 
-void DB::insert(const std::string& insert, const std::string& values,
-            DataMapFn f)
+void DB::insert(const std::string& insert, const std::string& values)
 {
     std::string sql("INSERT INTO ");
     sql += insert + " VALUES(" + values + ")";
-    exec(sql,f);
+    exec(sql,[&](DB::DataMap){});
 }
 
 void DB::update(const std::string& update, const std::string& set,
-            const std::string& where, DataMapFn f)
+        const std::string& where)
 {
     std::string sql("UPDATE ");
     sql += update + " SET " + set + " WHERE " + where;
-    exec(sql,f);
+    exec(sql,[&](DB::DataMap){});
 }
 
-void DB::del(const std::string& del, const std::string& where, DataMapFn f)
+void DB::del(const std::string& del, const std::string& where)
 {
     std::string sql("DELETE FROM ");
     sql += del + " WHERE " + where;
-    exec(sql,f);
+    exec(sql,[&](DB::DataMap){});
 }
 
 void DB::exec(const std::string& statement, DataMapFn f)

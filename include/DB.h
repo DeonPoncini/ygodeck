@@ -30,7 +30,11 @@ std::string DBAnd(const std::vector<std::string>& list);
 std::string DBOr(const std::vector<std::string>& list);
 std::string DBNull();
 std::string DBList(const std::vector<std::string>& list);
+std::string DBKeyList(const std::vector<std::string>& list);
 std::string DBUnique(const std::string& s);
+std::string DBTrue();
+std::string DBFalse();
+std::string DBAll();
 
 class DB
 {
@@ -45,11 +49,10 @@ public:
 
     void select(const std::string& select, const std::string& from,
             const std::string& where, DataMapFn f);
-    void insert(const std::string& insert, const std::string& values,
-            DataMapFn f);
+    void insert(const std::string& insert, const std::string& values);
     void update(const std::string& update, const std::string& set,
-            const std::string& where, DataMapFn f);
-    void del(const std::string& del, const std::string& where, DataMapFn f);
+            const std::string& where);
+    void del(const std::string& del, const std::string& where);
 
     void exec(const std::string& statement, DataMapFn f);
 

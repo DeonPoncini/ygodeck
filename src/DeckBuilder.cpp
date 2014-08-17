@@ -48,8 +48,7 @@ DeckBuilder::create(const std::string& name, Format format,
                 mMainID,
                 mSideID,
                 mExtraID
-                }),
-            [&](DB::DataMap){});
+                }));
 
     return DeckCreateError::OK;
 }
@@ -63,24 +62,12 @@ DeckBuilder::open(const std::string& name)
         return DeckOpenError::DOES_NOT_EXIST;
     }
     // select the rest of the information
-    mDB.select("format","deck_set",
+    mDB.select(DBKeyList({"format","format_date"}),"deck_set",
             DBPair("name",mName),
             [&](DB::DataMap data)
             {
-                for (auto&& f : data)
-                {
-                    mFormat = toFormat(f.second);
-                }
-            });
-
-    mDB.select("format_date","deck_set",
-            DBPair("name",mName),
-            [&](DB::DataMap data)
-            {
-                for (auto&& f : data)
-                {
-                    mFormatDate = std::string(f.second);
-                }
+                mFormat = toFormat(data["format"]);
+                mFormatDate = data["format_date"];
             });
 
     mMainID = deckID(DeckType::MAIN);
@@ -112,8 +99,7 @@ DeckBuilder::addCard(DeckType deck, const std::string& name)
             DBList({
                 deckTypeToId(deck),
                 id
-                }),
-            [&](DB::DataMap){});
+                }));
 
     return DeckError::OK;
 }
@@ -125,10 +111,7 @@ std::vector<std::string> DeckBuilder::getCards(DeckType deck)
             DBPair("deck_id",deckTypeToId(deck)),
             [&](DB::DataMap data)
             {
-                for (auto&& d : data)
-                {
-                    ids.push_back(d.second);
-                }
+                ids.push_back(data["card_id"]);
             });
 
     std::vector<std::string> names;
@@ -138,10 +121,7 @@ std::vector<std::string> DeckBuilder::getCards(DeckType deck)
                 DBPair("card_id",i),
                 [&](DB::DataMap data)
                 {
-                    for (auto&& d : data)
-                    {
-                        names.push_back(d.second);
-                    }
+                    names.push_back(data["name"]);
                 });
     }
     return names;
@@ -162,17 +142,15 @@ DeckBuilder::formatDates()
 {
     FormatType ft;
     // get all the format dates
-    mDB.select(DBUnique("name"),"formats","1",
+    mDB.select(DBUnique("name"),"formats",DBTrue(),
             [&](DB::DataMap data)
             {
-                for (auto&& kv : data)
+                auto format = data["name"];
+                if (format == fromLimitation(Limitation::ILLEGAL))
                 {
-                    if (kv.second == fromLimitation(Limitation::ILLEGAL))
-                    {
-                        continue;
-                    }
-                    ft.push_back(kv.second);
+                    return;
                 }
+                ft.push_back(format);
             });
     return ft;
 }
@@ -185,10 +163,7 @@ std::string DeckBuilder::deckID(DeckType deckType)
                 DBPair("type",fromDeckType(deckType))})
             , [&](DB::DataMap data)
             {
-                for (auto&& kv : data)
-                {
-                    id = kv.second;
-                }
+                id = data["deck_id"];
             });
     return id;
 }
@@ -199,7 +174,7 @@ void DeckBuilder::createDeck(DeckType deckType)
             DBList({
                 mName,
                 fromDeckType(deckType)
-                }), [&](DB::DataMap){});
+                }));
 }
 
 bool DeckBuilder::exists()
@@ -209,10 +184,7 @@ bool DeckBuilder::exists()
             DBPair("name",mName),
             [&](DB::DataMap data)
             {
-                if (data.size() > 0)
-                {
-                    exists = true;
-                }
+                exists = true;
             });
     return exists;
 }
@@ -224,10 +196,7 @@ bool DeckBuilder::formatExists()
             DBPair("name",mFormatDate),
             [&](DB::DataMap data)
             {
-                if (data.size() > 0)
-                {
-                    formatExists = true;
-                }
+                formatExists = true;
             });
     return formatExists;
 }
@@ -239,10 +208,7 @@ std::string DeckBuilder::cardID(const std::string& name)
             DBPair("name",name),
             [&](DB::DataMap data)
             {
-                for (auto&& kv : data)
-                {
-                    id = kv.second;
-                }
+                id = data["card_id"];
             });
     return id;
 }
@@ -261,10 +227,7 @@ int DeckBuilder::cardCount(const std::string& name)
             [&](DB::DataMap data)
             {
                 callback = true;
-                for (auto&& kv : data)
-                {
-                    count = limitation(toLimitation(kv.second));
-                }
+                count = limitation(toLimitation(data["card_status"]));
             });
     if (!callback)
     {

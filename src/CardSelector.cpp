@@ -13,7 +13,7 @@ CardSelector::CardSelector() :
 StaticCardData CardSelector::query(const std::string& name)
 {
     StaticCardData s;
-    mDB.select("*","card",DBPair("name",name),
+    mDB.select(DBAll(),"card",DBPair("name",name),
             [&](DB::DataMap data)
             {
                 s.name = name;
