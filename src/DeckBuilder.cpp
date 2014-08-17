@@ -80,6 +80,12 @@ DeckBuilder::open(const std::string& name)
 DeckBuilder::DeckError
 DeckBuilder::addCard(DeckType deck, const std::string& name)
 {
+    // check if we are at the limit
+    auto cards = getCards(deck);
+    if (cards.size() >= DeckLimits[deck].second)
+    {
+        return DeckError::DECK_FULL;
+    }
     // get the card id
     auto id = cardID(name);
     // check how many of this card can be put into the deck

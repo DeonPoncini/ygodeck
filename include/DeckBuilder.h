@@ -19,7 +19,8 @@ public:
     {
         OK,
         FORBIDDEN,
-        LIMIT_REACHED
+        LIMIT_REACHED,
+        DECK_FULL
     };
 
     enum class DeckCreateError
