@@ -133,6 +133,12 @@ std::vector<std::string> DeckBuilder::getCards(DeckType deck)
     return names;
 }
 
+void DeckBuilder::deleteCard(DeckType deck, const std::string& name)
+{
+    auto cardid = cardID(name);
+    mDB.del(deckTypeToId(deck),DBPair("card_id",cardid));
+}
+
 DeckBuilder::FormatType
 DeckBuilder::formats() const
 {

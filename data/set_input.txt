@@ -248,3 +248,180 @@ Numbers Guide 3 promotional card	(OCG-JP)	2
 The Valuable Book promotional cards	(OCG-JP)	2
 Primal Origin Booster Pack Guide promotional card	(OCG-JP)	2
 Perfect Rulebook promotional card	(OCG-JP)	2
+# Boost Pack Tin Series Promos
+2002 Booster Pack Tins 	(TCG-NA)	0
+2003 Booster Pack Tins 	(TCG-NA)	0
+# 2004 Collector Tins
+2005 Collector Tins	(TCG-EN)	0
+# 2006 Collector Tins
+# 2007 Collector Tins
+# 2008 Collector Tins
+# 2009 Collector Tins
+# 2010 Collector Tins
+Collectible Tins 2011 Wave 1	(TCG-EN)	0
+Collectible Tins 2011 Wave 2	(TCG-EN)	0
+Collectible Tins 2012 Wave 1	(TCG-EN)	0
+Collectible Tins 2012 Wave 2	(TCG-EN)	0
+Collectible Tins 2012 Wave 2.5	(TCG-EN)	0
+Collectible Tins 2013 Wave 1	(TCG-EN)	0
+Collectible Tins 2013 Wave 2	(TCG-EN)	0
+Duelist Pack Collection	(OCG-JP)	2
+Duelist Pack Collection Tin 2008	(TCG-EN)	0
+Duelist Pack Collection Tin: Jaden Yuki	(TCG-EN)	0
+Duelist Pack Collection Tin 2009	(TCG-EN)	0
+Duelist Pack Collection Tin 2010	(TCG-EN)	0
+Duelist Pack Collection Tin 2011	(TCG-EN)	0
+Master Collection Volume 1	(TCG-EN)	0
+Master Collection Volume 2	(TCG-EN)	0
+Master Collection Volume 3	(OCG-JP)	2
+Collectors Tin 2009	(OCG-JP)	2
+Exclusive Tins 2008	(TCG-EN)	0
+Exclusive Tins 2009	(TCG-EN)	0
+Premium Collection Tin	(TCG-EN)	0
+2013 Zexal Collection Tin	(TCG-EN)	0
+# Dark Duel Stories Game Guide 1 Promos
+# Dark Duel Stories Game Guide 2 Promos
+# Tri Holy God Advent Game Guide 1 Promos
+# Tri Holy God Advent Game Guide 2 Promos
+# Battle of Great Duelist Game Guide 1 Promos
+# Battle of Great Duelist Game Guide 2 Promos
+# Expert 1 Game Guide 1 Promos
+# Expert 2 Game Guide 1 Promos
+# Expert 2 Game Guide 2 Promos
+# The Duel City Legend Game Guide 1 Promos
+# The Duel City Legend Game Guide 2 Promos
+# Reshef of Destruction Game Guide 1 Promos
+# Reshef of Destruction Game Guide 2 Promos
+# Expert 3 Game Guide Promos
+# Sealed Memories Game Guide Promos
+# Succeeded Memories Game Guide Promos
+# Stairway to the Destined Duel Game Guide
+# World Championship 2008 Game Guide
+# World Championship 2001 Over the Nexus Strategy Guide
+Yu-Gi-Oh! Capsule Monster Coliseum Guide Book promotional card	(OCG-JP)	2
+# Duel Terminal Acceleration Guide promotional card
+# Duel Terminal Acceleration Guide 2 promotional card
+# Duel Terminal Acceleration Guide 3 promotional card
+# Duel Terminal Acceleration Guide 4 promotional card
+# Duel Terminal Acceleration Guide 5 promotional card
+# Duel Terminal Overlay Guide Promotional Card
+# Duel Terminal Overlay Guide 2 Promotional Card
+Yu-Gi-Oh! ZEXAL World Duel Carnival Duel Champion Guide! promotional card	(OCG-JP)	2
+Legendary Collection	(TCG-EN)	0
+Legendary Collection 2: The Duel Academy Years	(TCG-EN)	0
+Legendary Binder	(OCG-KR)	2
+Legendary Collection 3: Yugi's World	(TCG-EN)	0
+Legendary Collection 4: Joey's World	(TCG-EN)	0
+# Banzai! promotional cards
+# Jump Heroes promotional card
+# Saikyo Jump promotional card
+Shonen Jump promotional cards	(TCG-EN)	0
+V Jump promotional cards	(OCG-JP)	2
+# V Jump 1999 promotional cards
+Weekly Shōnen Jump promotional cards	(OCG-JP)	2
+Yu-Gi-Oh! The Official Magazine promotional cards	(TCG-IT)	2
+# Yu-Gi-Oh! Volume 31 promotional card
+# Yu-Gi-Oh! Duelist Volume 16 promotional card
+# Yu-Gi-Oh! Millennium World Volume 4 promotional card
+Yu-Gi-Oh! R promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! GX manga promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! 5D's manga promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! ZEXAL Volume 1 promotional card	(TCG_EN)	0
+Yu-Gi-Oh! ZEXAL Volume 2 promotional card	(TCG_EN)	0
+Yu-Gi-Oh! ZEXAL Volume 3 promotional card	(TCG_EN)	0
+Yu-Gi-Oh! ZEXAL Volume 4 promotional card	(TCG_EN)	0
+Yu-Gi-Oh! ZEXAL Volume 5 promotional card	(TCG_EN)	0
+Yu-Gi-Oh! ZEXAL Volume 6 promotional card	(TCG_EN)	0
+Yu-Gi-Oh! ZEXAL Volume 7 promotional card	(TCG_EN)	0
+# Yu-Gi-Oh! The Movie Ani-Manga promotional card
+# Asian Tournament Promos 1999
+# Asian Tournament Promos 2000
+# Asian Tournament Promos 2001
+# Attack of the Giant Card!!
+# Battle Pack Tournament Prize Cards
+Concept Duel 1	(OCG-JP)	0
+Concept Duel 2	(OCG-JP)	0
+Concept Duel 3	(OCG-JP)	0
+# Custom Token Card
+# Duel Monsters II tournament meeting experience promotional card
+Duelist League 1 participation cards	(TCG-EN)	0
+Duelist League 2 participation cards	(TCG-EN)	0
+Duelist League 3 participation cards	(TCG-EN)	0
+Duelist League 4 participation cards	(TCG-EN)	0
+Duelist League 5 participation cards	(TCG-EN)	0
+Duelist League 6 participation cards	(TCG-EN)	0
+Duelist League 7 participation cards	(TCG-EN)	0
+Duelist League 8 participation cards	(TCG-EN)	0
+Duelist League 8 participation cards	(TCG-EN)	0
+Duelist League 10 participation cards	(TCG-EN)	0
+Duelist League 11 participation cards	(TCG-EN)	0
+Duelist League 12 participation cards	(TCG-EN)	0
+Duelist League 13 participation cards	(TCG-EN)	0
+Duelist League 14 participation cards	(TCG-EN)	0
+Duelist League 15 participation cards	(TCG-EN)	0
+Duelist League 16 participation cards	(TCG-EN)	0
+Duelist League 17 participation cards	(TCG-EN)	0
+Duelist League 18 participation cards	(TCG-EN)	0
+Hobby League Participation Cards	(TCG-EN)	0
+# Jump Festa 2000
+# Jump Festa 2006
+# Jump Festa 2007
+# Jump Festa 2008
+# Jump Festa Anime Tour 2008
+# 5D's National Championship 2009 promotional cards
+Jump Festa Invitational 2009	(OCG-KR)	2
+Spring Battle 2010	(OCG-KR)	2
+National Championship 2010 TOP 8	(OCG-KR)	2
+Summer Festival 2010	(OCG-KR)	2
+Jump Festa Invitational 2010	(OCG-KR)	2
+Winter Festival 2010	(OCG-KR)	2
+Spring Battle 2011	(OCG-KR)	2
+National Championship 2011	(OCG-KR)	2
+Summer Festival 2011	(OCG-KR)	2
+Winter Festival 2011	(OCG-KR)	2
+Spring Battle 2012	(OCG-KR)	2
+National Championship 2012	(OCG-KR)	2
+Summer Festival 2012	(OCG-KR)	2
+Winter Festival 2012	(OCG-KR)	2
+National Championship 2013	(OCG-KR)	2
+Spring Battle 2013	(OCG-KR)	2
+# Yu-Gi-Oh! National Championship Prize Cards
+# Pharaoh's Tour Championship Prize Cards
+# San Diego Comic-Con Promotional Cards
+Shonen Jump Championship Series Prize Cards	(TCG-EN)	0
+# Starter Deck 2008 Tournament Promotional Cards
+# Yu-Gi-Oh! Summer Challenge 2009 Promotional Cards
+# 2009 Event Token Promos
+# Yu-Gi-Oh! Trading Card Game Tour 2004 Promotional Card
+# Toys "R" Us Tournament Promos
+# Toys "R" Us Throwdown Promos
+# World Championship Series promotional cards
+# World Ranking Promos: Series 1
+# World Ranking Promos: Series 2
+# World Ranking Promos: Series 3
+# World Ranking Promos: Series 4
+# World Ranking Promos: Series 5
+# World Ranking Promos: Series 6
+# World Ranking Promos: Series 7
+# World Ranking Promos: Series 8
+# World Ranking Promos: Series 9
+# V Jump Festa promotional cards
+Yu-Gi-Oh! Championship Series 2010 Prize Cards	(TCG-EN)	0
+Yu-Gi-Oh! Championship Series 2011 Prize Card	(TCG-EN)	0
+Yu-Gi-Oh! Championship Series 2012 Prize Card	(TCG-EN)	0
+Mattel Action Figure Promotional Cards	(TCG-EN)	0
+# Duel Disk Promos: Series 1
+# Duel Disk Promos: Series 2
+# Academy Duel Disk promotional card
+# Academy Duel Disk Special Edition promos
+# Academy Duel Disk Osiris Red promos
+# Duel Disk - Yusei Version
+Duel Disk - Yusei Version DX	(OCG-JP)	2
+# Duel Disk - Yusei Version 2010
+# Monster Figure Collection
+# Monster Figure Collection 2
+# Monster Figure Collection 3
+
+
+
+

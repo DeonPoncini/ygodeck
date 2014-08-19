@@ -45,6 +45,7 @@ public:
 
     DeckError addCard(DeckType deck, const std::string& name);
     std::vector<std::string> getCards(DeckType deck);
+    void deleteCard(DeckType deck, const std::string& name);
 
     FormatType formats() const;
     FormatType formatDates();
