@@ -156,11 +156,12 @@ void DB::select(const std::string& select, const std::string& from,
     exec(sql,f);
 }
 
-void DB::insert(const std::string& insert, const std::string& values)
+std::string DB::insert(const std::string& insert, const std::string& values)
 {
     std::string sql("INSERT INTO ");
     sql += insert + " VALUES(" + values + ")";
     exec(sql,[&](DB::DataMap){});
+    return std::to_string(sqlite3_last_insert_rowid(mDB));
 }
 
 void DB::update(const std::string& update, const std::string& set,

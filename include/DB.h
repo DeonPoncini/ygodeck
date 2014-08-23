@@ -49,7 +49,7 @@ public:
 
     void select(const std::string& select, const std::string& from,
             const std::string& where, DataMapFn f);
-    void insert(const std::string& insert, const std::string& values);
+    std::string insert(const std::string& insert, const std::string& values);
     void update(const std::string& update, const std::string& set,
             const std::string& where);
     void del(const std::string& del, const std::string& where);

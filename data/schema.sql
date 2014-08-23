@@ -25,9 +25,13 @@ CREATE TABLE deck_set(
     extra_deck_id INTEGER
 );
 
+CREATE TABLE users(
+    user_id INTEGER PRIMARY KEY,
+    name TEXT
+)
+
 CREATE TABLE deck(
     deck_id INTEGER PRIMARY KEY,
-    name TEXT,
     type TEXT
 );
 
@@ -43,4 +47,10 @@ CREATE TABLE deck_to_cards(
     deck_id INTEGER,
     card_id INTEGER
 );
+
+CREATE TABLE user_to_decks(
+    relation_id INTEGER PRIMARY KEY,
+    user_id INTEGER,
+    deck_set_id INTEGER
+)
 

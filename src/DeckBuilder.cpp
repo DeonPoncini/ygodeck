@@ -82,7 +82,7 @@ DeckBuilder::addCard(DeckType deck, const std::string& name)
 {
     // check if we are at the limit
     auto cards = getCards(deck);
-    if (cards.size() >= DeckLimits[deck].second)
+    if (cards.size() >= DeckMax(deck))
     {
         return DeckError::DECK_FULL;
     }
