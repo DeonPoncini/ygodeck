@@ -23,7 +23,7 @@ def write_set(setfile, name, s, table_style):
     soup = BeautifulSoup(data)
     contents = soup.find_all("div",{"id":"mw-content-text"})
 
-    setfile.write(name + '\n')
+    setfile.write((name + '\n').decode('utf-8'))
     for tag in contents:
         trTags = tag.find_all("tr")
         for trTag in trTags:
@@ -75,7 +75,11 @@ def generate_unique_cards():
             # this is a set header, ignore
             continue
         # extract the name
-        names.append(items[1])
+        name = items[1]
+        # clean off any ( ... ) after the name
+        name = re.sub(r"\(.*\)","",name)
+        name = name.strip()
+        names.append(name)
     # remove duplicates
     names = list(set(names))
     # sort alphabetically
@@ -91,6 +95,10 @@ def read_scrape_input():
         setfile = codecs.open(OUTPUT_SETS,'w','utf-8')
         for line in f:
             if line.startswith('#'):
+                continue
+            if not line:
+                continue
+            if line.isspace():
                 continue
             # reconstruct the input
             items = re.split(r'\t+', line.rstrip())

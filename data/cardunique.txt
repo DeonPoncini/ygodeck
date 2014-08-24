@@ -234,6 +234,7 @@ Arcana Call
 Arcana Force 0 - The Fool
 Arcana Force EX - The Dark Ruler
 Arcana Force EX - The Light Ruler
+Arcana Force Ex - the Light Ruler
 Arcana Force I - The Magician
 Arcana Force III - The Empress
 Arcana Force IV - The Emperor
@@ -249,6 +250,7 @@ Arcane Barrier
 Arcanite Magician
 Arcanite Magician/Assault Mode
 Archfiend Cavalry
+Archfiend Commander
 Archfiend Emperor, the First Lord of Horror
 Archfiend Empress
 Archfiend General
@@ -332,6 +334,7 @@ Assault Spirits
 Assault Teleport
 Assault on GHQ
 Astral Barrier
+Astral Token
 Asura Priest
 Aswan Apparition
 At One With the Sword
@@ -462,6 +465,7 @@ Beast Soul Swap
 Beast Striker
 Beast of Talwar
 Beast of the Pharaoh
+Beast-Eyes Pendulum Dragon
 Beast-Warrior Puma
 Beastking of the Swamps
 Beautunaful Princess
@@ -521,6 +525,7 @@ Black Illusion Ritual
 Black Luster Ritual
 Black Luster Soldier
 Black Luster Soldier - Envoy of the Beginning
+Black Luster Soldier - Envoy of the Evening Twilight
 Black Magic Ritual
 Black Pendant
 Black Potan
@@ -561,6 +566,7 @@ Blackwing - Fane the Steel Chain
 Blackwing - Gale the Whirlwind
 Blackwing - Ghibli the Searing Wind
 Blackwing - Gladius the Midnight Sun
+Blackwing - Gram the Shining Star
 Blackwing - Gust the Backblast
 Blackwing - Hillen the Tengu-wind
 Blackwing - Hurricane the Tornado
@@ -605,18 +611,21 @@ Blind Spot Strike
 Blindly Loyal Goblin
 Blizzard Dragon
 Blizzard Falcon
+Blizzard Princess
 Blizzard Thunderbird
 Blizzard Warrior
 Blizzed, Defender of the Ice Barrier
 Block Attack
 Block Golem
 Blockman
+Blood Mefist
 Blood Sucker
 Blossom Bombardment
 Blowback Dragon
 Blue Dragon Ninja
 Blue Dragon Summoner
 Blue Duston
+Blue Flame Swordsman
 Blue Medicine
 Blue Mountain Butterspy
 Blue Rose Dragon
@@ -777,6 +786,7 @@ Cactus Fighter
 Cairngorgon, Antiluminescent Knight
 Caius the Shadow Monarch
 Caligo Claw Crow
+Call Of The Haunted
 Call of Darkness
 Call of the Atlanteans
 Call of the Earthbound
@@ -803,6 +813,7 @@ Card Rotator
 Card Shuffle
 Card Trader
 Card Trooper
+Card of Last Will
 Card of Sacrifice
 Card of Safe Return
 Card of Sanctity
@@ -835,6 +846,7 @@ Centrifugal Field
 Ceremonial Bell
 Ceruli, Guru of Dark World
 Cestus of Dagla
+Chachaka Archer
 Chain Burst
 Chain Destruction
 Chain Detonation
@@ -882,6 +894,7 @@ Cheepcheepcheep
 Cherry Inmato
 Chewbone
 Chimera the Flying Mythical Beast
+Chimeratech Fortress Dragon
 Chimeratech Overdragon
 Chiron the Mage
 Chirubimé, Princess of Autumn Leaves
@@ -922,6 +935,7 @@ Chthonian Polymer
 Chthonian Soldier
 Chu-Ske the Mouse Fighter
 Circle of the Fire Kings
+Clash! Duel Carnival! Token
 Claw Reacher
 Clay Charge
 Clear Vice Dragon
@@ -1042,9 +1056,10 @@ Counselor Lily
 Counter Cleaner
 Counter Counter
 Counterforce
-Covenant with the Dark Witch
-Covenant with the Infernal Gate
+Court of Justice
+Covenant with the Hellgate
 Covenant with the Swamp King
+Covenant with the Valkyrie
 Covering Fire
 Crab Turtle
 Cracking
@@ -1120,7 +1135,6 @@ Cyber Barrier Dragon
 Cyber Blader
 Cyber Dinosaur
 Cyber Dragon
-Cyber Dragon (alternate art)
 Cyber Dragon Core
 Cyber Dragon Drei
 Cyber Dragon Nova
@@ -1202,16 +1216,18 @@ D.D. Warrior Lady
 D.D.M. - Different Dimension Master
 D.D.R. - Different Dimension Reincarnation
 D2 Shield
+DD Cerberus
 DD Lilith
-DD Magical Sage Galilei
-DD Magical Sage Kepler
+DD Magical Astronomer Galilei
+DD Magical Astronomer Kepler
 DD Night Howling
 DD Recruit
-DDD Alexander the King of Gales
-DDD Infernal Armageddon the Great Des Lord
+DDD Alexander the Gale Overlord
+DDD Caesar the Wave Overlord
+DDD Hell Armageddon the Cruel End Overlord
 DDD Leonidas the Rebellious Lord
 DDD Resource Management
-DDD Temujin the Raging Inferno King
+DDD Temujin the Blaze Overlord
 DNA Checkup
 DNA Surgery
 DNA Transplant
@@ -1276,6 +1292,7 @@ Dark Fusion
 Dark General Freed
 Dark Gray
 Dark Grepher
+Dark Highlander
 Dark Hole
 Dark Horus
 Dark Hunter
@@ -1336,17 +1353,21 @@ Dark Zebra
 Dark-Eyes Illusionist
 Darkbishop Archfiend
 Darkblaze Dragon
-Darkfall (as "Dark Trap Hole")
+Darkfall
 Darkfire Dragon
 Darkfire Soldier #1
 Darkfire Soldier #2
 Darkflare Dragon
 Darklight
 Darklon
+Darklord Asmodeus
 Darklord Desire
+Darklord Edeh Arae
+Darklord Superbia
 Darklord Zerato
 Darkness Approaches
 Darkness Destroyer
+Darkness Neosphere
 Darknight Parshath
 Darksea Float
 Darksea Rescue
@@ -1440,7 +1461,7 @@ Destiny Hero - Dasher
 Destiny Hero - Defender
 Destiny Hero - Departed
 Destiny Hero - Diamond Dude
-Destiny Hero - Disk Commander (misprint)
+Destiny Hero - Disk Commander
 Destiny Hero - Dogma
 Destiny Hero - Doom Lord
 Destiny Hero - Double Dude
@@ -1484,6 +1505,7 @@ Different Dimension Gate
 Different Dimension Ground
 Diffusion Wave-Motion
 Dig Beak
+Digvorzhak, King of Heavy Industry
 Dimension Distortion
 Dimension Explosion
 Dimension Fortress Weapon
@@ -1603,6 +1625,7 @@ Dragonecro Nethersoul Dragon
 Dragoness the Wicked Knight
 Dragonic Attack
 Dragonic Guard
+Dragonic Knight
 Dragonic Tactics
 Dragunity Aklys
 Dragunity Angusticlavii
@@ -1630,6 +1653,7 @@ Dramatic Rescue
 Drascension the Supreme Sky Dragon
 Drastic Drop Off
 Dread Dragon
+Dreadscythe Harvester
 Dream Clown
 Dreamsprite
 Drill Barnacle
@@ -1682,6 +1706,7 @@ Earthquake Giant
 Earthshaker
 Eatgaboon
 Ebon Arrow
+Ebon Illusion Magician
 Ebon Magician Curran
 Eccentric Boy
 Eclipse Wyvern
@@ -1711,16 +1736,17 @@ Element Soldier
 Element Valkyrie
 Elemental Absorber
 Elemental Burst
+Elemental HERO Absolute Zero
+Elemental HERO Air Neos
 Elemental HERO Aqua Neos
 Elemental HERO Avian
-Elemental HERO Avian (alternate art)
 Elemental HERO Bladedge
 Elemental HERO Bubbleman
 Elemental HERO Burstinatrix
-Elemental HERO Burstinatrix (alternate art)
 Elemental HERO Captain Gold
 Elemental HERO Chaos Neos
 Elemental HERO Clayman
+Elemental HERO Core
 Elemental HERO Dark Neos
 Elemental HERO Darkbright
 Elemental HERO Divine Neos
@@ -1745,6 +1771,7 @@ Elemental HERO Necroid Shaman
 Elemental HERO Necroshade
 Elemental HERO Neos
 Elemental HERO Neos Alius
+Elemental HERO Neos Knight
 Elemental HERO Nova Master
 Elemental HERO Ocean
 Elemental HERO Phoenix Enforcer
@@ -1755,12 +1782,12 @@ Elemental HERO Rampart Blaster
 Elemental HERO Shining Flare Wingman
 Elemental HERO Shining Phoenix Enforcer
 Elemental HERO Sparkman
-Elemental HERO Sparkman (alternate art)
 Elemental HERO Steam Healer
 Elemental HERO Storm Neos
 Elemental HERO Stratos
 Elemental HERO Tempest
 Elemental HERO Terra Firma
+Elemental HERO The Shining
 Elemental HERO Thunder Giant
 Elemental HERO Voltic
 Elemental HERO Wild Wingman
@@ -1837,6 +1864,7 @@ Enchanted Javelin
 Enchanting Fitting Room
 Enchanting Mermaid
 End of the World
+Endless Decay
 Endymion, the Master Magician
 Enemy Controller
 Energy Bravery
@@ -1937,6 +1965,7 @@ Evolzar Laggia
 Evolzar Solda
 Exarion Universe
 Exchange
+Exchange of the Spirit
 Exhausting Spell
 Exile of the Wicked
 Exiled Force
@@ -2006,6 +2035,7 @@ Feather Wind
 Featherizer
 Feedback Warrior
 Felgrand Dragon
+Felis, Lightsworn Archer
 Fencing Fire Ferret
 Fenghuang
 Fengsheng Mirror
@@ -2168,16 +2198,18 @@ Frontier Wiseman
 Frontline Base
 Frost and Flame Dragon
 Frostosaurus
+Frozen Fitzgerald
 Frozen Soul
 Fruits of Kozaky's Studies
 Fuh-Rin-Ka-Zan
 Fuhma Shuriken
 Fulfillment of the Contract
-Full Armored - Black Ray Lancer
 Full Armored - Crystal Zero Lancer
+Full Armored Black Ray Lancer
 Full House
 Full Salvo
 Full-Force Strike
+Funeral Worker of the Heavenly Halo
 Fushi No Tori
 Fushioh Richie
 Fusilier Dragon, the Dual-Mode Beast
@@ -2284,6 +2316,7 @@ Geargiano
 Geargiano Mk-II
 Geargiarmor
 Geargiarsenal
+Geargiauger
 Gearspring Spirit
 Geartown
 Gellenduo
@@ -2537,6 +2570,7 @@ Golden Flying Fish
 Golden Gearbox
 Golden Homunculus
 Golden Ladybug
+Golem Dragon
 Golem Sentry
 Gonogo
 Good Goblin Housekeeping
@@ -2712,6 +2746,7 @@ Harpie Lady
 Harpie Lady 1
 Harpie Lady 2
 Harpie Lady 3
+Harpie Lady Phoenix Formation
 Harpie Lady Sisters
 Harpie Queen
 Harpie's Feather Duster
@@ -2747,7 +2782,6 @@ Helios - The Primordial Sun
 Helios Trice Megistus
 Heliosphere Dragon
 Helping Robo for Combat
-Helping Robo for Combat (as "Helping Robo For Combat")
 Helpoemer
 Herald of Creation
 Herald of Green Light
@@ -2856,6 +2890,7 @@ Huge Revolution
 Human-Wave Tactics
 Humanoid Slime
 Humanoid Worm Drake
+Hundred-Eyes Dragon
 Hundred-Footed Horror
 Hungry Burger
 Hunter Dragon
@@ -2928,6 +2963,7 @@ Infernity Destroyer
 Infernity Doom Dragon
 Infernity Dwarf
 Infernity Force
+Infernity General
 Infernity Guardian
 Infernity Inferno
 Infernity Knight
@@ -3053,12 +3089,15 @@ Judgment Dragon
 Judgment of Anubis
 Judgment of Thunder
 Judgment of the Desert
+Judgment of the Pharaoh
 Jumbo Drill
+Junk Anchor
 Junk Archer
 Junk Barrage
 Junk Berserker
 Junk Blader
 Junk Box
+Junk Collector
 Junk Defender
 Junk Destroyer
 Junk Forward
@@ -3163,6 +3202,8 @@ Kinka-byo
 Kiryu
 Kiseitai
 Kishido Spirit
+Kite & Mizar Token
+Kite Token
 Knight Day Grepher
 Knight of the Red Lotus
 Knight's Title
@@ -3320,6 +3361,7 @@ Light Effigy
 Light End Dragon
 Light Laser
 Light Spiral
+Light and Darkness Dragon
 Light of Destruction
 Light of Intervention
 Light of Judgment
@@ -3333,6 +3375,7 @@ Lightning Conger
 Lightning Punisher
 Lightning Tricorn
 Lightning Vortex
+Lightning Warrior
 Lightning, Dragon Ruler of Drafts
 Lightpulsar Dragon
 Lightray Daedalus
@@ -3372,6 +3415,7 @@ Lonefire Blossom
 Lord British Space Fighter
 Lord Poison
 Lord of D.
+Lord of the Lamp
 Lost Blue Breaker
 Lost Guardian
 Lucent, Netherlord of Dark World
@@ -3441,6 +3485,7 @@ Madolche Waltz
 Madolchepalooza
 Maestroke the Symphony Djinn
 Mage Power
+Magi Magi ☆ Magician Gal
 Magic Cylinder
 Magic Deflector
 Magic Drain
@@ -3503,6 +3548,7 @@ Maju Garzett
 Makiu, the Magical Mist
 Makyura the Destructor
 Malefic Blue-Eyes White Dragon
+Malefic Stardust Dragon
 Malefic Truth Dragon
 Malevolent Catastrophe
 Malevolent Mech - Goku En
@@ -3610,8 +3656,11 @@ Meklord Army of Granel
 Meklord Army of Skiel
 Meklord Army of Wisel
 Meklord Astro Dragon Asterisk
+Meklord Astro Mekanikle
+Meklord Emperor Granel
 Meklord Emperor Skiel
 Meklord Emperor Wisel
+Meklord Emperor Wisel ∞
 Meklord Factory
 Meklord Fortress
 Mektimed Blast
@@ -3836,6 +3885,7 @@ Mushroom Man #2
 Musician King
 Mustering of the Dark Scorpions
 Musto, Oracle of Gusto
+Mutant Mindmaster
 Muzurhythm the String Djinn
 My Body as a Shield
 Mysterious Guard
@@ -3955,7 +4005,6 @@ Neo-Spacian Marine Dolphin
 Neo-Spacian Twinkle Moss
 Neos Force
 Neos Wiseman
-Neptune's Amulet
 Nettles
 Newdoria
 Next to be Lost
@@ -4029,6 +4078,7 @@ Number 102: Star Seraph Sentry
 Number 103: Ragnazero
 Number 104: Masquerade
 Number 105: Battlin' Boxer Star Cestus
+Number 106: Giant Hand
 Number 107: Galaxy-Eyes Tachyon Dragon
 Number 10: Illumiknight
 Number 11: Big Eye
@@ -4059,6 +4109,7 @@ Number 53: Heart-eartH
 Number 54: Lion Heart
 Number 56: Gold Rat
 Number 57: Tri-Head Dust Dragon
+Number 58: Burner Visor
 Number 61: Volcasaurus
 Number 62: Galaxy-Eyes Prime Photon Dragon
 Number 63: Shamoji Soldier
@@ -4079,9 +4130,9 @@ Number 88: Gimmick Puppet of Leo
 Number 8: Heraldic King Genom-Heritage
 Number 91: Thunder Spark Dragon
 Number 92: Heart-eartH Dragon
-Number 94: Crystal Zero
+Number 94: Crystalzero
 Number 96: Dark Mist
-Number 99: Hope Dragun
+Number 99: Hope Dragon
 Number 9: Dyson Sphere
 Number C101: Silent Honor DARK
 Number C102: Archfiend Seraph
@@ -4220,6 +4271,7 @@ Panther Warrior
 Papa-Corn
 Paradox Fusion
 Parallel Selection
+Parallel World Fusion
 Paralyzing Chain
 Paralyzing Potion
 Parasite Paracide
@@ -4242,6 +4294,7 @@ People Running About
 Perditious Puppeteer
 Perfect Machine King
 Performance of Sword
+Performapal Silver Claw
 Pestilence
 Peten the Dark Clown
 Petit Angel
@@ -4262,6 +4315,7 @@ Phantom Fortress Enterblathnir
 Phantom Ghost
 Phantom Hand
 Phantom King Hydride
+Phantom Lord Hide Ride
 Phantom Magician
 Phantom Skyblaster
 Phantom of Chaos
@@ -4371,6 +4425,7 @@ Prideful Roar
 Primal Seed
 Prime Material Dragon
 Prime Material Falcon
+Primitive Butterfly
 Primordial Soup
 Princess Cologne
 Princess Curran
@@ -4562,6 +4617,7 @@ Reeze, Whirlwind of Gusto
 Reflect Bounder
 Regenerating Mummy
 Regenerating Rose
+Reginald Token
 Regretful Rebirth
 Regulus
 Reign-Beaux, Overlord of Dark World
@@ -4709,6 +4765,7 @@ Royal Swamp Eel
 Royal Tribute
 Royal Writ of Taxation
 Rude Kaiser
+Ruffian Railcar
 Ruin, Queen of Oblivion
 Runaway Karakuri
 Rush Recklessly
@@ -4802,6 +4859,7 @@ Scrubbed Raid
 Sea Dragon Lord Gishilnodon
 Sea Koala
 Sea Lancer
+Sea Lord's Amulet
 Sea Serpent Warrior of Darkness
 Seal of Wickedness
 Sealing Ceremony of Katon
@@ -4839,6 +4897,7 @@ Sengenjin
 Senior Silver Ninja
 Senju of the Thousand Hands
 Senri Eye
+Sephylon, the Ultimate Time Lord
 Sephylon, the Ultimate Timelord
 Serene Psychic Witch
 Sergeant Electro
@@ -4905,6 +4964,8 @@ Shire, Lightsworn Spirit
 Shock Troops of the Ice Barrier
 Shocktopus
 Shogi Knight
+Shogi Spear Wheel
+Shooting Quasar Dragon
 Shooting Star
 Shooting Star Bow - Ceal
 Shooting Star Dragon
@@ -4976,7 +5037,6 @@ Sky Scourge Enrise
 Sky Scourge Invicil
 Sky Scourge Norleras
 Sky Scout
-Sky Scout (as "Harpie's Brother")
 Skypalace Gangaridai
 Skyscraper
 Skyscraper 2 - Hero City
@@ -5064,6 +5124,7 @@ Spacegate
 Spark Blaster
 Sparks
 Spatial Collapse
+Spawn Alligator
 Spear Cretin
 Spear Dragon
 Spear Shark
@@ -5170,6 +5231,7 @@ Stardust Dragon
 Stardust Dragon/Assault Mode
 Stardust Phantom
 Stardust Shimmer
+Stardust Spark Dragon
 Stardust Xiaolong
 Starduston
 Starfish
@@ -5272,6 +5334,7 @@ Superalloy Beast Raptinus
 Superancient Deepsea King Coelacanth
 Supercharge
 Superdimensional Robot Galaxy Destroyer
+Superdreadnought Rail Cannon Gustav Max
 Supervise
 Supply
 Supply Squad
@@ -5363,6 +5426,7 @@ T.G. Blade Blaster
 T.G. Catapult Dragon
 T.G. Cyber Magician
 T.G. Halberd Cannon
+T.G. Hyper Librarian
 T.G. Jet Falcon
 T.G. Power Gladiator
 T.G. Recipro Dragonfly
@@ -5526,18 +5590,23 @@ The Six Samurai - Zanji
 The Snake Hair
 The Spell Absorbing Life
 The Stern Mystic
+The Supremacy Sun
 The Thing That Hides in the Mud
 The Thing in the Crater
 The Third Sarcophagus
 The Transmigration Prophecy
 The Tricky
 The Trojan Horse
+The Tyrant Neptune
 The Unfriendly Amazon
 The Unhappy Girl
 The Unhappy Maiden
 The Wandering Doomed
 The Warrior Returning Alive
 The White Stone of Legend
+The Wicked Avatar
+The Wicked Dreadroot
+The Wicked Eraser
 The Wicked Worm Beast
 The Winged Dragon of Ra
 The World Tree
@@ -5590,6 +5659,7 @@ Tin Goldfish
 Tiras, Keeper of Genesis
 Toad Master
 Togex
+Token
 Token Feastevil
 Token Stampede
 Token Sundae
@@ -5618,6 +5688,7 @@ Tornado Wall
 Torpedo Fish
 Torrential Reborn
 Torrential Tribute
+Total Defense Shogun
 Totem Bird
 Totem Dragon
 Tour Bus From the Underworld
@@ -5636,6 +5707,7 @@ Trakodon
 Trance Archfiend
 Trance the Magic Swordsman
 Transcendent Wings
+Transforming Sphere
 Transmigration Break
 Transmodify
 Trap Dustshoot
@@ -5682,12 +5754,14 @@ Trident Warrior
 Trifortressops
 Triggered Summon
 Trigon
+Triple Star Trion
 Tripod Fish
 Tripwire Beast
 Trishula, Dragon of the Ice Barrier
 Trojan Blast
 Trojan Gladiator Beast
 Troop Dragon
+Troposphere
 Truckroid
 Trust Guardian
 Tsukuyomi
@@ -5806,7 +5880,6 @@ Valkyrian Knight
 Valkyrie of the Nordic Ascendant
 Valkyrion the Magna Warrior
 Vampire Baby
-Vampire Baby (as "Red-Moon Baby")
 Vampire Dragon
 Vampire Duke
 Vampire Genesis
@@ -5821,6 +5894,7 @@ Vampire Sorcerer
 Vampire Takeover
 Vampire Vamp
 Vampire's Curse
+Van'Dalgyon the Dark Dragon Lord
 Vanadis of the Nordic Ascendant
 Vanguard of the Dragon
 Vanity's Call
@@ -5852,6 +5926,7 @@ Vice Berserker
 Vice Dragon
 Vicious Claw
 Victoria
+Victory Dragon
 Victory Viper XX03
 Vile Germs
 Vilepawn Archfiend
@@ -6164,8 +6239,11 @@ Yu-Jo Friendship
 Yubel
 Yubel - Terror Incarnate
 Yubel - The Ultimate Nightmare
+Yuma Token
 Z-Metal Tank
 ZERO-MAX
+ZEXAL II Token
+ZEXAL Token
 ZS - Vanish Sage
 ZW - Asura Strike
 ZW - Eagle Claw

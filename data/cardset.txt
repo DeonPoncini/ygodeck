@@ -5876,17 +5876,17 @@ SHSP-EN042	Swarm of Crows	Rare
 SHSP-EN043	Terrene Toothed Tsuchinoko‎	Common
 SHSP-EN044	Risebell the Star Psycher	Short Print
 SHSP-EN045	Blue Duston	Short Print
-SHSP-EN046	Number C96: Dark Storm	Super Rare/Ultimate Rare
+SHSP-EN046	Number C96: Dark Storm	Super RareUltimate Rare
 SHSP-EN047	Number 65: Djinn Buster	Rare
 SHSP-EN048	Number C65: King Overfiend	Rare
 SHSP-EN049	Battlin' Boxer Cheat Commissioner	Rare
-SHSP-EN050	Number 46: Dragluon	Super Rare/Ultimate Rare
+SHSP-EN050	Number 46: Dragluon	Super RareUltimate Rare
 SHSP-EN051	Number 64: Ronin Raccoon Sandayu	Rare
-SHSP-EN052	Ghostrick Alucard	Ultra Rare/Ultimate Rare
-SHSP-EN053	Bujintei Kagutsuchi	Ultra Rare/Ultimate Rare
+SHSP-EN052	Ghostrick Alucard	Ultra RareUltimate Rare
+SHSP-EN053	Bujintei Kagutsuchi	Ultra RareUltimate Rare
 SHSP-EN054	Crimson Knight Vampire Bram	Ultra Rare
 SHSP-EN055	Meliae of the Trees	Secret Rare
-SHSP-EN056	Divine Dragon Knight Felgrand	Ultimate Rare/Secret Rare/Ghost Rare
+SHSP-EN056	Divine Dragon Knight Felgrand	Secret RareUltimate RareGhost Rare
 SHSP-EN057	Puralis, the Purple Pyrotile	Rare
 SHSP-EN058	Giganticastle	Rare
 SHSP-EN059	Gagagatag	Common
@@ -7529,14 +7529,14 @@ DP15-JP013	Eagle Shark	Common
 DP15-JP014	Blizzard Falcon	Common
 DP15-JP015	Aurora Wing	CommonNormal Parallel Rare
 DP15-JP016	Number 73: Abyss Splash	Ultra Rare
-DP15-JP017	Number 94: Crystal Zero	Super Rare
+DP15-JP017	Number 94: Crystalzero	Super Rare
 DP15-JP018	Full Armored - Crystal Zero Lancer	Ultra Rare
-DP15-JP019	Full Armored - Black Ray Lancer	Super Rare
+DP15-JP019	Full Armored Black Ray Lancer	Super Rare
 DP15-JP020	Black Ray Lancer	Rare
 DP15-JP021	Submersible Carrier Aero Shark	Rare
 DP15-JP022	Bahamut Shark	Super Rare
 DP15-JP023	Ice Beast Zerofyne	CommonNormal Parallel Rare
-DP15-JP024	Neptune's Amulet	Rare
+DP15-JP024	Sea Lord's Amulet	Rare
 DP15-JP025	Surface	CommonNormal Parallel Rare
 DP15-JP026	Different Dimension Deepsea Trench	Common
 DP15-JP027	Lemuria, the Forgotten City	Common
@@ -9470,14 +9470,14 @@ YAP1-EN008	Shiba-Warrior Taro	Ultra Rare
 Booster SP: Raging Masters
 SPRG-JP001	DD Lilith	CommonNormal Parallel Rare
 SPRG-JP002	DD Night Howling	Super Rare
-SPRG-JP003	DD Magical Sage Galilei	CommonNormal Parallel Rare
-SPRG-JP004	DD Magical Sage Kepler	CommonNormal Parallel Rare
-SPRG-JP005	DDD Infernal Armageddon the Great Des Lord	Secret Rare
-SPRG-JP006	DDD Temujin the Raging Inferno King	Secret Rare
-SPRG-JP007	DDD Alexander the King of Gales	Secret Rare
-SPRG-JP008	Covenant with the Infernal Gate	Super Rare
+SPRG-JP003	DD Magical Astronomer Galilei	CommonNormal Parallel Rare
+SPRG-JP004	DD Magical Astronomer Kepler	CommonNormal Parallel Rare
+SPRG-JP005	DDD Hell Armageddon the Cruel End Overlord	Secret Rare
+SPRG-JP006	DDD Temujin the Blaze Overlord	Secret Rare
+SPRG-JP007	DDD Alexander the Gale Overlord	Secret Rare
+SPRG-JP008	Covenant with the Hellgate	Super Rare
 SPRG-JP009	Covenant with the Swamp King	CommonNormal Parallel Rare
-SPRG-JP010	Covenant with the Dark Witch	CommonNormal Parallel Rare
+SPRG-JP010	Covenant with the Valkyrie	CommonNormal Parallel Rare
 SPRG-JP011	Lease Laundering	CommonNormal Parallel Rare
 SPRG-JP012	DDD Resource Management	CommonNormal Parallel Rare
 SPRG-JP013	DD Recruit	CommonNormal Parallel Rare
@@ -13167,7 +13167,7 @@ OG01-JP001	Number 40: Gimmick Puppet of Strings	Ultra Rare
 Numbers Guide 2 promotional card
 OG02-JP001	Number C106: Giant Red Hand	Ultra Rare
 Numbers Guide 3 promotional card
-OG03-JP001	Number 99: Hope Dragun	Ultra Rare
+OG03-JP001	Number 99: Hope Dragon	Ultra Rare
 The Valuable Book promotional cards
 	Dokurorider	Ultra Rare
 	Revival of Dokurorider	Secret Rare
@@ -13208,3 +13208,766 @@ Primal Origin Booster Pack Guide promotional card
 PRIO-JPB01	Artifact Beagalltach	Normal Parallel Rare
 Perfect Rulebook promotional card
 RB01-JP001	Dark Strike Fighter	Normal Parallel Rare
+2002 Booster Pack Tins 
+BPT-001	Dark Magician	Secret Rare
+BPT-002	Summoned Skull	Secret Rare
+BPT-003	Blue-Eyes White Dragon	Secret Rare
+BPT-004	Lord of D.	Secret Rare
+BPT-005	Red-Eyes B. Dragon	Secret Rare
+BPT-006	B. Skull Dragon	Secret Rare
+2003 Booster Pack Tins 
+BPT-007	Dark Magician	Secret Rare
+BPT-008	Buster Blader	Secret Rare
+BPT-009	Blue-Eyes White Dragon	Secret Rare
+BPT-010	XYZ-Dragon Cannon	Secret Rare
+BPT-011	Jinzo	Secret Rare
+BPT-012	Gearfried the Iron Knight	Secret Rare
+2005 Collector Tins
+Collectible Tins 2011 Wave 1
+CT08-EN001	Number 17: Leviathan Dragon	Secret Rare
+CT08-EN005	Beast King Barbaros	Super Rare
+CT08-EN006	Dark Simorgh	Super Rare
+CT08-EN007	Stygian Street Patrol	Super Rare
+CT08-EN002	Wind-Up Zenmaister	Secret Rare
+CT08-EN009	Neo-Parshath, the Sky Paladin	Super Rare
+CT08-EN010	Archlord Kristya	Super Rare
+CT08-EN011	Elemental HERO Gaia	Super Rare
+CT08-EN008	Pot of Duality	Super Rare
+Collectible Tins 2011 Wave 2
+CT08-EN003	Galaxy-Eyes Photon Dragon	Secret Rare
+CT08-EN012	Fossil Dyna Pachycephalo	Super Rare
+CT08-EN013	Guardian Eatos	Super Rare
+CT08-EN014	Malefic Stardust Dragon	Super Rare
+CT08-EN004	Number 10: Illumiknight	Secret Rare
+CT08-EN016	Ehren, Lightsworn Monk	Super Rare
+CT08-EN017	XX-Saber Darksoul	Super Rare
+CT08-EN018	The Tyrant Neptune	Super Rare
+CT08-EN015	Solemn Warning	Super Rare
+Collectible Tins 2012 Wave 1
+CT09-EN001	Evolzar Dolkka	Secret Rare
+CT09-EN005	Genex Neutron	Super Rare
+CT09-EN006	Scrap Dragon	Super Rare
+CT09-EN007	Dark Highlander	Super Rare
+CT09-EN002	Heroic Champion - Excalibur	Secret Rare
+CT09-EN009	Blizzard Princess	Super Rare
+CT09-EN010	Wind-Up Rabbit	Super Rare
+CT09-EN011	Evolzar Laggia	Super Rare
+CT09-EN008	Wind-Up Zenmaines	Super Rare
+Collectible Tins 2012 Wave 2
+CT09-EN003	Ninja Grandmaster Hanzo	Secret Rare
+CT09-EN012	Maxx "C"	Super Rare
+CT09-EN013	Tour Guide From the Underworld	Super Rare
+CT09-EN014	Number 16: Shock Master	Super Rare
+CT09-EN004	Hieratic Sun Dragon Overlord of Heliopolis	Secret Rare
+CT09-EN016	Malefic Truth Dragon	Super Rare
+CT09-EN017	X-Saber Souza	Super Rare
+CT09-EN018	Leviair the Sea Dragon	Super Rare
+CT09-EN015	Rescue Rabbit	Super Rare
+Collectible Tins 2012 Wave 2.5
+CT09-EN019	Prophecy Destroyer	Secret Rare
+CT09-EN020	Endless Decay	Super Rare
+CT09-EN021	Steelswarm Roach	Super Rare
+CT09-EN022	Photon Strike Bounzer	Super Rare
+CT09-EN023	Infernity Barrier	Super Rare
+Collectible Tins 2013 Wave 1
+Collectible Tins 2013 Wave 2
+Duelist Pack Collection
+DPC1-JP001	Yubel	Ultimate Rare
+Duelist Pack Collection Tin 2008
+DPCT-EN001	Card Ejector	Ultra Rare
+Duelist Pack Collection Tin: Jaden Yuki
+DPCT-EN002	Elemental HERO Prisma	Ultra Rare
+Duelist Pack Collection Tin 2009
+DPCT-EN003	Stardust Dragon/Assault Mode	Ultra Rare
+DPCT-EN003	Stardust Dragon/Assault Mode	Secret Rare
+RGBT-ENPP1	Iron Core of Koa'ki Meiru	Ultra Rare
+RGBT-ENPP2	Blackwing - Shura the Blue Flame	Super Rare
+RGBT-ENPP3	Koa'ki Meiru Guardian	Super Rare
+RGBT-ENPP4	Moja	Ultra Rare
+RGBT-ENPP5	Master Gig	Super Rare
+RGBT-ENPP6	Level Retuner	Super Rare
+Duelist Pack Collection Tin 2010
+DPCT-EN004	Starlight Road	Secret Rare
+DPCT-ENY01	Junk Synchron	Ultra Rare
+DPCT-ENY02	Quillbolt Hedgehog	Super Rare
+DPCT-ENY03	Synchro Blast Wave	Super Rare
+DPCT-ENY04	Drill Synchron	Ultra Rare
+DPCT-ENY05	Speed Warrior	Super Rare
+DPCT-ENY06	Advance Draw	Super Rare
+DPCT-ENY07	Level Eater	Super Rare
+DPCT-ENY08	One for One	Super Rare
+DPCT-ENY09	Scrap-Iron Scarecrow	Ultra Rare
+Duelist Pack Collection Tin 2011
+DPCT-EN005	Frozen Fitzgerald	Secret Rare
+DPC5-EN001	Underground Arachnid	Super Rare
+DPC5-EN002	Zeman the Ape King	Super Rare
+DPC5-EN003	Hundred-Eyes Dragon	Super Rare
+Master Collection Volume 1
+MC1-EN001	Exodia the Forbidden One	Secret Rare
+MC1-EN002	Barrel Dragon	Secret Rare
+MC1-EN003	Relinquished	Secret Rare
+MC1-EN004	Thousand-Eyes Restrict	Secret Rare
+MC1-EN005	Dark Necrofear	Secret Rare
+MC1-EN006	Dark Ruler Ha Des	Secret Rare
+Master Collection Volume 2
+MC2-EN001	Guardian Sphinx	Secret Rare
+MC2-EN002	Breaker the Magical Warrior	Secret Rare
+MC2-EN003	Exodia Necross	Secret Rare
+MC2-EN004	Black Luster Soldier - Envoy of the Beginning	Secret Rare
+MC1-EN005	Blowback Dragon	Secret Rare
+MC2-EN006	Theinen the Great Sphinx	Secret Rare
+Master Collection Volume 3
+MC03-JP001	Elemental HERO Dark Neos	Secret Rare
+MC03-JP002	Cyberdark Dragon	Secret Rare
+MC03-JP003	Elemental HERO Air Neos	Secret Rare
+MC03-JP004	Volcanic Doomfire	Secret Rare
+Collectors Tin 2009
+CT09-JP001	Blue-Eyes Ultimate Dragon	Gold Rare
+Exclusive Tins 2008
+CT05-ENS01	Montage Dragon	Secret Rare
+CT05-ENS02	Nitro Warrior	Secret Rare
+CT05-ENS03	Goyo Guardian	Secret Rare
+Exclusive Tins 2009
+CT06-ENS01	Blackwing - Elphin the Raven	Secret Rare
+CT06-ENS02	Earthbound Immortal Aslla piscu	Secret Rare
+CT06-ENS03	Earthbound Immortal Chacu Challhua	Secret Rare
+CT06-ENS04	XX-Saber Gottoms	Secret Rare
+Premium Collection Tin
+2013 Zexal Collection Tin
+ZTIN-ENV01	Gagaga Magician	Ultimate Rare
+ZTIN-ENV02	Number 20: Giga-Brilliant	Ultimate Rare
+ZTIN-ENV03	Gagagabolt	Ultimate Rare
+ZTIN-EN001	Dododo Warrior	Super Rare
+ZTIN-EN002	Number 61: Volcasaurus	Ultra Rare
+ZTIN-EN003	Number 19: Freezadon	Ultra Rare
+ZTIN-EN004	Gagagaback	Super Rare
+ZTIN-EN005	Gagagashield	Ultra Rare
+ZTIN-EN006	Photon Pirate	Super Rare
+ZTIN-EN007	Photon Satellite	Super Rare
+ZTIN-EN008	Photon Slasher	Super Rare
+ZTIN-EN009	Kuriphoton	Ultra Rare
+ZTIN-EN010	Dimension Wanderer	Super Rare
+ZTIN-EN011	Galaxy Wizard	Ultra Rare
+ZTIN-EN012	Galaxy Knight	Ultra Rare
+ZTIN-EN013	Number 56: Gold Rat	Super Rare
+ZTIN-EN014	Starliege Paladynamo	Ultra Rare
+ZTIN-EN015	Message in a Bottle	Super Rare
+ZTIN-EN016	Accellight	Ultra Rare
+ZTIN-EN017	Galaxy Expedition	Ultra Rare
+ZTIN-EN018	Galaxy Zero	Super Rare
+ZTIN-EN019	Triple Star Trion	Super Rare
+ZTIN-EN020	Zubaba Buster	Super Rare
+ZTIN-EN021	Chachaka Archer	Super Rare
+Yu-Gi-Oh! Capsule Monster Coliseum Guide Book promotional card
+CMC-JPB01	Abyss Soldier	Secret Rare
+Yu-Gi-Oh! ZEXAL World Duel Carnival Duel Champion Guide! promotional card
+ZDC1-JPB01	Ruffian Railcar	Ultra Rare
+Legendary Collection
+LC01-EN001	Obelisk the Tormentor (original)	Ultra Rare
+LC01-EN002	Slifer the Sky Dragon (original)	Ultra Rare
+LC01-EN003	The Winged Dragon of Ra (original)	Ultra Rare
+LC01-EN004	Blue-Eyes White Dragon	Ultra Rare
+LC01-EN005	Dark Magician	Ultra Rare
+LC01-EN006	Red-Eyes B. Dragon	Ultra Rare
+Legendary Collection 2: The Duel Academy Years
+LC02-EN001	Uria, Lord of Searing Flames	Ultra Rare
+LC02-EN002	Hamon, Lord of Striking Thunder	Ultra Rare
+LC02-EN003	Raviel, Lord of Phantasms	Ultra Rare
+LC02-EN004	Darklord Asmodeus	Ultra Rare
+LC02-EN005	Darklord Superbia	Ultra Rare
+LC02-EN006	Darklord Edeh Arae	Ultra Rare
+LC02-EN007	Cyber Larva	Ultra Rare
+LC02-EN008	Lion Alligator	Ultra Rare
+LC02-EN009	Spawn Alligator	Ultra Rare
+LC02-EN010	Elemental HERO Great Tornado	Ultra Rare
+LC02-EN011	Parallel World Fusion	Ultra Rare
+LC02-EN012	Dragonic Tactics	Ultra Rare
+LC02-EN013	Court of Justice	Ultra Rare
+Legendary Binder
+LB01-KR001	Obelisk the Tormentor	Secret Rare
+LB01-KR002	Slifer the Sky Dragon	Secret Rare
+LB01-KR003	The Winged Dragon of Ra	Secret Rare
+Legendary Collection 3: Yugi's World
+LC03-EN001	The Seal of Orichalcos	Ultra Rare
+LC03-EN002	Dark Necrofear	Ultra Rare
+LC03-EN003	Guardian Eatos	Ultra Rare
+LC03-EN004	Five-Headed Dragon	Ultra Rare
+LC03-EN005	Token (Emissary of Darkness Token)	Ultra Rare
+LC03-EN006	Token (Pink Kuriboh Token)	Ultra Rare
+LC03-EN007	Token (Orange Kuriboh Token)	Ultra Rare
+Legendary Collection 4: Joey's World
+LC04-EN001	Blue Flame Swordsman	Ultra Rare
+LC04-EN002	Harpie Lady Phoenix Formation	Ultra Rare
+LC04-EN003	Card of Last Will	Ultra Rare
+LC04-EN004	Token (Blue Sheep Token)	Ultra Rare
+LC04-EN005	Token (Orange Sheep Token)	Ultra Rare
+LC04-EN006	Token (Pink Sheep Token)	Ultra Rare
+LC04-EN007	Token (Yellow Sheep Token)	Ultra Rare
+LC04-EN008	Token (White Lamb Token)	Ultra Rare
+LC04-EN009	Token (Pink Lamb Token)	Ultra Rare
+Shonen Jump promotional cards
+JMP-001	Blue-Eyes White Dragon (alternate artwork)	Ultra Rare
+JMP-EN001	Blue-Eyes White Dragon (alternate artwork)	Ultra Rare
+JMP-002	Red-Eyes B. Dragon	Ultra Rare
+JMP-EN002	Red-Eyes B. Dragon	Ultra Rare
+JMP-EN003	Archfiend of Gilfer	Ultra Rare
+JMP-EN004	Obelisk the Tormentor (original)	Secret Rare
+JMP-EN005	Blue-Eyes Ultimate Dragon	Secret Rare
+JUMP-EN006	Unity	Ultra Rare
+JUMP-EN007	Yu-Jo Friendship	Ultra Rare
+JUMP-EN008	Judgment of the Pharaoh	Ultra Rare
+JUMP-EN009	Magician's Valkyria	Ultra Rare
+JUMP-EN010	Toon Dark Magician Girl	Ultra Rare
+JUMP-EN011	Victory Dragon	Secret Rare
+JUMP-EN012	Elemental Hero Stratos	Ultra Rare
+JUMP-EN013	Elemental Hero Ocean	Ultra Rare
+JUMP-EN014	Green Baboon, Defender of the Forest	Ultra Rare
+JUMP-EN015	Dreadscythe Harvester	Ultra Rare
+JUMP-EN016	The Wicked Eraser	Ultra Rare
+JUMP-EN017	The Wicked Avatar	Ultra Rare
+JUMP-EN018	The Wicked Dreadroot	Ultra Rare
+JUMP-EN019	Blast Sphere	Ultra Rare
+JUMP-EN020	Copycat	Ultra Rare
+JUMP-EN021	Relieve Monster	Ultra Rare
+JUMP-EN022	Cloning	Ultra Rare
+JUMP-EN023	Van'Dalgyon the Dark Dragon Lord	Ultra Rare
+JUMP-EN024	Cyber Dinosaur	Ultra Rare
+JUMP-EN025	Exodius the Ultimate Forbidden Lord	Ultra Rare
+JUMP-EN026	Dragonic Knight	Ultra Rare
+JUMP-EN027	Arcana Force Ex - the Light Ruler	Ultra Rare
+JUMP-EN028	Gandora the Dragon of Destruction	Ultra Rare
+JUMP-EN029	Dandylion	Ultra Rare
+JUMP-EN030	Red-Eyes Darkness Metal Dragon	Ultra Rare
+JUMP-EN031	Chimeratech Fortress Dragon	Ultra Rare
+JUMP-EN032	Beast King Barbaros	Ultra Rare
+JUMP-EN033	Tragoedia	Ultra Rare
+JUMP-EN034	Genesis Dragon	Ultra Rare
+JUMP-EN035	Orichalcos Shunoros	Ultra Rare
+JUMP-EN036	Darkness Neosphere	Ultra Rare
+JUMP-EN037	Obelisk the Tormentor (alternate artwork)	Ultra Rare
+JUMP-EN038	Cyber Eltanin	Ultra Rare
+JUMP-EN039	Hundred-Eyes Dragon	Ultra Rare
+JUMP-EN040	Golem Dragon	Ultra Rare
+JUMP-EN041	The Tyrant Neptune	Ultra Rare
+JUMP-EN042	Transforming Sphere	Ultra Rare
+JUMP-EN043	Malefic Stardust Dragon	Ultra Rare
+JUMP-EN044	Dark End Dragon	Ultra Rare
+JUMP-EN045	The Winged Dragon of Ra (alternate artwork)	Ultra Rare
+JMPS-EN001	Troposphere	Ultra Rare
+JUMP-EN046	Lightning Warrior	Ultra Rare
+JUMP-EN047	Seven Swords Warrior	Ultra Rare
+JUMP-EN048	Malefic Truth Dragon	Ultra Rare
+JUMP-EN049	Dark Magician (alternate artwork)	Ultra Rare
+JUMP-EN050	Meklord Astro Mekanikle	Ultra Rare
+JUMP-EN051	T.G. Hyper Librarian	Ultra Rare
+JUMP-EN052	Meklord Emperor Granel	Ultra Rare
+JUMP-EN053	Meklord Emperor Wisel	Ultra Rare
+JUMP-EN054	Sephylon, the Ultimate Time Lord	Ultra Rare
+JUMP-EN055	Shooting Quasar Dragon	Ultra Rare
+JUMP-EN056	Endless Decay	Ultra Rare
+JUMP-EN057	The Supremacy Sun	Ultra Rare
+JUMP-EN058	X-Saber Souza	Ultra Rare
+JUMP-EN059	Number 30: Acid Golem of Destruction	Ultra Rare
+JUMP-EN060	Number 16: Shock Master	Ultra Rare
+JUMP-EN061	Slifer the Sky Dragon (alternate artwork)	Ultra Rare
+JUMP-EN062	Superdreadnought Rail Cannon Gustav Max	Ultra Rare
+JUMP-EN063	Number 40: Gimmick Puppet of Strings	Ultra Rare
+JUMP-EN064	Number 88: Gimmick Puppet of Leo	Ultra Rare
+JUMP-EN065	Zubaba General	Ultra Rare
+JUMP-EN066	Vulcan the Divine	Ultra Rare
+JUMP-EN067	Archfiend Commander	Ultra Rare
+JUMP-EN068	Blue-Eyes White Dragon (alternate artwork)	Ultra Rare
+JUMP-EN069	Black Luster Soldier - Envoy of the Evening Twilight	Ultra Rare
+JUMP-EN070	Ebon Illusion Magician	Ultra Rare
+V Jump promotional cards
+VJ-01	Garnecia Elefantis	Ultra Rare
+VJ-02	Total Defense Shogun	Ultra Rare
+VJ-03	Cyber Harpie Lady	Ultra Rare
+VJ-04	Makyura the Destructor	Ultra Rare
+VJC-005	Blade Knight	Ultra Rare
+VJC-JP006	Stronghold the Moving Fortress	Ultra Rare
+VJC-JP007	Sorcerer of Dark Magic	Ultra Rare
+VJC-JP008	Elemental HERO Flame Wingman	Ultra Rare
+VJC-JP009	The Wicked Dreadroot	Ultra Rare
+VJC-JP010	Mutant Mindmaster	Ultra Rare
+VJC-JP011	Divine Knight Ishzark	Ultra Rare
+VJC-JP012	White-Horned Dragon	Ultra Rare
+VJC-JP013	Dandylion	Ultra Rare
+VJC-JP014	Green Baboon, Defender of the Forest	Ultra Rare
+VJC-JP015	Dreadscythe Harvester	Ultra Rare
+VJC-JP016	Toy Magician	Ultra Rare
+VJMP-JP017	Elemental HERO Stratos	Ultra Rare
+VJMP-JP018	Greed Quasar	Ultra Rare
+VJMP-JP019	Dark Red Enchanter	Ultra Rare
+VJMP-JP020	The Wicked Avatar	Ultra Rare
+VJMP-JP021	The Wicked Eraser	Ultra Rare
+VJMP-JP022	Goka, the Pyre of Malice	Ultra Rare
+VJMP-JP023	Ice Master	Ultra Rare
+VJMP-JP024	The Big Saturn	Ultra Rare
+VJMP-JP025	Chimeratech Fortress Dragon	Ultra Rare
+VJMP-JP026	Armoroid	Ultra Rare
+VJMP-JP027	Belial - Marquis of Darkness	Ultra Rare
+VJMP-JP028	Kuraz the Light Monarch	Ultra Rare
+VJMP-JP029	Dark Simorgh	Ultra Rare
+VJMP-JP030	Beast Machine King Barbaros Ür	Ultra Rare
+VJMP-JP031	Cyber Dragon	Ultra Rare
+VJMP-JP032	Machine Lord Ür	Ultra Rare
+VJMP-JP033	Red Ogre	Ultra Rare
+VJMP-JP034	Tragoedia	Ultra Rare
+VJMP-JP035	Kasha	Ultra Rare
+VJMP-JP036	Elemental HERO Gaia	Ultra Rare
+VJMP-JP037	Obelisk the Tormentor	Ultra Rare
+VJMP-JP038	Archlord Kristya	Ultra Rare
+VJMP-JP039	Darklord Asmodeus	Ultra Rare
+VJMP-JP040	Golem Dragon	Ultra Rare
+VJMP-JP041	Darklord Superbia	Ultra Rare
+VJMP-JP042	Koa'ki Meiru Bergzak	Ultra Rare
+VJMP-JP043	Darklord Edeh Arae	Ultra Rare
+VJMP-JP044	Lancer Lindwurm	Ultra Rare
+VJMP-JP045	Cyber Eltanin	Ultra Rare
+VJMP-JP046	The Winged Dragon of Ra	Ultra Rare
+VJMP-JP047	Malefic Stardust Dragon	Ultra Rare
+VJMP-JP048	Elemental HERO Neos Knight	Ultra Rare
+VJMP-JP049	Gash the Dust Lord	Ultra Rare
+VJMP-JP050	Sergeant Electro	Ultra Rare
+VJMP-JP051	Malefic Truth Dragon	Ultra Rare
+VJMP-JP052	Rose Witch	Ultra Rare
+VJMP-JP053	Phantom Magician	Ultra Rare
+VJMP-JP054	Meklord Emperor Granel	Ultra Rare
+VJMP-JP055	Meklord Astro Mekanikle	Ultra Rare
+VJMP-JP056	The Supremacy Sun	Ultra Rare
+VJMP-JP057	Metaion, the Timelord	Ultra Rare
+VJMP-JP058	Infernity Knight	Ultra Rare
+VJMP-JP059	Endless Decay	Ultra Rare
+VJMP-JP060	Number 34: Terror-Byte	Ultra Rare
+VJMP-JP061	Phantom Lord Hide Ride	Ultra Rare
+VJMP-JP062	Celestial Wolf Lord, Blue Sirius	Ultra Rare
+VJMP-JP063	Number 30: Acid Golem of Destruction	Ultra Rare
+VJMP-JP064	Slifer the Sky Dragon	Ultra Rare
+VJMP-JP065	Dragard	Ultra Rare
+VJMP-JP066	Number 15: Gimmick Puppet Giant Grinder	Ultra Rare
+VJMP-JP067	Papa-Corn	Ultra Rare
+VJMP-JP068	Blackwing - Gladius the Midnight Sun	Ultra Rare
+VJMP-JP069	Number 6: Chronomaly Atlandis	Ultra Rare
+VJMP-JP070	Thunder Sea Horse	Ultra Rare
+VJMP-JP071	Mighty Warrior	Ultra Rare
+VJMP-JP072	Brotherhood of the Fire Fist - Horse Prince	Gold Rare
+VJMP-JP073	Bahamut Shark	Ultra Rare
+VJMP-JP074	Number 106: Giant Hand	Ultra Rare
+VJMP-JP075	Number 42: Galaxy Tomahawk	Ultra Rare
+VJMP-JP076	Harpie Dancer	Ultra Rare
+VJMP-JP077	Starship Spy Plane	Ultra Rare
+VJMP-JP078	Rose Archer	Ultra Rare
+VJMP-JP079	Archfiend Commander	Ultra Rare
+VJMP-JP080	Blue-Eyes White Dragon	Ultra Rare
+VJMP-JP081	Galaxy Dragon	Ultra Rare
+VJMP-JP082	Hundred-Footed Horror	Ultra Rare
+VJMP-JP083	Gimmick Puppet Des Troy	Ultra Rare
+VJMP-JP084	Geargiauger	Ultra Rare
+VJMP-JP085	Felis, Lightsworn Archer	Ultra Rare
+VJMP-JP086	Ebon Illusion Magician	Ultra Rare
+VJMP-JP087	Shogi Spear Wheel	Ultra Rare
+VJMP-JP088	Funeral Worker of the Heavenly Halo	Ultra Rare
+VJMP-JP089	Performapal Silver Claw	Ultra Rare
+VJMP-JP090	Junk Anchor	Ultra Rare
+VJMP-JP091	Primitive Butterfly	Ultra Rare
+VJMP-JP092	Elemental HERO Core	Ultra Rare
+VJMP-JP093	DDD Caesar the Wave Overlord	Ultra Rare
+VJMP-JP094	Beast-Eyes Pendulum Dragon	Ultra Rare
+Weekly Shōnen Jump promotional cards
+	Dark Magician (Chinese)	Ultra Rare
+	Dark Magician (English)	Ultra Rare
+	Blue-Eyes White Dragon (English)	Ultra Rare
+WJ-01	Archfiend of Gilfer	Ultra Rare
+WJ-02	Amazoness Chain Master	Ultra Rare
+WJ-03	Embodiment of Apophis	Ultra Rare
+WJ-04	Exchange of the Spirit	Ultra Rare
+WJC-JP005	Elemental Hero Neos	Ultra Rare
+WJMP-JP006	Elemental Hero Ocean	Ultra Rare
+WJMP-JP007	Mosaic Manticore	Ultra Rare
+WJMP-JP008	Exodius the Ultimate Forbidden Lord	Ultra Rare
+WJMP-JP009	Emperor Sem	Ultra Rare
+WJMP-JP010	Red Dragon Archfiend	Secret Rare
+WJMP-JP011	Victoria	Ultra Rare
+WJMP-JP012	Dark Magician	Ultra Rare
+WJMP-JP013	Hundred-Eyes Dragon	Ultra Rare
+WJMP-JP014	Malefic Blue-Eyes White Dragon	Ultra Rare
+WJMP-JP015	Meklord Emperor Wisel ∞	Ultra Rare
+WJMP-JP016	T.G. Hyper Librarian	Ultra Rare
+WJMP-JP017	Number 56: Gold Rat	Ultra Rare
+WJMP-JP018	Magi Magi ☆ Magician Gal	Ultra Rare
+WJMP-JP019	Brotherhood of the Fire Fist - Spirit	Gold Ultra Rare
+WJMP-JP020	Dododo Buster	Ultra Rare
+WJMP-JP021	ZW - Sleipnir Mail	Ultra Rare
+WJMP-JP022	Number 58: Burner Visor	Ultra Rare
+WJMP-JP023	DD Cerberus	Ultra Rare
+Yu-Gi-Oh! The Official Magazine promotional cards
+YGMU-IT001	Dark End Dragon	Ultra Rare
+YGMU-IT002	The Winged Dragon of Ra	Ultra Rare
+Yu-Gi-Oh! R promotional cards
+YR01-EN001	Van'Dalgyon the Dark Dragon Lord	Volume 1
+YR01-EN003	Gorz the Emissary of Darkness	Volume 3
+YR04-EN001	Angel O7	Volume 4
+YR05-EN001	Alector, Sovereign of Birds	Volume 5
+Yu-Gi-Oh! GX manga promotional cards
+YG01-EN001	Light and Darkness Dragon	Volume 1
+YG02-EN001	Thunder King Rai-Oh	Volume 2
+YG03-EN001	Winged Kuriboh LV9	Volume 3
+YG04-EN001	Elemental HERO Absolute Zero	Volume 4
+YG05-EN001	Darklord Desire	Volume 5
+YG06-EN001	Elemental HERO The Shining	Volume 6
+YG07-EN001	Blizzard Princess	Volume 7
+YG08-EN001	Barbaroid, the Ultimate Battle Machine	Volume 8
+YG09-EN001	Elemental HERO Escuridao	Volume 9
+Yu-Gi-Oh! 5D's manga promotional cards
+YF01-EN001	Dark Highlander	Volume 1
+YF02-EN001	Catapult Warrior	Volume 2
+YF03-EN001	Infernity General	Volume 3
+YF04-EN001	Blackwing - Gram the Shining Star	Volume 4
+YF05-EN001	Stardust Spark Dragon	Volume 5
+Yu-Gi-Oh! ZEXAL Volume 1 promotional card
+Yu-Gi-Oh! ZEXAL Volume 2 promotional card
+Yu-Gi-Oh! ZEXAL Volume 3 promotional card
+Yu-Gi-Oh! ZEXAL Volume 4 promotional card
+Yu-Gi-Oh! ZEXAL Volume 5 promotional card
+Yu-Gi-Oh! ZEXAL Volume 6 promotional card
+Yu-Gi-Oh! ZEXAL Volume 7 promotional card
+Concept Duel 1
+CD01-JP001	Yuma Token	Common
+CD01-JP002	Reginald Token	Common
+CD01-JP003	Kite Token	Common
+Concept Duel 2
+CD02-JP001	Astral Token	Common
+CD02-JP002	ZEXAL Token	Common
+CD02-JP003	ZEXAL II Token	Common
+CD02-JP004	Clash! Duel Carnival! Token	Common
+Concept Duel 3
+CD03-JP001	Kite & Mizar Token	トークン
+CD03-JP002	Token (Yugi)	
+Duelist League 1 participation cards
+Duelist League 2 participation cards
+DL11-EN001	Dark Magician	Rare
+DL11-EN002	Right Leg of the Forbidden One	Rare
+DL11-EN003	Left Leg of the Forbidden One	Rare
+DL11-EN004	Right Arm of the Forbidden One	Rare
+DL11-EN005	Left Arm of the Forbidden One	Rare
+DL11-EN006	Exodia the Forbidden One	Rare
+DL11-EN007	Morphing Jar	Rare
+DL11-EN008	Pyramid Turtle	Rare
+DL11-EN009	Gravekeeper's Spy	Rare
+DL11-EN010	Mobius the Frost Monarch	Rare
+DL11-EN011	Hanewata	Rare
+DL11-EN012	Inmato	Rare
+DL11-EN013	Blackwing - Kalut the Moon Shadow	Rare
+DL11-EN014	Thought Ruler Archfiend	Rare
+DL11-EN015	Nobleman of Extermination	Rare
+DL11-EN016	Fusion Gate	Rare
+DL11-EN017	Royal Tribute	Rare
+DL11-EN018	Fairy Box	Rare
+DL11-EN019	Rite of Spirit	Rare
+DL11-EN020	Icarus Attack	Rare
+Duelist League 3 participation cards
+DL12-EN001	Elemental Hero Neos	Rare
+DL12-EN002	UFO Turtle	Rare
+DL12-EN003	Giant Germ	Rare
+DL12-EN004	Mother Grizzly	Rare
+DL12-EN005	Jinzo	Rare
+DL12-EN006	Iron Blacksmith Kotetsu	Rare
+DL12-EN007	Thestalos the Firestorm Monarch	Rare
+DL12-EN008	Winged Kuriboh	Rare
+DL12-EN009	Enishi, Shien's Chancellor	Rare
+DL12-EN010	Junk Synchron	Rare
+DL12-EN011	Super Vehicroid - Stealth Union	Rare
+DL12-EN012	Junk Warrior	Rare
+DL12-EN013	Messenger of Peace	Rare
+DL12-EN014	Salvage	Rare
+DL12-EN015	Magical Mallet	Rare
+DL12-EN016	Dangerous Machine Type-6	Rare
+DL12-EN017	Super Solar Nutrient	Rare
+DL12-EN018	Call Of The Haunted	Rare
+DL12-EN019	Magic Cylinder	Rare
+DL12-EN020	Light of Judgment	Rare
+Duelist League 4 participation cards
+Duelist League 5 participation cards
+Duelist League 6 participation cards
+Duelist League 7 participation cards
+Duelist League 8 participation cards
+Duelist League 8 participation cards
+Duelist League 10 participation cards
+Duelist League 11 participation cards
+Duelist League 12 participation cards
+Duelist League 13 participation cards
+DL13-EN001	Armed Ninja	Rare
+DL13-EN002	Shining Angel	Rare
+DL13-EN003	Flying Kamakiri #1	Rare
+DL13-EN004	Crimson Ninja	Rare
+DL13-EN005	Strike Ninja	Rare
+DL13-EN006	Pinch Hopper	Rare
+DL13-EN007	Howling Insect	Rare
+DL13-EN008	Granmarg the Rock Monarch	Rare
+DL13-EN009	White Ninja	Rare
+DL13-EN010	Ultimate Tyranno	Rare
+DL13-EN011	Black Stego	Rare
+DL13-EN012	Babycerasaurus	Rare
+DL13-EN013	Gorz the Emissary of Darkness	Rare
+DL13-EN014	Insect Barrier	Rare
+DL13-EN015	Dark Factory of Mass Production	Rare
+DL13-EN016	Ancient Rules	Rare
+DL13-EN017	Zombie World	Rare
+DL13-EN018	Fossil Dig	Rare
+DL13-EN019	Ultimate Offering	Rare
+DL13-EN020	Magic Drain	Rare
+Duelist League 14 participation cards
+DL14-EN001	Kabazauls	Rare
+DL14-EN002	Command Knight	Rare
+DL14-EN003	Armed Samurai - Ben Kei	Rare
+DL14-EN004	Doom Dozer	Rare
+DL14-EN005	Tuningware	Rare
+DL14-EN006	Defender, the Magical Knight	Rare
+DL14-EN007	Shiny Black "C"	Rare
+DL14-EN008	Raiza the Storm Monarch	Rare
+DL14-EN009	Arcanite Magician	Rare
+DL14-EN010	Number 39: Utopia	Rare
+DL14-EN011	Fuhma Shuriken	Rare
+DL14-EN012	Precious Cards from Beyond	Rare
+DL14-EN013	Secret Village of the Spellcasters	Rare
+DL14-EN014	Arcane Barrier	Rare
+DL14-EN015	Nobleman of Crossout	Rare
+DL14-EN016	Mask Change	Rare
+DL14-EN017	Glorious Illusion	Rare
+DL14-EN018	Fish Depth Charge	Rare
+DL14-EN019	Light-Imprisoning Mirror	Rare
+DL14-EN020	Shadow-Imprisoning Mirror	Rare
+Duelist League 15 participation cards
+DL15-EN001	Skilled Dark Magician	Rare
+DL15-EN002	Enraged Battle Ox	Rare
+DL15-EN003	Ultimate Baseball Kid	Rare
+DL15-EN004	Gaia Soul the Combustible Collective	Rare
+DL15-EN005	Frost and Flame Dragon	Rare
+DL15-EN006	Caius the Shadow Monarch	Rare
+DL15-EN007	Super-Nimble Mega Hamster	Rare
+DL15-EN008	Zubaba Knight	Rare
+DL15-EN009	Gagaga Magician	Rare
+DL15-EN010	Gogogo Golem	Rare
+DL15-EN011	Kurivolt	Rare
+DL15-EN012	Number 17: Leviathan Dragon	Rare
+DL15-EN013	Salamandra	Rare
+DL15-EN014	Fires of Doomsday	Rare
+DL15-EN015	Black Whirlwind	Rare
+DL15-EN016	Solidarity	Rare
+DL15-EN017	Wonder Wand	Rare
+DL15-EN018	Mirror Force	Rare
+DL15-EN019	Disturbance Strategy	Rare
+DL15-EN020	Horn of the Phantom Beast	Rare
+Duelist League 16 participation cards
+DL16-EN001	Sabersaurus	Rare
+DL16-EN002	Vampire Baby	Rare
+DL16-EN003	Vampire's Curse	Rare
+DL16-EN004	Kuraz the Light Monarch	Rare
+DL16-EN005	Rose, Warrior of Revenge	Rare
+DL16-EN006	Endymion, the Master Magician	Rare
+DL16-EN007	Kasha	Rare
+DL16-EN008	Victoria	Rare
+DL16-EN009	Geargiano	Rare
+DL16-EN010	The Supremacy Sun	Rare
+DL16-EN011	Doomkaiser Dragon	Rare
+DL16-EN012	Thunder End Dragon	Rare
+DL16-EN013	Limiter Removal	Rare
+DL16-EN014	Machine Assembly Line	Rare
+DL16-EN015	Beast Soul Swap	Rare
+DL16-EN016	Generation Shift	Rare
+DL16-EN017	Supercharge	Rare
+DL16-EN018	Giant Trap Hole	Rare
+DL16-EN019	Stygian Dirge	Rare
+DL16-EN020	Darkfall	Rare
+Duelist League 17 participation cards
+DL17-EN001	Lord of D.	Rare
+DL17-EN002	Horus the Black Flame Dragon LV8	Rare
+DL17-EN003	Silent Swordsman LV7	Rare
+DL17-EN004	Super-Ancient Dinobeast	Rare
+DL17-EN005	Mezuki	Rare
+DL17-EN006	Hyper Synchron	Rare
+DL17-EN007	Blackwing - Sirocco the Dawn	Rare
+DL17-EN008	Quickdraw Synchron	Rare
+DL17-EN009	Delg the Dark Monarch	Rare
+DL17-EN010	Cyber End Dragon	Rare
+DL17-EN011	Gaia Knight, the Force of Earth	Rare
+DL17-EN012	Gagagigo the Risen	Rare
+DL17-EN013	The Flute of Summoning Dragon	Rare
+DL17-EN014	Book of Life	Rare
+DL17-EN015	Call of the Mummy	Rare
+DL17-EN016	Fairy of the Spring	Rare
+DL17-EN017	Double Summon	Rare
+DL17-EN018	Summon Limit	Rare
+DL17-EN019	Delta Crow - Anti Reverse	Rare
+DL17-EN020	Starlight Road	Rare
+Duelist League 18 participation cards
+DL18-EN001	Catapult Turtle	Rare
+DL18-EN002	Penguin Soldier	Rare
+DL18-EN003	Dark Magician Girl	Rare
+DL18-EN004	Ancient Gear Golem	Rare
+DL18-EN005	Dandylion	Rare
+DL18-EN006	Grapha, Dragon Lord of Dark World	Rare
+DL18-EN007	Geargiano Mk-II	Rare
+DL18-EN008	Brotherhood of the Fire Fist - Dragon	Rare
+DL18-EN009	Brotherhood of the Fire Fist - Snake	Rare
+DL18-EN010	Gladiator Beast Essedarii	Rare
+DL18-EN011	Gold Sarcophagus	Rare
+DL18-EN012	The World Tree	Rare
+DL18-EN013	Photon Booster	Rare
+DL18-EN014	Fire Formation - Tenki	Rare
+DL18-EN015	DNA Surgery	Rare
+DL18-EN016	Torrential Tribute	Rare
+DL18-EN017	Cyber Summon Blaster	Rare
+DL18-EN018	Scrap-Iron Scarecrow	Rare
+DL18-EN019	Solemn Warning	Rare
+DL18-EN020	Fire Formation - Tensen	Rare
+Hobby League Participation Cards
+HL1-EN001	Lord of the Lamp	Common
+HL1-EN002	Greenkappa	Super Rare
+HL1-EN003	A Legendary Ocean	Common
+HL1-EN004	Levia-Dragon - Daedalus	Super Rare
+HL1-EN005	Fusion Gate	Common
+HL1-EN006	King of the Swamp	Super Rare
+HL2-EN001	Cyber Jar	Ultra Parallel Rare
+HL2-EN002	Mystical Space Typhoon	Ultra Parallel Rare
+HL2-EN003	Sangan	Ultra Parallel Rare
+HL2-EN004	Heavy Storm	Ultra Parallel Rare
+HL2-EN005	Marauding Captain	Ultra Parallel Rare
+HL2-EN006	Fissure	Ultra Parallel Rare
+HL03-EN001	Giant Rat	Ultra Parallel Rare
+HL03-EN002	Creature Swap	Ultra Parallel Rare
+HL03-EN003	Trap Hole	Ultra Parallel Rare
+HL03-EN004	Spear Dragon	Ultra Parallel Rare
+HL03-EN005	Mystic Tomato	Ultra Parallel Rare
+HL03-EN006	Royal Decree	Ultra Parallel Rare
+HL03-EN007	Dark Balter the Terrible	Ultra Parallel Rare
+HL04-EN001	Exiled Force	Ultra Parallel Rare
+HL04-EN002	Swords of Revealing Light	Ultra Parallel Rare
+HL04-EN003	Asura Priest	Ultra Parallel Rare
+HL04-EN004	Graceful Charity	Ultra Parallel Rare
+HL04-EN005	Kycoo the Ghost Destroyer	Ultra Parallel Rare
+HL04-EN006	Torrential Tribute	Ultra Parallel Rare
+HL05-EN001	Crystal Beast Ruby Carbuncle	Ultra Parallel Rare
+HL05-EN002	Green Gadget	Ultra Parallel Rare
+HL05-EN003	Crystal Beacon	Ultra Parallel Rare
+HL05-EN004	Dekoichi the Battlechanted Locomotive	Ultra Parallel Rare
+HL05-EN005	The Six Samurai - Zanji	Ultra Parallel Rare
+HL05-EN006	Scapegoat	Ultra Parallel Rare
+HL06-EN001	Nobleman of Crossout	Ultra Parallel Rare
+HL06-EN002	Limiter Removal	Ultra Parallel Rare
+HL06-EN003	D.D. Warrior Lady	Ultra Parallel Rare
+HL06-EN004	Reinforcement of the Army	Ultra Parallel Rare
+HL06-EN005	Call of the Haunted	Ultra Parallel Rare
+HL06-EN006	Shining Angel	Ultra Parallel Rare
+HL07-EN001	Monster Reborn	Ultra Parallel Rare
+HL07-EN002	Neo-Spacian Grand Mole	Ultra Parallel Rare
+HL07-EN003	Dark Dust Spirit	Ultra Parallel Rare
+HL07-EN004	Red Gadget	Ultra Parallel Rare
+HL07-EN005	Card of Safe Return	Ultra Parallel Rare
+HL07-EN006	Yellow Gadget	Ultra Parallel Rare
+Jump Festa Invitational 2009
+EV09-KR001	Blackwing - Gale the Whirlwind	Secret Rare
+EV09-KR002	Judgment Dragon	Secret Rare
+EV09-KR003	Mezuki	Secret Rare
+EV09-KR004	Dark Armed Dragon	Secret Rare
+EV09-KR005	Brionac, Dragon of the Ice Barrier	Secret Rare
+EV09-KR006	Test Tiger	Secret Rare
+Spring Battle 2010
+EV10-KR001	Lyla, Lightsworn Sorceress	Secret Rare
+EV10-KR002	Goyo Guardian	Secret Rare
+EV10-KR003	Arcanite Magician	Secret Rare
+EV10-KR004	Allure of Darkness	Secret Rare
+EV10-KR005	Blackwing - Kalut the Moon Shadow	Secret Rare
+National Championship 2010 TOP 8
+EV10-KR006	Ally of Justice Catastor	Secret Rare
+Summer Festival 2010
+EV10-KR007	Infernity Mirage	Secret Rare
+EV10-KR008	Battle Fader	Secret Rare
+EV10-KR009	Black Rose Dragon	Secret Rare
+EV10-KR010	Plaguespreader Zombie	Secret Rare
+Jump Festa Invitational 2010
+EV10-KR012	Caius the Shadow Monarch	Secret Rare
+Winter Festival 2010
+EV10-KR013	Elemental HERO Neos Alius	Secret Rare
+EV10-KR014	Ryko, Lightsworn Hunter	Secret Rare
+EV10-KR015	Glow-Up Bulb	Secret Rare
+Spring Battle 2011
+EV11-KR001	Legendary Six Samurai - Kageki	Secret Rare
+EV11-KR002	D.D. Crow	Secret Rare
+National Championship 2011
+EV11-KR003	Solemn Warning	Secret Rare
+EV11-KR004	Kagemusha of the Six Samurai	Secret Rare
+Summer Festival 2011
+EV11-KR005	Pot of Avarice	Secret Rare
+EV11-KR006	Thunder King Rai-Oh	Secret Rare
+Winter Festival 2011
+EV11-KR011	Infernity Archer	Secret Rare
+EV11-KR012	Infernity Archfiend	Secret Rare
+EV11-KR013	T.G. Striker	Secret Rare
+EV11-KR014	Rescue Rabbit	Secret Rare
+Spring Battle 2012
+EV12-KR001	Chachaka Archer	Super Rare
+EV12-KR002	Inzektor Centipede	Secret Rare
+EV12-KR003	Effect Veiler	Secret Rare
+National Championship 2012
+EV12-KR004	Zubaba Buster	Secret Rare
+EV12-KR005	Pot of Duality	Secret Rare
+EV12-KR006	Inzektor Hornet	Secret Rare
+Summer Festival 2012
+EV12-KR007	Flelf	Secret Rare
+EV12-KR008	Hieratic Dragon of Su	Secret Rare
+EV12-KR009	Miracle Fusion	Secret Rare
+EV12-KR010	Night Beam	Secret Rare
+Winter Festival 2012
+EV13-KR001	Card Trooper	Secret Rare
+EV13-KR002	Tragoedia	Secret Rare
+EV13-KR003	Wind-Up Magician	Secret Rare
+EV13-KR004	Deep Sea Diva	Secret Rare
+National Championship 2013
+EV13-KR006	Gagaga Girl	Secret Rare
+EV13-KR007	Brotherhood of the Fire Fist - Bear	Secret Rare
+EV??-KR0??	ZEXAL Token	Secret Rare
+Spring Battle 2013
+EV13-KR008	Mermail Abysslinde	Secret Rare
+EV13-KR009	Justice of Prophecy	Secret Rare
+EV13-KR010	Madolche Magileine	Secret Rare
+EV13-KR011	Brotherhood of the Fire Fist - Gorilla	Secret Rare
+Shonen Jump Championship Series Prize Cards
+SJC-001	Cyber-Stein	
+SJC-002	Des Volstgalph	
+SJC-003	Shrink	
+SJCS-004	Crush Card Virus	
+SJCS-005	Gold Sarcophagus	
+SJCS-006	Doomcaliber Knight	
+SJCS-007	Dark End Dragon	
+Yu-Gi-Oh! Championship Series 2010 Prize Cards
+YCSW-EN001	Darklord Asmodeus	Ultra Rare/Super Rare
+YCSW-EN002	Darklord Superbia	Ultra Rare/Super Rare
+YCSW-EN003	Darklord Edeh Arae	Ultra Rare/Super Rare
+Yu-Gi-Oh! Championship Series 2011 Prize Card
+YCSW-EN004	Blood Mefist	Ultra Rare/Super Rare
+Yu-Gi-Oh! Championship Series 2012 Prize Card
+YCSW-EN005	Digvorzhak, King of Heavy Industry	Ultra Rare/Super Rare
+Mattel Action Figure Promotional Cards
+MF01-EN001	Elemental HERO Thunder Giant	Normal Parallel Rare
+MF02-EN001	Elemental HERO Tempest	Normal Parallel Rare
+MF02-EN002	Elemental HERO Wildedge	Normal Parallel Rare
+MF02-EN003	Cyber End Dragon	Normal Parallel Rare
+MF02-EN004	Water Dragon	Normal Parallel Rare
+MF03-EN001	Winged Kuriboh LV10	Normal Parallel Rare
+MF03-EN002	Elemental HERO Burstinatrix	Normal Parallel Rare
+MF03-EN003	Elemental HERO Clayman	Normal Parallel Rare
+MF03-EN004	Elemental HERO Sparkman	Normal Parallel Rare
+MF03-EN005	Elemental HERO Bladedge	Normal Parallel Rare
+MF03-EN006	Elemental HERO Flame Wingman	Normal Parallel Rare
+MF03-EN007	Elemental HERO Bubbleman	Normal Parallel Rare
+MF03-EN008	Ancient Gear Golem	Normal Parallel Rare
+MF03-EN009	Black Luster Soldier	Normal Parallel Rare
+MF03-EN010	Cyber Dragon	Normal Parallel Rare
+MF03-EN011	Chthonian Soldier	Normal Parallel Rare
+Duel Disk - Yusei Version DX
+DDY2-JP001	Junk Collector	Ultra Rare/Secret Rare
+DDY2-JP002	Backup Warrior	Ultra Rare/Secret Rare
+DDY2-JP003	Miracle's Wake	Ultra Rare/Secret Rare
+DDY2-JP004	Starlight Road	Ultra Rare/Secret Rare

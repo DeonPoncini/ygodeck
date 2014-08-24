@@ -176,12 +176,15 @@ def parse_card(cardname):
                     data['rpendulum'] = info[0].strip()
 
     # process the output
-    if data['cardType'] == 'Monster':
-        print_output(parse_monster(data))
-    elif data['cardType'] == 'Spell':
-        print_output(parse_spell(data))
-    elif data['cardType'] == 'Trap':
-        print_output(parse_trap(data))
+    if 'cardType' in data:
+        if data['cardType'] == 'Monster':
+            print_output(parse_monster(data))
+        elif data['cardType'] == 'Spell':
+            print_output(parse_spell(data))
+        elif data['cardType'] == 'Trap':
+            print_output(parse_trap(data))
+        else:
+            log_error(origcardname)
     else:
         log_error(origcardname)
 
