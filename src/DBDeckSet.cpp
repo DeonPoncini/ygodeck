@@ -37,18 +37,22 @@ int cardCheck(const std::string& cardid, const std::string& deckid)
 }
 
 DBDeckSet::DBDeckSet(const std::string& name, const DBUser& user,
-            const DBFormat& format) :
+            const DBFormat& format, bool create) :
     mName(name),
     mUser(user),
     mFormat(format)
 {
-    if (!exists())
+    if (exists())
     {
-        create();
+        open();
+    }
+    else if (create)
+    {
+        DBDeckSet::create();
     }
     else
     {
-        open();
+        throw std::runtime_error("Deck Set " + name + " does not exist");
     }
 }
 

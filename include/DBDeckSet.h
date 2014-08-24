@@ -19,7 +19,7 @@ class DBDeckSet
 {
 public:
     DBDeckSet(const std::string& name, const DBUser& user,
-            const DBFormat& format);
+            const DBFormat& format, bool create = false);
 
     DBDeck::DeckError addCard(DeckType deckType, const std::string& name);
     CardMap cards();
