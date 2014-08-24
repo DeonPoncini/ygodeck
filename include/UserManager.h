@@ -1,8 +1,8 @@
 #ifndef YGO_USERMANAGER_H
 #define YGO_USERMANAGER_H
 
-#include "DB.h"
 #include "DBUser.h"
+#include "DBDeckSet.h"
 
 namespace ygo
 {
@@ -14,9 +14,7 @@ public:
     UserManager();
 
     DBUser login(const std::string& name);
-
-private:
-    DB mDB;
+    std::vector<DBDeckSet> deckSets(const DBUser& user);
 };
 
 }
