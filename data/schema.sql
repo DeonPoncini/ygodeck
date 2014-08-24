@@ -28,7 +28,7 @@ CREATE TABLE deck_set(
 CREATE TABLE users(
     user_id INTEGER PRIMARY KEY,
     name TEXT
-)
+);
 
 CREATE TABLE deck(
     deck_id INTEGER PRIMARY KEY,
@@ -52,5 +52,5 @@ CREATE TABLE user_to_decks(
     relation_id INTEGER PRIMARY KEY,
     user_id INTEGER,
     deck_set_id INTEGER
-)
+);
 
