@@ -26,6 +26,7 @@ public:
     DBDeck::DeckError addCard(DeckType deckType, const std::string& name);
     CardMap cards() const;
     void deleteCard(DeckType deckType, const std::string& name);
+    void remove();
 
 private:
     DeckMap mDeckMap;

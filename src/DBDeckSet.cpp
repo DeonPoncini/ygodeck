@@ -175,4 +175,18 @@ DBDeck& DBDeckSet::findDeck(DeckType deckType)
     return mDeckMap.find(deckType)->second;
 }
 
+void DBDeckSet::remove()
+{
+    // remove all the decks and this deck set
+    auto mid = findDeck(DeckType::MAIN).id();
+    auto sid = findDeck(DeckType::SIDE).id();
+    auto eid = findDeck(DeckType::EXTRA).id();
+
+    DB db(DBPATH);
+    db.del("deck",DBPair("deck_id",mid));
+    db.del("deck",DBPair("deck_id",sid));
+    db.del("deck",DBPair("deck_id",eid));
+    db.del("deck_set",DBPair("deck_set_id",mID));
+}
+
 }
