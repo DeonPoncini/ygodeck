@@ -94,6 +94,29 @@ std::vector<StaticCardData> DBDeck::cards() const
 
 void DBDeck::deleteCard(const std::string& name)
 {
+    // lookup this card id
+    std::string cardid;
+    DB db(DBPATH);
+    db.select("card_id","card",DBPair("name",name),
+            [&](DB::DataMap data)
+            {
+                cardid = data["card_id"];
+            });
+
+    // return every relation for this deck where this card id matches
+    std::vector<std::string> ids;
+    db.select("relation_id","deck_to_cards",
+            DBAnd({DBPair("deck_id",mID),DBPair("card_id",cardid)}),
+            [&](DB::DataMap data)
+            {
+                ids.push_back(data["relation_id"]);
+            });
+
+    // delete only one of these relations
+    if (!ids.empty())
+    {
+        db.del("deck_to_cards",DBPair("relation_id",ids[0]));
+    }
 }
 
 }
