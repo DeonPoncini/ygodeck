@@ -57,11 +57,7 @@ public:
     void exec(const std::string& statement, DataMapFn f);
 
 private:
-    friend int callback(void* l, int argc, char** argv, char** azColName);
-
     sqlite3* mDB;
-    DataMapFn mCBf;
-
 };
 }
 

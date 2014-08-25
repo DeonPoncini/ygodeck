@@ -2,6 +2,8 @@
 
 #include <stdexcept>
 
+#include <iostream>
+
 namespace ygo
 {
 
@@ -20,7 +22,10 @@ std::string operator_to_string(Operator op)
 
 std::string DBEsc(const std::string& s)
 {
-    return std::string("'") + s + "'";
+    char* query = sqlite3_mprintf("'%q'",s.c_str());
+    auto ret = std::string(query);
+    sqlite3_free(query);
+    return ret;
 }
 
 std::string DBPair(const std::string& key, const std::string& value)
@@ -135,19 +140,6 @@ DB::~DB()
     sqlite3_close(mDB);
 }
 
-int callback(void* d, int argc, char** argv, char** azColName)
-{
-    auto db = static_cast<DB*>(d);
-    // pack the map with the return values
-    DB::DataMap ret;
-    for (auto i = 0; i < argc; ++i)
-    {
-        ret.insert({azColName[i],argv[i] ? argv[i] : "NULL"});
-    }
-    db->mCBf(ret);
-    return 0;
-}
-
 void DB::select(const std::string& select, const std::string& from,
             const std::string& where, DataMapFn f)
 {
@@ -181,15 +173,34 @@ void DB::del(const std::string& del, const std::string& where)
 
 void DB::exec(const std::string& statement, DataMapFn f)
 {
-    mCBf = f;
-    char* zErrMsg = nullptr;
-    if (sqlite3_exec(mDB,statement.c_str(),callback,
-                static_cast<void*>(this),
-                &zErrMsg) != SQLITE_OK)
+    sqlite3_stmt* s;
+    if (sqlite3_prepare_v2(mDB,statement.c_str(),-1,&s,nullptr) == SQLITE_OK)
     {
-        std::string err(zErrMsg);
-        sqlite3_free(zErrMsg);
-        throw std::runtime_error(err);
+        auto cols = sqlite3_column_count(s);
+        while (true)
+        {
+            auto result = sqlite3_step(s);
+
+            if (result == SQLITE_ROW)
+            {
+                DB::DataMap ret;
+                for (auto i = 0; i < cols; ++i)
+                {
+                    auto* data =
+                        reinterpret_cast<const char*>(sqlite3_column_text(s,i));
+                    ret.insert({sqlite3_column_name(s,i),data ? data : "NULL"});
+                }
+                f(ret);
+            }
+            else
+            {
+                break;
+            }
+        }
+    }
+    else
+    {
+        throw std::runtime_error(sqlite3_errmsg(mDB));
     }
 }
 
