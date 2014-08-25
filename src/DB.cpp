@@ -2,8 +2,6 @@
 
 #include <stdexcept>
 
-#include <iostream>
-
 namespace ygo
 {
 
