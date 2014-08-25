@@ -70,4 +70,18 @@ std::vector<DBDeckSet> DBUser::deckSets() const
     return ret;
 }
 
+void DBUser::remove()
+{
+    // delete all the deck sets associated with this user
+    auto sets = deckSets();
+    for (auto&& s : sets)
+    {
+        s.remove();
+    }
+
+    // delete the user
+    DB db(DBPATH);
+    db.del("users",DBPair("user_id",mID));
+}
+
 }

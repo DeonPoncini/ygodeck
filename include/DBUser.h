@@ -18,6 +18,7 @@ public:
     std::string id() const { return mID; }
 
     std::vector<DBDeckSet> deckSets() const;
+    void remove();
 
 private:
     std::string mName;
