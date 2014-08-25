@@ -53,7 +53,7 @@ DBDeck::DeckError DBDeck::addCard(const std::string& name)
     return DeckError::OK;
 }
 
-std::vector<StaticCardData> DBDeck::cards()
+std::vector<StaticCardData> DBDeck::cards() const
 {
     // search all the cards part of this deck
     DB db(DBPATH);

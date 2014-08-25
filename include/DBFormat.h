@@ -3,8 +3,12 @@
 
 #include "FormatData.h"
 
+#include <string>
+#include <vector>
+
 namespace ygo
 {
+
 
 class DBFormat
 {
@@ -14,7 +18,10 @@ public:
     inline Format format() const { return mFormat; }
     inline std::string formatDate() const { return mFormatDate; }
 
-    int cardCount(const std::string& card);
+    int cardCount(const std::string& card) const;
+
+    static std::vector<std::string> formatDates();
+    static std::vector<std::string> formats();
 
 private:
     Format mFormat;

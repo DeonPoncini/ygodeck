@@ -27,7 +27,7 @@ public:
     inline std::string id() const { return mID; }
 
     DeckError addCard(const std::string& name);
-    std::vector<StaticCardData> cards();
+    std::vector<StaticCardData> cards() const;
     void deleteCard(const std::string& name);
 
 private:

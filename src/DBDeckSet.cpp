@@ -155,7 +155,7 @@ DBDeck::DeckError DBDeckSet::addCard(DeckType deckType, const std::string& name)
     return findDeck(deckType).addCard(name);
 }
 
-CardMap DBDeckSet::cards()
+CardMap DBDeckSet::cards() const
 {
     CardMap ret;
     for (auto&& kv : mDeckMap)

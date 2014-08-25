@@ -21,8 +21,10 @@ public:
     DBDeckSet(const std::string& name, const DBUser& user,
             const DBFormat& format, bool create = false);
 
+    inline std::string name() const { return mName; }
+
     DBDeck::DeckError addCard(DeckType deckType, const std::string& name);
-    CardMap cards();
+    CardMap cards() const;
     void deleteCard(DeckType deckType, const std::string& name);
 
 private:

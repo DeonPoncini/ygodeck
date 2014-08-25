@@ -39,13 +39,13 @@ DBUser::DBUser(std::string name, bool create) :
     }
 }
 
-std::vector<DBDeckSet> DBUser::deckSets(const DBUser& user)
+std::vector<DBDeckSet> DBUser::deckSets() const
 {
     // return all deck sets for a given user
     std::vector<std::string> deckids;
     DB db(DBPATH);
     db.select("deck_set_id","user_to_decks",
-            DBPair("user_id",user.id()),
+            DBPair("user_id",id()),
             [&](DB::DataMap data)
             {
                 deckids.push_back(data["deck_set_id"]);
@@ -64,7 +64,7 @@ std::vector<DBDeckSet> DBUser::deckSets(const DBUser& user)
                         data["format_date"]);
 
                     // add a new DBDeckSet
-                    ret.emplace_back(DBDeckSet{data["name"],user,f});
+                    ret.emplace_back(DBDeckSet{data["name"],*this,f});
                 });
     }
     return ret;

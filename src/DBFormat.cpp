@@ -28,7 +28,7 @@ DBFormat::DBFormat(Format format, std::string formatDate) :
     }
 }
 
-int DBFormat::cardCount(const std::string& name)
+int DBFormat::cardCount(const std::string& name) const
 {
     // look up this card in the formats database
     auto count = 0;
@@ -51,6 +51,33 @@ int DBFormat::cardCount(const std::string& name)
         count = CardLimitation(Limitation::UNLIMITED, mFormat);
     }
     return count;
+}
+
+std::vector<std::string> DBFormat::formatDates()
+{
+    static std::vector<std::string> ft = {
+        fromFormat(Format::TRADITIONAL),
+        fromFormat(Format::ADVANCED)
+    };
+    return ft;
+}
+
+std::vector<std::string> DBFormat::formats()
+{
+    std::vector<std::string> ft;
+    // get all the format dates
+    DB db(DBPATH);
+    db.select(DBUnique("name"),"formats",DBTrue(),
+            [&](DB::DataMap data)
+            {
+                auto format = data["name"];
+                if (format == fromLimitation(Limitation::ILLEGAL))
+                {
+                    return;
+                }
+                ft.push_back(format);
+            });
+    return ft;
 }
 
 }

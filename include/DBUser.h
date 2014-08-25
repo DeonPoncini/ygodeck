@@ -17,7 +17,7 @@ public:
     std::string name() const { return mName; }
     std::string id() const { return mID; }
 
-    std::vector<DBDeckSet> deckSets(const DBUser& user);
+    std::vector<DBDeckSet> deckSets() const;
 
 private:
     std::string mName;
