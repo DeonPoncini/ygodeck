@@ -26,6 +26,7 @@ public:
     CardMap cards() const;
     void deleteCard(DeckType deckType, const std::string& name);
     void remove();
+    bool validate() const;
 
 private:
     DeckMap mDeckMap;
@@ -41,6 +42,7 @@ private:
     void open();
 
     DBDeck& findDeck(DeckType deckType);
+    const DBDeck& findDeck(DeckType deckType) const;
 };
 
 }

@@ -209,6 +209,11 @@ DBDeck& DBDeckSet::findDeck(DeckType deckType)
     return mDeckMap.find(deckType)->second;
 }
 
+const DBDeck& DBDeckSet::findDeck(DeckType deckType) const
+{
+    return mDeckMap.find(deckType)->second;
+}
+
 void DBDeckSet::remove()
 {
     // remove all the decks and this deck set
@@ -221,6 +226,30 @@ void DBDeckSet::remove()
     db.del("deck",DBPair("deck_id",sid));
     db.del("deck",DBPair("deck_id",eid));
     db.del("deck_set",DBPair("deck_set_id",mID));
+}
+
+bool DBDeckSet::validate() const
+{
+    // check if the deck as built is valid and meets size requirements
+    if ((findDeck(DeckType::MAIN).size() < DeckMin(DeckType::MAIN) ||
+         (findDeck(DeckType::MAIN).size() > DeckMax(DeckType::MAIN))))
+    {
+        return false;
+    }
+
+    if ((findDeck(DeckType::EXTRA).size() < DeckMin(DeckType::EXTRA) ||
+         (findDeck(DeckType::EXTRA).size() > DeckMax(DeckType::EXTRA))))
+    {
+        return false;
+    }
+
+    if ((findDeck(DeckType::SIDE).size() < DeckMin(DeckType::SIDE) ||
+         (findDeck(DeckType::SIDE).size() > DeckMax(DeckType::SIDE))))
+    {
+        return false;
+    }
+
+    return true;
 }
 
 }
