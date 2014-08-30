@@ -13,7 +13,6 @@ namespace ygo
 {
 
 typedef std::map<DeckType,DBDeck> DeckMap;
-typedef std::map<DeckType,std::vector<StaticCardData>> CardMap;
 
 class DBDeckSet
 {
