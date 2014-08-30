@@ -36,6 +36,19 @@ int cardCheck(const std::string& cardid, const std::string& deckid)
     return count;
 }
 
+MonsterType monsterType(const std::string& name)
+{
+    std::string mtype;
+    DB db(DBPATH);
+    db.select("monsterType","card",
+            DBPair("name",name),
+            [&](DB::DataMap data)
+            {
+                mtype = data["monsterType"];
+            });
+    return toMonsterType(mtype);
+}
+
 DBDeckSet::DBDeckSet(const std::string& name, const DBUser& user,
             const DBFormat& format, bool create) :
     mName(name),
@@ -151,6 +164,27 @@ DBDeck::DeckError DBDeckSet::addCard(DeckType deckType, const std::string& name)
     if (count <= exist)
     {
         return DBDeck::DeckError::LIMIT_REACHED;
+    }
+    // check if a card is valid for this deck type
+    auto mtype = monsterType(name);
+    if (mtype == MonsterType::FUSION ||
+            mtype == MonsterType::SYNCHRO ||
+            mtype == MonsterType::XYZ ||
+            mtype == MonsterType::PENDULUM)
+    {
+        if (deckType != DeckType::EXTRA)
+        {
+            // not allowed
+            return DBDeck::DeckError::FORBIDDEN;
+        }
+    }
+    else
+    {
+        if (deckType == DeckType::EXTRA)
+        {
+            // only allows these sort of cards
+            return DBDeck::DeckError::FORBIDDEN;
+        }
     }
     return findDeck(deckType).addCard(name);
 }
