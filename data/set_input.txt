@@ -90,6 +90,43 @@ Judgment of the Light	(TCG-EN)	0
 Shadow Specters	(TCG-EN)	0
 Legacy of the Valiant	(TCG-EN)	0
 Primal Origin	(TCG-EN)	0
+# Reprint Sets
+Legend of Blue Eyes White Dragon	(OCG-JP)	2
+Phantom God	(OCG-JP)	2
+Revival of Black Demons Dragon	(OCG-JP)	2
+Metal Raiders	(OCG-JP)	2
+Booster R1	(OCG-JP)	2
+# Booster R2
+# Booster R3
+# Booster Chronicle
+Duelist Legacy Volume.1	(OCG-JP)	2
+# Duelist Legacy Volume.2
+# Duelist Legacy Volume.3
+# Duelist Legacy Volume.4
+# Duelist Legacy Volume.5
+Beginner's Edition.1	(OCG-JP)	2
+# Beginner's Edition.2
+# Expert Edition Volume.1
+# Expert Edition Volume.2
+Expert Edition Volume.3	(OCG-JP)	2
+Expert Edition Volume.4	(OCG-JP)	2
+Beginner's Edition (2011)	(OCG-JP)	2
+# Beginner's Edition (2011)
+Duelist Edition Volume 1	(OCG-JP)	2
+Duelist Edition Volume 2	(OCG-JP)	2
+Duelist Edition Volume 3	(OCG-JP)	2
+Duelist Edition Volume 4	(OCG-JP)	2
+Precious Pack Volume 1	(OCG-KR)	2
+Precious Pack Volume 2	(OCG-KR)	2
+Dark Beginning 1	(TCG-EN)	0
+Dark Beginning 2	(TCG-EN)	0
+Dark Revelation Volume 1	(TCG-EN)	0
+Dark Revelation Volume 2	(TCG-EN)	0
+Dark Revelation Volume 3	(TCG-EN)	0
+Dark Revelation Volume 4	(TCG-EN)	0
+Retro Pack	(TCG-EN)	0
+# Retro Pack 2
+Dark Legends	(TCG-EN)	0
 # Battle Packs
 Battle Pack: Epic Dawn	(TCG-EN)	0
 Battle Pack 2: War of the Giants	(TCG-EN)	0
@@ -421,7 +458,257 @@ Duel Disk - Yusei Version DX	(OCG-JP)	2
 # Monster Figure Collection
 # Monster Figure Collection 2
 # Monster Figure Collection 3
-
-
-
-
+# Startdust Overdrive Plus
+Prinal Original Plus	(TCG-EN)	0
+# Continuous Token Gifts
+# Duel Art Campaign
+Half Deck: Dark	(OCG-JP)	2
+Half Deck: Light	(OCG-JP)	2
+Movie promotional card	(OCG-JP)	2
+# Starter Box pre-order promotional card
+# Beginners Pack
+Duelist Playmat Edition	(OCG-KR)	2
+Duel Master's Guide	(TCG-NA)	0
+Duelist Card Playmat	XXXX	2
+Duelist Card Protector EX: Shadow of the Six Samurai - Shien	XXXX	2
+Duelist Card Protector EX: Ghostrick	XXXX	2
+Duelist Card Protector EX: Bujintei Susanowo	(OCG-JP)	2
+Duelist Card Protector EX: Master of HERO	(OCG-JP)	2
+Forbidden Legacy	(TCG-EN)	0
+# GX Next Generation Blister Pack Promo
+# Make-A-Wish Foundation promotional card
+McDonald's Promotional Cards: Series 1	(TCG-EN)	0
+McDonald's Promotional Cards: Series 2	(TCG-EN)	0
+# Advent Calendar
+# 10th Anniversary Movie Promo
+Invasion of Chaos: Special Edition	(TCG-NA)	0
+Rise of Destiny: Special Edition	(TCG-EN)	0
+The Lost Millennium: Special Edition	(TCG-EN)	0
+# Elemental Energy: Special Edition
+# Shadow of Infinity: Special Edition
+# Strike of Neos: Special Edition
+Force of the Breaker: Special Edition Promos	(TCG-EN)	0
+Tactical Evolution: Special Edition	(TCG-EN)	0
+Gladiator's Assault: Special Edition	(TCG-EN)	0
+Phantom Darkness: Special Edition	(TCG-EN)	0
+Light of Destruction: Special Edition	(TCG-EN)	0
+The Duelist Genesis: Special Edition	(TCG-EN)	0
+Crossroads of Chaos: Special Edition	(TCG-EN)	0
+Crimson Crisis: Special Edition	(TCG-EN)	0
+# Raging Battle: Special Edition
+Ancient Prophecy: Special Edition	(TCG-EN)	0
+# Stardust Overdrive: Special Edition
+# Absolute Powerforce: Special Edition
+# Duelist Revolution: Special Edition
+Storm of Ragnarok: Special Edition	(TCG-EN)	0
+# Hidden Arsenal: Special Edition
+Generation Force: Special Edition	(TCG-EN)	0
+Order of Chaos: Special Edition	(TCG-EN)	0
+# Hidden Arsenal 5: Steelswarm Invasion: Special Edition
+# Ra Yellow Mega-Pack: Special Edition
+Return of the Duelist: Special Edition	(TCG-EN)	0
+Abyss Rising: Special Edition	(TCG-EN)	0
+Cosmo Blazer: Special Edition	(TCG-EN)	0
+Judgment of the Light: Special Edition	(TCG-EN)	0
+Shadow Specters: Special Edition	(TCG-EN)	0
+Legacy of the Valiant: Deluxe Edition	(TCG-EN)	0
+Primal Origin: Deluxe Edition	(TCG-EN)	0
+Duelist Packs: Special Edition	(TCG-EN)	0
+# Duelist Pack: Zane Truesdale Special Edition
+# Duelist Pack: Aster Phoenix Special Edition
+# Duelist Pack: Jaden Yuki 3 Special Edition
+# Duelist Pack: Jesse Anderson Special Edition
+# Duelist Pack: Yusei Fudo 3 Special Edition
+# Duelist Pack: Crow Special Edition
+# Duelist Pack: Yugi Special Edition
+# Starter Deck 2006: Special Edition Promos
+Starter Deck 2007 Special Set	(OCG-JP)	2
+# Starter Deck 2011: Special Edition
+# Next-Gen Dueling Kit
+# Starter Deck 2012: Special Edition
+Structure Deck: Deluxe Set	(OCG-JP)	2
+Structure Deck: Deluxe Set Volume 2	(OCG-JP)	2
+Structure Deck: Dinosaur's Rage Special Edition	(OCG-JP)	2
+Structure Deck: Machine Re-Volt Special Edition	(OCG-JP)	2
+Structure Deck: Surge of Radiance Special Edition	(OCG-JP)	2
+# Structure Deck: Lord of the Magician Limited Edition
+Structure Deck: Special Set	(OCG-KR)	2
+Structure Deck: Special Set 2	(OCG-KR)	2
+Structure Deck: Warrior's Triump Special Edition	(OCG-KR)	2
+Structure Deck: Spellcaster's Judgment Specail Edition	(OCG-KR)	2
+Structure Deck: Revival of the Great Dragon Special Edition	(OCG-KR)	2
+Structure Deck: Lord of the Storm Deluxe Set	(OCG-KR)	2
+Structure Deck: Dinosaur's Rage Special Edition	(OCG-KR)	2
+Structure Deck: Machine Re-Volt Special Edition	(OCG-KR)	2
+Structure Deck: Undead World Family Edition	(OCG-KR)	2
+Structure Deck: Dragunity Drive Special Edition	(OCG-KR)	2
+Structure Deck: Roar of the Sea Emperor Special Edition	(OCG-KR)	2
+Structure Deck: The Blue-Eyed Dragon's Thundering Descent Special Edition	(OCG-KR)	2
+Structure Deck: Cyber Dragon Revolution Deluxe Edition	(OCG-KR)	2
+# Deluxe Edition Structure Deck Promotional Cards
+Structure Deck: Dinosaur's Rage Special Set	(TCG-EN)	0
+Forbidden Legacy	(TCG-EN)	0
+# Ultimate Edition
+# Ultimate Edition 2
+# Yu-Gi-Oh! GX Special Edition
+# Light and Darkness Power Pack
+# Twilight Edition
+# X-Saber: Special Edition
+# X-Saber Power-Up
+# Samurai Assault
+# Stardust: Special Edition
+EX-Premium Pack: Special Edition	(OCG-KR)	2
+# Ex.Premium Pack Kit Vol 1
+# Ex.Premium Pack Kit Vol 2
+# Ex.Premium Pack Kit Vol 3
+# Yu-Gi-Oh! OCG Duelist Box
+Duelist Set: DX Double Union	(OCG-JP)	2
+# Dragunity Blast
+# Utopia Value Box
+Master Hyperion Value Box	(TCG-EN)	0
+Shadow Samurai Value Box	(TCG-EN)	0
+Poseidra Value Box	(TCG-EN)	0
+Silver Dragon Value Box	(TCG-EN)	0
+Machine Madness Value Box	(TCG-EN)	0
+Fire Fists: Special Edition	(TCG-EN)	0
+Tournament Pack 2007 Vol.1	(OCG-JP)	2
+Tournament Pack 2007 Vol.2	(OCG-JP)	2
+Tournament Pack 2007 Vol.3	(OCG-JP)	2
+Tournament Pack 2007 Vol.4	(OCG-JP)	2
+Tournament Pack 2008 Vol.1	(OCG-JP)	2
+Tournament Pack 2008 Vol.2	(OCG-JP)	2
+#Tournament Pack 2008 Vol.3	(OCG-JP)	2
+#Tournament Pack 2008 Vol.4	(OCG-JP)	2
+Tournament Pack 2009 Vol.1	(OCG-JP)	2
+Tournament Pack 2009 Vol.2	(OCG-JP)	2
+Tournament Pack 2009 Vol.3	(OCG-JP)	2
+#Tournament Pack 2009 Vol.4	(OCG-JP)	2
+#Tournament Pack 2010 Vol.1	(OCG-JP)	2
+#Tournament Pack 2010 Vol.2	(OCG-JP)	2
+#Tournament Pack 2010 Vol.3	(OCG-JP)	2
+#Tournament Pack 2010 Vol.4	(OCG-JP)	2
+#Tournament Pack 2011 Vol.1	(OCG-JP)	2
+#Tournament Pack 2011 Vol.2	(OCG-JP)	2
+#Tournament Pack 2011 Vol.3	(OCG-JP)	2
+#Tournament Pack 2011 Vol.4	(OCG-JP)	2
+#Tournament Pack 2012 Vol.1	(OCG-JP)	2
+Tournament Pack 2012 Vol.2	(OCG-JP)	2
+Tournament Pack 2012 Vol.3	(OCG-JP)	2
+Advanced Tournament Pack 2013 Vol.1	(OCG-JP)	2
+Advanced Tournament Pack 2013 Vol.2	(OCG-JP)	2
+Advanced Tournament Pack 2013 Vol.3	(OCG-JP)	2
+Advanced Tournament Pack 2013 Vol.4	(OCG-JP)	2
+Advanced Tournament Pack 2014 Vol.1	(OCG-JP)	2
+Advanced Tournament Pack 2014 Vol.2	(OCG-JP)	2
+Advanced Tournament Pack 2014 Vol.3	(OCG-JP)	2
+Tournament Pack 2010 Vol.6	(OCG-KR)	2
+Advanced Event Pack 2014 Vol.1	(OCG-KR)	2
+Advanced Event Pack 2014 Vol.2	(OCG-KR)	2
+Tournament Pack: 1st Season	(TCG-NA)	0
+Tournament Pack: 2nd Season	(TCG-NA)	0
+Tournament Pack: 3rd Season	(TCG-NA)	0
+Tournament Pack 4	(TCG-NA)	0
+Tournament Pack 5	(TCG-EN)	0
+Tournament Pack 6	(TCG-EN)	0
+Tournament Pack 7	(TCG-EN)	0
+Tournament Pack 8	(TCG-EN)	0
+Champion Pack: Game One	(TCG-EN)	0
+Champion Pack: Game Two	(TCG-EN)	0
+Champion Pack: Game Three	(TCG-EN)	0
+Champion Pack: Game Four	(TCG-EN)	0
+Champion Pack: Game Five	(TCG-EN)	0
+Champion Pack: Game Six	(TCG-EN)	0
+Champion Pack: Game Seven	(TCG-EN)	0
+Champion Pack: Game Eight	(TCG-EN)	0
+#Turbo Pack: Booster One
+#Turbo Pack: Booster Two
+#Turbo Pack: Booster Three
+Turbo Pack: Booster Four	(TCG-EN)	0
+Turbo Pack: Booster Five	(TCG-EN)	0
+#Turbo Pack: Booster Six	(TCG-EN)	0
+Turbo Pack: Booster Seven	(TCG-EN)	0
+Turbo Pack: Booster Eight	(TCG-EN)	0
+Astral Pack One	(TCG-EN)	0
+Astral Pack Two	(TCG-EN)	0
+Astral Pack Three	(TCG-EN)	0
+Astral Pack Four	(TCG-EN)	0
+Astral Pack Five	(TCG-EN)	0
+# GameBoy Duel Monsters Promos Series 1
+# GameBoy Duel Monsters Promos Series 2
+# GameBoy Duel Monsters Promos Series 3
+# GameBoy Duel Monsters Promos Series 4
+# GameBoy Duel Monsters Promos Series 5
+# GameBoy Duel Monsters Promos Series 6
+# GameBoy Duel Monsters Promos Series 7
+# GameBoy Duel Monsters Promos Series 8
+Yu-Gi-Oh! Dark Duel Stories promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! The Eternal Duelist Soul promotional cards	(TCG-NA)	0
+Yu-Gi-Oh! The Sacred Cards promotional cards	(TCG-NA)	0
+Yu-Gi-Oh! Reshef of Destruction promotional cards	(TCG-NA)	0
+#Reshef of Destruction and The Sacred Cards Doublepack promotional cards
+Gameboy Worldwide Edition	(OCG-JP)	2
+Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards	(TCG-NA)	0
+# Duel Monsters Expert 3 Promos
+Yu-Gi-Oh! World Championship Tournament 2004 promotional cards	(TCG-NA)	0
+Yu-Gi-Oh! Destiny Board Traveler promotional cards	(TCG-EN)	0
+# Gameboy Worldwide Edition 2 promotional cards
+Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! GX Duel Academy promotional cards	(TCG-EN)	0
+# Duel Monsters Expert 2006 Promot Set
+Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! Nightmare Troubadour promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! GX Spirit Caller promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! World Championship 2007 promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! GX Card Almanac promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! World Championship 2008 promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards	(TCG-EN)	0
+Yu-Gi-Oh! 5D's Reverse of Arcadia Promotional Cards	(TCG-EN)	0
+# Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards
+Yu-Gi-Oh! ZEXAL World Duel Carnival promotional cards	(TCG-EN)	0
+# Yu-Gi-Oh! The Falsebound Kingdom Promotional Cards
+# Yu-Gi-Oh! Wheelie Breakers Promotional Cards
+# Yu-Gi-Oh! 5D's Duel Transer Promotional Cards
+# Power of Chaos Promos: Yugi the Destiny
+Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge promotional cards	(TCG-NA)	0
+# Power of Chaos Promos: Joey the Passion
+# PlayStation True Duel Monsters Promos: Series 1
+# Yu-Gi-Oh! Forbidden Memories Promotional Cards
+# PlayStation True Duel Monsters Promos: Series 2
+Yu-Gi-Oh! The Duelists of the Roses promotional cards	(TCG-NA)	0
+Yu-Gi-Oh! Capsule Monster Coliseum promotional cards	(TCG-EN)	0
+# Yu-Gi-Oh! GX Tag Force Evolution promotional cards
+# Yu-Gi-Oh! GX Tag Force Promotional Cards
+# Yu-Gi-Oh! GX Tag Force 2 Promotional Cards
+# Yu-Gi-Oh! GX Tag Force 3 Promotional Cards
+# Yu-Gi-Oh! GX Tag Force 4 Promotional Cards
+# Yu-Gi-Oh! GX Tag Force 5 Promotional Cards
+# Yu-Gi-Oh! GX Tag Force 6 Promotional Cards
+# Yu-Gi-Oh! The Dawn of Destiny Promotional Cards
+Limited Edition	(OCG-JP)	2
+Limited Edition 2	(OCG-JP)	2
+Limited Edition 3	(OCG-JP)	2
+# Limited Edition 4
+# Limited Edition 5
+# Limited Edition 6
+# Limited Edition 7
+# Limited Edition 8
+# Limited Edition 9
+# Limited Edition 10
+# Limited Edition 11
+Limited Edition 12	(OCG-JP)	2
+Limited Edition 13	(OCG-JP)	2
+# Limited Edition 14
+# Limited Edition 15
+# Limited Edition 16
+# Limited Edition 17
+V Jump Edition	(OCG-JP)	2
+V Jump Edition 2	(OCG-JP)	2
+V Jump Edition 3	(OCG-JP)	2
+V Jump Edition 4	(OCG-JP)	2
+V Jump Edition 5	(OCG-JP)	2
+V Jump Edition 6	(OCG-JP)	2
+V Jump Edition 7	(OCG-JP)	2
+V Jump Edition 8	(OCG-JP)	2
+V Jump Edition 9	(OCG-JP)	2
+V Jump Edition 10	(OCG-JP)	2
+V Jump Edition 11	(OCG-JP)	2
