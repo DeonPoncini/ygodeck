@@ -7,12 +7,12 @@ Vol.4	(OCG-JP)	1
 Vol.5	(OCG-JP)	1
 Vol.7	(OCG-JP)	1
 Booster 1	XXXX	1
-# Booster 2
-# Booster 3
-# Booster 4
-# Booster 5
-# Booster 6
-# Booster 7
+Booster 2	(OCG-JP)	1
+Booster 3	(OCG-JP)	1
+Booster 4	(OCG-JP)	1
+Booster 5	(OCG-JP)	1
+Booster 6	(OCG-JP)	1
+Booster 7	(OCG-JP)	1
 # Series 2
 Magic Ruler	(OCG-JP)	2
 Pharoah's Servant	(OCG-JP)	2
@@ -96,22 +96,22 @@ Phantom God	(OCG-JP)	2
 Revival of Black Demons Dragon	(OCG-JP)	2
 Metal Raiders	(OCG-JP)	2
 Booster R1	(OCG-JP)	2
-# Booster R2
-# Booster R3
-# Booster Chronicle
+Booster R2	(OCG-JP)	2
+Booster R3	(OCG-JP)	2
+Booster Chronicle	(OCG-JP)	2
 Duelist Legacy Volume.1	(OCG-JP)	2
-# Duelist Legacy Volume.2
-# Duelist Legacy Volume.3
-# Duelist Legacy Volume.4
-# Duelist Legacy Volume.5
+Duelist Legacy Volume.2	(OCG-JP)	2
+Duelist Legacy Volume.3	(OCG-JP)	2
+Duelist Legacy Volume.4	(OCG-JP)	2
+Duelist Legacy Volume.5	(OCG-JP)	2
 Beginner's Edition.1	(OCG-JP)	2
-# Beginner's Edition.2
+Beginner's Edition.2	(OCG-JP)	2
 # Expert Edition Volume.1
 # Expert Edition Volume.2
 Expert Edition Volume.3	(OCG-JP)	2
 Expert Edition Volume.4	(OCG-JP)	2
 Beginner's Edition (2011)	(OCG-JP)	2
-# Beginner's Edition (2011)
+Beginner's Edition 2 (2011)	(OCG-JP)	2
 Duelist Edition Volume 1	(OCG-JP)	2
 Duelist Edition Volume 2	(OCG-JP)	2
 Duelist Edition Volume 3	(OCG-JP)	2
@@ -125,7 +125,7 @@ Dark Revelation Volume 2	(TCG-EN)	0
 Dark Revelation Volume 3	(TCG-EN)	0
 Dark Revelation Volume 4	(TCG-EN)	0
 Retro Pack	(TCG-EN)	0
-# Retro Pack 2
+Retro Pack 2	(TCG-EN)	0
 Dark Legends	(TCG-EN)	0
 # Battle Packs
 Battle Pack: Epic Dawn	(TCG-EN)	0
@@ -174,7 +174,7 @@ Hidden Arsenal 5: Steelswarm Invasion	(TCG-EN)	0
 Hidden Arsenal 6: Omega Xyz	(TCG-EN)	0
 Hidden Arsenal 7: Knight of Stars	(TCG-EN)	0
 # Mega Pack
-# http://yugioh.wikia.com/wiki/Ra Yellow Mega-Pack
+Ra Yellow Mega-Pack	(TCG-EN)	0
 Legendary Collection 2 Mega-Pack	(TCG-EN)	0
 Legendary Collection 3 Mega-Pack	(TCG-EN)	0
 Legendary Collection 4 Mega-Pack	(TCG-EN)	0
@@ -191,9 +191,8 @@ Demo Pack	(TCG-EN)	0
 Duelist Set: Version Machine-Gear Troopers Enhancement Pack	(OCG-JP)	2
 Duelist Set: Version Lightlord Judgment Enhancement Pack	(OCG-JP)	2
 Exclusive Pack	(TCG-EN)	0
-# http://yugioh.wikia.com/wiki/Movie Pack
-# http://yugioh.wikia.com/wiki/Yu-Gi-Oh: Super Fusion! Bonds That Transcend Time Movie Pack
-# http://yugioh.wikia.com/wiki/Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack
+Movie Pack	(TCG-EN)	0
+Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack	(TCG-EN)	0
 Starter Deck: Yugi	 (TCG-SP)	0
 Star Pack 2013	(TCG-EN)	0
 Star Pack 2014	(TCG-EN)	0
@@ -207,8 +206,8 @@ World Championship 2011 Card Pack	(TCG-EN)	0
 # Starter decks
 Starter Box	(OCG-JP)	1
 Starter Box: Theatrical Release	(OCG-JP)	1
-# http://yugioh.wikia.com/wiki/EX Starter Box
-# http://yugioh.wikia.com/wiki/EX-R Starter Box
+EX Starter Box	(OCG-JP)	1
+EX-R Starter Box	(OCG-JP)	2
 Starter Deck: Yugi 	(TCG-NA)	0
 Starter Deck: Kaiba 	(TCG-NA)	0
 Starter Deck: Joey		(TCG-EN)	0
