@@ -25,7 +25,6 @@ public:
     CardSelector& attribute(Attribute a);
     CardSelector& monsterType(MonsterType mt);
     CardSelector& type(Type t);
-    CardSelector& monsterAbility(MonsterAbility ma);
     CardSelector& level(int l, Operator op);
     CardSelector& attack(int a, Operator op);
     CardSelector& defense(int d, Operator op);

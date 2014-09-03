@@ -147,7 +147,7 @@ void DBDeckSet::open()
                 mDeckMap.emplace(DeckMap::value_type{DeckType::SIDE,
                         DBDeck{DeckType::SIDE, data["side_deck_id"]}});
                 mDeckMap.emplace(DeckMap::value_type{DeckType::EXTRA,
-                        DBDeck{DeckType::EXTRA, data["extra_side_id"]}});
+                        DBDeck{DeckType::EXTRA, data["extra_deck_id"]}});
             });
 }
 
