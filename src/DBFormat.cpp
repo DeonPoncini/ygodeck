@@ -53,7 +53,7 @@ int DBFormat::cardCount(const std::string& name) const
     return count;
 }
 
-std::vector<std::string> DBFormat::formatDates()
+std::vector<std::string> DBFormat::formats()
 {
     static std::vector<std::string> ft = {
         fromFormat(Format::TRADITIONAL),
@@ -62,7 +62,7 @@ std::vector<std::string> DBFormat::formatDates()
     return ft;
 }
 
-std::vector<std::string> DBFormat::formats()
+std::vector<std::string> DBFormat::formatDates()
 {
     std::vector<std::string> ft;
     // get all the format dates

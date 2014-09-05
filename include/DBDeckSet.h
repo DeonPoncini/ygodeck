@@ -21,6 +21,7 @@ public:
             const DBFormat& format, bool create = false);
 
     inline std::string name() const { return mName; }
+    inline DBFormat format() const { return mFormat; }
 
     DBDeck::DeckError addCard(DeckType deckType, const std::string& name);
     CardMap cards() const;
