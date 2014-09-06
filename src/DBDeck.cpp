@@ -7,8 +7,7 @@ namespace ygo
 {
 
 DBDeck::DBDeck(DeckType deckType) :
-    mDeckType(deckType),
-    mCardCount(0)
+    mDeckType(deckType)
 {
     DB db(DBPATH);
     mID = db.insert("deck",
@@ -19,12 +18,11 @@ DBDeck::DBDeck(DeckType deckType, std::string id) :
     mDeckType(deckType),
     mID(id)
 {
-    mCardCount = cards().size();
 }
 
 DBDeck::DeckError DBDeck::addCard(const std::string& name)
 {
-    if (mCardCount >= DeckMax(mDeckType))
+    if (cards().size() >= DeckMax(mDeckType))
     {
         return DeckError::DECK_FULL;
     }
@@ -45,9 +43,6 @@ DBDeck::DeckError DBDeck::addCard(const std::string& name)
                 mID,
                 id
                 }));
-
-    // increase the number of cards in the deck
-    mCardCount++;
 
     return DeckError::OK;
 }

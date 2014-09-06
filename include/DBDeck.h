@@ -25,7 +25,7 @@ public:
 
     inline DeckType deckType() const { return mDeckType; }
     inline std::string id() const { return mID; }
-    inline unsigned size() const { return mCardCount; }
+    inline unsigned size() const { return cards().size(); }
 
     DeckError addCard(const std::string& name);
     std::vector<StaticCardData> cards() const;
@@ -34,7 +34,6 @@ public:
 private:
     DeckType mDeckType;
     std::string mID;
-    unsigned mCardCount;
 };
 
 }
