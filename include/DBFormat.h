@@ -1,7 +1,7 @@
 #ifndef YGO_DBFORMAT_H
 #define YGO_DBFORMAT_H
 
-#include "FormatData.h"
+#include <data/FormatData.h>
 
 #include <string>
 #include <vector>

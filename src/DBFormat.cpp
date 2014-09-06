@@ -2,7 +2,8 @@
 
 #include "DB.h"
 #include "DBCommon.h"
-#include "Serialize.h"
+
+#include <data/Serialize.h>
 
 #include <stdexcept>
 

@@ -4,8 +4,9 @@
 #include <string>
 #include <vector>
 
-#include "CardData.h"
 #include "DB.h"
+
+#include <data/CardData.h>
 
 namespace ygo
 {

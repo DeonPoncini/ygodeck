@@ -1,7 +1,8 @@
 #include "DB.h"
 #include "DBDeck.h"
 #include "DBCommon.h"
-#include "Serialize.h"
+
+#include <data/Serialize.h>
 
 namespace ygo
 {

@@ -1,8 +1,8 @@
 #ifndef YGO_DBDECK_H
 #define YGO_DBDECK_H
 
-#include "CardData.h"
-#include "FormatData.h"
+#include <data/CardData.h>
+#include <data/FormatData.h>
 
 #include <vector>
 

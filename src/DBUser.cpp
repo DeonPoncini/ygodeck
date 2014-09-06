@@ -3,7 +3,8 @@
 #include "DB.h"
 #include "DBCommon.h"
 #include "DBDeckSet.h"
-#include "Serialize.h"
+
+#include <data/Serialize.h>
 
 #include <stdexcept>
 

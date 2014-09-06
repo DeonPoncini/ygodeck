@@ -1,6 +1,6 @@
 #include "CardSelector.h"
 
-#include "Serialize.h"
+#include <data/Serialize.h>
 
 namespace ygo
 {

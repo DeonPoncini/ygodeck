@@ -7,7 +7,8 @@
 #include "DBDeck.h"
 #include "DBFormat.h"
 #include "DBUser.h"
-#include "FormatData.h"
+
+#include <data/FormatData.h>
 
 namespace ygo
 {
