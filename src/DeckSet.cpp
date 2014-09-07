@@ -155,7 +155,7 @@ void DeckSet::open()
             });
 }
 
-Deck::DeckError DeckSet::addCard(data::DeckType deckType,
+DeckError DeckSet::addCard(data::DeckType deckType,
         const std::string& name)
 {
     // check if we can add to any card list
@@ -168,7 +168,7 @@ Deck::DeckError DeckSet::addCard(data::DeckType deckType,
     }
     if (count <= exist)
     {
-        return Deck::DeckError::LIMIT_REACHED;
+        return DeckError::LIMIT_REACHED;
     }
     // check if a card is valid for this deck type
     auto mtype = monsterType(name);
@@ -180,7 +180,7 @@ Deck::DeckError DeckSet::addCard(data::DeckType deckType,
         if (deckType != data::DeckType::EXTRA)
         {
             // not allowed
-            return Deck::DeckError::FORBIDDEN;
+            return DeckError::FORBIDDEN;
         }
     }
     else
@@ -188,7 +188,7 @@ Deck::DeckError DeckSet::addCard(data::DeckType deckType,
         if (deckType == data::DeckType::EXTRA)
         {
             // only allows these sort of cards
-            return Deck::DeckError::FORBIDDEN;
+            return DeckError::FORBIDDEN;
         }
     }
     return findDeck(deckType).addCard(name);

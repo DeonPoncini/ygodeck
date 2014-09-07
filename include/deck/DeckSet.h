@@ -1,5 +1,5 @@
-#ifndef YGO_DECKSET_H
-#define YGO_DECKSET_H
+#ifndef YGO_DECK_DECKSET_H
+#define YGO_DECK_DECKSET_H
 
 #include <string>
 #include <vector>
@@ -26,7 +26,7 @@ public:
     inline std::string name() const { return mName; }
     inline Format format() const { return mFormat; }
 
-    Deck::DeckError addCard(data::DeckType deckType, const std::string& name);
+    DeckError addCard(data::DeckType deckType, const std::string& name);
     data::CardMap cards() const;
     void deleteCard(data::DeckType deckType, const std::string& name);
     void remove();

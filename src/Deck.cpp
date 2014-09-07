@@ -23,7 +23,7 @@ Deck::Deck(data::DeckType deckType, std::string id) :
 {
 }
 
-Deck::DeckError Deck::addCard(const std::string& name)
+DeckError Deck::addCard(const std::string& name)
 {
     if (cards().size() >= DeckMax(mDeckType))
     {

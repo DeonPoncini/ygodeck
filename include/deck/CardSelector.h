@@ -1,5 +1,5 @@
-#ifndef YGO_CARDSELECTOR_H
-#define YGO_CARDSELECTOR_H
+#ifndef YGO_DECK_CARDSELECTOR_H
+#define YGO_DECK_CARDSELECTOR_H
 
 #include <string>
 #include <vector>

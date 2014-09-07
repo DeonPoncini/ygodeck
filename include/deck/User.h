@@ -1,5 +1,5 @@
-#ifndef YGO_USER_H
-#define YGO_USER_H
+#ifndef YGO_DECK_USER_H
+#define YGO_DECK_USER_H
 
 #include <string>
 #include <vector>

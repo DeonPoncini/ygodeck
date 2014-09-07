@@ -1,5 +1,5 @@
-#ifndef YGO_COMMON_H
-#define YGO_COMMON_H
+#ifndef YGO_DECK_COMMON_H
+#define YGO_DECK_COMMON_H
 
 namespace ygo
 {

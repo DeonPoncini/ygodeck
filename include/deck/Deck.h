@@ -1,5 +1,7 @@
-#ifndef YGO_DECK_H
-#define YGO_DECK_H
+#ifndef YGO_DECK_DECK_H
+#define YGO_DECK_DECK_H
+
+#include "DeckError.h"
 
 #include <data/CardData.h>
 #include <data/FormatData.h>
@@ -14,14 +16,6 @@ namespace deck
 class Deck
 {
 public:
-    enum class DeckError
-    {
-        OK,
-        FORBIDDEN,
-        LIMIT_REACHED,
-        DECK_FULL
-    };
-
     explicit Deck(data::DeckType deckType);
     Deck(data::DeckType deckType, std::string id);
 

@@ -1,5 +1,5 @@
-#ifndef YGO_FORMAT_H
-#define YGO_FORMAT_H
+#ifndef YGO_DECK_FORMAT_H
+#define YGO_DECK_FORMAT_H
 
 #include <data/FormatData.h>
 
