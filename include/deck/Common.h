@@ -1,9 +1,12 @@
-#ifndef YGO_DBCOMMON_H
-#define YGO_DBCOMMON_H
+#ifndef YGO_COMMON_H
+#define YGO_COMMON_H
 
 namespace ygo
 {
+namespace deck
+{
 static const char * const DBPATH = "card.db";
+}
 }
 
 #endif

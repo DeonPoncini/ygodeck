@@ -1,37 +1,39 @@
 #include "CardSelector.h"
 
-#include "DBCommon.h"
+#include "Common.h"
 
 #include <db/SQLite3.h>
 #include <data/Serialize.h>
 
 namespace ygo
 {
+namespace deck
+{
 
 CardSelector::CardSelector()
 {
 }
 
-StaticCardData CardSelector::query(const std::string& name)
+data::StaticCardData CardSelector::query(const std::string& name)
 {
-    StaticCardData s;
+    data::StaticCardData s;
     db::SQLite3 db(DBPATH);
     db.select(db::DBAll(),"card",db::DBPair("name",name),
             [&](db::SQLite3::DataMap data)
             {
                 s.name = name;
-                s.cardType = toCardType(data["cardType"]);
-                s.attribute = toAttribute(data["attribute"]);
-                s.monsterType = toMonsterType(data["monsterType"]);
-                s.type = toType(data["type"]);
-                s.monsterAbility = toMonsterType(data["monsterAbility"]);
+                s.cardType = data::toCardType(data["cardType"]);
+                s.attribute = data::toAttribute(data["attribute"]);
+                s.monsterType = data::toMonsterType(data["monsterType"]);
+                s.type = data::toType(data["type"]);
+                s.monsterAbility = data::toMonsterType(data["monsterAbility"]);
                 s.level = std::atoi(data["level"].c_str());
                 s.attack = std::atoi(data["attack"].c_str());
                 s.defense = std::atoi(data["defense"].c_str());
                 s.lpendulum = std::atoi(data["lpendulum"].c_str());
                 s.rpendulum = std::atoi(data["rpendulum"].c_str());
-                s.spellType = toSpellType(data["spellType"]);
-                s.trapType = toTrapType(data["trapType"]);
+                s.spellType = data::toSpellType(data["spellType"]);
+                s.trapType = data::toTrapType(data["trapType"]);
             });
     return s;
 }
@@ -59,25 +61,25 @@ CardSelector& CardSelector::name(const std::string& like)
     return *this;
 }
 
-CardSelector& CardSelector::cardType(CardType ct)
+CardSelector& CardSelector::cardType(data::CardType ct)
 {
     mQuery.emplace_back(db::DBPair("cardType",fromCardType(ct)));
     return *this;
 }
 
-CardSelector& CardSelector::attribute(Attribute a)
+CardSelector& CardSelector::attribute(data::Attribute a)
 {
     mQuery.emplace_back(db::DBPair("attribute",fromAttribute(a)));
     return *this;
 }
 
-CardSelector& CardSelector::monsterType(MonsterType mt)
+CardSelector& CardSelector::monsterType(data::MonsterType mt)
 {
     mQuery.emplace_back(db::DBPair("monsterType",fromMonsterType(mt)));
     return *this;
 }
 
-CardSelector& CardSelector::type(Type t)
+CardSelector& CardSelector::type(data::Type t)
 {
     mQuery.emplace_back(db::DBPair("type",fromType(t)));
     return *this;
@@ -118,16 +120,17 @@ CardSelector& CardSelector::rpendulum(int d, db::Operator op)
     return *this;
 }
 
-CardSelector& CardSelector::spellType(SpellType st)
+CardSelector& CardSelector::spellType(data::SpellType st)
 {
     mQuery.emplace_back(db::DBPair("spellType",fromSpellType(st)));
     return *this;
 }
 
-CardSelector& CardSelector::trapType(TrapType tt)
+CardSelector& CardSelector::trapType(data::TrapType tt)
 {
     mQuery.emplace_back(db::DBPair("trapType",fromTrapType(tt)));
     return *this;
 }
 
+}
 }

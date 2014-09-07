@@ -1,6 +1,6 @@
-#include "DBFormat.h"
+#include "Format.h"
 
-#include "DBCommon.h"
+#include "Common.h"
 
 #include <db/SQLite3.h>
 #include <data/Serialize.h>
@@ -9,8 +9,10 @@
 
 namespace ygo
 {
+namespace deck
+{
 
-DBFormat::DBFormat(Format format, std::string formatDate) :
+Format::Format(data::Format format, std::string formatDate) :
     mFormat(format),
     mFormatDate(std::move(formatDate))
 {
@@ -29,7 +31,7 @@ DBFormat::DBFormat(Format format, std::string formatDate) :
     }
 }
 
-int DBFormat::cardCount(const std::string& name) const
+int Format::cardCount(const std::string& name) const
 {
     // look up this card in the formats database
     auto count = 0;
@@ -40,30 +42,31 @@ int DBFormat::cardCount(const std::string& name) const
                 db::DBPair("card_name",name),
                 db::DBOr({
                     db::DBPair("name",mFormatDate),
-                    db::DBPair("name",fromLimitation(Limitation::ILLEGAL))})}),
+                    db::DBPair("name",
+                        data::fromLimitation(data::Limitation::ILLEGAL))})}),
             [&](db::SQLite3::DataMap data)
             {
                 callback = true;
-                count = CardLimitation(toLimitation(data["card_status"]),
+                count = CardLimitation(data::toLimitation(data["card_status"]),
                         mFormat);
             });
     if (!callback)
     {
-        count = CardLimitation(Limitation::UNLIMITED, mFormat);
+        count = CardLimitation(data::Limitation::UNLIMITED, mFormat);
     }
     return count;
 }
 
-std::vector<std::string> DBFormat::formats()
+std::vector<std::string> Format::formats()
 {
     static std::vector<std::string> ft = {
-        fromFormat(Format::TRADITIONAL),
-        fromFormat(Format::ADVANCED)
+        fromFormat(data::Format::TRADITIONAL),
+        fromFormat(data::Format::ADVANCED)
     };
     return ft;
 }
 
-std::vector<std::string> DBFormat::formatDates()
+std::vector<std::string> Format::formatDates()
 {
     std::vector<std::string> ft;
     // get all the format dates
@@ -72,7 +75,7 @@ std::vector<std::string> DBFormat::formatDates()
             [&](db::SQLite3::DataMap data)
             {
                 auto format = data["name"];
-                if (format == fromLimitation(Limitation::ILLEGAL))
+                if (format == fromLimitation(data::Limitation::ILLEGAL))
                 {
                     return;
                 }
@@ -81,4 +84,5 @@ std::vector<std::string> DBFormat::formatDates()
     return ft;
 }
 
+}
 }

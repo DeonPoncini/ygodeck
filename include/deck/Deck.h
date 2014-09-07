@@ -1,5 +1,5 @@
-#ifndef YGO_DBDECK_H
-#define YGO_DBDECK_H
+#ifndef YGO_DECK_H
+#define YGO_DECK_H
 
 #include <data/CardData.h>
 #include <data/FormatData.h>
@@ -8,8 +8,10 @@
 
 namespace ygo
 {
+namespace deck
+{
 
-class DBDeck
+class Deck
 {
 public:
     enum class DeckError
@@ -20,22 +22,23 @@ public:
         DECK_FULL
     };
 
-    explicit DBDeck(DeckType deckType);
-    DBDeck(DeckType deckType, std::string id);
+    explicit Deck(data::DeckType deckType);
+    Deck(data::DeckType deckType, std::string id);
 
-    inline DeckType deckType() const { return mDeckType; }
+    inline data::DeckType deckType() const { return mDeckType; }
     inline std::string id() const { return mID; }
     inline unsigned size() const { return cards().size(); }
 
     DeckError addCard(const std::string& name);
-    std::vector<StaticCardData> cards() const;
+    std::vector<data::StaticCardData> cards() const;
     void deleteCard(const std::string& name);
 
 private:
-    DeckType mDeckType;
+    data::DeckType mDeckType;
     std::string mID;
 };
 
+}
 }
 
 #endif

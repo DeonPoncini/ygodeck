@@ -1,13 +1,15 @@
-#include "DBDeck.h"
-#include "DBCommon.h"
+#include "Deck.h"
+#include "Common.h"
 
 #include <db/SQLite3.h>
 #include <data/Serialize.h>
 
 namespace ygo
 {
+namespace deck
+{
 
-DBDeck::DBDeck(DeckType deckType) :
+Deck::Deck(data::DeckType deckType) :
     mDeckType(deckType)
 {
     db::SQLite3 db(DBPATH);
@@ -15,13 +17,13 @@ DBDeck::DBDeck(DeckType deckType) :
             db::DBList({fromDeckType(mDeckType)}));
 }
 
-DBDeck::DBDeck(DeckType deckType, std::string id) :
+Deck::Deck(data::DeckType deckType, std::string id) :
     mDeckType(deckType),
     mID(id)
 {
 }
 
-DBDeck::DeckError DBDeck::addCard(const std::string& name)
+Deck::DeckError Deck::addCard(const std::string& name)
 {
     if (cards().size() >= DeckMax(mDeckType))
     {
@@ -48,7 +50,7 @@ DBDeck::DeckError DBDeck::addCard(const std::string& name)
     return DeckError::OK;
 }
 
-std::vector<StaticCardData> DBDeck::cards() const
+std::vector<data::StaticCardData> Deck::cards() const
 {
     // search all the cards part of this deck
     db::SQLite3 db(DBPATH);
@@ -61,33 +63,33 @@ std::vector<StaticCardData> DBDeck::cards() const
             });
 
     // get all the card info
-    std::vector<StaticCardData> ret;
+    std::vector<data::StaticCardData> ret;
     for (auto&& i : ids)
     {
         db.select(db::DBAll(),"card",db::DBPair("card_id",i),
                 [&](db::SQLite3::DataMap data)
                 {
-                    StaticCardData s;
+                    data::StaticCardData s;
                     s.name = data["name"];
-                    s.cardType = toCardType(data["cardType"]);
-                    s.attribute = toAttribute(data["attribute"]);
-                    s.monsterType = toMonsterType(data["monsterType"]);
-                    s.type = toType(data["type"]);
-                    s.monsterAbility = toMonsterType(data["monsterAbility"]);
+                    s.cardType = data::toCardType(data["cardType"]);
+                    s.attribute = data::toAttribute(data["attribute"]);
+                    s.monsterType = data::toMonsterType(data["monsterType"]);
+                    s.type = data::toType(data["type"]);
+                    s.monsterAbility = data::toMonsterType(data["monsterAbility"]);
                     s.level = std::atoi(data["level"].c_str());
                     s.attack = std::atoi(data["attack"].c_str());
                     s.defense = std::atoi(data["defense"].c_str());
                     s.lpendulum = std::atoi(data["lpendulum"].c_str());
                     s.rpendulum = std::atoi(data["rpendulum"].c_str());
-                    s.spellType = toSpellType(data["spellType"]);
-                    s.trapType = toTrapType(data["trapType"]);
+                    s.spellType = data::toSpellType(data["spellType"]);
+                    s.trapType = data::toTrapType(data["trapType"]);
                     ret.push_back(s);
                 });
     }
     return ret;
 }
 
-void DBDeck::deleteCard(const std::string& name)
+void Deck::deleteCard(const std::string& name)
 {
     // lookup this card id
     std::string cardid;
@@ -114,4 +116,5 @@ void DBDeck::deleteCard(const std::string& name)
     }
 }
 
+}
 }

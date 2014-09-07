@@ -1,5 +1,5 @@
-#ifndef YGO_DBFORMAT_H
-#define YGO_DBFORMAT_H
+#ifndef YGO_FORMAT_H
+#define YGO_FORMAT_H
 
 #include <data/FormatData.h>
 
@@ -8,14 +8,15 @@
 
 namespace ygo
 {
+namespace deck
+{
 
-
-class DBFormat
+class Format
 {
 public:
-    DBFormat(Format format, std::string formatDate);
+    Format(data::Format format, std::string formatDate);
 
-    inline Format format() const { return mFormat; }
+    inline data::Format format() const { return mFormat; }
     inline std::string formatDate() const { return mFormatDate; }
 
     int cardCount(const std::string& card) const;
@@ -24,10 +25,11 @@ public:
     static std::vector<std::string> formats();
 
 private:
-    Format mFormat;
+    data::Format mFormat;
     std::string mFormatDate;
 };
 
+}
 }
 
 #endif

@@ -1,7 +1,7 @@
-#include "DBUser.h"
+#include "User.h"
 
-#include "DBCommon.h"
-#include "DBDeckSet.h"
+#include "Common.h"
+#include "DeckSet.h"
 
 #include <db/SQLite3.h>
 #include <data/Serialize.h>
@@ -10,8 +10,10 @@
 
 namespace ygo
 {
+namespace deck
+{
 
-DBUser::DBUser(std::string name, bool create) :
+User::User(std::string name, bool create) :
     mName(std::move(name))
 {
     // check if the user already exists
@@ -40,7 +42,7 @@ DBUser::DBUser(std::string name, bool create) :
     }
 }
 
-std::vector<DBDeckSet> DBUser::deckSets() const
+std::vector<DeckSet> User::deckSets() const
 {
     // return all deck sets for a given user
     std::vector<std::string> deckids;
@@ -53,7 +55,7 @@ std::vector<DBDeckSet> DBUser::deckSets() const
             });
 
     // look up the deck set ids and convert them into objects
-    std::vector<DBDeckSet> ret;
+    std::vector<DeckSet> ret;
     for (auto&& i : deckids)
     {
         db.select(db::DBAll(),"deck_set",
@@ -61,17 +63,17 @@ std::vector<DBDeckSet> DBUser::deckSets() const
                 [&](db::SQLite3::DataMap data)
                 {
                     // extract the format
-                    DBFormat f(toFormat(data["format"]),
+                    Format f(data::toFormat(data["format"]),
                         data["format_date"]);
 
                     // add a new DBDeckSet
-                    ret.emplace_back(DBDeckSet{data["name"],*this,f});
+                    ret.emplace_back(DeckSet{data["name"],*this,f});
                 });
     }
     return ret;
 }
 
-void DBUser::remove()
+void User::remove()
 {
     // delete all the deck sets associated with this user
     auto sets = deckSets();
@@ -85,4 +87,5 @@ void DBUser::remove()
     db.del("users",db::DBPair("user_id",mID));
 }
 
+}
 }

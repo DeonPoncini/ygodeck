@@ -1,6 +1,6 @@
-#include "DBDeckSet.h"
+#include "DeckSet.h"
 
-#include "DBCommon.h"
+#include "Common.h"
 
 #include <db/SQLite3.h>
 #include <data/Serialize.h>
@@ -8,6 +8,8 @@
 #include <stdexcept>
 
 namespace ygo
+{
+namespace deck
 {
 
 std::string cardID(const std::string& name)
@@ -38,7 +40,7 @@ int cardCheck(const std::string& cardid, const std::string& deckid)
     return count;
 }
 
-MonsterType monsterType(const std::string& name)
+data::MonsterType monsterType(const std::string& name)
 {
     std::string mtype;
     db::SQLite3 db(DBPATH);
@@ -48,11 +50,11 @@ MonsterType monsterType(const std::string& name)
             {
                 mtype = data["monsterType"];
             });
-    return toMonsterType(mtype);
+    return data::toMonsterType(mtype);
 }
 
-DBDeckSet::DBDeckSet(const std::string& name, const DBUser& user,
-            const DBFormat& format, bool create) :
+DeckSet::DeckSet(const std::string& name, const User& user,
+        const Format& format, bool create) :
     mName(name),
     mUser(user),
     mFormat(format)
@@ -63,7 +65,7 @@ DBDeckSet::DBDeckSet(const std::string& name, const DBUser& user,
     }
     else if (create)
     {
-        DBDeckSet::create();
+        DeckSet::create();
     }
     else
     {
@@ -71,7 +73,7 @@ DBDeckSet::DBDeckSet(const std::string& name, const DBUser& user,
     }
 }
 
-bool DBDeckSet::exists()
+bool DeckSet::exists()
 {
     auto exists = false;
     db::SQLite3 db(DBPATH);
@@ -108,15 +110,15 @@ bool DBDeckSet::exists()
     return false;
 }
 
-void DBDeckSet::create()
+void DeckSet::create()
 {
     // create the new decks
-    mDeckMap.emplace(DeckMap::value_type{DeckType::MAIN,
-            DBDeck{DeckType::MAIN}});
-    mDeckMap.emplace(DeckMap::value_type{DeckType::SIDE,
-            DBDeck{DeckType::SIDE}});
-    mDeckMap.emplace(DeckMap::value_type{DeckType::EXTRA,
-            DBDeck{DeckType::EXTRA}});
+    mDeckMap.emplace(DeckMap::value_type{data::DeckType::MAIN,
+            Deck{data::DeckType::MAIN}});
+    mDeckMap.emplace(DeckMap::value_type{data::DeckType::SIDE,
+            Deck{data::DeckType::SIDE}});
+    mDeckMap.emplace(DeckMap::value_type{data::DeckType::EXTRA,
+            Deck{data::DeckType::EXTRA}});
 
     // create the deck set entry
     db::SQLite3 db(DBPATH);
@@ -125,9 +127,9 @@ void DBDeckSet::create()
                 mName,
                 fromFormat(mFormat.format()),
                 mFormat.formatDate(),
-                findDeck(DeckType::MAIN).id(),
-                findDeck(DeckType::SIDE).id(),
-                findDeck(DeckType::EXTRA).id(),
+                findDeck(data::DeckType::MAIN).id(),
+                findDeck(data::DeckType::SIDE).id(),
+                findDeck(data::DeckType::EXTRA).id(),
                 }));
 
     // map the deck to the user
@@ -136,7 +138,7 @@ void DBDeckSet::create()
 
 }
 
-void DBDeckSet::open()
+void DeckSet::open()
 {
     // find out the deck ids from the main id, note it is set in exists
     db::SQLite3 db(DBPATH);
@@ -144,16 +146,17 @@ void DBDeckSet::open()
             "deck_set",db::DBPair("deck_set_id",mID),
             [&](db::SQLite3::DataMap data)
             {
-                mDeckMap.emplace(DeckMap::value_type{DeckType::MAIN,
-                        DBDeck{DeckType::MAIN, data["main_deck_id"]}});
-                mDeckMap.emplace(DeckMap::value_type{DeckType::SIDE,
-                        DBDeck{DeckType::SIDE, data["side_deck_id"]}});
-                mDeckMap.emplace(DeckMap::value_type{DeckType::EXTRA,
-                        DBDeck{DeckType::EXTRA, data["extra_deck_id"]}});
+                mDeckMap.emplace(DeckMap::value_type{data::DeckType::MAIN,
+                        Deck{data::DeckType::MAIN, data["main_deck_id"]}});
+                mDeckMap.emplace(DeckMap::value_type{data::DeckType::SIDE,
+                        Deck{data::DeckType::SIDE, data["side_deck_id"]}});
+                mDeckMap.emplace(DeckMap::value_type{data::DeckType::EXTRA,
+                        Deck{data::DeckType::EXTRA, data["extra_deck_id"]}});
             });
 }
 
-DBDeck::DeckError DBDeckSet::addCard(DeckType deckType, const std::string& name)
+Deck::DeckError DeckSet::addCard(data::DeckType deckType,
+        const std::string& name)
 {
     // check if we can add to any card list
     auto count = mFormat.cardCount(name);
@@ -165,63 +168,63 @@ DBDeck::DeckError DBDeckSet::addCard(DeckType deckType, const std::string& name)
     }
     if (count <= exist)
     {
-        return DBDeck::DeckError::LIMIT_REACHED;
+        return Deck::DeckError::LIMIT_REACHED;
     }
     // check if a card is valid for this deck type
     auto mtype = monsterType(name);
-    if (mtype == MonsterType::FUSION ||
-            mtype == MonsterType::SYNCHRO ||
-            mtype == MonsterType::XYZ ||
-            mtype == MonsterType::PENDULUM)
+    if (mtype == data::MonsterType::FUSION ||
+            mtype == data::MonsterType::SYNCHRO ||
+            mtype == data::MonsterType::XYZ ||
+            mtype == data::MonsterType::PENDULUM)
     {
-        if (deckType != DeckType::EXTRA)
+        if (deckType != data::DeckType::EXTRA)
         {
             // not allowed
-            return DBDeck::DeckError::FORBIDDEN;
+            return Deck::DeckError::FORBIDDEN;
         }
     }
     else
     {
-        if (deckType == DeckType::EXTRA)
+        if (deckType == data::DeckType::EXTRA)
         {
             // only allows these sort of cards
-            return DBDeck::DeckError::FORBIDDEN;
+            return Deck::DeckError::FORBIDDEN;
         }
     }
     return findDeck(deckType).addCard(name);
 }
 
-CardMap DBDeckSet::cards() const
+data::CardMap DeckSet::cards() const
 {
-    CardMap ret;
+    data::CardMap ret;
     for (auto&& kv : mDeckMap)
     {
-        ret.emplace(CardMap::value_type{kv.first,kv.second.cards()});
+        ret.emplace(data::CardMap::value_type{kv.first,kv.second.cards()});
     }
     return ret;
 }
 
-void DBDeckSet::deleteCard(DeckType deckType, const std::string& name)
+void DeckSet::deleteCard(data::DeckType deckType, const std::string& name)
 {
     findDeck(deckType).deleteCard(name);
 }
 
-DBDeck& DBDeckSet::findDeck(DeckType deckType)
+Deck& DeckSet::findDeck(data::DeckType deckType)
 {
     return mDeckMap.find(deckType)->second;
 }
 
-const DBDeck& DBDeckSet::findDeck(DeckType deckType) const
+const Deck& DeckSet::findDeck(data::DeckType deckType) const
 {
     return mDeckMap.find(deckType)->second;
 }
 
-void DBDeckSet::remove()
+void DeckSet::remove()
 {
     // remove all the decks and this deck set
-    auto mid = findDeck(DeckType::MAIN).id();
-    auto sid = findDeck(DeckType::SIDE).id();
-    auto eid = findDeck(DeckType::EXTRA).id();
+    auto mid = findDeck(data::DeckType::MAIN).id();
+    auto sid = findDeck(data::DeckType::SIDE).id();
+    auto eid = findDeck(data::DeckType::EXTRA).id();
 
     db::SQLite3 db(DBPATH);
     db.del("deck",db::DBPair("deck_id",mid));
@@ -230,23 +233,29 @@ void DBDeckSet::remove()
     db.del("deck_set",db::DBPair("deck_set_id",mID));
 }
 
-bool DBDeckSet::validate() const
+bool DeckSet::validate() const
 {
     // check if the deck as built is valid and meets size requirements
-    if ((findDeck(DeckType::MAIN).size() < DeckMin(DeckType::MAIN) ||
-         (findDeck(DeckType::MAIN).size() > DeckMax(DeckType::MAIN))))
+    if ((findDeck(data::DeckType::MAIN).size() <
+                data::DeckMin(data::DeckType::MAIN) ||
+         (findDeck(data::DeckType::MAIN).size() >
+          data::DeckMax(data::DeckType::MAIN))))
     {
         return false;
     }
 
-    if ((findDeck(DeckType::EXTRA).size() < DeckMin(DeckType::EXTRA) ||
-         (findDeck(DeckType::EXTRA).size() > DeckMax(DeckType::EXTRA))))
+    if ((findDeck(data::DeckType::EXTRA).size() <
+                data::DeckMin(data::DeckType::EXTRA) ||
+         (findDeck(data::DeckType::EXTRA).size() >
+          data::DeckMax(data::DeckType::EXTRA))))
     {
         return false;
     }
 
-    if ((findDeck(DeckType::SIDE).size() < DeckMin(DeckType::SIDE) ||
-         (findDeck(DeckType::SIDE).size() > DeckMax(DeckType::SIDE))))
+    if ((findDeck(data::DeckType::SIDE).size() <
+                data::DeckMin(data::DeckType::SIDE) ||
+         (findDeck(data::DeckType::SIDE).size() >
+          data::DeckMax(data::DeckType::SIDE))))
     {
         return false;
     }
@@ -254,4 +263,5 @@ bool DBDeckSet::validate() const
     return true;
 }
 
+}
 }

@@ -1,23 +1,25 @@
-#ifndef YGO_DBUSER_H
-#define YGO_DBUSER_H
+#ifndef YGO_USER_H
+#define YGO_USER_H
 
 #include <string>
 #include <vector>
 
 namespace ygo
 {
+namespace deck
+{
 
-class DBDeckSet;
+class DeckSet;
 
-class DBUser
+class User
 {
 public:
-    DBUser(std::string name, bool create = false);
+    User(std::string name, bool create = false);
 
     std::string name() const { return mName; }
     std::string id() const { return mID; }
 
-    std::vector<DBDeckSet> deckSets() const;
+    std::vector<DeckSet> deckSets() const;
     void remove();
 
 private:
@@ -25,6 +27,7 @@ private:
     std::string mID;
 };
 
+}
 }
 
 #endif
