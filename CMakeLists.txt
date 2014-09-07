@@ -15,10 +15,10 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH}
 # Third party libraries
 ################################
 find_package(Boost 1.55.0 REQUIRED)
-find_package(SQLite3 REQUIRED)
 
 include_directories(${BOOST_INCLUDE_DIRS})
 include_directories(${SQLITE3_INCLUDE_DIR})
+include_directories(${CMAKE_SOURCE_DIR}/../libdb/include/)
 include_directories(${CMAKE_SOURCE_DIR}/../libygodata/include/)
 
 ################################
@@ -26,7 +26,7 @@ include_directories(${CMAKE_SOURCE_DIR}/../libygodata/include/)
 ################################
 set(YGODECK_LIBS
     ${Boost_LIBRARIES}
-    ${SQLITE3_LIBRARIES}
+    db
     ygodata
     )
 

@@ -1,9 +1,9 @@
 #include "DBUser.h"
 
-#include "DB.h"
 #include "DBCommon.h"
 #include "DBDeckSet.h"
 
+#include <db/SQLite3.h>
 #include <data/Serialize.h>
 
 #include <stdexcept>
@@ -17,10 +17,10 @@ DBUser::DBUser(std::string name, bool create) :
     // check if the user already exists
     auto exists = false;
     std::string userid;
-    DB db(DBPATH);
-    db.select(DBKeyList({"name","user_id"}),"users",
-            DBPair("name",mName),
-            [&](DB::DataMap data)
+    db::SQLite3 db(DBPATH);
+    db.select(db::DBKeyList({"name","user_id"}),"users",
+            db::DBPair("name",mName),
+            [&](db::SQLite3::DataMap data)
             {
                 exists = true;
                 userid = data["user_id"];
@@ -32,7 +32,7 @@ DBUser::DBUser(std::string name, bool create) :
     }
     else if (create)
     {
-        mID = db.insert("users",DBList({mName}));
+        mID = db.insert("users",db::DBList({mName}));
     }
     else
     {
@@ -44,10 +44,10 @@ std::vector<DBDeckSet> DBUser::deckSets() const
 {
     // return all deck sets for a given user
     std::vector<std::string> deckids;
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     db.select("deck_set_id","user_to_decks",
-            DBPair("user_id",id()),
-            [&](DB::DataMap data)
+            db::DBPair("user_id",id()),
+            [&](db::SQLite3::DataMap data)
             {
                 deckids.push_back(data["deck_set_id"]);
             });
@@ -56,9 +56,9 @@ std::vector<DBDeckSet> DBUser::deckSets() const
     std::vector<DBDeckSet> ret;
     for (auto&& i : deckids)
     {
-        db.select(DBAll(),"deck_set",
-                DBPair("deck_set_id",i),
-                [&](DB::DataMap data)
+        db.select(db::DBAll(),"deck_set",
+                db::DBPair("deck_set_id",i),
+                [&](db::SQLite3::DataMap data)
                 {
                     // extract the format
                     DBFormat f(toFormat(data["format"]),
@@ -81,8 +81,8 @@ void DBUser::remove()
     }
 
     // delete the user
-    DB db(DBPATH);
-    db.del("users",DBPair("user_id",mID));
+    db::SQLite3 db(DBPATH);
+    db.del("users",db::DBPair("user_id",mID));
 }
 
 }

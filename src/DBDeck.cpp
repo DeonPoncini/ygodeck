@@ -1,7 +1,7 @@
-#include "DB.h"
 #include "DBDeck.h"
 #include "DBCommon.h"
 
+#include <db/SQLite3.h>
 #include <data/Serialize.h>
 
 namespace ygo
@@ -10,9 +10,9 @@ namespace ygo
 DBDeck::DBDeck(DeckType deckType) :
     mDeckType(deckType)
 {
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     mID = db.insert("deck",
-            DBList({fromDeckType(mDeckType)}));
+            db::DBList({fromDeckType(mDeckType)}));
 }
 
 DBDeck::DBDeck(DeckType deckType, std::string id) :
@@ -29,18 +29,18 @@ DBDeck::DeckError DBDeck::addCard(const std::string& name)
     }
 
     // get the card ID
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     std::string id;
     db.select("card_id","card",
-            DBPair("name",name),
-            [&](DB::DataMap data)
+            db::DBPair("name",name),
+            [&](db::SQLite3::DataMap data)
             {
                 id = data["card_id"];
             });
 
     // insert into the deck
     db.insert("deck_to_cards",
-            DBList({
+            db::DBList({
                 mID,
                 id
                 }));
@@ -51,11 +51,11 @@ DBDeck::DeckError DBDeck::addCard(const std::string& name)
 std::vector<StaticCardData> DBDeck::cards() const
 {
     // search all the cards part of this deck
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     std::vector<std::string> ids;
     db.select("card_id","deck_to_cards",
-            DBPair("deck_id",mID),
-            [&](DB::DataMap data)
+            db::DBPair("deck_id",mID),
+            [&](db::SQLite3::DataMap data)
             {
                 ids.push_back(data["card_id"]);
             });
@@ -64,8 +64,8 @@ std::vector<StaticCardData> DBDeck::cards() const
     std::vector<StaticCardData> ret;
     for (auto&& i : ids)
     {
-        db.select(DBAll(),"card",DBPair("card_id",i),
-                [&](DB::DataMap data)
+        db.select(db::DBAll(),"card",db::DBPair("card_id",i),
+                [&](db::SQLite3::DataMap data)
                 {
                     StaticCardData s;
                     s.name = data["name"];
@@ -91,9 +91,9 @@ void DBDeck::deleteCard(const std::string& name)
 {
     // lookup this card id
     std::string cardid;
-    DB db(DBPATH);
-    db.select("card_id","card",DBPair("name",name),
-            [&](DB::DataMap data)
+    db::SQLite3 db(DBPATH);
+    db.select("card_id","card",db::DBPair("name",name),
+            [&](db::SQLite3::DataMap data)
             {
                 cardid = data["card_id"];
             });
@@ -101,8 +101,8 @@ void DBDeck::deleteCard(const std::string& name)
     // return every relation for this deck where this card id matches
     std::vector<std::string> ids;
     db.select("relation_id","deck_to_cards",
-            DBAnd({DBPair("deck_id",mID),DBPair("card_id",cardid)}),
-            [&](DB::DataMap data)
+            db::DBAnd({db::DBPair("deck_id",mID),db::DBPair("card_id",cardid)}),
+            [&](db::SQLite3::DataMap data)
             {
                 ids.push_back(data["relation_id"]);
             });
@@ -110,7 +110,7 @@ void DBDeck::deleteCard(const std::string& name)
     // delete only one of these relations
     if (!ids.empty())
     {
-        db.del("deck_to_cards",DBPair("relation_id",ids[0]));
+        db.del("deck_to_cards",db::DBPair("relation_id",ids[0]));
     }
 }
 

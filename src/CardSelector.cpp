@@ -1,20 +1,23 @@
 #include "CardSelector.h"
 
+#include "DBCommon.h"
+
+#include <db/SQLite3.h>
 #include <data/Serialize.h>
 
 namespace ygo
 {
 
-CardSelector::CardSelector() :
-    mDB("card.db")
+CardSelector::CardSelector()
 {
 }
 
 StaticCardData CardSelector::query(const std::string& name)
 {
     StaticCardData s;
-    mDB.select(DBAll(),"card",DBPair("name",name),
-            [&](DB::DataMap data)
+    db::SQLite3 db(DBPATH);
+    db.select(db::DBAll(),"card",db::DBPair("name",name),
+            [&](db::SQLite3::DataMap data)
             {
                 s.name = name;
                 s.cardType = toCardType(data["cardType"]);
@@ -37,8 +40,9 @@ CardSelector::CardList CardSelector::execute()
 {
     CardList list;
 
-    mDB.select("name","card",DBAnd(mQuery)
-            ,[&](DB::DataMap data)
+    db::SQLite3 db(DBPATH);
+    db.select("name","card",db::DBAnd(mQuery)
+            ,[&](db::SQLite3::DataMap data)
             {
                 for (auto&& kv : data)
                 {
@@ -51,78 +55,78 @@ CardSelector::CardList CardSelector::execute()
 
 CardSelector& CardSelector::name(const std::string& like)
 {
-    mQuery.emplace_back(DBFuzzyPair("name",like));
+    mQuery.emplace_back(db::DBFuzzyPair("name",like));
     return *this;
 }
 
 CardSelector& CardSelector::cardType(CardType ct)
 {
-    mQuery.emplace_back(DBPair("cardType",fromCardType(ct)));
+    mQuery.emplace_back(db::DBPair("cardType",fromCardType(ct)));
     return *this;
 }
 
 CardSelector& CardSelector::attribute(Attribute a)
 {
-    mQuery.emplace_back(DBPair("attribute",fromAttribute(a)));
+    mQuery.emplace_back(db::DBPair("attribute",fromAttribute(a)));
     return *this;
 }
 
 CardSelector& CardSelector::monsterType(MonsterType mt)
 {
-    mQuery.emplace_back(DBPair("monsterType",fromMonsterType(mt)));
+    mQuery.emplace_back(db::DBPair("monsterType",fromMonsterType(mt)));
     return *this;
 }
 
 CardSelector& CardSelector::type(Type t)
 {
-    mQuery.emplace_back(DBPair("type",fromType(t)));
+    mQuery.emplace_back(db::DBPair("type",fromType(t)));
     return *this;
 }
 
-CardSelector& CardSelector::level(int l, Operator op)
+CardSelector& CardSelector::level(int l, db::Operator op)
 {
-    mQuery.emplace_back(DBPair("level",operator_to_string(op) +
+    mQuery.emplace_back(db::DBPair("level",operator_to_string(op) +
                 std::to_string(l)));
     return *this;
 }
 
-CardSelector& CardSelector::attack(int a, Operator op)
+CardSelector& CardSelector::attack(int a, db::Operator op)
 {
-    mQuery.emplace_back(DBPair("attack",operator_to_string(op) +
+    mQuery.emplace_back(db::DBPair("attack",operator_to_string(op) +
                 std::to_string(a)));
     return *this;
 }
 
-CardSelector& CardSelector::defense(int d, Operator op)
+CardSelector& CardSelector::defense(int d, db::Operator op)
 {
-    mQuery.emplace_back(DBPair("defense",operator_to_string(op) +
+    mQuery.emplace_back(db::DBPair("defense",operator_to_string(op) +
                 std::to_string(d)));
     return *this;
 }
 
-CardSelector& CardSelector::lpendulum(int d, Operator op)
+CardSelector& CardSelector::lpendulum(int d, db::Operator op)
 {
-    mQuery.emplace_back(DBPair("lpendulum",operator_to_string(op) +
+    mQuery.emplace_back(db::DBPair("lpendulum",operator_to_string(op) +
                 std::to_string(d)));
     return *this;
 }
 
-CardSelector& CardSelector::rpendulum(int d, Operator op)
+CardSelector& CardSelector::rpendulum(int d, db::Operator op)
 {
-    mQuery.emplace_back(DBPair("rpendulum",operator_to_string(op) +
+    mQuery.emplace_back(db::DBPair("rpendulum",operator_to_string(op) +
                 std::to_string(d)));
     return *this;
 }
 
 CardSelector& CardSelector::spellType(SpellType st)
 {
-    mQuery.emplace_back(DBPair("spellType",fromSpellType(st)));
+    mQuery.emplace_back(db::DBPair("spellType",fromSpellType(st)));
     return *this;
 }
 
 CardSelector& CardSelector::trapType(TrapType tt)
 {
-    mQuery.emplace_back(DBPair("trapType",fromTrapType(tt)));
+    mQuery.emplace_back(db::DBPair("trapType",fromTrapType(tt)));
     return *this;
 }
 

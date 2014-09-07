@@ -1,8 +1,8 @@
 #include "DBDeckSet.h"
 
-#include "DB.h"
 #include "DBCommon.h"
 
+#include <db/SQLite3.h>
 #include <data/Serialize.h>
 
 #include <stdexcept>
@@ -13,10 +13,10 @@ namespace ygo
 std::string cardID(const std::string& name)
 {
     std::string id;
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     db.select("card_id","card",
-            DBPair("name",name),
-            [&](DB::DataMap data)
+            db::DBPair("name",name),
+            [&](db::SQLite3::DataMap data)
             {
                 id = data["card_id"];
             });
@@ -26,12 +26,12 @@ std::string cardID(const std::string& name)
 int cardCheck(const std::string& cardid, const std::string& deckid)
 {
     auto count = 0;
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     db.select("relation_id","deck_to_cards",
-            DBAnd({
-                DBPair("deck_id",deckid),
-                DBPair("card_id",cardid)}),
-            [&](DB::DataMap data)
+            db::DBAnd({
+                db::DBPair("deck_id",deckid),
+                db::DBPair("card_id",cardid)}),
+            [&](db::SQLite3::DataMap data)
             {
                 count += data.size();
             });
@@ -41,10 +41,10 @@ int cardCheck(const std::string& cardid, const std::string& deckid)
 MonsterType monsterType(const std::string& name)
 {
     std::string mtype;
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     db.select("monsterType","card",
-            DBPair("name",name),
-            [&](DB::DataMap data)
+            db::DBPair("name",name),
+            [&](db::SQLite3::DataMap data)
             {
                 mtype = data["monsterType"];
             });
@@ -74,11 +74,11 @@ DBDeckSet::DBDeckSet(const std::string& name, const DBUser& user,
 bool DBDeckSet::exists()
 {
     auto exists = false;
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     // check if the deck named has the same format
-    db.select(DBKeyList({"deck_set_id","format","format_date"}),"deck_set",
-            DBPair("name",mName),
-            [&](DB::DataMap data)
+    db.select(db::DBKeyList({"deck_set_id","format","format_date"}),"deck_set",
+            db::DBPair("name",mName),
+            [&](db::SQLite3::DataMap data)
             {
                 if (data["format"] == fromFormat(mFormat.format())
                     && data["format_date"] == mFormat.formatDate())
@@ -92,8 +92,8 @@ bool DBDeckSet::exists()
     {
         auto owned = false;
         db.select("user_id","user_to_decks",
-                DBPair("deck_set_id",mID),
-                [&](DB::DataMap data)
+                db::DBPair("deck_set_id",mID),
+                [&](db::SQLite3::DataMap data)
                 {
                     if (data["user_id"] == mUser.id())
                     {
@@ -119,9 +119,9 @@ void DBDeckSet::create()
             DBDeck{DeckType::EXTRA}});
 
     // create the deck set entry
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     mID = db.insert("deck_set",
-            DBList({
+            db::DBList({
                 mName,
                 fromFormat(mFormat.format()),
                 mFormat.formatDate(),
@@ -132,17 +132,17 @@ void DBDeckSet::create()
 
     // map the deck to the user
     db.insert("user_to_decks",
-            DBList({mUser.id(),mID}));
+            db::DBList({mUser.id(),mID}));
 
 }
 
 void DBDeckSet::open()
 {
     // find out the deck ids from the main id, note it is set in exists
-    DB db(DBPATH);
-    db.select(DBKeyList({"main_deck_id","side_deck_id","extra_deck_id"}),
-            "deck_set",DBPair("deck_set_id",mID),
-            [&](DB::DataMap data)
+    db::SQLite3 db(DBPATH);
+    db.select(db::DBKeyList({"main_deck_id","side_deck_id","extra_deck_id"}),
+            "deck_set",db::DBPair("deck_set_id",mID),
+            [&](db::SQLite3::DataMap data)
             {
                 mDeckMap.emplace(DeckMap::value_type{DeckType::MAIN,
                         DBDeck{DeckType::MAIN, data["main_deck_id"]}});
@@ -223,11 +223,11 @@ void DBDeckSet::remove()
     auto sid = findDeck(DeckType::SIDE).id();
     auto eid = findDeck(DeckType::EXTRA).id();
 
-    DB db(DBPATH);
-    db.del("deck",DBPair("deck_id",mid));
-    db.del("deck",DBPair("deck_id",sid));
-    db.del("deck",DBPair("deck_id",eid));
-    db.del("deck_set",DBPair("deck_set_id",mID));
+    db::SQLite3 db(DBPATH);
+    db.del("deck",db::DBPair("deck_id",mid));
+    db.del("deck",db::DBPair("deck_id",sid));
+    db.del("deck",db::DBPair("deck_id",eid));
+    db.del("deck_set",db::DBPair("deck_set_id",mID));
 }
 
 bool DBDeckSet::validate() const

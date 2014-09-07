@@ -1,8 +1,8 @@
 #include "DBFormat.h"
 
-#include "DB.h"
 #include "DBCommon.h"
 
+#include <db/SQLite3.h>
 #include <data/Serialize.h>
 
 #include <stdexcept>
@@ -15,10 +15,10 @@ DBFormat::DBFormat(Format format, std::string formatDate) :
     mFormatDate(std::move(formatDate))
 {
     auto formatExists = false;
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     db.select("format_id", "formats",
-            DBPair("name",mFormatDate),
-            [&](DB::DataMap data)
+            db::DBPair("name",mFormatDate),
+            [&](db::SQLite3::DataMap data)
             {
                 formatExists = true;
             });
@@ -34,14 +34,14 @@ int DBFormat::cardCount(const std::string& name) const
     // look up this card in the formats database
     auto count = 0;
     auto callback = false;
-    DB db(DBPATH);
+    db::SQLite3 db(DBPATH);
     db.select("card_status","formats",
-            DBAnd({
-                DBPair("card_name",name),
-                DBOr({
-                    DBPair("name",mFormatDate),
-                    DBPair("name",fromLimitation(Limitation::ILLEGAL))})}),
-            [&](DB::DataMap data)
+            db::DBAnd({
+                db::DBPair("card_name",name),
+                db::DBOr({
+                    db::DBPair("name",mFormatDate),
+                    db::DBPair("name",fromLimitation(Limitation::ILLEGAL))})}),
+            [&](db::SQLite3::DataMap data)
             {
                 callback = true;
                 count = CardLimitation(toLimitation(data["card_status"]),
@@ -67,9 +67,9 @@ std::vector<std::string> DBFormat::formatDates()
 {
     std::vector<std::string> ft;
     // get all the format dates
-    DB db(DBPATH);
-    db.select(DBUnique("name"),"formats",DBTrue(),
-            [&](DB::DataMap data)
+    db::SQLite3 db(DBPATH);
+    db.select(db::DBUnique("name"),"formats",db::DBTrue(),
+            [&](db::SQLite3::DataMap data)
             {
                 auto format = data["name"];
                 if (format == fromLimitation(Limitation::ILLEGAL))

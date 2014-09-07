@@ -4,8 +4,7 @@
 #include <string>
 #include <vector>
 
-#include "DB.h"
-
+#include <db/SQLite3.h>
 #include <data/CardData.h>
 
 namespace ygo
@@ -26,18 +25,16 @@ public:
     CardSelector& attribute(Attribute a);
     CardSelector& monsterType(MonsterType mt);
     CardSelector& type(Type t);
-    CardSelector& level(int l, Operator op);
-    CardSelector& attack(int a, Operator op);
-    CardSelector& defense(int d, Operator op);
-    CardSelector& lpendulum(int d, Operator op);
-    CardSelector& rpendulum(int d, Operator op);
+    CardSelector& level(int l, db::Operator op);
+    CardSelector& attack(int a, db::Operator op);
+    CardSelector& defense(int d, db::Operator op);
+    CardSelector& lpendulum(int d, db::Operator op);
+    CardSelector& rpendulum(int d, db::Operator op);
     CardSelector& spellType(SpellType st);
     CardSelector& trapType(TrapType tt);
 
 private:
     std::vector<std::string> mQuery;
-
-    DB mDB;
 };
 
 }
