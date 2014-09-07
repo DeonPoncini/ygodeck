@@ -8,7 +8,7 @@
 #include "Format.h"
 #include "User.h"
 
-#include <data/FormatData.h>
+#include <ygo/data/FormatData.h>
 
 namespace ygo
 {

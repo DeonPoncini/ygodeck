@@ -5,7 +5,7 @@
 #include <vector>
 
 #include <db/SQLite3.h>
-#include <data/CardData.h>
+#include <ygo/data/CardData.h>
 
 namespace ygo
 {

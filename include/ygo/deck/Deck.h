@@ -3,8 +3,8 @@
 
 #include "DeckError.h"
 
-#include <data/CardData.h>
-#include <data/FormatData.h>
+#include <ygo/data/CardData.h>
+#include <ygo/data/FormatData.h>
 
 #include <vector>
 

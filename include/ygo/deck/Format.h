@@ -1,7 +1,7 @@
 #ifndef YGO_DECK_FORMAT_H
 #define YGO_DECK_FORMAT_H
 
-#include <data/FormatData.h>
+#include <ygo/data/FormatData.h>
 
 #include <string>
 #include <vector>

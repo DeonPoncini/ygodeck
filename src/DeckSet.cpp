@@ -3,7 +3,7 @@
 #include "Common.h"
 
 #include <db/SQLite3.h>
-#include <data/Serialize.h>
+#include <ygo/data/Serialize.h>
 
 #include <stdexcept>
 
