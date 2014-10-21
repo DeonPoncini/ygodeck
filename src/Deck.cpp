@@ -70,7 +70,7 @@ std::vector<data::StaticCardData> Deck::cards() const
                 [&](db::SQLite3::DataMap data)
                 {
                     data::StaticCardData s;
-                    s.name = data["name"];
+                    s.name = data["name"].c_str();
                     s.cardType = data::toCardType(data["cardType"]);
                     s.attribute = data::toAttribute(data["attribute"]);
                     s.monsterType = data::toMonsterType(data["monsterType"]);

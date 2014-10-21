@@ -21,7 +21,7 @@ data::StaticCardData CardSelector::query(const std::string& name)
     db.select(db::DBAll(),"card",db::DBPair("name",name),
             [&](db::SQLite3::DataMap data)
             {
-                s.name = name;
+                s.name = name.c_str();
                 s.cardType = data::toCardType(data["cardType"]);
                 s.attribute = data::toAttribute(data["attribute"]);
                 s.monsterType = data::toMonsterType(data["monsterType"]);
