@@ -19,8 +19,7 @@ data::StaticCardData CardSelector::query(const std::string& name)
     data::StaticCardData s;
     db::SQLite3 db(DBPATH);
     db.select(db::DBAll(),"card",db::DBPair("name",name),
-            [&](db::SQLite3::DataMap data)
-            {
+            [&](db::SQLite3::DataMap data) {
                 s.name = name.c_str();
                 s.cardType = data::toCardType(data["cardType"]);
                 s.attribute = data::toAttribute(data["attribute"]);
@@ -44,10 +43,8 @@ CardSelector::CardList CardSelector::execute()
 
     db::SQLite3 db(DBPATH);
     db.select("name","card",db::DBAnd(mQuery)
-            ,[&](db::SQLite3::DataMap data)
-            {
-                for (auto&& kv : data)
-                {
+            ,[&](db::SQLite3::DataMap data) {
+                for (auto&& kv : data) {
                     list.push_back(kv.second);
                 }
             });

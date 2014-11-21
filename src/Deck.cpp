@@ -25,8 +25,7 @@ Deck::Deck(data::DeckType deckType, std::string id) :
 
 DeckError Deck::addCard(const std::string& name)
 {
-    if (cards().size() >= DeckMax(mDeckType))
-    {
+    if (cards().size() >= DeckMax(mDeckType)) {
         return DeckError::DECK_FULL;
     }
 
@@ -35,8 +34,7 @@ DeckError Deck::addCard(const std::string& name)
     std::string id;
     db.select("card_id","card",
             db::DBPair("name",name),
-            [&](db::SQLite3::DataMap data)
-            {
+            [&](db::SQLite3::DataMap data) {
                 id = data["card_id"];
             });
 
@@ -57,18 +55,15 @@ std::vector<data::StaticCardData> Deck::cards() const
     std::vector<std::string> ids;
     db.select("card_id","deck_to_cards",
             db::DBPair("deck_id",mID),
-            [&](db::SQLite3::DataMap data)
-            {
+            [&](db::SQLite3::DataMap data) {
                 ids.push_back(data["card_id"]);
             });
 
     // get all the card info
     std::vector<data::StaticCardData> ret;
-    for (auto&& i : ids)
-    {
+    for (auto&& i : ids) {
         db.select(db::DBAll(),"card",db::DBPair("card_id",i),
-                [&](db::SQLite3::DataMap data)
-                {
+                [&](db::SQLite3::DataMap data) {
                     data::StaticCardData s;
                     s.name = data["name"].c_str();
                     s.cardType = data::toCardType(data["cardType"]);
@@ -95,8 +90,7 @@ void Deck::deleteCard(const std::string& name)
     std::string cardid;
     db::SQLite3 db(DBPATH);
     db.select("card_id","card",db::DBPair("name",name),
-            [&](db::SQLite3::DataMap data)
-            {
+            [&](db::SQLite3::DataMap data) {
                 cardid = data["card_id"];
             });
 
@@ -104,14 +98,12 @@ void Deck::deleteCard(const std::string& name)
     std::vector<std::string> ids;
     db.select("relation_id","deck_to_cards",
             db::DBAnd({db::DBPair("deck_id",mID),db::DBPair("card_id",cardid)}),
-            [&](db::SQLite3::DataMap data)
-            {
+            [&](db::SQLite3::DataMap data) {
                 ids.push_back(data["relation_id"]);
             });
 
     // delete only one of these relations
-    if (!ids.empty())
-    {
+    if (!ids.empty()) {
         db.del("deck_to_cards",db::DBPair("relation_id",ids[0]));
     }
 }
