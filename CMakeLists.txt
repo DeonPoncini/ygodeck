@@ -5,29 +5,28 @@ project(libygodeck)
 # Compiler setup
 ################################
 
-add_definitions(-Wall)
-
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -g -DBOOST_LOG_DYN_LINK")
-set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH}
-    "${CMAKE_SOURCE_DIR}/../cmake/modules/")
+set(DECK_VERSION "0.0.1")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -DBOOST_LOG_DYN_LINK")
 
 ################################
 # Third party libraries
 ################################
 find_package(Boost 1.55.0 REQUIRED)
+find_package(libdb)
+find_package(libygodata)
 
 include_directories(${BOOST_INCLUDE_DIRS})
 include_directories(${SQLITE3_INCLUDE_DIR})
-include_directories(${CMAKE_SOURCE_DIR}/../libdb/include/)
-include_directories(${CMAKE_SOURCE_DIR}/../libygodata/include/)
+include_directories(${LIBDB_INCLUDE_DIRS})
+include_directories(${LIBYGODATA_INCLUDE_DIRS})
 
 ################################
 # Libraries
 ################################
 set(YGODECK_LIBS
     ${Boost_LIBRARIES}
-    db
-    ygodata
+    ${LIBDB_LIBRARIES}
+    ${LIBYGODATA_LIBRARIES}
     )
 
 ################################
@@ -40,14 +39,6 @@ include_directories(include)
 include_directories(include/ygo/deck)
 
 ################################
-# Resources
-################################
-
-################################
-# Libraries
-################################
-
-################################
 # Build targets
 ################################
 add_library(ygodeck SHARED
@@ -56,3 +47,15 @@ add_library(ygodeck SHARED
 
 target_link_libraries(ygodeck
     ${YGODECK_LIBS})
+
+################################
+# Export library
+################################
+
+export_project(
+    NAME libygodeck
+    INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
+    LIBS ygodeck
+    VERSION ${DECK_VERSION}
+)
+
