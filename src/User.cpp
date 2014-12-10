@@ -20,9 +20,9 @@ User::User(std::string name, bool create) :
     auto exists = false;
     std::string userid;
     db::SQLite3 db(DBPATH);
-    db.select(db::DBKeyList({"name","user_id"}),"users",
-            db::DBPair("name",mName),
-            [&](db::SQLite3::DataMap data) {
+    db.select(db::KeyList({"name","user_id"}),"users",
+            db::Equal("name",mName),
+            [&](db::DataMap data) {
                 exists = true;
                 userid = data["user_id"];
             });
@@ -30,7 +30,7 @@ User::User(std::string name, bool create) :
     if (exists) {
         mID = userid;
     } else if (create) {
-        mID = db.insert("users",db::DBList({mName}));
+        mID = db.insert("users",db::ValueList({mName}));
     } else {
         throw std::runtime_error("User " + mName + " does not exist");
     }
@@ -42,17 +42,17 @@ std::vector<DeckSet> User::deckSets() const
     std::vector<std::string> deckids;
     db::SQLite3 db(DBPATH);
     db.select("deck_set_id","user_to_decks",
-            db::DBPair("user_id",id()),
-            [&](db::SQLite3::DataMap data) {
+            db::Equal("user_id",id()),
+            [&](db::DataMap data) {
                 deckids.push_back(data["deck_set_id"]);
             });
 
     // look up the deck set ids and convert them into objects
     std::vector<DeckSet> ret;
     for (auto&& i : deckids) {
-        db.select(db::DBAll(),"deck_set",
-                db::DBPair("deck_set_id",i),
-                [&](db::SQLite3::DataMap data) {
+        db.select(db::All(),"deck_set",
+                db::Equal("deck_set_id",i),
+                [&](db::DataMap data) {
                     // extract the format
                     Format f(data::toFormat(data["format"]),
                         data["format_date"]);
@@ -74,7 +74,7 @@ void User::remove()
 
     // delete the user
     db::SQLite3 db(DBPATH);
-    db.del("users",db::DBPair("user_id",mID));
+    db.del("users",db::Equal("user_id",mID));
 }
 
 }

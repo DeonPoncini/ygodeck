@@ -19,8 +19,8 @@ Format::Format(data::Format format, std::string formatDate) :
     auto formatExists = false;
     db::SQLite3 db(DBPATH);
     db.select("format_id", "formats",
-            db::DBPair("name",mFormatDate),
-            [&](db::SQLite3::DataMap data) {
+            db::Equal("name",mFormatDate),
+            [&](db::DataMap data) {
                 formatExists = true;
             });
     // check the format is legitimate
@@ -36,13 +36,13 @@ int Format::cardCount(const std::string& name) const
     auto callback = false;
     db::SQLite3 db(DBPATH);
     db.select("card_status","formats",
-            db::DBAnd({
-                db::DBPair("card_name",name),
-                db::DBOr({
-                    db::DBPair("name",mFormatDate),
-                    db::DBPair("name",
+            db::And({
+                db::Equal("card_name",name),
+                db::Or({
+                    db::Equal("name",mFormatDate),
+                    db::Equal("name",
                         data::fromLimitation(data::Limitation::ILLEGAL))})}),
-            [&](db::SQLite3::DataMap data) {
+            [&](db::DataMap data) {
                 callback = true;
                 count = CardLimitation(data::toLimitation(data["card_status"]),
                         mFormat);
@@ -67,8 +67,8 @@ std::vector<std::string> Format::formatDates()
     std::vector<std::string> ft;
     // get all the format dates
     db::SQLite3 db(DBPATH);
-    db.select(db::DBUnique("name"),"formats",db::DBTrue(),
-            [&](db::SQLite3::DataMap data) {
+    db.select(db::Unique("name"),"formats",db::True(),
+            [&](db::DataMap data) {
                 auto format = data["name"];
                 if (format == fromLimitation(data::Limitation::ILLEGAL)) {
                     return;

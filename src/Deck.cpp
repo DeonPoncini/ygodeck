@@ -14,7 +14,7 @@ Deck::Deck(data::DeckType deckType) :
 {
     db::SQLite3 db(DBPATH);
     mID = db.insert("deck",
-            db::DBList({fromDeckType(mDeckType)}));
+            db::ValueList({fromDeckType(mDeckType)}));
 }
 
 Deck::Deck(data::DeckType deckType, std::string id) :
@@ -33,14 +33,14 @@ DeckError Deck::addCard(const std::string& name)
     db::SQLite3 db(DBPATH);
     std::string id;
     db.select("card_id","card",
-            db::DBPair("name",name),
-            [&](db::SQLite3::DataMap data) {
+            db::Equal("name",name),
+            [&](db::DataMap data) {
                 id = data["card_id"];
             });
 
     // insert into the deck
     db.insert("deck_to_cards",
-            db::DBList({
+            db::ValueList({
                 mID,
                 id
                 }));
@@ -54,16 +54,16 @@ std::vector<data::StaticCardData> Deck::cards() const
     db::SQLite3 db(DBPATH);
     std::vector<std::string> ids;
     db.select("card_id","deck_to_cards",
-            db::DBPair("deck_id",mID),
-            [&](db::SQLite3::DataMap data) {
+            db::Equal("deck_id",mID),
+            [&](db::DataMap data) {
                 ids.push_back(data["card_id"]);
             });
 
     // get all the card info
     std::vector<data::StaticCardData> ret;
     for (auto&& i : ids) {
-        db.select(db::DBAll(),"card",db::DBPair("card_id",i),
-                [&](db::SQLite3::DataMap data) {
+        db.select(db::All(),"card",db::Equal("card_id",i),
+                [&](db::DataMap data) {
                     data::StaticCardData s;
                     s.name = data["name"].c_str();
                     s.cardType = data::toCardType(data["cardType"]);
@@ -89,22 +89,22 @@ void Deck::deleteCard(const std::string& name)
     // lookup this card id
     std::string cardid;
     db::SQLite3 db(DBPATH);
-    db.select("card_id","card",db::DBPair("name",name),
-            [&](db::SQLite3::DataMap data) {
+    db.select("card_id","card",db::Equal("name",name),
+            [&](db::DataMap data) {
                 cardid = data["card_id"];
             });
 
     // return every relation for this deck where this card id matches
     std::vector<std::string> ids;
     db.select("relation_id","deck_to_cards",
-            db::DBAnd({db::DBPair("deck_id",mID),db::DBPair("card_id",cardid)}),
-            [&](db::SQLite3::DataMap data) {
+            db::And({db::Equal("deck_id",mID),db::Equal("card_id",cardid)}),
+            [&](db::DataMap data) {
                 ids.push_back(data["relation_id"]);
             });
 
     // delete only one of these relations
     if (!ids.empty()) {
-        db.del("deck_to_cards",db::DBPair("relation_id",ids[0]));
+        db.del("deck_to_cards",db::Equal("relation_id",ids[0]));
     }
 }
 
