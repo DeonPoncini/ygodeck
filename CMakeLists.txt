@@ -12,12 +12,12 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -DBOOST_LOG_DYN_LINK")
 # Third party libraries
 ################################
 find_package(Boost 1.55.0 REQUIRED)
-find_package(libdb)
+find_package(mindbw)
 find_package(libygodata)
 
 include_directories(${BOOST_INCLUDE_DIRS})
 include_directories(${SQLITE3_INCLUDE_DIR})
-include_directories(${LIBDB_INCLUDE_DIRS})
+include_directories(${MINDBW_INCLUDE_DIRS})
 include_directories(${LIBYGODATA_INCLUDE_DIRS})
 
 ################################
@@ -25,7 +25,7 @@ include_directories(${LIBYGODATA_INCLUDE_DIRS})
 ################################
 set(YGODECK_LIBS
     ${Boost_LIBRARIES}
-    ${LIBDB_LIBRARIES}
+    ${MINDBW_LIBRARIES}
     ${LIBYGODATA_LIBRARIES}
     )
 
