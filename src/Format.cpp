@@ -2,7 +2,7 @@
 
 #include "Common.h"
 
-#include <db/SQLite3.h>
+#include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
 #include <stdexcept>
@@ -17,10 +17,10 @@ Format::Format(data::Format format, std::string formatDate) :
     mFormatDate(std::move(formatDate))
 {
     auto formatExists = false;
-    db::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DBPATH);
     db.select("format_id", "formats",
-            db::Equal("name",mFormatDate),
-            [&](db::DataMap data) {
+            mindbw::Equal("name",mFormatDate),
+            [&](mindbw::DataMap data) {
                 formatExists = true;
             });
     // check the format is legitimate
@@ -34,15 +34,15 @@ int Format::cardCount(const std::string& name) const
     // look up this card in the formats database
     auto count = 0;
     auto callback = false;
-    db::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DBPATH);
     db.select("card_status","formats",
-            db::And({
-                db::Equal("card_name",name),
-                db::Or({
-                    db::Equal("name",mFormatDate),
-                    db::Equal("name",
+            mindbw::And({
+                mindbw::Equal("card_name",name),
+                mindbw::Or({
+                    mindbw::Equal("name",mFormatDate),
+                    mindbw::Equal("name",
                         data::fromLimitation(data::Limitation::ILLEGAL))})}),
-            [&](db::DataMap data) {
+            [&](mindbw::DataMap data) {
                 callback = true;
                 count = CardLimitation(data::toLimitation(data["card_status"]),
                         mFormat);
@@ -66,9 +66,9 @@ std::vector<std::string> Format::formatDates()
 {
     std::vector<std::string> ft;
     // get all the format dates
-    db::SQLite3 db(DBPATH);
-    db.select(db::Unique("name"),"formats",db::True(),
-            [&](db::DataMap data) {
+    mindbw::SQLite3 db(DBPATH);
+    db.select(mindbw::Unique("name"),"formats",mindbw::True(),
+            [&](mindbw::DataMap data) {
                 auto format = data["name"];
                 if (format == fromLimitation(data::Limitation::ILLEGAL)) {
                     return;

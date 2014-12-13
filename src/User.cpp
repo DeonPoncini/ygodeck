@@ -3,7 +3,7 @@
 #include "Common.h"
 #include "DeckSet.h"
 
-#include <db/SQLite3.h>
+#include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
 #include <stdexcept>
@@ -19,10 +19,10 @@ User::User(std::string name, bool create) :
     // check if the user already exists
     auto exists = false;
     std::string userid;
-    db::SQLite3 db(DBPATH);
-    db.select(db::KeyList({"name","user_id"}),"users",
-            db::Equal("name",mName),
-            [&](db::DataMap data) {
+    mindbw::SQLite3 db(DBPATH);
+    db.select(mindbw::KeyList({"name","user_id"}),"users",
+            mindbw::Equal("name",mName),
+            [&](mindbw::DataMap data) {
                 exists = true;
                 userid = data["user_id"];
             });
@@ -30,7 +30,7 @@ User::User(std::string name, bool create) :
     if (exists) {
         mID = userid;
     } else if (create) {
-        mID = db.insert("users",db::ValueList({mName}));
+        mID = db.insert("users",mindbw::ValueList({mName}));
     } else {
         throw std::runtime_error("User " + mName + " does not exist");
     }
@@ -40,19 +40,19 @@ std::vector<DeckSet> User::deckSets() const
 {
     // return all deck sets for a given user
     std::vector<std::string> deckids;
-    db::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DBPATH);
     db.select("deck_set_id","user_to_decks",
-            db::Equal("user_id",id()),
-            [&](db::DataMap data) {
+            mindbw::Equal("user_id",id()),
+            [&](mindbw::DataMap data) {
                 deckids.push_back(data["deck_set_id"]);
             });
 
     // look up the deck set ids and convert them into objects
     std::vector<DeckSet> ret;
     for (auto&& i : deckids) {
-        db.select(db::All(),"deck_set",
-                db::Equal("deck_set_id",i),
-                [&](db::DataMap data) {
+        db.select(mindbw::All(),"deck_set",
+                mindbw::Equal("deck_set_id",i),
+                [&](mindbw::DataMap data) {
                     // extract the format
                     Format f(data::toFormat(data["format"]),
                         data["format_date"]);
@@ -73,8 +73,8 @@ void User::remove()
     }
 
     // delete the user
-    db::SQLite3 db(DBPATH);
-    db.del("users",db::Equal("user_id",mID));
+    mindbw::SQLite3 db(DBPATH);
+    db.del("users",mindbw::Equal("user_id",mID));
 }
 
 }

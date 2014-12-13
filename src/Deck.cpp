@@ -1,7 +1,7 @@
 #include "Deck.h"
 #include "Common.h"
 
-#include <db/SQLite3.h>
+#include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
 namespace ygo
@@ -12,9 +12,9 @@ namespace deck
 Deck::Deck(data::DeckType deckType) :
     mDeckType(deckType)
 {
-    db::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DBPATH);
     mID = db.insert("deck",
-            db::ValueList({fromDeckType(mDeckType)}));
+            mindbw::ValueList({fromDeckType(mDeckType)}));
 }
 
 Deck::Deck(data::DeckType deckType, std::string id) :
@@ -30,17 +30,17 @@ DeckError Deck::addCard(const std::string& name)
     }
 
     // get the card ID
-    db::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DBPATH);
     std::string id;
     db.select("card_id","card",
-            db::Equal("name",name),
-            [&](db::DataMap data) {
+            mindbw::Equal("name",name),
+            [&](mindbw::DataMap data) {
                 id = data["card_id"];
             });
 
     // insert into the deck
     db.insert("deck_to_cards",
-            db::ValueList({
+            mindbw::ValueList({
                 mID,
                 id
                 }));
@@ -51,19 +51,19 @@ DeckError Deck::addCard(const std::string& name)
 std::vector<data::StaticCardData> Deck::cards() const
 {
     // search all the cards part of this deck
-    db::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DBPATH);
     std::vector<std::string> ids;
     db.select("card_id","deck_to_cards",
-            db::Equal("deck_id",mID),
-            [&](db::DataMap data) {
+            mindbw::Equal("deck_id",mID),
+            [&](mindbw::DataMap data) {
                 ids.push_back(data["card_id"]);
             });
 
     // get all the card info
     std::vector<data::StaticCardData> ret;
     for (auto&& i : ids) {
-        db.select(db::All(),"card",db::Equal("card_id",i),
-                [&](db::DataMap data) {
+        db.select(mindbw::All(),"card",mindbw::Equal("card_id",i),
+                [&](mindbw::DataMap data) {
                     data::StaticCardData s;
                     s.name = data["name"].c_str();
                     s.cardType = data::toCardType(data["cardType"]);
@@ -88,23 +88,23 @@ void Deck::deleteCard(const std::string& name)
 {
     // lookup this card id
     std::string cardid;
-    db::SQLite3 db(DBPATH);
-    db.select("card_id","card",db::Equal("name",name),
-            [&](db::DataMap data) {
+    mindbw::SQLite3 db(DBPATH);
+    db.select("card_id","card",mindbw::Equal("name",name),
+            [&](mindbw::DataMap data) {
                 cardid = data["card_id"];
             });
 
     // return every relation for this deck where this card id matches
     std::vector<std::string> ids;
     db.select("relation_id","deck_to_cards",
-            db::And({db::Equal("deck_id",mID),db::Equal("card_id",cardid)}),
-            [&](db::DataMap data) {
+            mindbw::And({mindbw::Equal("deck_id",mID),mindbw::Equal("card_id",cardid)}),
+            [&](mindbw::DataMap data) {
                 ids.push_back(data["relation_id"]);
             });
 
     // delete only one of these relations
     if (!ids.empty()) {
-        db.del("deck_to_cards",db::Equal("relation_id",ids[0]));
+        db.del("deck_to_cards",mindbw::Equal("relation_id",ids[0]));
     }
 }
 

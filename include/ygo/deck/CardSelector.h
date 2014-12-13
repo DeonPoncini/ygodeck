@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-#include <db/SQLite3.h>
+#include <mindbw/SQLite3.h>
 #include <ygo/data/CardData.h>
 
 namespace ygo
@@ -27,11 +27,11 @@ public:
     CardSelector& attribute(data::Attribute a);
     CardSelector& monsterType(data::MonsterType mt);
     CardSelector& type(data::Type t);
-    CardSelector& level(int l, db::Operator op);
-    CardSelector& attack(int a, db::Operator op);
-    CardSelector& defense(int d, db::Operator op);
-    CardSelector& lpendulum(int d, db::Operator op);
-    CardSelector& rpendulum(int d, db::Operator op);
+    CardSelector& level(int l, mindbw::Operator op);
+    CardSelector& attack(int a, mindbw::Operator op);
+    CardSelector& defense(int d, mindbw::Operator op);
+    CardSelector& lpendulum(int d, mindbw::Operator op);
+    CardSelector& rpendulum(int d, mindbw::Operator op);
     CardSelector& spellType(data::SpellType st);
     CardSelector& trapType(data::TrapType tt);
 
