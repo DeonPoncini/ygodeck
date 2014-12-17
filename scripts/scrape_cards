@@ -1,40 +1,63 @@
 #!/usr/bin/python
 
+################################################################################
+# scrape-cards
+# Download the card information from the yugioh wikia
+################################################################################
+
 import requests
 import codecs
+import os.path
 import re
+import sys
 
 from urllib2 import quote
 from bs4 import BeautifulSoup
 
-INPUT_FILE = 'cardunique.txt'
-ERROR_FILE = 'carderrors.txt'
-OUTPUT_FILE = 'card.txt'
+PROJECT_ROOT = os.environ['PROJECT_ROOT']
+
+# check the environment is set
+if not PROJECT_ROOT:
+    print "Environment not set, please source scripts/open-project.sh"
+    sys.exit(-1)
+
+REPO_PATH = os.path.join(PROJECT_ROOT, 'libygodeck')
+DATA_PATH = os.path.join(REPO_PATH, 'data')
+CARD_PATH = os.path.join(REPO_PATH, 'card')
+
+INPUT_FILE = os.path.join(DATA_PATH, 'cardunique.txt')
+ERROR_FILE = os.path.join(DATA_PATH, 'carderrors.txt')
 
 # yugioh wiki paths
 LOAD_PATH = 'http://yugioh.wikia.com/wiki/'
 
 cardin = codecs.open(INPUT_FILE,'r','utf-8')
-cardout = codecs.open(OUTPUT_FILE,'w','utf-8')
 errorfile = codecs.open(ERROR_FILE,'w','utf-8')
 
 def log_error(name):
     errorfile.write(name + '\n')
 
-def print_output(data):
-    cardout.write(data['name'] + '\t' + \
-          data['cardType'] + '\t' + \
-          data['attribute'] + '\t' + \
-          data['monsterType'] + '\t' + \
-          data['monsterAbility'] + '\t' + \
-          data['type'] + '\t' + \
-          str(data['level']) + '\t' + \
-          str(data['attack']) + '\t' + \
-          str(data['defense']) + '\t' + \
-          str(data['lpendulum']) + '\t' + \
-          str(data['rpendulum']) + '\t' + \
-          data['spellType'] + '\t' + \
-          data['trapType'] + '\n')
+def print_output(data, cardname):
+    cardpath = os.path.join(CARD_PATH, cardname.replace('/','_'))
+    # check if the card already exists, skip update
+    if os.path.isfile(cardpath):
+        return
+
+    cardout = codecs.open(cardpath,'w','utf-8')
+    cardout.write(data['name'] + '\n' + \
+          data['cardType'] + '\n' + \
+          data['attribute'] + '\n' + \
+          data['monsterType'] + '\n' + \
+          data['monsterAbility'] + '\n' + \
+          data['type'] + '\n' + \
+          str(data['level']) + '\n' + \
+          str(data['attack']) + '\n' + \
+          str(data['defense']) + '\n' + \
+          str(data['lpendulum']) + '\n' + \
+          str(data['rpendulum']) + '\n' + \
+          data['spellType'] + '\n' + \
+          data['trapType'] + '\n' + \
+          data['text'] + '\n')
 
 def parse_monster(data):
     output = {}
@@ -62,6 +85,7 @@ def parse_monster(data):
     else:
         output['monsterAbility'] = data['monsterAbility']
 
+    output['text'] = data['text']
     return output
 
 def parse_spell(data):
@@ -80,6 +104,7 @@ def parse_spell(data):
     output['rpendulum'] = '0'
     output['spellType'] = data['type0']
     output['trapType'] = 'None'
+    output['text'] = data['text']
     return output
 
 def parse_trap(data):
@@ -98,6 +123,7 @@ def parse_trap(data):
     output['rpendulum'] = '0'
     output['spellType'] = 'None'
     output['trapType'] = data['type0']
+    output['text'] = data['text']
     return output
 
 def parse_card(cardname):
@@ -126,6 +152,7 @@ def parse_card(cardname):
         log_error(origcardname)
         return # we have truly failed
 
+    # get the main card attributes
     for tag in contents:
         trTags = tag.find_all("tr")
         for trTag in trTags:
@@ -175,19 +202,33 @@ def parse_card(cardname):
                     data['lpendulum'] = info[0].strip()
                     data['rpendulum'] = info[0].strip()
 
+    # find the card text
+    textboxes = soup.find_all("table",{"class":"collapsible expanded"})
+    foundtext = False
+    for tag in textboxes:
+        if foundtext:
+            break
+        trTags = tag.find_all("tr")
+        for trTag in trTags:
+            if trTag.text.strip() == "English":
+                foundtext = True
+        tdTags = tag.find_all("td")
+        for tdTag in tdTags:
+            if foundtext:
+                data['text'] = tdTag.text.strip()
+
     # process the output
     if 'cardType' in data:
         if data['cardType'] == 'Monster':
-            print_output(parse_monster(data))
+            print_output(parse_monster(data), cardname)
         elif data['cardType'] == 'Spell':
-            print_output(parse_spell(data))
+            print_output(parse_spell(data), cardname)
         elif data['cardType'] == 'Trap':
-            print_output(parse_trap(data))
+            print_output(parse_trap(data), cardname)
         else:
             log_error(origcardname)
     else:
         log_error(origcardname)
-
 
 def parse_cards():
     for line in cardin:
