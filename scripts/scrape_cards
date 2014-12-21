@@ -20,11 +20,16 @@ if not PROJECT_ROOT:
     print "Environment not set, please source scripts/open-project.sh"
     sys.exit(-1)
 
+PROJECT_BUILD_DIR = os.environ['PROJECT_BUILD_DIR']
+
+# check the environment is set
+if not PROJECT_BUILD_DIR:
+    print "Environment not set, please source scripts/open-project.sh"
+
 REPO_PATH = os.path.join(PROJECT_ROOT, 'libygodeck')
-DATA_PATH = os.path.join(REPO_PATH, 'data')
 CARD_PATH = os.path.join(REPO_PATH, 'card')
 
-ERROR_FILE = os.path.join(DATA_PATH, 'carderrors.txt')
+ERROR_FILE = os.path.join(PROJECT_BUILD_DIR, 'carderrors.txt')
 errorfile = codecs.open(ERROR_FILE,'w','utf-8')
 
 # constants
