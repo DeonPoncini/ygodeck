@@ -1,0 +1,14 @@
+Reflect Bounder
+Monster
+LIGHT
+Effect
+None
+Machine
+4
+1700
+1000
+0
+0
+None
+None
+Before damage calculation, if this card is being attacked by an opponent's monster, and was in face-up Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster's ATK. If you do, after damage calculation: Destroy this card.

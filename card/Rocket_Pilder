@@ -1,0 +1,14 @@
+Rocket Pilder
+Spell
+None
+None
+None
+None
+0
+0
+0
+0
+0
+Equip
+None
+While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.

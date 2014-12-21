@@ -1,0 +1,14 @@
+Lindbloom
+Monster
+EARTH
+Effect
+None
+Wyrm
+4
+0
+1800
+0
+0
+None
+None
+If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.

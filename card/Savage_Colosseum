@@ -1,0 +1,14 @@
+Savage Colosseum
+Spell
+None
+None
+None
+None
+0
+0
+0
+0
+0
+Field
+None
+If a monster attacks, at the end of the Damage Step: Its controller gains 300 LP. All monsters must attack, if able. During the End Phase: Destroy all face-up Attack Position monsters the turn player controls, that did not declare an attack.
