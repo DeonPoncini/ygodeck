@@ -9,6 +9,7 @@ import codecs
 import os.path
 import re
 import requests
+import sys
 
 from bs4 import BeautifulSoup
 
@@ -81,7 +82,7 @@ def read_banlist():
 def write_banlist(banlist, trail):
     # write out to files
     for k in banlist:
-        filename = FORMAT_PATH + '/' + k.replace(' ','_') + '_' + trail
+        filename = os.path.join(FORMAT_PATH, k.replace(' ','_') + '_' + trail)
         cardout = codecs.open(filename,'w','utf-8')
         for v in banlist[k]:
             cardout.write(v + '\n')
@@ -108,7 +109,7 @@ def read_illegals():
     return illegals
 
 def write_illegals(illegals):
-    filename = FORMAT_PATH + '/Illegal'
+    filename = os.path.join(FORMAT_PATH, 'Illegal')
     cardout = codecs.open(filename,'w','utf-8')
     for i in illegals:
         cardout.write(i + "\n")
