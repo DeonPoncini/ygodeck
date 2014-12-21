@@ -2,16 +2,15 @@
 
 ################################################################################
 # scrape-cards
-# Download the card information from the yugioh wikia
+# Get the card names and card URLs using the yugioh wiki's semantic search
 ################################################################################
 
-import requests
 import codecs
 import os.path
+import rdflib
 import re
-import sys
+import requests
 
-from urllib2 import quote
 from bs4 import BeautifulSoup
 
 PROJECT_ROOT = os.environ['PROJECT_ROOT']
@@ -25,24 +24,31 @@ REPO_PATH = os.path.join(PROJECT_ROOT, 'libygodeck')
 DATA_PATH = os.path.join(REPO_PATH, 'data')
 CARD_PATH = os.path.join(REPO_PATH, 'card')
 
-INPUT_FILE = os.path.join(DATA_PATH, 'cardunique.txt')
 ERROR_FILE = os.path.join(DATA_PATH, 'carderrors.txt')
-
-# yugioh wiki paths
-LOAD_PATH = 'http://yugioh.wikia.com/wiki/'
-
-cardin = codecs.open(INPUT_FILE,'r','utf-8')
 errorfile = codecs.open(ERROR_FILE,'w','utf-8')
+
+# constants
+WIKI_ROOT='http://yugioh.wikia.com/wiki/'
+LIMIT=500
+URI_HEAD=("http://yugioh.wikia.com/wiki/Special:Ask/"
+          "-5B-5BMedium::TCG-7C-7COCG-5D-5D/offset%3D")
+URI_TAIL="/limit%3D" + str(LIMIT) + "/format%3Drdf/syntax%3Drdfxml"
 
 def log_error(name):
     errorfile.write(name + '\n')
 
-def print_output(data, cardname):
-    cardpath = os.path.join(CARD_PATH, cardname.replace('/','_'))
+def card_path(cardname):
+    return os.path.join(CARD_PATH, cardname.replace('/','_'))
+
+def check_cardpath(cardname):
+    cardpath = card_path(cardname)
     # check if the card already exists, skip update
     if os.path.isfile(cardpath):
-        return
+        return True
+    return False
 
+def print_output(data, cardname):
+    cardpath = card_path(cardname)
     cardout = codecs.open(cardpath,'w','utf-8')
     cardout.write(data['name'] + '\n' + \
           data['cardType'] + '\n' + \
@@ -59,6 +65,8 @@ def print_output(data, cardname):
           data['trapType'] + '\n' + \
           data['text'] + '\n')
 
+    print "Writing " + cardname
+
 def parse_monster(data):
     output = {}
     output['name'] = data['name']
@@ -67,8 +75,14 @@ def parse_monster(data):
     output['monsterType'] = data['monsterType'].split()[0]
     output['type'] = data['type']
     output['level'] = data['level']
-    output['attack'] = data['attack']
-    output['defense'] = data['defense']
+    if 'attack' in data:
+        output['attack'] = data['attack']
+    else:
+        output['attack'] = '0'
+    if 'defense' in data:
+        output['defense'] = data['defense']
+    else:
+        output['defense'] = '0'
     if 'lpendulum' in data:
         output['lpendulum'] = data['lpendulum']
     else:
@@ -85,7 +99,10 @@ def parse_monster(data):
     else:
         output['monsterAbility'] = data['monsterAbility']
 
-    output['text'] = data['text']
+    if 'text' in data:
+        output['text'] = data['text']
+    else:
+        output['text'] = ''
     return output
 
 def parse_spell(data):
@@ -126,12 +143,16 @@ def parse_trap(data):
     output['text'] = data['text']
     return output
 
-def parse_card(cardname):
+def parse_card(uri, cardname):
     origcardname = cardname;
     cardname = cardname.replace(' ','_').replace('#','').strip()
-    uri = LOAD_PATH + quote(cardname.encode('utf-8'))
-    print uri
 
+    # check the card path
+    if check_cardpath(cardname):
+        print "Skipping " + origcardname
+        return
+
+    print uri
     r = requests.get(uri)
     html = r.text
     soup = BeautifulSoup(html)
@@ -139,14 +160,6 @@ def parse_card(cardname):
 
     data = {}
     data['name'] = origcardname
-
-    if len(contents) == 0:
-        # do a retry with _(card) disambiguation suffix
-        uri = uri + '_(card)'
-        r = requests.get(uri)
-        html = r.text
-        soup = BeautifulSoup(html)
-        contents = soup.find_all("table",{"class":"cardtable"})
 
     if len(contents) == 0:
         log_error(origcardname)
@@ -178,6 +191,9 @@ def parse_card(cardname):
                         data['monsterType'] = 'Normal'
                 elif headers[0].strip() == 'Types':
                     types = re.split(r'/', info[0].strip())
+                    if len(types) < 2:
+                        log_error(origcardname)
+                        return
                     data['type'] = types[0]
                     data['monsterType'] = types[1]
                     if len(types) == 3:
@@ -230,11 +246,27 @@ def parse_card(cardname):
     else:
         log_error(origcardname)
 
-def parse_cards():
-    for line in cardin:
-        if line.startswith('#'):
-            continue
-        line = line.strip()
-        parse_card(line)
 
-parse_cards()
+def read_rdfs():
+    offset = 0
+    try:
+        while(True):
+            g = rdflib.Graph()
+            URI = URI_HEAD + str(offset) + URI_TAIL
+            print URI
+            g.load(URI)
+            count = 0
+            for s, p, o in g:
+                count = count + 1
+                # s contains the URL, check its a valid one
+                if s.startswith(WIKI_ROOT):
+                    # process this card
+                    parse_card(s, g.value(s, rdflib.RDFS.label))
+            offset += LIMIT
+            # check if final page
+            if count <= LIMIT:
+                break
+    except IOError as e:
+        print URI + " not found"
+
+read_rdfs()
