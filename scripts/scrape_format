@@ -1,0 +1,121 @@
+#!/usr/bin/python
+
+################################################################################
+# scrape-formats
+# Get the banlists for each format and store it in a set of files
+################################################################################
+
+import codecs
+import os.path
+import re
+import requests
+
+from bs4 import BeautifulSoup
+
+PROJECT_ROOT = os.environ['PROJECT_ROOT']
+
+# check the environment is set
+if not PROJECT_ROOT:
+    print "Environment not set, please source scripts/open-project.sh"
+    sys.exit(-1)
+
+REPO_PATH = os.path.join(PROJECT_ROOT, 'libygodeck')
+FORMAT_PATH = os.path.join(REPO_PATH, 'format')
+WIKI_ROOT='http://yugioh.wikia.com/wiki/'
+
+LIMITED_CHART_URI = WIKI_ROOT + 'Historic_Forbidden/Limited_Chart'
+ILLEGAL_URI = WIKI_ROOT + 'Illegal'
+
+def add_card(d, date, card):
+    if not date in d:
+        d[date] = []
+    d[date].append(card)
+
+def read_banlist():
+    # find the ban list headers
+    r = requests.get(LIMITED_CHART_URI)
+    data = r.text
+    soup = BeautifulSoup(data)
+
+    formats = []
+    cards = []
+    contents = soup.find_all("th")
+    for th in contents:
+        if th.has_attr('title') and th.has_attr('scope'):
+            formats.append(th['title'])
+        elif not th.has_attr('style') and \
+            th.has_attr('scope') and th['scope'] == 'row':
+                name = th.text.strip()
+                name = re.sub(r"\(.*\)","",name)
+                cards.append(name)
+
+    # the headers are present twice on the page
+    formats = formats[:len(formats)/2]
+
+    # find out all the ban info:
+    format_count = len(formats)
+    counter = 0
+    index = 0
+
+    semilimited = {}
+    limited = {}
+    forbidden = {}
+
+    tds = soup.find_all("td")
+    for td in tds:
+        if td.has_attr('title') and td.has_attr('style'):
+            if counter == format_count:
+                # we move on to the next card
+                counter = 0
+                index = index + 1
+            limit = td['title']
+            if limit == 'Semi-limited':
+                add_card(semilimited, formats[counter], cards[index])
+            elif limit == 'Limited':
+                add_card(limited, formats[counter], cards[index])
+            elif limit == 'Forbidden':
+                add_card(forbidden, formats[counter], cards[index])
+            counter = counter + 1
+    return semilimited, limited, forbidden
+
+def write_banlist(banlist, trail):
+    # write out to files
+    for k in banlist:
+        filename = FORMAT_PATH + '/' + k.replace(' ','_') + '_' + trail
+        cardout = codecs.open(filename,'w','utf-8')
+        for v in banlist[k]:
+            cardout.write(v + '\n')
+
+def read_illegals():
+    # get all the illegal card names
+    r = requests.get(ILLEGAL_URI)
+    data = r.text
+    soup = BeautifulSoup(data)
+
+    trs = soup.find_all("tr")
+    illegals = []
+    for tr in trs:
+        if tr.has_attr('class'):
+            tds = tr.find_all("td")
+            for td in tds:
+                name = td.text.strip()
+                name = re.sub(r"\(.*\)","",name)
+                illegals.append(name)
+                break
+
+    illegals = list(set(illegals))
+    illegals.sort()
+    return illegals
+
+def write_illegals(illegals):
+    filename = FORMAT_PATH + '/Illegal'
+    cardout = codecs.open(filename,'w','utf-8')
+    for i in illegals:
+        cardout.write(i + "\n")
+
+semilimited, limited, forbidden = read_banlist()
+write_banlist(semilimited, 'S')
+write_banlist(limited, 'L')
+write_banlist(forbidden, 'F')
+illegals = read_illegals()
+write_illegals(illegals)
