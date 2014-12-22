@@ -1,0 +1,86 @@
+#!/usr/bin/python
+
+################################################################################
+# load-db
+# fill the database contents with the scraped content
+################################################################################
+
+import codecs
+import os
+import sqlite3
+import sys
+
+PROJECT_ROOT = os.environ['PROJECT_ROOT']
+
+# check the environment is set
+if not PROJECT_ROOT:
+    print "Environment not set, please source scripts/open-project.sh"
+    sys.exit(-1)
+
+PROJECT_BUILD_DIR = os.environ['PROJECT_BUILD_DIR']
+
+# check the environment is set
+if not PROJECT_BUILD_DIR:
+    print "Environment not set, please source scripts/open-project.sh"
+
+REPO_PATH = os.path.join(PROJECT_ROOT, 'libygodeck')
+SCHEMA_PATH = os.path.join(REPO_PATH, 'db', 'schema.sql')
+DB_PATH = os.path.join(PROJECT_BUILD_DIR, 'card.db')
+FORMAT_PATH = os.path.join(REPO_PATH, 'format')
+CARD_PATH = os.path.join(REPO_PATH, 'card')
+EXECUTE_PATH = os.path.join(PROJECT_ROOT, 'mindbw', 'scripts', 'sqlite3-execute')
+
+# load up the schema
+cmd = EXECUTE_PATH + ' ' + DB_PATH + ' ' + SCHEMA_PATH
+os.system(cmd)
+
+# load the values into the database
+db = sqlite3.connect(DB_PATH)
+db.text_factory = str
+c = db.cursor()
+
+# read up every format and write into the database
+for filename in os.listdir(FORMAT_PATH):
+    f = filename.rsplit('_', 1)
+    date = f[0].replace('_', ' ')
+    limit = 'I'
+    if len(f) > 1:
+        limit = f[1]
+    ff = codecs.open(os.path.join(FORMAT_PATH, filename), 'r', 'utf-8')
+    content = ff.readlines()
+    all_formats = []
+    for line in content:
+        items = [None, date]
+        items.append(line.rstrip())
+        if limit == 'I':
+            items.append('Illegal')
+        elif limit == 'F':
+            items.append('Forbidden')
+        elif limit == 'L':
+            items.append('Limited')
+        elif limit == 'S':
+            items.append('Semi-limited')
+        else:
+            print "Invalid line: " + line
+            continue
+        all_formats.append(items)
+    c.executemany('INSERT INTO formats VALUES (?,?,?,?)', all_formats)
+
+# read up every card and write into the database
+for filename in os.listdir(CARD_PATH):
+    ff = codecs.open(os.path.join(CARD_PATH, filename), 'r', 'utf-8')
+    content = ff.readlines()
+    card = [None]
+    for line in content:
+        card.append(line.rstrip())
+    # check for multi line text descriptions
+    if len(card) > 15:
+        card[14:] = [''.join(card[14:])]
+    if len(card) != 15:
+        print "Error in file: " + filename
+        continue
+    c.execute('INSERT INTO card VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)', card)
+
+db.commit()
+c.close()
+db.close()
