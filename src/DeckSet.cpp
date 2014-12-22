@@ -1,6 +1,6 @@
 #include <ygo/deck/DeckSet.h>
 
-#include <ygo/deck/Common.h>
+#include <ygo/deck/DB.h>
 
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
@@ -15,7 +15,7 @@ namespace deck
 std::string cardID(const std::string& name)
 {
     std::string id;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select("card_id","card",
             mindbw::Equal("name",name),
             [&](mindbw::DataMap data) {
@@ -27,7 +27,7 @@ std::string cardID(const std::string& name)
 int cardCheck(const std::string& cardid, const std::string& deckid)
 {
     auto count = 0;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select("relation_id","deck_to_cards",
             mindbw::And({
                 mindbw::Equal("deck_id",deckid),
@@ -41,7 +41,7 @@ int cardCheck(const std::string& cardid, const std::string& deckid)
 data::MonsterType monsterType(const std::string& name)
 {
     std::string mtype;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select("monsterType","card",
             mindbw::Equal("name",name),
             [&](mindbw::DataMap data) {
@@ -68,7 +68,7 @@ DeckSet::DeckSet(const std::string& name, const User& user,
 bool DeckSet::exists()
 {
     auto exists = false;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     // check if the deck named has the same format
     db.select(mindbw::KeyList({"deck_set_id","format","format_date"}),"deck_set",
             mindbw::Equal("name",mName),
@@ -107,7 +107,7 @@ void DeckSet::create()
             Deck{data::DeckType::EXTRA}});
 
     // create the deck set entry
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     mID = db.insert("deck_set",
             mindbw::ValueList({
                 mName,
@@ -127,7 +127,7 @@ void DeckSet::create()
 void DeckSet::open()
 {
     // find out the deck ids from the main id, note it is set in exists
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select(mindbw::KeyList({"main_deck_id","side_deck_id","extra_deck_id"}),
             "deck_set",mindbw::Equal("deck_set_id",mID),
             [&](mindbw::DataMap data) {
@@ -203,7 +203,7 @@ void DeckSet::remove()
     auto sid = findDeck(data::DeckType::SIDE).id();
     auto eid = findDeck(data::DeckType::EXTRA).id();
 
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.del("deck",mindbw::Equal("deck_id",mid));
     db.del("deck",mindbw::Equal("deck_id",sid));
     db.del("deck",mindbw::Equal("deck_id",eid));

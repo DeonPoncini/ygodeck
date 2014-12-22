@@ -1,6 +1,6 @@
 #include <ygo/deck/CardSelector.h>
 
-#include <ygo/deck/Common.h>
+#include <ygo/deck/DB.h>
 
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
@@ -17,7 +17,7 @@ CardSelector::CardSelector()
 data::StaticCardData CardSelector::query(const std::string& name)
 {
     data::StaticCardData s;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select(mindbw::All(),"card",mindbw::Equal("name",name),
             [&](mindbw::DataMap data) {
                 s.name = name.c_str();
@@ -41,7 +41,7 @@ CardSelector::CardList CardSelector::execute()
 {
     CardList list;
 
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select("name","card",mindbw::And(mQuery)
             ,[&](mindbw::DataMap data) {
                 for (auto&& kv : data) {

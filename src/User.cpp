@@ -1,11 +1,12 @@
 #include <ygo/deck/User.h>
 
-#include <ygo/deck/Common.h>
+#include <ygo/deck/DB.h>
 #include <ygo/deck/DeckSet.h>
 
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
+#include <cassert>
 #include <stdexcept>
 
 namespace ygo
@@ -19,7 +20,7 @@ User::User(std::string name, bool create) :
     // check if the user already exists
     auto exists = false;
     std::string userid;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select(mindbw::KeyList({"name","user_id"}),"users",
             mindbw::Equal("name",mName),
             [&](mindbw::DataMap data) {
@@ -40,7 +41,8 @@ std::vector<DeckSet> User::deckSets() const
 {
     // return all deck sets for a given user
     std::vector<std::string> deckids;
-    mindbw::SQLite3 db(DBPATH);
+    assert(!DB::get().path().empty());
+    mindbw::SQLite3 db(DB::get().path());
     db.select("deck_set_id","user_to_decks",
             mindbw::Equal("user_id",id()),
             [&](mindbw::DataMap data) {
@@ -73,7 +75,7 @@ void User::remove()
     }
 
     // delete the user
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.del("users",mindbw::Equal("user_id",mID));
 }
 

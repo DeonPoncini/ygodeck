@@ -1,6 +1,6 @@
 #include <ygo/deck/Format.h>
 
-#include <ygo/deck/Common.h>
+#include <ygo/deck/DB.h>
 
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
@@ -17,7 +17,7 @@ Format::Format(data::Format format, std::string formatDate) :
     mFormatDate(std::move(formatDate))
 {
     auto formatExists = false;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select("format_id", "formats",
             mindbw::Equal("name",mFormatDate),
             [&](mindbw::DataMap data) {
@@ -34,7 +34,7 @@ int Format::cardCount(const std::string& name) const
     // look up this card in the formats database
     auto count = 0;
     auto callback = false;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select("card_status","formats",
             mindbw::And({
                 mindbw::Equal("card_name",name),
@@ -66,7 +66,7 @@ std::vector<std::string> Format::formatDates()
 {
     std::vector<std::string> ft;
     // get all the format dates
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select(mindbw::Unique("name"),"formats",mindbw::True(),
             [&](mindbw::DataMap data) {
                 auto format = data["name"];

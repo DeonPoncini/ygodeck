@@ -1,5 +1,5 @@
 #include <ygo/deck/Deck.h>
-#include <ygo/deck/Common.h>
+#include <ygo/deck/DB.h>
 
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
@@ -12,7 +12,7 @@ namespace deck
 Deck::Deck(data::DeckType deckType) :
     mDeckType(deckType)
 {
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     mID = db.insert("deck",
             mindbw::ValueList({fromDeckType(mDeckType)}));
 }
@@ -30,7 +30,7 @@ DeckError Deck::addCard(const std::string& name)
     }
 
     // get the card ID
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     std::string id;
     db.select("card_id","card",
             mindbw::Equal("name",name),
@@ -51,7 +51,7 @@ DeckError Deck::addCard(const std::string& name)
 std::vector<data::StaticCardData> Deck::cards() const
 {
     // search all the cards part of this deck
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     std::vector<std::string> ids;
     db.select("card_id","deck_to_cards",
             mindbw::Equal("deck_id",mID),
@@ -88,7 +88,7 @@ void Deck::deleteCard(const std::string& name)
 {
     // lookup this card id
     std::string cardid;
-    mindbw::SQLite3 db(DBPATH);
+    mindbw::SQLite3 db(DB::get().path());
     db.select("card_id","card",mindbw::Equal("name",name),
             [&](mindbw::DataMap data) {
                 cardid = data["card_id"];
