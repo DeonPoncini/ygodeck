@@ -176,7 +176,7 @@ void DeckBuilderUI::setupUi(QMainWindow* mainWindow)
     cardInfoWidget->setLayout(cardInfoLayout);
 
     // game controls
-    playButton = new QPushButton("Play");
+    exportButton = new QPushButton("Export");
 
     gridLayout->addWidget(deckSetWidget,0,0);
     gridLayout->addWidget(mainDeckWidget,0,1);
@@ -186,7 +186,7 @@ void DeckBuilderUI::setupUi(QMainWindow* mainWindow)
     gridLayout->addWidget(deckSetWidget,0,0);
     gridLayout->addWidget(cardInfoWidget,1,0);
     gridLayout->addWidget(text,2,0);
-    gridLayout->addWidget(playButton,0,4);
+    gridLayout->addWidget(exportButton,0,4);
 
     text->setAlignment(Qt::AlignTop);
     text->setWordWrap(true);

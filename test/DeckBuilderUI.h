@@ -115,7 +115,7 @@ public:
     QLabel* text;
 
     // game controls
-    QPushButton* playButton;
+    QPushButton* exportButton;
 
     void setupUi(QMainWindow* mainWindow);
 

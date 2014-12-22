@@ -5,8 +5,11 @@
 #include <ygo/deck/Format.h>
 
 #include <QMessageBox>
+#include <QFileDialog>
 
+#include <fstream>
 #include <utility>
+
 
 DeckBuilder::DeckBuilder(ygo::deck::User user, QWidget *parent) :
     QMainWindow(parent),
@@ -169,7 +172,7 @@ void DeckBuilder::onResultsSelected(QListWidgetItem* item)
     cardInfo(item->text().toStdString());
 }
 
-void DeckBuilder::onPlay()
+void DeckBuilder::onExport()
 {
     auto item = ui.deckSets->currentItem();
     if (item == nullptr) return;
@@ -179,7 +182,16 @@ void DeckBuilder::onPlay()
                 "Deck is not valid for play");
         return;
     }
-    // start up the connection screen
+    // save the card to disk
+    auto fn = QFileDialog::getSaveFileName(this, tr("Save Deck"));
+    auto filename = fn.toStdString();
+    if (filename.empty()) {
+        return;
+    }
+    auto serial = ygo::data::fromCardMap(deckSet.cards());
+    std::ofstream out(filename);
+    out << serial;
+    out.close();
 }
 
 void DeckBuilder::onAdd(ygo::data::DeckType deckType, QListWidget* list)
@@ -294,6 +306,6 @@ void DeckBuilder::wireControls()
             &DeckBuilder::onExtraSelected);
     connect(ui.cardSearchResults, &QListWidget::itemClicked, this,
             &DeckBuilder::onResultsSelected);
-    connect(ui.playButton, &QPushButton::clicked, this,
-            &DeckBuilder::onPlay);
+    connect(ui.exportButton, &QPushButton::clicked, this,
+            &DeckBuilder::onExport);
 }

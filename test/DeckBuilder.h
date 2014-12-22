@@ -35,7 +35,7 @@ private Q_SLOTS:
     void onSideSelected(QListWidgetItem* item);
     void onExtraSelected(QListWidgetItem* item);
     void onResultsSelected(QListWidgetItem* item);
-    void onPlay();
+    void onExport();
 
 private:
     DeckBuilderUI ui;
