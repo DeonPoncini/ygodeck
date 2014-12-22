@@ -6,7 +6,6 @@ project(ygodeck)
 ################################
 
 set(DECK_VERSION "0.0.1")
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -DBOOST_LOG_DYN_LINK")
 
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
@@ -14,14 +13,12 @@ set(CMAKE_INCLUDE_CURRENT_DIR ON)
 ################################
 # Third party libraries
 ################################
-find_package(Boost 1.55.0 REQUIRED)
 find_package(Qt5Widgets REQUIRED)
 
 find_package(mindbw)
 find_package(ygodata)
 find_package(zephyr)
 
-include_directories(${BOOST_INCLUDE_DIRS})
 include_directories(${MINDBW_INCLUDE_DIRS})
 include_directories(${SQLITE3_INCLUDE_DIR})
 include_directories(${YGODATA_INCLUDE_DIRS})
@@ -31,7 +28,6 @@ include_directories(${ZEPHYR_INCLUDE_DIRS})
 # Libraries
 ################################
 set(YGODECK_LIBS
-    ${Boost_LIBRARIES}
     ${MINDBW_LIBRARIES}
     ${YGODATA_LIBRARIES}
     ${ZEPHYR_LIBRARIES}
