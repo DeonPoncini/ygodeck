@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(libygodeck)
+project(ygodeck)
 
 ################################
 # Compiler setup
@@ -66,7 +66,7 @@ target_link_libraries(ygodeck-qt
 ################################
 
 export_project(
-    NAME libygodeck
+    NAME ygodeck
     INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
     BINS ygodeck-qt
     LIBS ygodeck
