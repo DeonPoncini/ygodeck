@@ -173,7 +173,6 @@ void DeckBuilderUI::setupUi(QMainWindow* mainWindow)
     cardInfoLayout->addWidget(trapTypeLabel,12,0);
     cardInfoLayout->addWidget(trapType,12,1);
     cardInfoLayout->addWidget(textLabel,13,0);
-    cardInfoLayout->addWidget(text,13,1);
     cardInfoWidget->setLayout(cardInfoLayout);
 
     // game controls
@@ -186,7 +185,11 @@ void DeckBuilderUI::setupUi(QMainWindow* mainWindow)
     gridLayout->addWidget(cardSearchWidget,0,3);
     gridLayout->addWidget(deckSetWidget,0,0);
     gridLayout->addWidget(cardInfoWidget,1,0);
+    gridLayout->addWidget(text,2,0);
     gridLayout->addWidget(playButton,0,4);
+
+    text->setAlignment(Qt::AlignTop);
+    text->setWordWrap(true);
 
     mainWindow->setCentralWidget(centralWidget);
     mainWindow->setWindowTitle(QApplication::translate("DeckBuilder",
