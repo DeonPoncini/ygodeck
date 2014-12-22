@@ -8,25 +8,32 @@ project(libygodeck)
 set(DECK_VERSION "0.0.1")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -DBOOST_LOG_DYN_LINK")
 
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
+
 ################################
 # Third party libraries
 ################################
 find_package(Boost 1.55.0 REQUIRED)
 find_package(mindbw)
 find_package(libygodata)
+find_package(zephyr)
+find_package(Qt5Widgets REQUIRED)
 
 include_directories(${BOOST_INCLUDE_DIRS})
-include_directories(${SQLITE3_INCLUDE_DIR})
-include_directories(${MINDBW_INCLUDE_DIRS})
 include_directories(${LIBYGODATA_INCLUDE_DIRS})
+include_directories(${MINDBW_INCLUDE_DIRS})
+include_directories(${SQLITE3_INCLUDE_DIR})
+include_directories(${ZEPHYR_INCLUDE_DIRS})
 
 ################################
 # Libraries
 ################################
 set(YGODECK_LIBS
     ${Boost_LIBRARIES}
-    ${MINDBW_LIBRARIES}
     ${LIBYGODATA_LIBRARIES}
+    ${MINDBW_LIBRARIES}
+    ${ZEPHYR_LIBRARIES}
     )
 
 ################################
@@ -34,6 +41,7 @@ set(YGODECK_LIBS
 ################################
 file(GLOB_RECURSE INCLUDES include/*.h)
 file(GLOB_RECURSE SRC src/*.cpp)
+file(GLOB_RECURSE TEST test/*.cpp)
 
 include_directories(include)
 
@@ -47,6 +55,11 @@ add_library(ygodeck SHARED
 target_link_libraries(ygodeck
     ${YGODECK_LIBS})
 
+add_executable(ygodeck-qt ${TEST})
+
+target_link_libraries(ygodeck-qt
+    ygodeck)
+
 ################################
 # Export library
 ################################
@@ -54,7 +67,9 @@ target_link_libraries(ygodeck
 export_project(
     NAME libygodeck
     INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
+    BINS ygodeck-qt
     LIBS ygodeck
     VERSION ${DECK_VERSION}
 )
 
+qt5_use_modules(ygodeck-qt Widgets)
