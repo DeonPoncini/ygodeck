@@ -20,7 +20,6 @@ find_package(ygodata)
 find_package(zephyr)
 
 include_directories(${MINDBW_INCLUDE_DIRS})
-include_directories(${SQLITE3_INCLUDE_DIR})
 include_directories(${YGODATA_INCLUDE_DIRS})
 include_directories(${ZEPHYR_INCLUDE_DIRS})
 
