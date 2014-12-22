@@ -1,5 +1,5 @@
-#include "Deck.h"
-#include "Common.h"
+#include <ygo/deck/Deck.h>
+#include <ygo/deck/Common.h>
 
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>

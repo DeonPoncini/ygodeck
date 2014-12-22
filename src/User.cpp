@@ -1,7 +1,7 @@
-#include "User.h"
+#include <ygo/deck/User.h>
 
-#include "Common.h"
-#include "DeckSet.h"
+#include <ygo/deck/Common.h>
+#include <ygo/deck/DeckSet.h>
 
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
