@@ -65,7 +65,7 @@ std::vector<data::StaticCardData> Deck::cards() const
         db.select(mindbw::All(),"card",mindbw::Equal("card_id",i),
                 [&](mindbw::DataMap data) {
                     data::StaticCardData s;
-                    s.name = data["name"].c_str();
+                    s.name = data["name"];
                     s.cardType = data::toCardType(data["cardType"]);
                     s.attribute = data::toAttribute(data["attribute"]);
                     s.monsterType = data::toMonsterType(data["monsterType"]);
@@ -78,6 +78,7 @@ std::vector<data::StaticCardData> Deck::cards() const
                     s.rpendulum = std::atoi(data["rpendulum"].c_str());
                     s.spellType = data::toSpellType(data["spellType"]);
                     s.trapType = data::toTrapType(data["trapType"]);
+                    s.text = data["text"];
                     ret.push_back(s);
                 });
     }

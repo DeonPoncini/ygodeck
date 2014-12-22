@@ -33,6 +33,7 @@ data::StaticCardData CardSelector::query(const std::string& name)
                 s.rpendulum = std::atoi(data["rpendulum"].c_str());
                 s.spellType = data::toSpellType(data["spellType"]);
                 s.trapType = data::toTrapType(data["trapType"]);
+                s.text = data["text"];
             });
     return s;
 }
