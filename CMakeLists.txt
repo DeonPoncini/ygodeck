@@ -44,7 +44,7 @@ include_directories(include)
 ################################
 # Build targets
 ################################
-add_library(ygodeck SHARED
+add_library(ygodeck
     ${SRC}
     ${INCLUDES})
 
