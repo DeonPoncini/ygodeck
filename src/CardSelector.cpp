@@ -1,9 +1,12 @@
 #include <ygo/deck/CardSelector.h>
 
-#include <ygo/deck/DB.h>
+#include <cstdlib>
 
+#include <ygo/deck/DB.h>
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
+#include <zephyr/to_string.h>
+
 
 namespace ygo
 {
@@ -26,11 +29,11 @@ data::StaticCardData CardSelector::query(const std::string& name)
                 s.monsterType = data::toMonsterType(data["monsterType"]);
                 s.type = data::toType(data["type"]);
                 s.monsterAbility = data::toMonsterType(data["monsterAbility"]);
-                s.level = std::atoi(data["level"].c_str());
-                s.attack = std::atoi(data["attack"].c_str());
-                s.defense = std::atoi(data["defense"].c_str());
-                s.lpendulum = std::atoi(data["lpendulum"].c_str());
-                s.rpendulum = std::atoi(data["rpendulum"].c_str());
+                s.level = atoi(data["level"].c_str());
+                s.attack = atoi(data["attack"].c_str());
+                s.defense = atoi(data["defense"].c_str());
+                s.lpendulum = atoi(data["lpendulum"].c_str());
+                s.rpendulum = atoi(data["rpendulum"].c_str());
                 s.spellType = data::toSpellType(data["spellType"]);
                 s.trapType = data::toTrapType(data["trapType"]);
                 s.text = data["text"];
@@ -85,31 +88,31 @@ CardSelector& CardSelector::type(data::Type t)
 
 CardSelector& CardSelector::level(int l, mindbw::Operator op)
 {
-    mQuery.emplace_back(mindbw::Compare("level",std::to_string(l), op));
+    mQuery.emplace_back(mindbw::Compare("level",zephyr::to_string(l), op));
     return *this;
 }
 
 CardSelector& CardSelector::attack(int a, mindbw::Operator op)
 {
-    mQuery.emplace_back(mindbw::Compare("attack",std::to_string(a), op));
+    mQuery.emplace_back(mindbw::Compare("attack",zephyr::to_string(a), op));
     return *this;
 }
 
 CardSelector& CardSelector::defense(int d, mindbw::Operator op)
 {
-    mQuery.emplace_back(mindbw::Compare("defense",std::to_string(d), op));
+    mQuery.emplace_back(mindbw::Compare("defense",zephyr::to_string(d), op));
     return *this;
 }
 
 CardSelector& CardSelector::lpendulum(int d, mindbw::Operator op)
 {
-    mQuery.emplace_back(mindbw::Compare("lpendulum",std::to_string(d), op));
+    mQuery.emplace_back(mindbw::Compare("lpendulum",zephyr::to_string(d), op));
     return *this;
 }
 
 CardSelector& CardSelector::rpendulum(int d, mindbw::Operator op)
 {
-    mQuery.emplace_back(mindbw::Compare("rpendulum",std::to_string(d), op));
+    mQuery.emplace_back(mindbw::Compare("rpendulum",zephyr::to_string(d), op));
     return *this;
 }
 

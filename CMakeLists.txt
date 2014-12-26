@@ -13,7 +13,9 @@ set(CMAKE_INCLUDE_CURRENT_DIR ON)
 ################################
 # Third party libraries
 ################################
-find_package(Qt5Widgets REQUIRED)
+if ("${CROSS_TARGET}" STREQUAL "linux-64")
+    find_package(Qt5Widgets REQUIRED)
+endif()
 
 find_package(mindbw)
 find_package(ygodata)
@@ -51,21 +53,32 @@ add_library(ygodeck
 target_link_libraries(ygodeck
     ${YGODECK_LIBS})
 
-add_executable(ygodeck-qt ${TEST})
-
-target_link_libraries(ygodeck-qt
-    ygodeck)
+if ("${CROSS_TARGET}" STREQUAL "linux-64")
+    add_executable(ygodeck-qt ${TEST})
+    target_link_libraries(ygodeck-qt ygodeck)
+endif()
 
 ################################
 # Export library
 ################################
 
-export_project(
-    NAME ygodeck
-    INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
-    BINS ygodeck-qt
-    LIBS ygodeck
-    VERSION ${DECK_VERSION}
-)
+if ("${CROSS_TARGET}" STREQUAL "linux-64")
+    export_project(
+        NAME ygodeck
+        INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
+        BINS ygodeck-qt
+        LIBS ygodeck
+        VERSION ${DECK_VERSION}
+    )
+else()
+    export_project(
+        NAME ygodeck
+        INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
+        LIBS ygodeck
+        VERSION ${DECK_VERSION}
+    )
+endif()
 
-qt5_use_modules(ygodeck-qt Widgets)
+if ("${CROSS_TARGET}" STREQUAL "linux-64")
+    qt5_use_modules(ygodeck-qt Widgets)
+endif()

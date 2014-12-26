@@ -4,6 +4,8 @@
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
+#include <cstdlib>
+
 namespace ygo
 {
 namespace deck
@@ -71,11 +73,11 @@ std::vector<data::StaticCardData> Deck::cards() const
                     s.monsterType = data::toMonsterType(data["monsterType"]);
                     s.type = data::toType(data["type"]);
                     s.monsterAbility = data::toMonsterType(data["monsterAbility"]);
-                    s.level = std::atoi(data["level"].c_str());
-                    s.attack = std::atoi(data["attack"].c_str());
-                    s.defense = std::atoi(data["defense"].c_str());
-                    s.lpendulum = std::atoi(data["lpendulum"].c_str());
-                    s.rpendulum = std::atoi(data["rpendulum"].c_str());
+                    s.level = atoi(data["level"].c_str());
+                    s.attack = atoi(data["attack"].c_str());
+                    s.defense = atoi(data["defense"].c_str());
+                    s.lpendulum = atoi(data["lpendulum"].c_str());
+                    s.rpendulum = atoi(data["rpendulum"].c_str());
                     s.spellType = data::toSpellType(data["spellType"]);
                     s.trapType = data::toTrapType(data["trapType"]);
                     s.text = data["text"];
