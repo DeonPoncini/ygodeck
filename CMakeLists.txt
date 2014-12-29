@@ -56,5 +56,5 @@ export_project(
     VERSION ${DECK_VERSION}
 )
 
-add_subdirectory(example)
 add_subdirectory(binding)
+add_subdirectory(example)

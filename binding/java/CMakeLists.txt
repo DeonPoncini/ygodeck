@@ -56,3 +56,12 @@ add_custom_command(
 
 add_custom_target(ygodeckJar ALL DEPENDS ${JAR_TARGETS})
 add_dependencies(ygodeckJar ygodeck-jni)
+
+################################
+# Export jar
+################################
+export_java_project(
+    NAME ygodeck-java
+    JARS ${JAR_TARGETS}
+    JAR_PATHS ${JAR_PATH}
+)
