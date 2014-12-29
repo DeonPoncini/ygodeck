@@ -1,22 +1,15 @@
 cmake_minimum_required(VERSION 2.8)
-project(ygodeck)
+project(ygodeck-c)
 
 ################################
 # Compiler setup
 ################################
 
-set(DECK_VERSION "0.0.1")
+set(C_DECK_VERSION "0.0.1")
 
 ################################
 # Third party libraries
 ################################
-find_package(mindbw)
-find_package(ygodata)
-find_package(zephyr)
-
-include_directories(${MINDBW_INCLUDE_DIRS})
-include_directories(${YGODATA_INCLUDE_DIRS})
-include_directories(${ZEPHYR_INCLUDE_DIRS})
 
 ################################
 # Libraries
@@ -38,23 +31,20 @@ include_directories(include)
 ################################
 # Build targets
 ################################
-add_library(ygodeck
+add_library(ygodeck-c SHARED
     ${SRC}
     ${INCLUDES})
 
-target_link_libraries(ygodeck
-    ${YGODECK_LIBS})
+target_link_libraries(ygodeck-c
+    ygodeck)
 
 ################################
 # Export library
 ################################
 
 export_project(
-    NAME ygodeck
+    NAME ygodeck-c
     INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
-    LIBS ygodeck
-    VERSION ${DECK_VERSION}
+    LIBS ygodeck-c
+    VERSION ${C_DECK_VERSION}
 )
-
-add_subdirectory(example)
-add_subdirectory(binding)
