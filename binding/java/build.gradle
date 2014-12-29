@@ -1,0 +1,16 @@
+apply plugin: 'java'
+
+def nativeLibs = fileTree(nativeDir)
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+    }
+}
+
+jar {
+    archiveName='ygodeck.jar'
+    into ("lib/" + crossTarget, { from nativeLibs})
+}
