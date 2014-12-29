@@ -22,9 +22,11 @@ add_library(ygodeck-jni SHARED
 if ("${CROSS_TARGET}" STREQUAL "linux-64")
     target_link_libraries(ygodeck-jni
         ${JNI_LIBRARIES})
+    set(ARCHIVE_NATIVE_DIR "linux-64")
 elseif ("${CROSS_TARGET}" STREQUAL "android")
     target_link_libraries(ygodeck-jni
         ${ANDROID_LIBRARIES})
+    set(ARCHIVE_NATIVE_DIR "armeabi")
 endif()
 
 set_target_properties(ygodeck-jni PROPERTIES
@@ -46,7 +48,8 @@ add_custom_command(
     COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
     ${CMAKE_CURRENT_BINARY_DIR}/gradle
     -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
-    -PcrossTarget=${CROSS_TARGET} -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
+    -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
+    -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
     ${GRADLE_TASK}
     OUTPUT ${JAR_TARGETS}
     DEPENDS ${SRC} ${JAVA_SRC} ${CMAKE_CURRENT_LIST_FILE})

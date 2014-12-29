@@ -12,5 +12,5 @@ sourceSets {
 
 jar {
     archiveName='ygodeck.jar'
-    into ("lib/" + crossTarget, { from nativeLibs})
+    into ("lib/" + archiveNativeDir, { from nativeLibs})
 }
