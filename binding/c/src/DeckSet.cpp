@@ -3,6 +3,7 @@
 
 #include <ygo/deck/User.h>
 #include <ygo/deck/Format.h>
+#include <ygo/data/cpp/DataTypes.h>
 
 #include <zephyr/cstring.h>
 
@@ -54,17 +55,18 @@ void DECKSET_NAME(delete_format)(FORMAT_THIS f)
 
 ygo_deck_DeckError
 DECKSET_NAME(addCard)(DECKSET_THIS p,
-        ZU(ygo)ZU(data)DeckType deckType, const char* name)
+        ygo_data_DeckType deckType, const char* name)
 {
     return static_cast<ygo_deck_DeckError>(
-            CPP_CAST(p)->addCard(deckType, name));
+            CPP_CAST(p)->addCard(static_cast<ygo::data::DeckType>(deckType),
+                name));
 }
 
 void
 DECKSET_NAME(deleteCard)(DECKSET_THIS p,
-        ZU(ygo)ZU(data)DeckType deckType, const char* name)
+        ygo_data_DeckType deckType, const char* name)
 {
-    CPP_CAST(p)->deleteCard(deckType, name);
+    CPP_CAST(p)->deleteCard(static_cast<ygo::data::DeckType>(deckType), name);
 }
 
 ygo_deck_CardMap DECKSET_NAME(cards)(DECKSET_THIS p)
@@ -79,9 +81,9 @@ ygo_deck_CardMap DECKSET_NAME(cards)(DECKSET_THIS p)
     ret.side_count = side.size();
     ret.extra_count = extra.size();
 
-    ret.main = new ygo_data_C_StaticCardData*[ret.main_count];
-    ret.side = new ygo_data_C_StaticCardData*[ret.side_count];
-    ret.extra = new ygo_data_C_StaticCardData*[ret.extra_count];
+    ret.main = new ygo_data_StaticCardData*[ret.main_count];
+    ret.side = new ygo_data_StaticCardData*[ret.side_count];
+    ret.extra = new ygo_data_StaticCardData*[ret.extra_count];
 
     for (auto i = 0; i < ret.main_count; i++) {
         ret.main[i] = ygo::data::staticDataToC(main[i]);

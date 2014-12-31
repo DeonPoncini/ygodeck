@@ -13,9 +13,9 @@ typedef struct ygo_deck_DeckSet ygo_deck_DeckSet;
 
 struct ygo_deck_CardMap
 {
-    ygo_data_C_StaticCardData** main;
-    ygo_data_C_StaticCardData** side;
-    ygo_data_C_StaticCardData** extra;
+    ygo_data_StaticCardData** main;
+    ygo_data_StaticCardData** side;
+    ygo_data_StaticCardData** extra;
     int main_count;
     int side_count;
     int extra_count;
@@ -36,10 +36,10 @@ FORMAT_THIS DECKSET_NAME(format)(DECKSET_THIS p);
 void DECKSET_NAME(delete_format)(FORMAT_THIS f);
 ygo_deck_DeckError
 DECKSET_NAME(addCard)(DECKSET_THIS p,
-        ZU(ygo)ZU(data)DeckType deckType, const char* name);
+        ygo_data_DeckType deckType, const char* name);
 void
 DECKSET_NAME(deleteCard)(DECKSET_THIS p,
-        ZU(ygo)ZU(data)DeckType deckType, const char* name);
+        ygo_data_DeckType deckType, const char* name);
 ygo_deck_CardMap DECKSET_NAME(cards)(DECKSET_THIS p);
 void DECKSET_NAME(delete_cards)(ygo_deck_CardMap c);
 void DECKSET_NAME(remove)(DECKSET_THIS p);

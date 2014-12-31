@@ -1,6 +1,8 @@
 #include <ygo/deck/Format.h>
 #include <c/ygo/deck/Format.h>
 
+#include <ygo/data/cpp/DataTypes.h>
+
 #include <zephyr/cstring.h>
 
 extern "C" {
@@ -8,9 +10,10 @@ extern "C" {
 #define C_CAST(p) reinterpret_cast<FORMAT_THIS>(p)
 #define CPP_CAST(p) reinterpret_cast<ygo::deck::Format*>(p)
 
-FORMAT_THIS FORMAT_NAME(new)(ZU(ygo)ZU(data)Format format, const char* date)
+FORMAT_THIS FORMAT_NAME(new)(ygo_data_Format format, const char* date)
 {
-    return C_CAST(new ygo::deck::Format(format, date));
+    return C_CAST(new ygo::deck::Format(
+                static_cast<ygo::data::Format>(format), date));
 }
 
 void FORMAT_NAME(delete)(FORMAT_THIS p)
@@ -18,9 +21,9 @@ void FORMAT_NAME(delete)(FORMAT_THIS p)
     delete CPP_CAST(p);
 }
 
-ZU(ygo)ZU(data)Format FORMAT_NAME(format)(FORMAT_THIS p)
+ygo_data_Format FORMAT_NAME(format)(FORMAT_THIS p)
 {
-    return CPP_CAST(p)->format();
+    return static_cast<ygo_data_Format>(CPP_CAST(p)->format());
 }
 
 char* FORMAT_NAME(formatDate)(FORMAT_THIS p)
