@@ -2,8 +2,7 @@
 #define C_BINDING_DECK_H
 
 #include <ygo/data/c/DataTypes.h>
-
-#include "DeckError.h"
+#include <ygo/deck/c/DataTypes.h>
 
 #ifdef __cplusplus
 extern "C" {

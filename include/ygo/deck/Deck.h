@@ -1,7 +1,7 @@
 #ifndef YGO_DECK_DECK_H
 #define YGO_DECK_DECK_H
 
-#include "DeckError.h"
+#include <ygo/deck/cpp/DataTypes.h>
 
 #include <ygo/data/CardData.h>
 #include <ygo/data/FormatData.h>

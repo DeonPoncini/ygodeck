@@ -1,7 +1,8 @@
 #ifndef C_BINDING_DECKSET_H
 #define C_BINDING_DECKSET_H
 
-#include "DeckError.h"
+#include <ygo/deck/c/DataTypes.h>
+
 #include "Format.h"
 #include "User.h"
 

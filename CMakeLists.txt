@@ -34,16 +34,29 @@ file(GLOB_RECURSE INCLUDES include/*.h)
 file(GLOB_RECURSE SRC src/*.cpp)
 
 include_directories(include)
+include_directories(${CMAKE_CURRENT_BINARY_DIR}/include)
 
 ################################
 # Build targets
 ################################
 add_library(ygodeck
     ${SRC}
-    ${INCLUDES})
+    ${INCLUDES}
+    ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/cpp/DataTypes.h)
 
 target_link_libraries(ygodeck
     ${YGODECK_LIBS})
+
+make_directory(${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/cpp)
+make_directory(${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/c)
+make_directory(${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java)
+
+add_custom_command(OUTPUT
+    ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/cpp/DataTypes.h
+    COMMAND python
+    ARGS $ENV{PROJECT_SCRIPT_DIR}/include/generate-data.py
+    ${CMAKE_CURRENT_LIST_DIR}/xml/data.xml
+    ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck)
 
 ################################
 # Export library
@@ -51,7 +64,7 @@ target_link_libraries(ygodeck
 
 export_project(
     NAME ygodeck
-    INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include
+    INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_BINARY_DIR}/include
     LIBS ygodeck
     VERSION ${DECK_VERSION}
 )
