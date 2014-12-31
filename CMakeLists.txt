@@ -47,10 +47,6 @@ add_library(ygodeck
 target_link_libraries(ygodeck
     ${YGODECK_LIBS})
 
-make_directory(${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/cpp)
-make_directory(${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/c)
-make_directory(${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java)
-
 add_custom_command(OUTPUT
     ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/cpp/DataTypes.h
     COMMAND python
