@@ -4,9 +4,7 @@ def nativeLibs = fileTree(nativeDir)
 
 sourceSets {
     main {
-        java {
-            srcDir 'src'
-        }
+        java.srcDirs = ['src', javaIncludes]
     }
 }
 

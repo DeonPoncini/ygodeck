@@ -9,6 +9,8 @@ elseif ("${CROSS_TARGET}" STREQUAL "android")
     include_directories(${ANDROID_INCLUDE_DIRS})
 endif()
 
+find_package(ygodata-java)
+
 ################################
 # Locate source
 ################################
@@ -48,6 +50,7 @@ add_custom_command(
     COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
     ${CMAKE_CURRENT_BINARY_DIR}/gradle
     -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
+    -PjavaIncludes=${YGODATA-JAVA_JARS}
     -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
     -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
     ${GRADLE_TASK}
