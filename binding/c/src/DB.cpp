@@ -1,5 +1,5 @@
 #include <ygo/deck/DB.h>
-#include <c/ygo/deck/DB.h>
+#include <ygo/deck/c/DB.h>
 
 #include <zephyr/cstring.h>
 

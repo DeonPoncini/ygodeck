@@ -1,5 +1,5 @@
 #include <ygo/deck/Deck.h>
-#include <c/ygo/deck/Deck.h>
+#include <ygo/deck/c/Deck.h>
 
 #include <ygo/data/CardData.h>
 #include <ygo/data/cpp/DataTypes.h>

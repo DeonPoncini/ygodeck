@@ -1,5 +1,5 @@
 #include <ygo/deck/DeckSet.h>
-#include <c/ygo/deck/DeckSet.h>
+#include <ygo/deck/c/DeckSet.h>
 
 #include <ygo/deck/User.h>
 #include <ygo/deck/Format.h>

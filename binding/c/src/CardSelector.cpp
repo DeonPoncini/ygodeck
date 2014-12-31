@@ -1,5 +1,5 @@
 #include <ygo/deck/CardSelector.h>
-#include <c/ygo/deck/CardSelector.h>
+#include <ygo/deck/c/CardSelector.h>
 
 #include <ygo/data/CardData.h>
 #include <mindbw/cpp/DataTypes.h>

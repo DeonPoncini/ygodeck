@@ -1,5 +1,5 @@
 #include <ygo/deck/Format.h>
-#include <c/ygo/deck/Format.h>
+#include <ygo/deck/c/Format.h>
 
 #include <ygo/data/cpp/DataTypes.h>
 

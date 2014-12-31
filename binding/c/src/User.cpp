@@ -1,8 +1,8 @@
 #include <ygo/deck/User.h>
-#include <c/ygo/deck/User.h>
+#include <ygo/deck/c/User.h>
 
 #include <ygo/deck/DeckSet.h>
-#include <c/ygo/deck/DeckSet.h>
+#include <ygo/deck/c/DeckSet.h>
 
 #include <zephyr/cstring.h>
 
