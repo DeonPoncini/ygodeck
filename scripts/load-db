@@ -23,7 +23,7 @@ PROJECT_BUILD_DIR = os.environ['PROJECT_BUILD_DIR']
 if not PROJECT_BUILD_DIR:
     print "Environment not set, please source scripts/open-project.sh"
 
-REPO_PATH = os.path.join(PROJECT_ROOT, 'libygodeck')
+REPO_PATH = os.path.join(PROJECT_ROOT, 'ygodeck')
 SCHEMA_PATH = os.path.join(REPO_PATH, 'db', 'schema.sql')
 DB_PATH = os.path.join(PROJECT_BUILD_DIR, 'card.db')
 FORMAT_PATH = os.path.join(REPO_PATH, 'format')
