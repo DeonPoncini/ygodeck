@@ -5,22 +5,14 @@
 
 extern "C" {
 
-#define C_CAST(p) reinterpret_cast<DB_THIS>(p)
-#define CPP_CAST(p) reinterpret_cast<ygo::deck::DB*>(p)
-
-DB_THIS DB_NAME(get)(void)
+void DB_NAME(set_path)(const char* db)
 {
-    return C_CAST(&ygo::deck::DB::get());
+    ygo::deck::DB::get().path(db);
 }
 
-void DB_NAME(set_path)(DB_THIS p, const char* db)
+char* DB_NAME(get_path)(void)
 {
-    CPP_CAST(p)->path(db);
-}
-
-char* DB_NAME(get_path)(DB_THIS p)
-{
-    auto s = CPP_CAST(p)->path();
+    auto s = ygo::deck::DB::get().path();
     return zephyr::cstring::make_copy(s);
 }
 
