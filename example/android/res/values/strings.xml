@@ -3,7 +3,7 @@
 
     <string name="app_name">YgoDeck</string>
     <string name="hello_world">Hello world!</string>
-    <string name="button_increment">Increment</string>
+    <string name="button_increment">Search</string>
     <string name="action_settings">Settings</string>
 
 </resources>

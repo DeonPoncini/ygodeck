@@ -14,7 +14,7 @@ find_package(ygodata-java)
 ################################
 # Locate source
 ################################
-file(GLOB_RECURSE SRC jni/*.cpp)
+file(GLOB_RECURSE SRC jni/*.c)
 file(GLOB_RECURSE INCLUDES jni/*.h)
 
 add_library(ygodeck-jni SHARED
@@ -23,10 +23,12 @@ add_library(ygodeck-jni SHARED
 
 if ("${CROSS_TARGET}" STREQUAL "linux-64")
     target_link_libraries(ygodeck-jni
-        ${JNI_LIBRARIES})
+        ${JNI_LIBRARIES}
+        ygodeck-c)
     set(ARCHIVE_NATIVE_DIR "linux-64")
 elseif ("${CROSS_TARGET}" STREQUAL "android")
     target_link_libraries(ygodeck-jni
+        ygodeck-c
         ${ANDROID_LIBRARIES})
     set(ARCHIVE_NATIVE_DIR "armeabi")
 endif()
