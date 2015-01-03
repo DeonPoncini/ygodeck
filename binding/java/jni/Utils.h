@@ -20,7 +20,14 @@ extern "C" {
 
 #define JNI_RETURN(name) JNIEXPORT name JNICALL
 
-jstring c_string_to_java(JNIEnv* env, char* str);
+jstring c_string_to_java(JNIEnv* env, const char* str);
+jobject c_enum_to_java(JNIEnv* env, const char* clazz);
+void set_enum_field(JNIEnv* env, jclass clazz, jobject obj,
+        const char* field_name, const char* enum_name, jsize enum_value);
+void set_int_field(JNIEnv* env, jclass clazz, jobject obj,
+        const char* field_name, jint value);
+void set_string_field(JNIEnv* env, jclass clazz, jobject obj,
+        const char* field_name, const char* value);
 
 #ifdef __cplusplus
 }

@@ -13,6 +13,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import net.sectorsoftware.ygo.data.DataTypes;
 import net.sectorsoftware.ygo.deck.DB;
 import net.sectorsoftware.ygo.deck.CardSelector;
 
@@ -41,6 +42,9 @@ public class MainActivity extends ActionBarActivity {
 
         Button increment = (Button) findViewById(R.id.button);
         increment.setOnClickListener(mOnIncrement);
+
+        Button query = (Button) findViewById(R.id.query);
+        query.setOnClickListener(mOnQuery);
 
         mListView = (ListView) findViewById(R.id.listView);
         mListAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, mListItems);
@@ -93,6 +97,35 @@ public class MainActivity extends ActionBarActivity {
             mListAdapter.clear();
             mListAdapter.addAll(ret);
             mListAdapter.notifyDataSetChanged();
+        }
+    };
+
+    private View.OnClickListener mOnQuery = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            // search for the cards
+            CardSelector cs = new CardSelector();
+            DataTypes.StaticCardData scd = cs.query("Sangan");
+            cs.delete();
+
+            mListAdapter.clear();
+            mListAdapter.add(scd.name);
+            mListAdapter.add(scd.cardType.name());
+            mListAdapter.add(scd.attribute.name());
+            mListAdapter.add(scd.monsterType.name());
+            mListAdapter.add(scd.type.name());
+            mListAdapter.add(scd.monsterAbility.name());
+            mListAdapter.add(Integer.toString(scd.level));
+            mListAdapter.add(Integer.toString(scd.attack));
+            mListAdapter.add(Integer.toString(scd.defense));
+            mListAdapter.add(Integer.toString(scd.lpendulum));
+            mListAdapter.add(Integer.toString(scd.rpendulum));
+            mListAdapter.add(scd.spellType.name());
+            mListAdapter.add(scd.trapType.name());
+            mListAdapter.add(scd.text);
+            mListAdapter.notifyDataSetChanged();
+            scd.cardType.values();
         }
     };
 

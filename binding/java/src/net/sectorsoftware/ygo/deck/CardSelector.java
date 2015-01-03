@@ -16,6 +16,7 @@ public class CardSelector
     private native long init();
     private native ArrayList<String> execute(long p);
     private native void delete(long p);
+    private native StaticCardData query(long p, String name);
     private native void name(long p, String like);
     private native void cardType(long p, int ct);
     private native void attribute(long p, int a);
@@ -31,8 +32,8 @@ public class CardSelector
 
     private void checkInit()
     {
-        if (mCardSelectorHandler == 0) {
-            mCardSelectorHandler = init();
+        if (mCardSelectorHandle == 0) {
+            mCardSelectorHandle = init();
         }
     }
 
@@ -43,16 +44,21 @@ public class CardSelector
 
     public void delete()
     {
-        if (mCardSelectorHandler != 0) {
-            delete(mCardSelectorHandler);
-            mCardSelectorHandler = 0;
+        if (mCardSelectorHandle != 0) {
+            delete(mCardSelectorHandle);
+            mCardSelectorHandle = 0;
         }
+    }
+
+    public StaticCardData query(String name)
+    {
+        return query(mCardSelectorHandle, name);
     }
 
     public ArrayList<String> execute()
     {
         checkInit();
-        ArrayList<String> ret = execute(mCardSelectorHandler);
+        ArrayList<String> ret = execute(mCardSelectorHandle);
         delete();
         return ret;
     }
@@ -60,86 +66,86 @@ public class CardSelector
     public CardSelector name(String like)
     {
         checkInit();
-        name(mCardSelectorHandler, like);
+        name(mCardSelectorHandle, like);
         return this;
     }
 
     public CardSelector cardType(CardType ct)
     {
         checkInit();
-        cardType(mCardSelectorHandler, ct.ordinal());
+        cardType(mCardSelectorHandle, ct.ordinal());
         return this;
     }
 
     public CardSelector attribute(Attribute a)
     {
         checkInit();
-        attribute(mCardSelectorHandler, a.ordinal());
+        attribute(mCardSelectorHandle, a.ordinal());
         return this;
     }
 
     public CardSelector monsterType(MonsterType mt)
     {
         checkInit();
-        monsterType(mCardSelectorHandler, mt.ordinal());
+        monsterType(mCardSelectorHandle, mt.ordinal());
         return this;
     }
 
     public CardSelector type(Type t)
     {
         checkInit();
-        type(mCardSelectorHandler, t.ordinal());
+        type(mCardSelectorHandle, t.ordinal());
         return this;
     }
 
     public CardSelector level(int l, Operator op)
     {
         checkInit();
-        level(mCardSelectorHandler, l, op.ordinal());
+        level(mCardSelectorHandle, l, op.ordinal());
         return this;
     }
 
     public CardSelector attack(int a, Operator op)
     {
         checkInit();
-        attack(mCardSelectorHandler, a, op.ordinal());
+        attack(mCardSelectorHandle, a, op.ordinal());
         return this;
     }
 
     public CardSelector defense(int d, Operator op)
     {
         checkInit();
-        defense(mCardSelectorHandler, d, op.ordinal());
+        defense(mCardSelectorHandle, d, op.ordinal());
         return this;
     }
 
     public CardSelector lpendulum(int d, Operator op)
     {
         checkInit();
-        lpendulum(mCardSelectorHandler, d, op.ordinal());
+        lpendulum(mCardSelectorHandle, d, op.ordinal());
         return this;
     }
 
     public CardSelector rpendulum(int d, Operator op)
     {
         checkInit();
-        rpendulum(mCardSelectorHandler, d, op.ordinal());
+        rpendulum(mCardSelectorHandle, d, op.ordinal());
         return this;
     }
 
     public CardSelector spellType(SpellType st)
     {
         checkInit();
-        spellType(mCardSelectorHandler, st.ordinal());
+        spellType(mCardSelectorHandle, st.ordinal());
         return this;
     }
 
     public CardSelector trapType(TrapType tt)
     {
         checkInit();
-        trapType(mCardSelectorHandler, tt.ordinal());
+        trapType(mCardSelectorHandle, tt.ordinal());
         return this;
     }
 
-    private long mCardSelectorHandler = 0;
+    private long mCardSelectorHandle = 0;
 }

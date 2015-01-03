@@ -4,10 +4,6 @@
 
 #include <ygo/deck/c/DB.h>
 
-#ifdef __cplusplus
-extern "C" {
-#endif
-
 #define JNI_SIGNATURE(_name) Java_net_sectorsoftware_ygo_deck_DB_##_name
 
 JNI_RETURN(void) JNI_SIGNATURE(setPath)(JNIEnv* env, jobject obj, jstring path)
@@ -24,3 +20,4 @@ JNI_RETURN(jstring) JNI_SIGNATURE(getPath)(JNIEnv* env, jobject obj)
     DB_NAME(get_path_delete)(path);
     return ret;
 }
+

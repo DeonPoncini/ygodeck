@@ -11,6 +11,7 @@ endif()
 
 find_package(ygodata-java)
 find_package(mindbw-java)
+find_package(ygodeck-java-data)
 
 ################################
 # Locate source
@@ -53,8 +54,9 @@ add_custom_command(
     COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
     ${CMAKE_CURRENT_BINARY_DIR}/gradle
     -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
-    -PygodataIncludes=${YGODATA-JAVA_JAR_PATHS}
-    -PmindbwIncludes=${MINDBW-JAVA_JAR_PATHS}
+    -PygodataIncludes=${YGODATA-JAVA_INCLUDES}
+    -PygodeckIncludes=${YGODECK-JAVA-DATA_INCLUDES}
+    -PmindbwIncludes=${MINDBW-JAVA_INCLUDES}
     -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
     -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
     ${GRADLE_TASK}
