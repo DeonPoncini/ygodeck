@@ -22,10 +22,10 @@ set(APK_TARGETS "${APK_PATH}/${APK_TARGET_NAME}")
 add_custom_command(
     COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
     ${CMAKE_CURRENT_BINARY_DIR}/gradle
-    -PlibraryPath=${YGODECK-JAVA_JARS}
+    -PlibraryPath=${YGODECK-JAVA_JAR_PATHS}
     -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build ${GRADLE_TASK}
     OUTPUT ${APK_TARGETS}
-    DEPENDS ${ANDROID_SRC} ${CMAKE_CURRENT_LIST_FILE})
+    DEPENDS ${ANDROID_SRC} ${CMAKE_CURRENT_LIST_FILE} ygodeckJar)
 
 add_custom_target(ygodeckApk ALL DEPENDS ${APK_TARGETS})
 
