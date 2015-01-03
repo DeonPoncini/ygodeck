@@ -1,13 +1,11 @@
 #include <jni.h>
 
+#include <ygo/deck/c/CardSelector.h>
+
 #ifdef ANDROID
 #include <android/log.h>
 #else
 #include <stdio.h>
-#endif
-
-#ifdef __cplusplus
-extern "C" {
 #endif
 
 #define LOG_TAG "ygodeck"
@@ -29,6 +27,4 @@ void set_int_field(JNIEnv* env, jclass clazz, jobject obj,
 void set_string_field(JNIEnv* env, jclass clazz, jobject obj,
         const char* field_name, const char* value);
 
-#ifdef __cplusplus
-}
-#endif
+jobject staticDataToJava(JNIEnv* env, ygo_data_StaticCardData* scd);
