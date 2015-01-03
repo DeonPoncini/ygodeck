@@ -10,6 +10,7 @@ elseif ("${CROSS_TARGET}" STREQUAL "android")
 endif()
 
 find_package(ygodata-java)
+find_package(mindbw-java)
 
 ################################
 # Locate source
@@ -52,7 +53,8 @@ add_custom_command(
     COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
     ${CMAKE_CURRENT_BINARY_DIR}/gradle
     -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
-    -PjavaIncludes=${YGODATA-JAVA_JAR_PATHS}
+    -PygodataIncludes=${YGODATA-JAVA_JAR_PATHS}
+    -PmindbwIncludes=${MINDBW-JAVA_JAR_PATHS}
     -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
     -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
     ${GRADLE_TASK}
