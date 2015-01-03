@@ -2,6 +2,7 @@
 
 #include "Utils.h"
 
+#include <jniw/jniw.h>
 #include <ygo/deck/c/CardSelector.h>
 
 #define JNI_SIGNATURE(_name) Java_net_sectorsoftware_ygo_deck_CardSelector_##_name

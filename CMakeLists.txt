@@ -10,6 +10,7 @@ set(DECK_VERSION "0.0.1")
 ################################
 # Third party libraries
 ################################
+find_package(jniw)
 find_package(mindbw)
 find_package(ygodata)
 find_package(zephyr)

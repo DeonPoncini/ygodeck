@@ -9,9 +9,12 @@ elseif ("${CROSS_TARGET}" STREQUAL "android")
     include_directories(${ANDROID_INCLUDE_DIRS})
 endif()
 
+find_package(jniw)
 find_package(ygodata-java)
 find_package(mindbw-java)
 find_package(ygodeck-java-data)
+
+include_directories(${JNIW_INCLUDE_DIRS})
 
 ################################
 # Locate source
@@ -23,15 +26,19 @@ add_library(ygodeck-jni SHARED
     ${SRC}
     ${INCLUDES})
 
+set(YGODECK_JNI_3P_LIBS
+    ygodeck-c
+    ${JNIW_LIBRARIES})
+
 if ("${CROSS_TARGET}" STREQUAL "linux-64")
     target_link_libraries(ygodeck-jni
         ${JNI_LIBRARIES}
-        ygodeck-c)
+        ${YGODECK_JNI_3P_LIBS})
     set(ARCHIVE_NATIVE_DIR "linux-64")
 elseif ("${CROSS_TARGET}" STREQUAL "android")
     target_link_libraries(ygodeck-jni
-        ygodeck-c
-        ${ANDROID_LIBRARIES})
+        ${ANDROID_LIBRARIES}
+        ${YGODECK_JNI_3P_LIBS})
     set(ARCHIVE_NATIVE_DIR "armeabi")
 endif()
 
