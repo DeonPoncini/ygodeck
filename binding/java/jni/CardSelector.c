@@ -46,7 +46,7 @@ JNI_RETURN(jobject) JNI_SIGNATURE(execute) (JNIEnv* env, jobject obj, jlong p)
             "(Ljava/lang/Object;)Z");
 
     for (i = 0; i < items; i++) {
-        jstring s = c_string_to_java(env, list[i]);
+        jstring s = jniw_to_jstring(env, list[i]);
         (*env)->CallBooleanMethod(env, arrayList, addMethod, s);
         (*env)->DeleteLocalRef(env, s);
     }

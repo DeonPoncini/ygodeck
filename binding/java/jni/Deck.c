@@ -34,7 +34,7 @@ JNI_RETURN(jint) JNI_SIGNATURE(deckType) (JNIEnv* env, jobject obj, jlong p)
 JNI_RETURN(jstring) JNI_SIGNATURE(id) (JNIEnv* env, jobject obj, jlong p)
 {
     char* i = DECK_NAME(id)((DECK_THIS) p);
-    jstring s = c_string_to_java(env, i);
+    jstring s = jniw_to_jstring(env, i);
     DECK_NAME(delete_id)(i);
     return s;
 }

@@ -17,7 +17,7 @@ JNI_RETURN(void) JNI_SIGNATURE(setPath)(JNIEnv* env, jobject obj, jstring path)
 JNI_RETURN(jstring) JNI_SIGNATURE(getPath)(JNIEnv* env, jobject obj)
 {
     char* path = DB_NAME(get_path)();
-    jstring ret = c_string_to_java(env, path);
+    jstring ret = jniw_to_jstring(env, path);
     DB_NAME(get_path_delete)(path);
     return ret;
 }
