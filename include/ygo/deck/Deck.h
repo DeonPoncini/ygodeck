@@ -3,7 +3,6 @@
 
 #include <ygo/deck/cpp/DataTypes.h>
 
-#include <ygo/data/CardData.h>
 #include <ygo/data/FormatData.h>
 
 #include <vector>

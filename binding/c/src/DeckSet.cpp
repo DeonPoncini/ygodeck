@@ -4,6 +4,7 @@
 #include <ygo/deck/User.h>
 #include <ygo/deck/Format.h>
 #include <ygo/data/cpp/DataTypes.h>
+#include <ygo/data/c/DataUtils.h>
 
 #include <zephyr/cstring.h>
 
@@ -86,15 +87,15 @@ ygo_deck_CardMap DECKSET_NAME(cards)(DECKSET_THIS p)
     ret.extra = new ygo_data_StaticCardData*[ret.extra_count];
 
     for (auto i = 0; i < ret.main_count; i++) {
-        ret.main[i] = ygo::data::staticDataToC(main[i]);
+        ret.main[i] = ygo_data_static_card_data_to_c(SCD_CAST(&main[i]));
     }
 
     for (auto i = 0; i < ret.side_count; i++) {
-        ret.side[i] = ygo::data::staticDataToC(side[i]);
+        ret.side[i] = ygo_data_static_card_data_to_c(SCD_CAST(&side[i]));
     }
 
     for (auto i = 0; i < ret.side_count; i++) {
-        ret.extra[i] = ygo::data::staticDataToC(extra[i]);
+        ret.extra[i] = ygo_data_static_card_data_to_c(SCD_CAST(&extra[i]));
     }
 
     return ret;
@@ -103,17 +104,17 @@ ygo_deck_CardMap DECKSET_NAME(cards)(DECKSET_THIS p)
 void DECKSET_NAME(delete_cards)(ygo_deck_CardMap c)
 {
     for (auto i = 0; i < c.main_count; i++) {
-        ygo::data::deleteCStaticData(c.main[i]);
+        ygo_data_delete_static_card_data(c.main[i]);
     }
     delete[] c.main;
 
     for (auto i = 0; i < c.side_count; i++) {
-        ygo::data::deleteCStaticData(c.side[i]);
+        ygo_data_delete_static_card_data(c.side[i]);
     }
     delete[] c.side;
 
     for (auto i = 0; i < c.extra_count; i++) {
-        ygo::data::deleteCStaticData(c.extra[i]);
+        ygo_data_delete_static_card_data(c.extra[i]);
     }
     delete[] c.extra;
 }

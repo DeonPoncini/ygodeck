@@ -10,15 +10,7 @@ set(C_DECK_VERSION "0.0.1")
 ################################
 # Third party libraries
 ################################
-
-################################
-# Libraries
-################################
-set(YGODECK_LIBS
-    ${MINDBW_LIBRARIES}
-    ${YGODATA_LIBRARIES}
-    ${ZEPHYR_LIBRARIES}
-    )
+find_package(ygodata-c)
 
 ################################
 # Locate source
@@ -27,6 +19,7 @@ file(GLOB_RECURSE INCLUDES include/*.h)
 file(GLOB_RECURSE SRC src/*.cpp)
 
 include_directories(include)
+include_directories(${YGODATA-C_INCLUDE_DIRS})
 
 ################################
 # Build targets
@@ -36,7 +29,8 @@ add_library(ygodeck-c
     ${INCLUDES})
 
 target_link_libraries(ygodeck-c
-    ygodeck)
+    ygodeck
+    ${YGODATA-C_LIBRARIES})
 
 ################################
 # Export library

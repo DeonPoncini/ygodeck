@@ -1,7 +1,7 @@
 #include <ygo/deck/CardSelector.h>
 #include <ygo/deck/c/CardSelector.h>
 
-#include <ygo/data/CardData.h>
+#include <ygo/data/c/DataUtils.h>
 #include <mindbw/cpp/DataTypes.h>
 
 #include <zephyr/cstring.h>
@@ -24,12 +24,13 @@ void CARD_SEL(delete)(CARD_SEL_THIS p)
 ygo_data_StaticCardData*
 CARD_SEL(query)(CARD_SEL_THIS p, const char* name)
 {
-    return ygo::data::staticDataToC(CPP_CAST(p)->query(name));
+    auto ret = CPP_CAST(p)->query(name);
+    return ygo_data_static_card_data_to_c(SCD_CAST(&ret));
 }
 
 void CARD_SEL(query_delete)(ygo_data_StaticCardData* p)
 {
-    ygo::data::deleteCStaticData(p);
+    ygo_data_delete_static_card_data(p);
 }
 
 char** CARD_SEL(execute)(CARD_SEL_THIS p, int* items)

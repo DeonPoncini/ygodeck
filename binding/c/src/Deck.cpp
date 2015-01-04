@@ -1,7 +1,7 @@
 #include <ygo/deck/Deck.h>
 #include <ygo/deck/c/Deck.h>
 
-#include <ygo/data/CardData.h>
+#include <ygo/data/c/DataUtils.h>
 #include <ygo/data/cpp/DataTypes.h>
 
 #include <zephyr/cstring.h>
@@ -61,7 +61,7 @@ ygo_data_StaticCardData** DECK_NAME(cards)(DECK_THIS p, int* count)
     // allocate enough pointers for all of them
     auto ret = new ygo_data_StaticCardData*[*count];
     for (auto i = 0; i < *count; i++) {
-        ret[i] = ygo::data::staticDataToC(cardList[i]);
+        ret[i] = ygo_data_static_card_data_to_c(SCD_CAST(&cardList[i]));
     }
     return ret;
 }
@@ -69,7 +69,7 @@ ygo_data_StaticCardData** DECK_NAME(cards)(DECK_THIS p, int* count)
 void DECK_NAME(delete_cards)(ygo_data_StaticCardData** s, int count)
 {
     for (auto i = 0; i < count; i++) {
-        ygo::data::deleteCStaticData(s[i]);
+        ygo_data_delete_static_card_data(s[i]);
     }
     delete s;
 }

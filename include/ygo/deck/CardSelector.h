@@ -4,8 +4,9 @@
 #include <string>
 #include <vector>
 
+#include <ygo/data/cpp/DataTypes.h>
+
 #include <mindbw/SQLite3.h>
-#include <ygo/data/CardData.h>
 
 namespace ygo
 {
