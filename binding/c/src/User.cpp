@@ -66,4 +66,9 @@ void USER_NAME(delete_deckSets)(ygo_deck_DeckSet** d, int count)
     delete[] d;
 }
 
+void USER_NAME(remove)(USER_THIS p)
+{
+    CPP_CAST(p)->remove();
+}
+
 }

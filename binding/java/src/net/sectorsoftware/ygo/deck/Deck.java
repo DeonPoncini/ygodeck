@@ -38,31 +38,37 @@ public class Deck
 
     public DeckType deckType()
     {
+        assert mDeckHandle != 0;
         return DeckType.values()[deckType(mDeckHandle)];
     }
 
     public String id()
     {
+        assert mDeckHandle != 0;
         return id(mDeckHandle);
     }
 
     public int size()
     {
+        assert mDeckHandle != 0;
         return size(mDeckHandle);
     }
 
     public DeckError addCard(String name)
     {
+        assert mDeckHandle != 0;
         return DeckError.values()[addCard(mDeckHandle, name)];
     }
 
     public ArrayList<StaticCardData> cards()
     {
+        assert mDeckHandle != 0;
         return cards(mDeckHandle);
     }
 
     public void deleteCard(String name)
     {
+        assert mDeckHandle != 0;
         deleteCard(name);
     }
 

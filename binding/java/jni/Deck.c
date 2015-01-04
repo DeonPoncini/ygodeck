@@ -59,18 +59,12 @@ JNI_RETURN(jobject) JNI_SIGNATURE(cards) (JNIEnv* env, jobject obj, jlong p)
 
     ygo_data_StaticCardData** scdList = DECK_NAME(cards)((DECK_THIS) p, &count);
 
-    jclass arrayListClass = (*env)->FindClass(env, "java/util/ArrayList");
-    jmethodID ctor = (*env)->GetMethodID(env, arrayListClass, "<init>",
-            "(I)V");
-    jobject arrayList = (*env)->NewObject(env, arrayListClass, ctor, count);
-    jmethodID addMethod = (*env)->GetMethodID(env, arrayListClass, "add",
-            "(Ljava/lang/Object;)Z");
+    jobject arrayList = jniw_arraylist_create_r(env, count);
 
     for (i = 0; i < count; i++) {
         ygo_data_StaticCardData* scd = scdList[count];
         jobject scdObj = ygo_data_static_card_data_to_java(env, scd);
-        (*env)->CallBooleanMethod(env, arrayList, addMethod, scdObj);
-        (*env)->DeleteLocalRef(env, scdObj);
+        jniw_arraylist_add(env, arrayList, scdObj);
     }
 
     DECK_NAME(delete_cards)(scdList, count);
