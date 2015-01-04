@@ -23,6 +23,7 @@ void USER_NAME(delete_id)(char* id);
 
 ygo_deck_DeckSet** USER_NAME(deckSets)(USER_THIS p, int* count);
 void USER_NAME(delete_deckSets)(ygo_deck_DeckSet** d, int count);
+void USER_NAME(delete_deckSet_array)(ygo_deck_DeckSet** d);
 
 void USER_NAME(remove)(USER_THIS p);
 

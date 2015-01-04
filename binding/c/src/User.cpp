@@ -63,6 +63,11 @@ void USER_NAME(delete_deckSets)(ygo_deck_DeckSet** d, int count)
     for (auto i = 0; i < count; i++) {
         delete reinterpret_cast<ygo::deck::DeckSet*>(d[i]);
     }
+    USER_NAME(delete_deckSet_array)(d);
+}
+
+void USER_NAME(delete_deckSet_array)(ygo_deck_DeckSet** d)
+{
     delete[] d;
 }
 

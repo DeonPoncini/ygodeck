@@ -43,11 +43,24 @@ JNI_RETURN(jstring) JNI_SIGNATURE(id) (JNIEnv* env, jobject obj, jlong p)
 JNI_RETURN(jobject) JNI_SIGNATURE(deckSets) (JNIEnv* env, jobject obj, jlong p)
 {
     int count;
+    int i;
+
     ygo_deck_DeckSet** ds = USER_NAME(deckSets)((USER_THIS) p, &count);
 
     jobject arrayList = jniw_arraylist_create_r(env, count);
 
-    USER_NAME(delete_deckSets)(ds, count);
+    /* move the deckset ownership pointer to the java layer */
+    jclass deckSetClass = (*env)->FindClass(env,
+            "net/sectorsoftware/ygo/deck/DeckSet");
+    jmethodID ctor = (*env)->GetMethodID(env, deckSetClass, "<init>", "(J)V");
+
+    for (i = 0; i < count; i++) {
+        jobject deckSet = (*env)->NewObject(env, deckSetClass, ctor, ds[i]);
+        jniw_arraylist_add(env, arrayList, deckSet);
+        (*env)->DeleteLocalRef(env, deckSet);
+    }
+
+    USER_NAME(delete_deckSet_array)(ds);
 
     return arrayList;
 }
