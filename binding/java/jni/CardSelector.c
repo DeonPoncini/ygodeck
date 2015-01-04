@@ -1,8 +1,7 @@
 #include <jni.h>
 
-#include "Utils.h"
-
 #include <jniw/jniw.h>
+#include <ygo/data/jni/DataUtils.h>
 #include <ygo/deck/c/CardSelector.h>
 
 #define JNI_SIGNATURE(_name) Java_net_sectorsoftware_ygo_deck_CardSelector_##_name
@@ -24,7 +23,7 @@ JNI_RETURN(jobject) JNI_SIGNATURE(query) (JNIEnv* env, jobject obj,
     ygo_data_StaticCardData* scd = CARD_SEL(query)((CARD_SEL_THIS)p, str);
     (*env)->ReleaseStringUTFChars(env, name, str);
 
-    jobject scdObj = staticDataToJava(env, scd);
+    jobject scdObj = ygo_data_static_card_data_to_java(env, scd);
 
     CARD_SEL(query_delete)(scd);
 

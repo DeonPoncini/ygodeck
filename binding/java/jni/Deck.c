@@ -1,8 +1,7 @@
 #include <jni.h>
 
-#include "Utils.h"
-
 #include <jniw/jniw.h>
+#include <ygo/data/jni/DataUtils.h>
 #include <ygo/deck/c/Deck.h>
 
 #define JNI_SIGNATURE(_name) Java_net_sectorsoftware_ygo_deck_Deck_##_name
@@ -69,7 +68,7 @@ JNI_RETURN(jobject) JNI_SIGNATURE(cards) (JNIEnv* env, jobject obj, jlong p)
 
     for (i = 0; i < count; i++) {
         ygo_data_StaticCardData* scd = scdList[count];
-        jobject scdObj = staticDataToJava(env, scd);
+        jobject scdObj = ygo_data_static_card_data_to_java(env, scd);
         (*env)->CallBooleanMethod(env, arrayList, addMethod, scdObj);
         (*env)->DeleteLocalRef(env, scdObj);
     }

@@ -1,8 +1,7 @@
 #include <jni.h>
 
-#include "Utils.h"
-
 #include <jniw/jniw.h>
+#include <ygo/data/jni/DataUtils.h>
 #include <ygo/deck/c/DB.h>
 
 #define JNI_SIGNATURE(_name) Java_net_sectorsoftware_ygo_deck_DB_##_name

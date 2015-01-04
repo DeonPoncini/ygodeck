@@ -11,10 +11,12 @@ endif()
 
 find_package(jniw)
 find_package(ygodata-java)
+find_package(ygodata-jni)
 find_package(mindbw-java)
 find_package(ygodeck-java-data)
 
 include_directories(${JNIW_INCLUDE_DIRS})
+include_directories(${YGODATA-JNI_INCLUDE_DIRS})
 
 ################################
 # Locate source
@@ -28,7 +30,8 @@ add_library(ygodeck-jni SHARED
 
 set(YGODECK_JNI_3P_LIBS
     ygodeck-c
-    ${JNIW_LIBRARIES})
+    ${JNIW_LIBRARIES}
+    ${YGODATA-JNI_LIBRARIES})
 
 if ("${CROSS_TARGET}" STREQUAL "linux-64")
     target_link_libraries(ygodeck-jni
