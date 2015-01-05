@@ -47,7 +47,7 @@ public class MainActivity extends ActionBarActivity {
         query.setOnClickListener(mOnQuery);
 
         mListView = (ListView) findViewById(R.id.listView);
-        mListAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, mListItems);
+        mListAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, mListItems);
         mListView.setAdapter(mListAdapter);
 
         // copy the card database into an accessible location
