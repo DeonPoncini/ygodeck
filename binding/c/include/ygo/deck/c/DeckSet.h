@@ -10,8 +10,6 @@
 extern "C" {
 #endif
 
-typedef struct ygo_deck_DeckSet ygo_deck_DeckSet;
-
 struct ygo_deck_CardMap
 {
     ygo_data_StaticCardData** main;

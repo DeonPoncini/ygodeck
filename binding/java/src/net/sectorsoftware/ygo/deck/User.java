@@ -1,6 +1,6 @@
 package net.sectorsoftware.ygo.deck;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class User
 {
@@ -8,7 +8,7 @@ public class User
     private native void delete(long p);
     private native String name(long p);
     private native String id(long p);
-    private native ArrayList<DeckSet> deckSets(long p);
+    private native List<DeckSet> deckSets(long p);
     private native void remove(long p);
 
     public User(String name)
@@ -41,7 +41,7 @@ public class User
         return name(mUserHandle);
     }
 
-    public ArrayList<DeckSet> deckSets()
+    public List<DeckSet> deckSets()
     {
         assert mUserHandle != 0;
         return deckSets(mUserHandle);
@@ -51,6 +51,11 @@ public class User
     {
         assert mUserHandle != 0;
         remove(mUserHandle);
+    }
+
+    /* package */ long getHandle()
+    {
+        return mUserHandle;
     }
 
     private long mUserHandle = 0;

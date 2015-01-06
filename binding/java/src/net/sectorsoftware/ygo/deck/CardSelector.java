@@ -1,6 +1,6 @@
 package net.sectorsoftware.ygo.deck;
 
-import java.util.ArrayList;
+import java.util.List;
 
 import net.sectorsoftware.mindbw.DataTypes.Operator;
 import net.sectorsoftware.ygo.data.DataTypes.StaticCardData;
@@ -14,7 +14,7 @@ import net.sectorsoftware.ygo.data.DataTypes.Type;
 public class CardSelector
 {
     private native long init();
-    private native ArrayList<String> execute(long p);
+    private native List<String> execute(long p);
     private native void delete(long p);
     private native StaticCardData query(long p, String name);
     private native void name(long p, String like);
@@ -55,10 +55,10 @@ public class CardSelector
         return query(mCardSelectorHandle, name);
     }
 
-    public ArrayList<String> execute()
+    public List<String> execute()
     {
         checkInit();
-        ArrayList<String> ret = execute(mCardSelectorHandle);
+        List<String> ret = execute(mCardSelectorHandle);
         delete();
         return ret;
     }

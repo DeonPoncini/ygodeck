@@ -24,6 +24,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -32,7 +33,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private ListView mListView;
-    ArrayList<String> mListItems = new ArrayList<String>();
+    List<String> mListItems = new ArrayList<String>();
     ArrayAdapter<String> mListAdapter;
 
     @Override
@@ -93,7 +94,7 @@ public class MainActivity extends ActionBarActivity {
             // search for the cards
             CardSelector cs = new CardSelector();
             cs.name("Black");
-            ArrayList<String> ret = cs.execute();
+            List<String> ret = cs.execute();
             mListAdapter.clear();
             mListAdapter.addAll(ret);
             mListAdapter.notifyDataSetChanged();

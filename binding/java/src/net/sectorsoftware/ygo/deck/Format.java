@@ -1,6 +1,6 @@
 package net.sectorsoftware.ygo.deck;
 
-import java.util.ArrayList;
+import java.util.List;
 
 import net.sectorsoftware.ygo.data.DataTypes;
 
@@ -11,12 +11,17 @@ public class Format
     private native int format(long p);
     private native String formatDate(long p);
     private native int cardCount(long p, String card);
-    public static native ArrayList<String> formatDates();
-    public static native ArrayList<String> formats();
+    public static native List<String> formatDates();
+    public static native List<String> formats();
 
     public Format(DataTypes.Format format, String formatDate)
     {
         mFormatHandle = init(format.ordinal(), formatDate);
+    }
+
+    /* package */ Format(long handle)
+    {
+        mFormatHandle = handle;
     }
 
     public void delete()
@@ -43,6 +48,11 @@ public class Format
     {
         assert mFormatHandle != 0;
         return cardCount(mFormatHandle, card);
+    }
+
+    /* package */ long getHandle()
+    {
+        return mFormatHandle;
     }
 
     private long mFormatHandle;
