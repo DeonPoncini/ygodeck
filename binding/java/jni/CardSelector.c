@@ -38,10 +38,14 @@ JNI_RETURN(jobject) JNI_SIGNATURE(execute) (JNIEnv* env, jobject obj, jlong p)
     list = CARD_SEL(execute)((CARD_SEL_THIS)p, &items);
 
     jobject arrayList = jniw_arraylist_create_r(env, items);
+    jclass arrayListClass = (*env)->FindClass(env, "java/util/ArrayList");
+    jmethodID addMethod = (*env)->GetMethodID(env, arrayListClass, "add",
+            "(Ljava/lang/Object;)Z");
 
     for (i = 0; i < items; i++) {
         jstring s = jniw_to_jstring(env, list[i]);
-        jniw_arraylist_add(env, arrayList, s);
+        (*env)->CallBooleanMethod(env, arrayList, addMethod, s);
+        (*env)->DeleteLocalRef(env, s);
     }
 
     CARD_SEL(execute_delete)(list, items);
