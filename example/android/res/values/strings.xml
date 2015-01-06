@@ -2,9 +2,9 @@
 <resources>
 
     <string name="app_name">YgoDeck</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="button_increment">Search</string>
-    <string name="button_query">Query</string>
+    <string name="button_user_login">Login</string>
+    <string name="button_user_add">Add</string>
+    <string name="button_user_remove">Remove</string>
     <string name="action_settings">Settings</string>
 
 </resources>
