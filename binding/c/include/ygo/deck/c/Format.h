@@ -20,9 +20,9 @@ char* FORMAT_NAME(formatDate)(FORMAT_THIS p);
 void FORMAT_NAME(delete_formatDate)(char* d);
 int FORMAT_NAME(cardCount)(FORMAT_THIS p, const char* card);
 
-char** FORMAT_NAME(formatDates)(FORMAT_THIS p, int* count);
+char** FORMAT_NAME(formatDates)(int* count);
 void FORMAT_NAME(delete_formatDates)(char** d, int count);
-char** FORMAT_NAME(formats)(FORMAT_THIS p, int* count);
+char** FORMAT_NAME(formats)(int* count);
 void FORMAT_NAME(delete_formats)(char** d, int count);
 
 #ifdef __cplusplus

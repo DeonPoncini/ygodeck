@@ -41,9 +41,9 @@ int FORMAT_NAME(cardCount)(FORMAT_THIS p, const char* card)
     return CPP_CAST(p)->cardCount(card);
 }
 
-char** FORMAT_NAME(formatDates)(FORMAT_THIS p, int* count)
+char** FORMAT_NAME(formatDates)(int* count)
 {
-    auto dates = CPP_CAST(p)->formatDates();
+    auto dates = ygo::deck::Format::formatDates();
     *count = dates.size();
     char** ret = new char*[*count];
     for (auto i = 0; i < *count; i++) {
@@ -60,9 +60,9 @@ void FORMAT_NAME(delete_formatDates)(char** d, int count)
     delete[] d;
 }
 
-char** FORMAT_NAME(formats)(FORMAT_THIS p, int* count)
+char** FORMAT_NAME(formats)(int* count)
 {
-    auto formats = CPP_CAST(p)->formats();
+    auto formats = ygo::deck::Format::formats();
     *count = formats.size();
     char** ret = new char*[*count];
     for (auto i = 0; i < *count; i++) {
