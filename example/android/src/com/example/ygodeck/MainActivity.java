@@ -1,6 +1,7 @@
 package com.example.ygodeck;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -25,9 +26,10 @@ public class MainActivity extends ActionBarActivity {
         System.loadLibrary("ygodeck-jni");
     }
 
+    public static final String EXTRA_USER = "net.sectorsoftware.ygo.deck.MainActivity.User";
+
     private EditText mUserNameText;
     private User mUser;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,7 +60,7 @@ public class MainActivity extends ActionBarActivity {
                 Toast.makeText(MainActivity.this, "Please enter a username", Toast.LENGTH_SHORT).show();
             } else {
                 try {
-                    mUser = new User(text);
+                    openUser(text, false);
                 } catch (RuntimeException e) {
                     Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
                 }
@@ -75,7 +77,7 @@ public class MainActivity extends ActionBarActivity {
                 Toast.makeText(MainActivity.this, "Please enter a username", Toast.LENGTH_SHORT).show();
             } else {
                 try {
-                    mUser = new User(text, true);
+                    openUser(text, true);
                 } catch (RuntimeException e) {
                     Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
                 }
@@ -92,7 +94,7 @@ public class MainActivity extends ActionBarActivity {
                 Toast.makeText(MainActivity.this, "Please enter a username", Toast.LENGTH_SHORT).show();
             } else {
                 try {
-                    mUser = new User(text);
+                    mUser = new User(text.trim());
                     mUser.remove();
                     mUser.delete();
                 } catch (RuntimeException e) {
@@ -132,6 +134,15 @@ public class MainActivity extends ActionBarActivity {
         } catch (IOException e) {
             Toast.makeText(this, "Error reading " + filename, Toast.LENGTH_LONG).show();
         }
+    }
+
+    private void openUser(String name, boolean create)
+    {
+        mUser = new User(name.trim(), create);
+        Intent intent = new Intent(MainActivity.this, DeckSetActivity.class);
+        intent.putExtra(EXTRA_USER, mUser.name());
+        mUser.delete();
+        startActivity(intent);
     }
 
     public boolean onCreateOptionsMenu(Menu menu) {

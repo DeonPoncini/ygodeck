@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="title_activity_deck_set">DeckSetActivity</string>
+
+    <!-- activity_main -->
     <string name="app_name">YgoDeck</string>
     <string name="button_user_login">Login</string>
     <string name="button_user_add">Add</string>
     <string name="button_user_remove">Remove</string>
     <string name="action_settings">Settings</string>
+
+    <!-- activity_deck_set -->
+    <string name="button_add_deck_set">Add</string>
+    <string name="button_delete_deck_set">Delete</string>
 
 </resources>
