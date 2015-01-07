@@ -57,7 +57,11 @@ public class MainActivity extends ActionBarActivity {
             if (text.isEmpty()) {
                 Toast.makeText(MainActivity.this, "Please enter a username", Toast.LENGTH_SHORT).show();
             } else {
-                mUser = new User(text);
+                try {
+                    mUser = new User(text);
+                } catch (RuntimeException e) {
+                    Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
+                }
             }
         }
     };
@@ -70,7 +74,11 @@ public class MainActivity extends ActionBarActivity {
             if (text.isEmpty()) {
                 Toast.makeText(MainActivity.this, "Please enter a username", Toast.LENGTH_SHORT).show();
             } else {
-                mUser = new User(text, true);
+                try {
+                    mUser = new User(text, true);
+                } catch (RuntimeException e) {
+                    Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
+                }
             }
         }
     };
@@ -83,9 +91,13 @@ public class MainActivity extends ActionBarActivity {
             if (text.isEmpty()) {
                 Toast.makeText(MainActivity.this, "Please enter a username", Toast.LENGTH_SHORT).show();
             } else {
-                mUser = new User(text);
-                mUser.remove();
-                mUser.delete();
+                try {
+                    mUser = new User(text);
+                    mUser.remove();
+                    mUser.delete();
+                } catch (RuntimeException e) {
+                    Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
+                }
             }
         }
     };

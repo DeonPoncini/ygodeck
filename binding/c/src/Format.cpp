@@ -5,6 +5,8 @@
 
 #include <zephyr/cstring.h>
 
+#include <stdexcept>
+
 extern "C" {
 
 #define C_CAST(p) reinterpret_cast<FORMAT_THIS>(p)
@@ -12,8 +14,12 @@ extern "C" {
 
 FORMAT_THIS FORMAT_NAME(new)(ygo_data_Format format, const char* date)
 {
-    return C_CAST(new ygo::deck::Format(
-                static_cast<ygo::data::Format>(format), date));
+    try {
+        return C_CAST(new ygo::deck::Format(
+                    static_cast<ygo::data::Format>(format), date));
+    } catch (std::runtime_error& e) {
+        return nullptr;
+    }
 }
 
 void FORMAT_NAME(delete)(FORMAT_THIS p)

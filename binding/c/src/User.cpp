@@ -6,6 +6,8 @@
 
 #include <zephyr/cstring.h>
 
+#include <stdexcept>
+
 extern "C" {
 
 #define C_CAST(p) reinterpret_cast<USER_THIS>(p)
@@ -13,7 +15,11 @@ extern "C" {
 
 USER_THIS USER_NAME(new)(const char* name)
 {
-    return C_CAST(new ygo::deck::User(name));
+    try {
+        return C_CAST(new ygo::deck::User(name));
+    } catch (std::runtime_error& e) {
+        return nullptr;
+    }
 }
 
 USER_THIS USER_NAME(new_create)(const char* name)

@@ -1,5 +1,6 @@
 package net.sectorsoftware.ygo.deck;
 
+import java.lang.RuntimeException;
 import java.util.List;
 
 public class User
@@ -19,6 +20,9 @@ public class User
     public User(String name, boolean create)
     {
         mUserHandle = init(name, create);
+        if (mUserHandle == 0) {
+            throw new RuntimeException("User " + name + " cannot be created");
+        }
     }
 
     public void delete()

@@ -1,5 +1,6 @@
 package net.sectorsoftware.ygo.deck;
 
+import java.lang.RuntimeException;
 import java.util.List;
 
 import net.sectorsoftware.ygo.data.DataTypes;
@@ -17,6 +18,10 @@ public class Format
     public Format(DataTypes.Format format, String formatDate)
     {
         mFormatHandle = init(format.ordinal(), formatDate);
+        if (mFormatHandle == 0) {
+            throw new RuntimeException("Format " + formatDate
+                    + " couldn't be created");
+        }
     }
 
     /* package */ Format(long handle)

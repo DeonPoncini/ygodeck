@@ -1,5 +1,6 @@
 package net.sectorsoftware.ygo.deck;
 
+import java.lang.RuntimeException;
 import java.util.Map;
 import java.util.List;
 
@@ -32,6 +33,10 @@ public class DeckSet
                     format.getHandle());
         } else {
             mDeckSetHandle = init(name, user.getHandle(), format.getHandle());
+        }
+        if (mDeckSetHandle == 0) {
+            throw new RuntimeException("DeckSet " + name +
+                    " cannot be created");
         }
     }
 

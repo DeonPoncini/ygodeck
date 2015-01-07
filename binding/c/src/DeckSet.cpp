@@ -8,6 +8,8 @@
 
 #include <zephyr/cstring.h>
 
+#include <stdexcept>
+
 extern "C" {
 
 #define C_CAST(p) reinterpret_cast<DECKSET_THIS>(p)
@@ -15,17 +17,25 @@ extern "C" {
 
 DECKSET_THIS DECKSET_NAME(new)(const char* name, USER_THIS u, FORMAT_THIS f)
 {
-    return C_CAST(new ygo::deck::DeckSet(name,
-                *reinterpret_cast<ygo::deck::User*>(u),
-                *reinterpret_cast<ygo::deck::Format*>(f)));
+    try {
+        return C_CAST(new ygo::deck::DeckSet(name,
+                    *reinterpret_cast<ygo::deck::User*>(u),
+                    *reinterpret_cast<ygo::deck::Format*>(f)));
+    } catch (std::runtime_error& e) {
+        return nullptr;
+    }
 }
 
 DECKSET_THIS DECKSET_NAME(create)(const char* name, USER_THIS u, FORMAT_THIS f)
 {
-    return C_CAST(new ygo::deck::DeckSet(name,
-                *reinterpret_cast<ygo::deck::User*>(u),
-                *reinterpret_cast<ygo::deck::Format*>(f),
-                true));
+    try {
+        return C_CAST(new ygo::deck::DeckSet(name,
+                    *reinterpret_cast<ygo::deck::User*>(u),
+                    *reinterpret_cast<ygo::deck::Format*>(f),
+                    true));
+    } catch (std::runtime_error& e) {
+        return nullptr;
+    }
 }
 
 void DECKSET_NAME(delete)(DECKSET_THIS p)
