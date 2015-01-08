@@ -1,5 +1,6 @@
 #include <jni.h>
 
+#define LOG_TAG "USER"
 #include <jniw/jniw.h>
 #include <ygo/deck/c/User.h>
 
@@ -53,10 +54,14 @@ JNI_RETURN(jobject) JNI_SIGNATURE(deckSets) (JNIEnv* env, jobject obj, jlong p)
     jclass deckSetClass = (*env)->FindClass(env,
             "net/sectorsoftware/ygo/deck/DeckSet");
     jmethodID ctor = (*env)->GetMethodID(env, deckSetClass, "<init>", "(J)V");
+    jclass arrayListClass = (*env)->FindClass(env, "java/util/ArrayList");
+    jmethodID addMethod = (*env)->GetMethodID(env, arrayListClass, "add",
+            "(Ljava/lang/Object;)Z");
 
     for (i = 0; i < count; i++) {
-        jobject deckSet = (*env)->NewObject(env, deckSetClass, ctor, ds[i]);
-        jniw_arraylist_add(env, arrayList, deckSet);
+        jobject deckSet = (*env)->NewObject(env, deckSetClass, ctor,
+                (jlong) ds[i]);
+        (*env)->CallBooleanMethod(env, arrayList, addMethod, deckSet);
         (*env)->DeleteLocalRef(env, deckSet);
     }
 
