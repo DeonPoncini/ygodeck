@@ -11,7 +11,7 @@ JNI_RETURN(jlong) JNI_SIGNATURE(init) (JNIEnv* env, jobject obj, jint deckType)
     return (jlong) DECK_NAME(new) ((ygo_data_DeckType) deckType);
 }
 
-JNI_RETURN(jlong) JNI_SIGNATURE(init_id) (JNIEnv* env, jobject obj,
+JNI_RETURN(jlong) JNI_SIGNATURE(initID) (JNIEnv* env, jobject obj,
         jint deckType, jstring id)
 {
     const char* str = (*env)->GetStringUTFChars(env, id, 0);

@@ -16,7 +16,7 @@ JNI_RETURN(jlong) JNI_SIGNATURE(init) (JNIEnv* env, jobject obj, jstring name,
     return thiz;
 }
 
-JNI_RETURN(jlong) JNI_SIGNATURE(init_create) (JNIEnv* env, jobject obj,
+JNI_RETURN(jlong) JNI_SIGNATURE(initCreate) (JNIEnv* env, jobject obj,
         jstring name, jlong user, jlong format)
 {
     const char* str = (*env)->GetStringUTFChars(env, name, 0);

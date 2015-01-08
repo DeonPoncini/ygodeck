@@ -9,7 +9,7 @@ import net.sectorsoftware.ygo.deck.DataTypes.DeckError;
 public class Deck
 {
     private native long init(int deckType);
-    private native long init_id(int deckType, String id);
+    private native long initID(int deckType, String id);
     private native void delete(long p);
     private native int deckType(long p);
     private native String id(long p);
@@ -25,7 +25,7 @@ public class Deck
 
     public Deck(DeckType deckType, String id)
     {
-        mDeckHandle = init_id(deckType.ordinal(), id);
+        mDeckHandle = initID(deckType.ordinal(), id);
     }
 
     /* package */ Deck(long handle)

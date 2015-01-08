@@ -11,7 +11,7 @@ import net.sectorsoftware.ygo.deck.DataTypes.DeckError;
 public class DeckSet
 {
     private native long init(String name, long user, long format);
-    private native long init_create(String name, long user, long format);
+    private native long initCreate(String name, long user, long format);
     private native void delete(long p);
     private native String name(long p);
     private native long format(long p);
@@ -29,7 +29,7 @@ public class DeckSet
     public DeckSet(String name, User user, Format format, boolean create)
     {
         if (create) {
-            mDeckSetHandle = init_create(name, user.getHandle(),
+            mDeckSetHandle = initCreate(name, user.getHandle(),
                     format.getHandle());
         } else {
             mDeckSetHandle = init(name, user.getHandle(), format.getHandle());
