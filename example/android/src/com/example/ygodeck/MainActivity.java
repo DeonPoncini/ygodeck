@@ -49,6 +49,8 @@ public class MainActivity extends ActionBarActivity {
 
         mUserNameText = (EditText) findViewById(R.id.text_user_name);
 
+        // try making a test deckset
+
     }
 
     private View.OnClickListener mOnUserLogin = new View.OnClickListener() {

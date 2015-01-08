@@ -141,8 +141,3 @@ JNI_RETURN(jboolean) JNI_SIGNATURE(validate) (JNIEnv* env, jobject obj, jlong p)
 {
     return (jboolean) DECKSET_NAME(validate)((DECKSET_THIS) p);
 }
-
-#if 0
-    private native boolean validate(long p);
-#endif
-

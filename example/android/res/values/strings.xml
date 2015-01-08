@@ -12,6 +12,5 @@
 
     <!-- activity_deck_set -->
     <string name="button_add_deck_set">Add</string>
-    <string name="button_delete_deck_set">Delete</string>
 
 </resources>

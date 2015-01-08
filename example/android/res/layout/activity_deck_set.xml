@@ -15,14 +15,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/button_delete_deck_set"
-        android:id="@+id/button_delete_deck_set"
-        android:layout_alignBottom="@id/button_add_deck_set"
-        android:layout_centerHorizontal="true" />
-
     <Spinner
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
