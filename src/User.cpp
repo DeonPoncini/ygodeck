@@ -43,7 +43,7 @@ std::vector<DeckSet> User::deckSets() const
     std::vector<std::string> deckids;
     assert(!DB::get().path().empty());
     mindbw::SQLite3 db(DB::get().path());
-    db.select("deck_set_id","user_to_decks",
+    db.select(mindbw::Unique("deck_set_id"),"user_to_decks",
             mindbw::Equal("user_id",id()),
             [&](mindbw::DataMap data) {
                 deckids.push_back(data["deck_set_id"]);
