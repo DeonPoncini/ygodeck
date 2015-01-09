@@ -31,7 +31,7 @@ public class DeckSetActivity extends ActionBarActivity {
     private EditText mDeckSetName;
     private Spinner mFormatSpinner;
     private Spinner mFormatDateSpinner;
-    private Map<String, DeckSet> mDeckSets = new HashMap<String, DeckSet>();
+    private Map<Integer, DeckSet> mDeckSets = new HashMap<Integer, DeckSet>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,18 +41,13 @@ public class DeckSetActivity extends ActionBarActivity {
         Intent intent = getIntent();
         String username = intent.getStringExtra(MainActivity.EXTRA_USER);
         mUser = new User(username);
-        List<DeckSet> deckSets = mUser.deckSets();
         mListView = (ListView) findViewById(R.id.listView_deck_sets);
         mListAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1);
         mListView.setAdapter(mListAdapter);
         mListView.setOnItemClickListener(mOpenListener);
         mListView.setOnItemLongClickListener(mRemoveListener);
 
-        for (DeckSet d : deckSets) {
-            mListAdapter.add(d.name());
-            mDeckSets.put(d.name(), d);
-        }
-        mListAdapter.notifyDataSetChanged();
+        loadDeckSets();
 
         mFormatSpinner = (Spinner) findViewById(R.id.spinner_format);
         ArrayAdapter<String> spinnerFormatAdapter = new ArrayAdapter<String>(DeckSetActivity.this,
@@ -93,6 +88,16 @@ public class DeckSetActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    private void loadDeckSets() {
+        mListAdapter.clear();
+        List<DeckSet> deckSets = mUser.deckSets();
+        for (DeckSet d : deckSets) {
+            mDeckSets.put(mListAdapter.getCount(), d);
+            mListAdapter.add(d.name());
+        }
+        mListAdapter.notifyDataSetChanged();
+    }
+
     private View.OnClickListener mAddListener = new View.OnClickListener () {
 
         @Override
@@ -112,11 +117,9 @@ public class DeckSetActivity extends ActionBarActivity {
                 String formatDate = mFormatDateSpinner.getSelectedItem().toString();
                 Format f = new Format(format, formatDate);
                 DeckSet deckSet = new DeckSet(name, mUser, f, true);
-                // add to the list
-                mListAdapter.add(deckSet.name());
-                mListAdapter.notifyDataSetChanged();
-                mDeckSets.put(deckSet.name(), deckSet);
                 f.delete();
+                deckSet.delete();
+                loadDeckSets();
             }
         }
     };
@@ -127,12 +130,11 @@ public class DeckSetActivity extends ActionBarActivity {
         public boolean onItemLongClick(AdapterView<?> parent, View view, int position, long id) {
             String name = mListAdapter.getItem(position);
             try {
-                DeckSet d = mDeckSets.get(name);
-                d.remove();
-                d.delete();
-                mListAdapter.remove(name);
-                mListAdapter.notifyDataSetChanged();
-                mDeckSets.remove(name);
+                DeckSet deckSet = mDeckSets.get(position);
+                deckSet.remove();
+                deckSet.delete();
+                mDeckSets.remove(position);
+                loadDeckSets();
             } catch (NullPointerException e) {
                 Toast.makeText(DeckSetActivity.this, "Unable to remove " + name, Toast.LENGTH_SHORT).show();
             }
