@@ -23,16 +23,7 @@ import java.util.ArrayList;
  * Activities containing this fragment MUST implement the {@link OnFragmentInteractionListener}
  * interface.
  */
-public class SideDeckFragment extends Fragment implements AbsListView.OnItemClickListener {
-
-    // TODO: Rename parameter arguments, choose names that match
-    // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-    private static final String ARG_PARAM1 = "param1";
-    private static final String ARG_PARAM2 = "param2";
-
-    // TODO: Rename and change types of parameters
-    private String mParam1;
-    private String mParam2;
+public class SideDeckFragment extends Fragment implements AbsListView.OnItemClickListener, DeckContent {
 
     private OnFragmentInteractionListener mListener;
 
@@ -45,17 +36,7 @@ public class SideDeckFragment extends Fragment implements AbsListView.OnItemClic
      * The Adapter which will be used to populate the ListView/GridView with
      * Views.
      */
-    private ListAdapter mAdapter;
-
-    // TODO: Rename and change types of parameters
-    public static SideDeckFragment newInstance(String param1, String param2) {
-        SideDeckFragment fragment = new SideDeckFragment();
-        Bundle args = new Bundle();
-        args.putString(ARG_PARAM1, param1);
-        args.putString(ARG_PARAM2, param2);
-        fragment.setArguments(args);
-        return fragment;
-    }
+    private ArrayAdapter<String> mAdapter;
 
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
@@ -68,16 +49,8 @@ public class SideDeckFragment extends Fragment implements AbsListView.OnItemClic
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        if (getArguments() != null) {
-            mParam1 = getArguments().getString(ARG_PARAM1);
-            mParam2 = getArguments().getString(ARG_PARAM2);
-        }
-
-        // TODO: Change Adapter to display your content
-        ArrayList<String> strings = new ArrayList<String>();
-        strings.add("Side Test");
         mAdapter = new ArrayAdapter<String>(getActivity(),
-                android.R.layout.simple_list_item_1, android.R.id.text1, strings);
+                android.R.layout.simple_list_item_1, android.R.id.text1);
     }
 
     @Override
@@ -91,6 +64,7 @@ public class SideDeckFragment extends Fragment implements AbsListView.OnItemClic
 
         // Set OnItemClickListener so we can be notified on item clicks
         mListView.setOnItemClickListener(this);
+        mListener.onSideLoaded(this);
 
         return view;
     }
@@ -135,6 +109,25 @@ public class SideDeckFragment extends Fragment implements AbsListView.OnItemClic
         }
     }
 
+    @Override
+    public void addCards(ArrayList<String> cards) {
+        mAdapter.clear();
+        mAdapter.addAll(cards);
+        mAdapter.notifyDataSetChanged();
+    }
+
+    @Override
+    public void addCard(String card) {
+        mAdapter.add(card);
+        mAdapter.notifyDataSetChanged();
+    }
+
+    @Override
+    public void removeCard(String card) {
+        mAdapter.remove(card);
+        mAdapter.notifyDataSetChanged();
+    }
+
     /**
      * This interface must be implemented by activities that contain this
      * fragment to allow an interaction in this fragment to be communicated
@@ -147,6 +140,7 @@ public class SideDeckFragment extends Fragment implements AbsListView.OnItemClic
      */
     public interface OnFragmentInteractionListener {
         public void onSideSelected(String id);
+        public void onSideLoaded(DeckContent d);
     }
 
 }

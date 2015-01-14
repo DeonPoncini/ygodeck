@@ -33,6 +33,11 @@ public class DeckSetActivity extends ActionBarActivity {
     private Spinner mFormatDateSpinner;
     private Map<Integer, DeckSet> mDeckSets = new HashMap<Integer, DeckSet>();
 
+    public static final String EXTRA_DECKSET_NAME = "net.sectorsoftware.ygo.deck.DeckSetActivity.DeckSetName";
+    public static final String EXTRA_DECKSET_USER = "net.sectorsoftware.ygo.deck.DeckSetActivity.DeckSetUser";
+    public static final String EXTRA_DECKSET_FORMAT = "net.sectorsoftware.ygo.deck.DeckSetActivity.DeckSetFormat";
+    public static final String EXTRA_DECKSET_FORMAT_DATE = "net.sectorsoftware.ygo.deck.DeckSetActivity.DeckSetFormatDate";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -147,6 +152,12 @@ public class DeckSetActivity extends ActionBarActivity {
         @Override
         public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
             Intent intent = new Intent(DeckSetActivity.this, DeckActivity.class);
+            DeckSet deckSet = mDeckSets.get(position);
+            Format format = deckSet.format();
+            intent.putExtra(EXTRA_DECKSET_NAME, deckSet.name());
+            intent.putExtra(EXTRA_DECKSET_USER, mUser.name());
+            intent.putExtra(EXTRA_DECKSET_FORMAT, format.format().ordinal());
+            intent.putExtra(EXTRA_DECKSET_FORMAT_DATE, format.formatDate());
             startActivity(intent);
         }
     };
