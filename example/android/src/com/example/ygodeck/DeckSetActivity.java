@@ -146,7 +146,8 @@ public class DeckSetActivity extends ActionBarActivity {
 
         @Override
         public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-
+            Intent intent = new Intent(DeckSetActivity.this, DeckActivity.class);
+            startActivity(intent);
         }
     };
 }

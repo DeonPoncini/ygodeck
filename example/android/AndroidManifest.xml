@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ygodeck" >
 
+    <uses-sdk android:minSdkVersion="11" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -19,6 +21,10 @@
         <activity
             android:name=".DeckSetActivity"
             android:label="@string/title_activity_deck_set" >
+        </activity>
+        <activity
+            android:name=".DeckActivity"
+            android:label="@string/title_activity_deck" >
         </activity>
     </application>
 
