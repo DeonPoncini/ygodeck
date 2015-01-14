@@ -74,11 +74,11 @@ JNI_RETURN(jobject) JNI_SIGNATURE(cards) (JNIEnv* env, jobject obj, jlong p)
     jclass deckTypeClass = (*env)->FindClass(env,
             "net/sectorsoftware/ygo/data/DataTypes$DeckType");
     jfieldID deckTypeMainField = (*env)->GetStaticFieldID(env, deckTypeClass,
-            "MAIN", "L/net/sectorsoftware/ygo/data/DataTypes$DeckType;");
+            "MAIN", "Lnet/sectorsoftware/ygo/data/DataTypes$DeckType;");
     jfieldID deckTypeSideField = (*env)->GetStaticFieldID(env, deckTypeClass,
-            "SIDE", "L/net/sectorsoftware/ygo/data/DataTypes$DeckType;");
+            "SIDE", "Lnet/sectorsoftware/ygo/data/DataTypes$DeckType;");
     jfieldID deckTypeExtraField = (*env)->GetStaticFieldID(env, deckTypeClass,
-            "EXTRA", "L/net/sectorsoftware/ygo/data/DataTypes$DeckType;");
+            "EXTRA", "Lnet/sectorsoftware/ygo/data/DataTypes$DeckType;");
 
     jobject deckTypeMain = (*env)->GetStaticObjectField(env, deckTypeClass,
             deckTypeMainField);
