@@ -4,6 +4,14 @@
 
     <uses-sdk android:minSdkVersion="11" />
 
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -25,6 +33,10 @@
         <activity
             android:name=".DeckActivity"
             android:label="@string/title_activity_deck" >
+        </activity>
+        <activity
+            android:name=".CardSearcher"
+            android:label="@string/title_activity_card_searcher" >
         </activity>
     </application>
 

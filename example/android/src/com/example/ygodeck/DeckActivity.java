@@ -12,6 +12,7 @@ import android.view.View;
 import android.widget.Button;
 
 import net.sectorsoftware.ygo.data.DataTypes;
+import net.sectorsoftware.ygo.deck.CardSelector;
 import net.sectorsoftware.ygo.deck.DeckSet;
 import net.sectorsoftware.ygo.deck.Format;
 import net.sectorsoftware.ygo.deck.User;
@@ -205,7 +206,8 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
 
         @Override
         public void onClick(View v) {
-
+            Intent intent = new Intent(DeckActivity.this, CardSearcher.class);
+            startActivity(intent);
         }
     };
 
