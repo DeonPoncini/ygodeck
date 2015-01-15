@@ -20,6 +20,7 @@ import net.sectorsoftware.ygo.deck.Format;
 import net.sectorsoftware.ygo.deck.User;
 
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -70,6 +71,17 @@ public class DeckSetActivity extends ActionBarActivity {
         addDeckSetButton.setOnClickListener(mAddListener);
     }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+        // clean up memory
+        for (DeckSet d : mDeckSets.values()) {
+            d.delete();
+        }
+        mDeckSets.clear();
+        mUser.delete();
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

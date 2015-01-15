@@ -47,7 +47,11 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
         DataTypes.Format format = DataTypes.Format.values()[intent.getIntExtra(DeckSetActivity.EXTRA_DECKSET_FORMAT, 0)];
         String formatDate = intent.getStringExtra(DeckSetActivity.EXTRA_DECKSET_FORMAT_DATE);
 
-        mDeckSet = new DeckSet(deckSetName, new User(userName), new Format(format, formatDate));
+        User user = new User(userName);
+        Format f =  new Format(format, formatDate);
+        mDeckSet = new DeckSet(deckSetName, user, f);
+        user.delete();
+        f.delete();
 
         mViewPager = (ViewPager) findViewById(R.id.deck_pager);
         mActionBar = getSupportActionBar();
@@ -71,6 +75,13 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
         removeButton.setOnClickListener(mOnRemoveCard);
         Button exportButton = (Button) findViewById(R.id.deck_export_button);
         exportButton.setOnClickListener(mOnExport);
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+        mDeckSet.delete();
     }
 
     @Override
