@@ -10,9 +10,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import net.sectorsoftware.ygo.data.DataTypes;
-import net.sectorsoftware.ygo.deck.CardSelector;
+import net.sectorsoftware.ygo.deck.DataTypes.DeckError;
 import net.sectorsoftware.ygo.deck.DeckSet;
 import net.sectorsoftware.ygo.deck.Format;
 import net.sectorsoftware.ygo.deck.User;
@@ -27,6 +28,9 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
         SideDeckFragment.OnFragmentInteractionListener,
         ExtraDeckFragment.OnFragmentInteractionListener {
 
+    public static final String RESULT_CARD_NAME = "net.sectorsoftware.ygo.deck.DeckActivity.ResultCardName";
+    public static final int RESULT_CARD_CODE = 100;
+
     private ViewPager mViewPager;
     private DeckAdapter mDeckAdapter;
     private ActionBar mActionBar;
@@ -35,6 +39,10 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
 
     private DeckSet mDeckSet;
     private int mCurrentDeck = 0;
+
+    private DeckContent mMainDeck;
+    private DeckContent mSideDeck;
+    private DeckContent mExtraDeck;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -155,6 +163,7 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
         }
 
         d.addCards(mainCardString);
+        mMainDeck = d;
     }
 
     @Override
@@ -168,7 +177,7 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
         }
 
         d.addCards(sideCardString);
-
+        mSideDeck = d;
     }
 
     @Override
@@ -183,6 +192,7 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
         }
 
         d.addCards(extraCardString);
+        mExtraDeck = d;
     }
 
     private ViewPager.OnPageChangeListener mPageChangeListener = new ViewPager.OnPageChangeListener() {
@@ -207,9 +217,45 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
         @Override
         public void onClick(View v) {
             Intent intent = new Intent(DeckActivity.this, CardSearcher.class);
-            startActivity(intent);
+            startActivityForResult(intent, RESULT_CARD_CODE);
         }
     };
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == RESULT_CARD_CODE) {
+            if (resultCode == RESULT_OK) {
+                String cardName = data.getStringExtra(RESULT_CARD_NAME);
+                DataTypes.DeckType deckType;
+                switch (mCurrentDeck) {
+                    case 0: deckType = DataTypes.DeckType.MAIN; break;
+                    case 1: deckType = DataTypes.DeckType.SIDE; break;
+                    case 2: deckType = DataTypes.DeckType.EXTRA; break;
+                    default: return;
+                }
+                DeckError error = mDeckSet.addCard(deckType, cardName);
+                switch (error) {
+                    case DECK_FULL:
+                        Toast.makeText(DeckActivity.this, "Deck is full", Toast.LENGTH_SHORT).show();
+                        break;
+                    case FORBIDDEN:
+                        Toast.makeText(DeckActivity.this, "Card forbidden", Toast.LENGTH_SHORT).show();
+                        break;
+                    case LIMIT_REACHED:
+                        Toast.makeText(DeckActivity.this, "Card limit reached", Toast.LENGTH_SHORT).show();
+                        break;
+                    case OK:
+                        break;
+                }
+                // update the fragment
+                switch (mCurrentDeck) {
+                    case 0: mMainDeck.addCard(cardName); break;
+                    case 1: mSideDeck.addCard(cardName); break;
+                    case 2: mExtraDeck.addCard(cardName); break;
+                }
+            }
+        }
+    }
 
     private View.OnClickListener mOnRemoveCard = new View.OnClickListener() {
 

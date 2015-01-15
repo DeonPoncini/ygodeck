@@ -39,6 +39,7 @@ public class CardSearcher extends ActionBarActivity {
         mListAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1);
         mListView.setAdapter(mListAdapter);
         mListView.setOnItemClickListener(mInspectListener);
+        mListView.setOnItemLongClickListener(mAddCardListener);
     }
 
 
@@ -66,6 +67,20 @@ public class CardSearcher extends ActionBarActivity {
                     mListView.requestFocus();
                 }
             }
+        }
+    };
+
+
+    private AdapterView.OnItemLongClickListener mAddCardListener = new AdapterView.OnItemLongClickListener() {
+
+        @Override
+        public boolean onItemLongClick(AdapterView<?> parent, View view, int position, long id) {
+            String name = mListAdapter.getItem(position);
+            Intent returnIntent = new Intent();
+            returnIntent.putExtra(DeckActivity.RESULT_CARD_NAME,name);
+            setResult(RESULT_OK,returnIntent);
+            finish();
+            return true;
         }
     };
 
