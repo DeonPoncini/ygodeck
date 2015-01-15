@@ -14,6 +14,8 @@ import net.sectorsoftware.ygo.deck.CardSelector;
 
 public class CardViewer extends ActionBarActivity {
 
+    public static final String EXTRA_CARD_NAME = "net.sectorsoftware.ygo.deck.CardSearcher.CardName";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,7 +27,7 @@ public class CardViewer extends ActionBarActivity {
 
         // get the card results
         Intent intent = getIntent();
-        String cardName = intent.getStringExtra(CardSearcher.EXTRA_CARD_NAME);
+        String cardName = intent.getStringExtra(EXTRA_CARD_NAME);
         CardSelector cs = new CardSelector();
         DataTypes.StaticCardData s = cs.query(cardName);
         cs.delete();

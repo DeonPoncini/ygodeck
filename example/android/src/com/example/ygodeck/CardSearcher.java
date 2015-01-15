@@ -24,8 +24,6 @@ public class CardSearcher extends ActionBarActivity {
     private ListView mListView;
     private ArrayAdapter<String> mListAdapter;
 
-    public static final String EXTRA_CARD_NAME = "net.sectorsoftware.ygo.deck.CardSearcher.CardName";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -70,7 +68,6 @@ public class CardSearcher extends ActionBarActivity {
         }
     };
 
-
     private AdapterView.OnItemLongClickListener mAddCardListener = new AdapterView.OnItemLongClickListener() {
 
         @Override
@@ -90,11 +87,10 @@ public class CardSearcher extends ActionBarActivity {
         public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
             Intent intent = new Intent(CardSearcher.this, CardViewer.class);
             String cardName = mListAdapter.getItem(position);
-            intent.putExtra(EXTRA_CARD_NAME, cardName);
+            intent.putExtra(CardViewer.EXTRA_CARD_NAME, cardName);
             startActivity(intent);
         }
     };
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

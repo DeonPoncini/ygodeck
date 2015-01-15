@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.Toast;
 
@@ -138,18 +139,28 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
 
     @Override
     public void onSideSelected(String id) {
+        // launch the card viewer
+        Intent intent = new Intent(DeckActivity.this, CardViewer.class);
+        intent.putExtra(CardViewer.EXTRA_CARD_NAME, id);
+        startActivity(intent);
 
     }
 
     @Override
     public void onExtraSelected(String id) {
-
+        // launch the card viewer
+        Intent intent = new Intent(DeckActivity.this, CardViewer.class);
+        intent.putExtra(CardViewer.EXTRA_CARD_NAME, id);
+        startActivity(intent);
     }
 
 
     @Override
     public void onMainSelected(String id) {
-
+        // launch the card viewer
+        Intent intent = new Intent(DeckActivity.this, CardViewer.class);
+        intent.putExtra(CardViewer.EXTRA_CARD_NAME, id);
+        startActivity(intent);
     }
 
     @Override
@@ -237,13 +248,13 @@ public class DeckActivity extends ActionBarActivity implements ActionBar.TabList
                 switch (error) {
                     case DECK_FULL:
                         Toast.makeText(DeckActivity.this, "Deck is full", Toast.LENGTH_SHORT).show();
-                        break;
+                        return;
                     case FORBIDDEN:
                         Toast.makeText(DeckActivity.this, "Card forbidden", Toast.LENGTH_SHORT).show();
-                        break;
+                        return;
                     case LIMIT_REACHED:
                         Toast.makeText(DeckActivity.this, "Card limit reached", Toast.LENGTH_SHORT).show();
-                        break;
+                        return;
                     case OK:
                         break;
                 }
