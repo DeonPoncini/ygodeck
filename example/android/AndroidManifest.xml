@@ -38,6 +38,10 @@
             android:name=".CardSearcher"
             android:label="@string/title_activity_card_searcher" >
         </activity>
+        <activity
+            android:name=".CardViewer"
+            android:label="@string/title_activity_card_viewer" >
+        </activity>
     </application>
 
 </manifest>

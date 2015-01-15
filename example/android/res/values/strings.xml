@@ -23,5 +23,6 @@
 
     <!-- activity_card_searcher -->
     <string name="button_search">Search</string>
+    <string name="title_activity_card_viewer">CardViewer</string>
 
 </resources>

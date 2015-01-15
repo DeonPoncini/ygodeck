@@ -1,10 +1,12 @@
 package com.example.ygodeck;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -22,6 +24,8 @@ public class CardSearcher extends ActionBarActivity {
     private ListView mListView;
     private ArrayAdapter<String> mListAdapter;
 
+    public static final String EXTRA_CARD_NAME = "net.sectorsoftware.ygo.deck.CardSearcher.CardName";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,6 +38,7 @@ public class CardSearcher extends ActionBarActivity {
         mListView = (ListView) findViewById(R.id.card_result_list);
         mListAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1);
         mListView.setAdapter(mListAdapter);
+        mListView.setOnItemClickListener(mInspectListener);
     }
 
 
@@ -61,6 +66,17 @@ public class CardSearcher extends ActionBarActivity {
                     mListView.requestFocus();
                 }
             }
+        }
+    };
+
+    private AdapterView.OnItemClickListener mInspectListener = new AdapterView.OnItemClickListener() {
+
+        @Override
+        public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+            Intent intent = new Intent(CardSearcher.this, CardViewer.class);
+            String cardName = mListAdapter.getItem(position);
+            intent.putExtra(EXTRA_CARD_NAME, cardName);
+            startActivity(intent);
         }
     };
 
