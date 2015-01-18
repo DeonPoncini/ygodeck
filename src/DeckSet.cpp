@@ -2,6 +2,7 @@
 
 #include <ygo/deck/DB.h>
 
+#include <kizhi/Log.h>
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
@@ -21,6 +22,7 @@ std::string cardID(const std::string& name)
             [&](mindbw::DataMap data) {
                 id = data["card_id"];
             });
+    KIZHI_TRACE_F << "Card " << name << " has ID " << id;
     return id;
 }
 
@@ -35,6 +37,7 @@ int cardCheck(const std::string& cardid, const std::string& deckid)
             [&](mindbw::DataMap data) {
                 count += data.size();
             });
+    KIZHI_TRACE_F << "Card ID " << cardid << " is present " << count << "times";
     return count;
 }
 
@@ -47,6 +50,7 @@ data::MonsterType monsterType(const std::string& name)
             [&](mindbw::DataMap data) {
                 mtype = data["monsterType"];
             });
+    KIZHI_TRACE_F << "Looked up monster type " << mtype;
     return data::toMonsterType(mtype);
 }
 
@@ -56,12 +60,18 @@ DeckSet::DeckSet(const std::string& name, const User& user,
     mUser(user),
     mFormat(format)
 {
+    KIZHI_TRACE_F << "DeckSet " << mName << " User: " << mUser.name()
+        << " Format: " << mFormat.formatDate() << ","
+        << data::fromFormat(mFormat.format()) << " create: " << create;
     if (exists()) {
+        KIZHI_TRACE_F << "DeckSet " << mName << " already exists";
         open();
     } else if (create) {
+        KIZHI_TRACE_F << "DeckSet " << mName << " is now being created";
         DeckSet::create();
     } else {
-        throw std::runtime_error("Deck Set " + name + " does not exist");
+        KIZHI_FATAL_F << "DeckSet " << mName << " does not exist";
+        throw std::runtime_error("Deck Set " + mName + " does not exist");
     }
 }
 
@@ -77,6 +87,7 @@ bool DeckSet::exists()
                     && data["format_date"] == mFormat.formatDate()) {
                     exists = true;
                     mID = data["deck_set_id"];
+                    KIZHI_TRACE_F << "Found " << mName << " with ID " << mID;
                 }
             });
     // now check that deck belongs to us
@@ -90,9 +101,12 @@ bool DeckSet::exists()
                     }
                 });
         if (owned) {
+            KIZHI_TRACE_F << mName << " belongs to  " << mUser.name()
+                << " which is us";
             return true;
         }
     }
+    KIZHI_TRACE_F << mName << " is not our deckSet";
     return false;
 }
 
@@ -121,7 +135,7 @@ void DeckSet::create()
     // map the deck to the user
     db.insert("user_to_decks",
             mindbw::ValueList({mUser.id(),mID}));
-
+    KIZHI_TRACE_F << "Created deckSet " << mName;
 }
 
 void DeckSet::open()
@@ -138,19 +152,26 @@ void DeckSet::open()
                 mDeckMap.emplace(DeckMap::value_type{data::DeckType::EXTRA,
                         Deck{data::DeckType::EXTRA, data["extra_deck_id"]}});
             });
+    KIZHI_TRACE_F << "Opened deckSet " << mName;
 }
 
 DeckError DeckSet::addCard(data::DeckType deckType,
         const std::string& name)
 {
+    KIZHI_TRACE_F << "Adding card " << name
+        << " to deck " << data::fromDeckType(deckType) << " in deckSet "
+        << mName;
     // check if we can add to any card list
     auto count = mFormat.cardCount(name);
+    KIZHI_TRACE_F << name << " is allowed " << count << " times in a deck";
     auto cardid = cardID(name);
     auto exist = 0;
     for (auto&& kv : mDeckMap) {
         exist += cardCheck(cardid,kv.second.id());
     }
+    KIZHI_TRACE_F << name << " exists " << count << " times in our decks";
     if (count <= exist) {
+        KIZHI_TRACE_F << name << " has reached a limit in our deck";
         return DeckError::LIMIT_REACHED;
     }
     // check if a card is valid for this deck type
@@ -161,14 +182,17 @@ DeckError DeckSet::addCard(data::DeckType deckType,
             mtype == data::MonsterType::PENDULUM) {
         if (deckType != data::DeckType::EXTRA) {
             // not allowed
+            KIZHI_TRACE_F << name << " is forbidden from this deck type";
             return DeckError::FORBIDDEN;
         }
     } else {
         if (deckType == data::DeckType::EXTRA) {
             // only allows these sort of cards
+            KIZHI_TRACE_F << name << " is forbidden from this deck type";
             return DeckError::FORBIDDEN;
         }
     }
+    KIZHI_TRACE_F << "Successfully added " << name;
     return findDeck(deckType).addCard(name);
 }
 
@@ -178,11 +202,14 @@ data::CardMap DeckSet::cards() const
     for (auto&& kv : mDeckMap) {
         ret.emplace(data::CardMap::value_type{kv.first,kv.second.cards()});
     }
+    KIZHI_TRACE_F << "Returning card map";
     return ret;
 }
 
 void DeckSet::deleteCard(data::DeckType deckType, const std::string& name)
 {
+    KIZHI_TRACE_F << "Deleting card " << name << " from deck " <<
+        data::fromDeckType(deckType) << " in deckSet " << mName;
     findDeck(deckType).deleteCard(name);
 }
 
@@ -208,6 +235,7 @@ void DeckSet::remove()
     db.del("deck",mindbw::Equal("deck_id",sid));
     db.del("deck",mindbw::Equal("deck_id",eid));
     db.del("deck_set",mindbw::Equal("deck_set_id",mID));
+    KIZHI_TRACE_F << "Removed deckSet " << mName;
 }
 
 bool DeckSet::validate() const
@@ -217,6 +245,7 @@ bool DeckSet::validate() const
                 data::DeckMin(data::DeckType::MAIN) ||
          (findDeck(data::DeckType::MAIN).size() >
           data::DeckMax(data::DeckType::MAIN)))) {
+        KIZHI_TRACE_F << mName << " is invalid due to main deck size";
         return false;
     }
 
@@ -224,6 +253,7 @@ bool DeckSet::validate() const
                 data::DeckMin(data::DeckType::EXTRA) ||
          (findDeck(data::DeckType::EXTRA).size() >
           data::DeckMax(data::DeckType::EXTRA)))) {
+        KIZHI_TRACE_F << mName << " is invalid due to extra deck size";
         return false;
     }
 
@@ -231,9 +261,11 @@ bool DeckSet::validate() const
                 data::DeckMin(data::DeckType::SIDE) ||
          (findDeck(data::DeckType::SIDE).size() >
           data::DeckMax(data::DeckType::SIDE)))) {
+        KIZHI_TRACE_F << mName << " is invalid due to side deck size";
         return false;
     }
 
+    KIZHI_TRACE_F << mName << " is a valid deck set";
     return true;
 }
 

@@ -3,6 +3,7 @@
 #include <ygo/deck/DB.h>
 #include <ygo/deck/DeckSet.h>
 
+#include <kizhi/Log.h>
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
@@ -17,6 +18,7 @@ namespace deck
 User::User(std::string name, bool create) :
     mName(std::move(name))
 {
+    KIZHI_TRACE_F << "User " << mName << " create " << create;
     // check if the user already exists
     auto exists = false;
     std::string userid;
@@ -30,9 +32,12 @@ User::User(std::string name, bool create) :
 
     if (exists) {
         mID = userid;
+        KIZHI_TRACE_F << "User " << mName << " exists " << mID;
     } else if (create) {
         mID = db.insert("users",mindbw::ValueList({mName}));
+        KIZHI_TRACE_F << "User " << mName << " created " << mID;
     } else {
+        KIZHI_FATAL_F << "User " << mName << " does not exist ";
         throw std::runtime_error("User " + mName + " does not exist");
     }
 }
@@ -63,6 +68,7 @@ std::vector<DeckSet> User::deckSets() const
                     ret.emplace_back(DeckSet{data["name"],*this,f});
                 });
     }
+    KIZHI_FATAL_F << "User " << mName << " has " << ret.size() << " deckSets";
     return ret;
 }
 
@@ -77,6 +83,7 @@ void User::remove()
     // delete the user
     mindbw::SQLite3 db(DB::get().path());
     db.del("users",mindbw::Equal("user_id",mID));
+    KIZHI_FATAL_F << "User " << mName << " has been removed";
 }
 
 }

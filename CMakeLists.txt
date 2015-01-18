@@ -10,10 +10,12 @@ set(DECK_VERSION "0.0.1")
 ################################
 # Third party libraries
 ################################
+find_package(kizhi)
 find_package(mindbw)
 find_package(ygodata)
 find_package(zephyr)
 
+include_directories(${KIZHI_INCLUDE_DIRS})
 include_directories(${MINDBW_INCLUDE_DIRS})
 include_directories(${YGODATA_INCLUDE_DIRS})
 include_directories(${ZEPHYR_INCLUDE_DIRS})
@@ -22,6 +24,7 @@ include_directories(${ZEPHYR_INCLUDE_DIRS})
 # Libraries
 ################################
 set(YGODECK_LIBS
+    ${KIZHI_LIBRARIES}
     ${MINDBW_LIBRARIES}
     ${YGODATA_LIBRARIES}
     ${ZEPHYR_LIBRARIES}

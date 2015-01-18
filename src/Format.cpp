@@ -2,6 +2,7 @@
 
 #include <ygo/deck/DB.h>
 
+#include <kizhi/Log.h>
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
@@ -16,6 +17,8 @@ Format::Format(data::Format format, std::string formatDate) :
     mFormat(format),
     mFormatDate(std::move(formatDate))
 {
+    KIZHI_TRACE_F << "Creating format " << data::fromFormat(format) << " "
+        << formatDate;
     auto formatExists = false;
     mindbw::SQLite3 db(DB::get().path());
     db.select("format_id", "formats",
@@ -25,6 +28,7 @@ Format::Format(data::Format format, std::string formatDate) :
             });
     // check the format is legitimate
     if (!formatExists) {
+        KIZHI_FATAL_F << "Invalid format: " << formatDate;
         throw std::runtime_error(std::string("Invalid format ") + mFormatDate);
     }
 }
@@ -48,8 +52,11 @@ int Format::cardCount(const std::string& name) const
                         mFormat);
             });
     if (!callback) {
+        KIZHI_TRACE_F << name << " has no limitations in " << mFormatDate
+            << " " << data::fromFormat(mFormat);
         count = CardLimitation(data::Limitation::UNLIMITED, mFormat);
     }
+    KIZHI_TRACE_F << name << " can appear " << count << " times in a deck";
     return count;
 }
 
@@ -59,6 +66,7 @@ std::vector<std::string> Format::formats()
         fromFormat(data::Format::TRADITIONAL),
         fromFormat(data::Format::ADVANCED)
     };
+    KIZHI_TRACE_F << "There are " << ft.size() << " formats";
     return ft;
 }
 
@@ -75,6 +83,7 @@ std::vector<std::string> Format::formatDates()
                 }
                 ft.push_back(format);
             });
+    KIZHI_TRACE_F << "There are " << ft.size() << " format dates";
     return ft;
 }
 

@@ -1,12 +1,10 @@
 #include <ygo/deck/CardSelector.h>
 
-#include <cstdlib>
-
-#include <ygo/deck/DB.h>
+#include <kizhi/Log.h>
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
+#include <ygo/deck/DB.h>
 #include <zephyr/to_string.h>
-
 
 namespace ygo
 {
@@ -53,6 +51,7 @@ CardSelector::CardList CardSelector::execute()
                 }
             });
     mQuery.clear();
+    KIZHI_TRACE_T("CardSelector") << "Returning " << list.size() << " results";
     return list;
 }
 

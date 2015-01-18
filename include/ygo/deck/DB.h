@@ -13,7 +13,7 @@ class DB
 public:
     static DB& get();
 
-    inline void path(std::string db) { mPath = std::move(db); }
+    void path(std::string db);
     inline std::string path() const { return mPath; }
 
 private:

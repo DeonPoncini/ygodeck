@@ -1,6 +1,7 @@
 #include <ygo/deck/Deck.h>
 #include <ygo/deck/DB.h>
 
+#include <kizhi/Log.h>
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>
 
@@ -15,19 +16,25 @@ Deck::Deck(data::DeckType deckType) :
     mDeckType(deckType)
 {
     mindbw::SQLite3 db(DB::get().path());
+    auto dt = fromDeckType(mDeckType);
     mID = db.insert("deck",
-            mindbw::ValueList({fromDeckType(mDeckType)}));
+            mindbw::ValueList({dt}));
+    KIZHI_TRACE_F << "New " << dt << " deck";
 }
 
 Deck::Deck(data::DeckType deckType, std::string id) :
     mDeckType(deckType),
     mID(id)
 {
+    KIZHI_TRACE_F << "Opening " << fromDeckType(mDeckType) << " deck " << mID;
 }
 
 DeckError Deck::addCard(const std::string& name)
 {
+    KIZHI_TRACE_F << "Adding card " << name << " to "
+        << fromDeckType(mDeckType) << " deck";
     if (cards().size() >= DeckMax(mDeckType)) {
+        KIZHI_TRACE_F << "Deck is full";
         return DeckError::DECK_FULL;
     }
 
@@ -39,6 +46,7 @@ DeckError Deck::addCard(const std::string& name)
             [&](mindbw::DataMap data) {
                 id = data["card_id"];
             });
+    KIZHI_TRACE_F << "Card " << name << " id " << id;
 
     // insert into the deck
     db.insert("deck_to_cards",
@@ -84,11 +92,13 @@ std::vector<data::StaticCardData> Deck::cards() const
                     ret.push_back(s);
                 });
     }
+    KIZHI_TRACE_F << "Returning deck list of size " << ret.size();
     return ret;
 }
 
 void Deck::deleteCard(const std::string& name)
 {
+    KIZHI_TRACE_F << "Deleting card " << name;
     // lookup this card id
     std::string cardid;
     mindbw::SQLite3 db(DB::get().path());
@@ -108,6 +118,9 @@ void Deck::deleteCard(const std::string& name)
     // delete only one of these relations
     if (!ids.empty()) {
         db.del("deck_to_cards",mindbw::Equal("relation_id",ids[0]));
+    } else {
+        KIZHI_TRACE_F << "Card " << name << " id " << cardid << " was not in "
+            << " deck " << mID;
     }
 }
 
