@@ -55,22 +55,6 @@ add_custom_command(OUTPUT
     ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck)
 
 ################################
-# Export library
-################################
-
-export_project(
-    NAME ygodeck
-    INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_BINARY_DIR}/include
-    LIBS ygodeck
-    VERSION ${DECK_VERSION}
-)
-
-export_java_project(
-    NAME ygodeck-java-data
-    INCLUDES ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java
-)
-
-################################
 # Generate database file
 ################################
 
@@ -80,6 +64,24 @@ add_custom_command(TARGET ygodeck POST_BUILD
     COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/load-db
     ARGS ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
 )
+
+################################
+# Export library
+################################
+
+export_project(
+    NAME ygodeck
+    INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_BINARY_DIR}/include
+    LIBS ygodeck
+    RES ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+    VERSION ${DECK_VERSION}
+)
+
+export_java_project(
+    NAME ygodeck-java-data
+    INCLUDES ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java
+)
+
 
 add_subdirectory(binding)
 add_subdirectory(example)
