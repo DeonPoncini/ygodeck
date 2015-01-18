@@ -17,15 +17,13 @@ if not PROJECT_ROOT:
     print "Environment not set, please source scripts/open-project.sh"
     sys.exit(-1)
 
-PROJECT_BUILD_DIR = os.environ['PROJECT_BUILD_DIR']
+if len(sys.argv) != 2:
+    print "Usage is " + sys.argv[0] + " <output>"
 
-# check the environment is set
-if not PROJECT_BUILD_DIR:
-    print "Environment not set, please source scripts/open-project.sh"
+DB_PATH = sys.argv[1]
 
 REPO_PATH = os.path.join(PROJECT_ROOT, 'ygodeck')
 SCHEMA_PATH = os.path.join(REPO_PATH, 'db', 'schema.sql')
-DB_PATH = os.path.join(PROJECT_BUILD_DIR, 'card.db')
 FORMAT_PATH = os.path.join(REPO_PATH, 'format')
 CARD_PATH = os.path.join(REPO_PATH, 'card')
 EXECUTE_PATH = os.path.join(PROJECT_ROOT, 'mindbw', 'scripts', 'sqlite3-execute')
