@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 2.8)
 project(ygodeck-java)
 
+set(DECK_JAVA_VERSION "0.0.1")
+
 if ("${CROSS_TARGET}" STREQUAL "linux-64")
     find_package(JNI)
     include_directories(${JNI_INCLUDE_DIRS})
@@ -64,9 +66,9 @@ add_custom_command(
     COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
     ${CMAKE_CURRENT_BINARY_DIR}/gradle
     -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
-    -PygodataIncludes=${YGODATA-JAVA_INCLUDES}
-    -PygodeckIncludes=${YGODECK-JAVA-DATA_INCLUDES}
-    -PmindbwIncludes=${MINDBW-JAVA_INCLUDES}
+    -PygodataIncludes=${YGODATA-JAVA_INCLUDE_DIRS}
+    -PygodeckIncludes=${YGODECK-JAVA-DATA_INCLUDE_DIRS}
+    -PmindbwIncludes=${MINDBW-JAVA_INCLUDE_DIRS}
     -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
     -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
     ${GRADLE_TASK}
@@ -79,8 +81,9 @@ add_dependencies(ygodeckJar ygodeck-jni)
 ################################
 # Export jar
 ################################
-export_java_project(
+export_project(
     NAME ygodeck-java
     JARS ${JAR_TARGETS}
     JAR_PATHS ${JAR_PATH}
+    VERSION ${DECK_JAVA_VERSION}
 )
