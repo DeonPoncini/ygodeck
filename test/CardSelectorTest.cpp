@@ -1,4 +1,3 @@
-#define BOOST_TEST_MODULE CardSelector
 #include <boost/test/unit_test.hpp>
 #include <ygo/deck/CardSelector.h>
 #include <ygo/deck/DB.h>
