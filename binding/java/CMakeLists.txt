@@ -12,9 +12,9 @@ elseif ("${CROSS_TARGET}" STREQUAL "android")
 endif()
 
 find_package(jniw)
-find_package(ygodata-java)
+find_package(ygodata)
 find_package(ygodata-jni)
-find_package(mindbw-java)
+find_package(mindbw)
 find_package(ygodeck-java-data)
 
 include_directories(${JNIW_INCLUDE_DIRS})
@@ -66,9 +66,9 @@ add_custom_command(
     COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
     ${CMAKE_CURRENT_BINARY_DIR}/gradle
     -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
-    -PygodataIncludes=${YGODATA-JAVA_INCLUDE_DIRS}
-    -PygodeckIncludes=${YGODECK-JAVA-DATA_INCLUDE_DIRS}
-    -PmindbwIncludes=${MINDBW-JAVA_INCLUDE_DIRS}
+    -PygodataIncludes=${YGODATA_JAVA_INCLUDE_DIRS}
+    -PygodeckIncludes=${YGODECK-JAVA-DATA_JAVA_INCLUDE_DIRS}
+    -PmindbwIncludes=${MINDBW_JAVA_INCLUDE_DIRS}
     -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
     -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
     ${GRADLE_TASK}

@@ -79,7 +79,7 @@ export_project(
 
 export_project(
     NAME ygodeck-java-data
-    INCLUDES ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java
+    JAVA_INCLUDES ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java
     VERSION ${DECK_VERSION}
 )
 
