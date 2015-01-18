@@ -83,6 +83,10 @@ export_project(
     VERSION ${DECK_VERSION}
 )
 
+################################
+# Unit tests
+################################
+add_unit_tests(NAME ygodeck)
 
 add_subdirectory(binding)
 add_subdirectory(example)
