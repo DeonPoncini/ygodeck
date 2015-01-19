@@ -75,7 +75,15 @@ add_custom_target(ygodeck-card
     COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/scrape-cards
     ${CMAKE_CURRENT_LIST_DIR}/card
     ${CMAKE_CURRENT_BINARY_DIR}/error
-    ${YGODATA_PYTHON_INCLUDE_DIRS})
+    ${YGODATA_PYTHON_INCLUDE_DIRS}
+    false)
+
+add_custom_target(ygodeck-card-force
+    COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/scrape-cards
+    ${CMAKE_CURRENT_LIST_DIR}/card
+    ${CMAKE_CURRENT_BINARY_DIR}/error
+    ${YGODATA_PYTHON_INCLUDE_DIRS}
+    true)
 
 ################################
 # Export library

@@ -17,6 +17,10 @@ from bs4 import BeautifulSoup
 CARD_PATH = sys.argv[1]
 ERROR_PATH = sys.argv[2]
 INCLUDE_PATH = sys.argv[3]
+FORCE_VALUE = sys.argv[4]
+FORCE = False
+if FORCE_VALUE == "true":
+    FORCE = True
 
 sys.path.append(INCLUDE_PATH)
 
@@ -42,13 +46,50 @@ def card_path(cardname):
     return os.path.join(CARD_PATH, cardname.replace('/','_'))
 
 def check_cardpath(cardname):
+    if FORCE:
+        return False
     cardpath = card_path(cardname)
     # check if the card already exists, skip update
     if os.path.isfile(cardpath):
         return True
     return False
 
+def normalize(field):
+    if field == 'Quick-Play':
+        return 'QUICK'
+    return field.replace(' ','').replace('-','').upper()
+
+def validate_output(data):
+    try:
+        DataTypes.CardType.reverse_mapping[normalize(data['cardType'])]
+        DataTypes.Attribute.reverse_mapping[normalize(data['attribute'])]
+        DataTypes.MonsterType.reverse_mapping[normalize(data['monsterType'])]
+        DataTypes.MonsterType.reverse_mapping[normalize(data['monsterAbility'])]
+        DataTypes.Type.reverse_mapping[normalize(data['type'])]
+        DataTypes.SpellType.reverse_mapping[normalize(data['spellType'])]
+        DataTypes.TrapType.reverse_mapping[normalize(data['trapType'])]
+        if not str(data['level']).isdigit():
+            return False
+        if not str(data['attack']).isdigit():
+            if str(data['attack']) != '?':
+                return False
+        if not str(data['defense']).isdigit():
+            if str(data['defense']) != '?':
+                return False
+        if not str(data['lpendulum']).isdigit():
+            return False
+        if not str(data['rpendulum']).isdigit():
+            return False
+        return True
+    except KeyError:
+        return False
+
 def print_output(data, cardname):
+    if not validate_output(data):
+        print "Invalid: " + cardname
+        log_error(data['name'])
+        return
+
     cardpath = card_path(cardname)
     cardout = codecs.open(cardpath,'w','utf-8')
     cardout.write(data['name'] + '\n' + \
