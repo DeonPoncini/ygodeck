@@ -69,6 +69,15 @@ add_custom_command(TARGET ygodeck POST_BUILD
 )
 
 ################################
+# Read card data
+################################
+add_custom_target(ygodeck-card
+    COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/scrape-cards
+    ${CMAKE_CURRENT_LIST_DIR}/card
+    ${CMAKE_CURRENT_BINARY_DIR}/error
+    ${YGODATA_PYTHON_INCLUDE_DIRS})
+
+################################
 # Export library
 ################################
 
