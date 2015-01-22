@@ -37,7 +37,8 @@ int cardCheck(const std::string& cardid, const std::string& deckid)
             [&](mindbw::DataMap data) {
                 count += data.size();
             });
-    KIZHI_TRACE_F << "Card ID " << cardid << " is present " << count << "times";
+    KIZHI_TRACE_F << "Card ID " << cardid << " is present "
+        << count << " times";
     return count;
 }
 
@@ -169,7 +170,7 @@ DeckError DeckSet::addCard(data::DeckType deckType,
     for (auto&& kv : mDeckMap) {
         exist += cardCheck(cardid,kv.second.id());
     }
-    KIZHI_TRACE_F << name << " exists " << count << " times in our decks";
+    KIZHI_TRACE_F << name << " exists " << exist << " times in our decks";
     if (count <= exist) {
         KIZHI_TRACE_F << name << " has reached a limit in our deck";
         return DeckError::LIMIT_REACHED;
@@ -230,6 +231,8 @@ void DeckSet::remove()
     findDeck(data::DeckType::MAIN).remove();
     findDeck(data::DeckType::SIDE).remove();
     findDeck(data::DeckType::EXTRA).remove();
+    // remove all links between user and decks
+    db.del("user_to_decks", mindbw::Equal("deck_set_id", mID));
     db.del("deck_set",mindbw::Equal("deck_set_id",mID));
     KIZHI_TRACE_F << "Removed deckSet " << mName;
 }
