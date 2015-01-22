@@ -124,5 +124,15 @@ void Deck::deleteCard(const std::string& name)
     }
 }
 
+void Deck::remove()
+{
+    mindbw::SQLite3 db(DB::get().path());
+    db.del("deck",mindbw::Equal("deck_id",mID));
+
+    // delete all the deck to card mappings for this deck
+    db.del("deck_to_cards", mindbw::Equal("deck_id", mID));
+    KIZHI_TRACE_F << "Removed deck " << mID;
+}
+
 }
 }

@@ -226,14 +226,10 @@ const Deck& DeckSet::findDeck(data::DeckType deckType) const
 void DeckSet::remove()
 {
     // remove all the decks and this deck set
-    auto mid = findDeck(data::DeckType::MAIN).id();
-    auto sid = findDeck(data::DeckType::SIDE).id();
-    auto eid = findDeck(data::DeckType::EXTRA).id();
-
     mindbw::SQLite3 db(DB::get().path());
-    db.del("deck",mindbw::Equal("deck_id",mid));
-    db.del("deck",mindbw::Equal("deck_id",sid));
-    db.del("deck",mindbw::Equal("deck_id",eid));
+    findDeck(data::DeckType::MAIN).remove();
+    findDeck(data::DeckType::SIDE).remove();
+    findDeck(data::DeckType::EXTRA).remove();
     db.del("deck_set",mindbw::Equal("deck_set_id",mID));
     KIZHI_TRACE_F << "Removed deckSet " << mName;
 }

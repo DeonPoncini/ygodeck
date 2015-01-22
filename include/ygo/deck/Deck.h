@@ -25,6 +25,7 @@ public:
     DeckError addCard(const std::string& name);
     std::vector<data::StaticCardData> cards() const;
     void deleteCard(const std::string& name);
+    void remove();
 
 private:
     data::DeckType mDeckType;

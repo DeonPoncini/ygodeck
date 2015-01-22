@@ -83,6 +83,8 @@ void User::remove()
     // delete the user
     mindbw::SQLite3 db(DB::get().path());
     db.del("users",mindbw::Equal("user_id",mID));
+    // remove all links between user and decks
+    db.del("user_to_decks", mindbw::Equal("user_id", mID));
     KIZHI_FATAL_F << "User " << mName << " has been removed";
 }
 
