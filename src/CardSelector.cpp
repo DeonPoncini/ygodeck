@@ -1,5 +1,7 @@
 #include <ygo/deck/CardSelector.h>
 
+#include <cstdlib>
+
 #include <kizhi/Log.h>
 #include <mindbw/SQLite3.h>
 #include <ygo/data/Serialize.h>

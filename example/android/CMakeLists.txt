@@ -3,6 +3,8 @@ project(ygodeck-android)
 
 find_package(ygodeck-java)
 
+set(EXAMPLE_VERSION "0.0.1")
+
 if(CMAKE_BUILD_TYPE MATCHES "[dD]ebug")
     set(APK_TARGET_NAME "android-debug.apk")
     set(GRADLE_TASK "assembleDebug")
@@ -32,7 +34,8 @@ add_custom_target(ygodeckApk ALL DEPENDS ${APK_TARGETS})
 ################################
 # Export apk
 ################################
-export_java_project(
+export_project(
     NAME ygodeck-android
     APKS ${APK_TARGETS}
+    VERSION ${EXAMPLE_VERSION}
 )
