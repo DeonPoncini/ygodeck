@@ -14,6 +14,9 @@ struct Deck_Fixture
 
     ~Deck_Fixture()
     {
+        main->remove();
+        side->remove();
+        extra->remove();
         delete main;
         delete side;
         delete extra;
@@ -31,44 +34,44 @@ BOOST_AUTO_TEST_CASE(AddCard)
     auto mainErr = main->addCard("Blue-Eyes White Dragon");
     BOOST_CHECK(mainErr == ygo::deck::DeckError::OK);
     auto mainCards = main->cards();
-    BOOST_CHECK(mainCards.size() == 1);
-    BOOST_CHECK(mainCards[0].name == "Blue-Eyes White Dragon");
+    BOOST_CHECK_EQUAL(mainCards.size(), 1);
+    BOOST_CHECK_EQUAL(mainCards[0].name, "Blue-Eyes White Dragon");
 
     auto sideErr = side->addCard("Mirror Force");
     BOOST_CHECK(sideErr == ygo::deck::DeckError::OK);
     auto sideCards = side->cards();
-    BOOST_CHECK(sideCards.size() == 1);
-    BOOST_CHECK(sideCards[0].name == "Mirror Force");
+    BOOST_CHECK_EQUAL(sideCards.size(), 1);
+    BOOST_CHECK_EQUAL(sideCards[0].name, "Mirror Force");
 
     auto extraErr = extra->addCard("Stardust Dragon");
     BOOST_CHECK(extraErr == ygo::deck::DeckError::OK);
     auto extraCards = extra->cards();
-    BOOST_CHECK(extraCards.size() == 1);
-    BOOST_CHECK(extraCards[0].name == "Stardust Dragon");
+    BOOST_CHECK_EQUAL(extraCards.size(), 1);
+    BOOST_CHECK_EQUAL(extraCards[0].name, "Stardust Dragon");
 }
 
 BOOST_AUTO_TEST_CASE(DeleteCard)
 {
     main->addCard("Evilswarm Castor");
     auto mainCards = main->cards();
-    BOOST_CHECK(mainCards.size() == 1);
+    BOOST_CHECK_EQUAL(mainCards.size(), 1);
     main->deleteCard("Evilswarm Castor");
     mainCards = main->cards();
-    BOOST_CHECK(mainCards.size() == 0);
+    BOOST_CHECK_EQUAL(mainCards.size(), 0);
 
     side->addCard("Pot of Duality");
     auto sideCards = side->cards();
-    BOOST_CHECK(sideCards.size() == 1);
+    BOOST_CHECK_EQUAL(sideCards.size(), 1);
     side->deleteCard("Pot of Duality");
     sideCards = side->cards();
-    BOOST_CHECK(sideCards.size() == 0);
+    BOOST_CHECK_EQUAL(sideCards.size(), 0);
 
     extra->addCard("Abyss Dweller");
     auto extraCards = extra->cards();
-    BOOST_CHECK(extraCards.size() == 1);
+    BOOST_CHECK_EQUAL(extraCards.size(), 1);
     extra->deleteCard("Abyss Dweller");
     extraCards = extra->cards();
-    BOOST_CHECK(extraCards.size() == 0);
+    BOOST_CHECK_EQUAL(extraCards.size(), 0);
 }
 
 BOOST_AUTO_TEST_CASE(DeleteNotPresentCard)
@@ -78,21 +81,21 @@ BOOST_AUTO_TEST_CASE(DeleteNotPresentCard)
     BOOST_CHECK(mainCards.size() == 1);
     main->deleteCard("Blue-Eyes White Dragon");
     mainCards = main->cards();
-    BOOST_CHECK(mainCards.size() == 1);
+    BOOST_CHECK_EQUAL(mainCards.size(), 1);
 
     side->addCard("Pot of Duality");
     auto sideCards = side->cards();
-    BOOST_CHECK(sideCards.size() == 1);
+    BOOST_CHECK_EQUAL(sideCards.size(), 1);
     side->deleteCard("Pot of Greed");
     sideCards = side->cards();
-    BOOST_CHECK(sideCards.size() == 1);
+    BOOST_CHECK_EQUAL(sideCards.size(), 1);
 
     extra->addCard("Abyss Dweller");
     auto extraCards = extra->cards();
-    BOOST_CHECK(extraCards.size() == 1);
+    BOOST_CHECK_EQUAL(extraCards.size(), 1);
     extra->deleteCard("Gagaga Cowboy");
     extraCards = extra->cards();
-    BOOST_CHECK(extraCards.size() == 1);
+    BOOST_CHECK_EQUAL(extraCards.size(), 1);
 }
 
 BOOST_AUTO_TEST_CASE(DeckLimits)
