@@ -33,6 +33,17 @@ target_link_libraries(ygodeck-c
     ${YGODATA-C_LIBRARIES})
 
 ################################
+# Generate database file
+################################
+
+make_directory(${CMAKE_CURRENT_BINARY_DIR}/test)
+add_custom_command(TARGET ygodeck-c POST_BUILD
+    COMMAND rm ARGS -f ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+    COMMAND ${CMAKE_CURRENT_LIST_DIR}/../../scripts/load-db
+    ARGS ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+)
+
+################################
 # Export library
 ################################
 
@@ -42,3 +53,8 @@ export_project(
     LIBS ygodeck-c
     VERSION ${C_DECK_VERSION}
 )
+
+################################
+# Unit tests
+################################
+add_unit_tests(NAME ygodeck-c)
