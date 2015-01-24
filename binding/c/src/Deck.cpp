@@ -79,4 +79,9 @@ void DECK_NAME(deleteCard)(DECK_THIS p, const char* name)
     CPP_CAST(p)->deleteCard(name);
 }
 
+void DECK_NAME(remove)(DECK_THIS p)
+{
+    CPP_CAST(p)->remove();
+}
+
 }

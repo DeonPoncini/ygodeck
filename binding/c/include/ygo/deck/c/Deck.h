@@ -27,6 +27,7 @@ ygo_deck_DeckError DECK_NAME(addCard)(DECK_THIS p, const char* name);
 ygo_data_StaticCardData** DECK_NAME(cards)(DECK_THIS p, int* count);
 void DECK_NAME(delete_cards)(ygo_data_StaticCardData** s, int count);
 void DECK_NAME(deleteCard)(DECK_THIS p, const char* name);
+void DECK_NAME(remove)(DECK_THIS p);
 
 #ifdef __cplusplus
 }
