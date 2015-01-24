@@ -104,7 +104,7 @@ ygo_deck_CardMap DECKSET_NAME(cards)(DECKSET_THIS p)
         ret.side[i] = ygo_data_static_card_data_to_c(SCD_CAST(&side[i]));
     }
 
-    for (auto i = 0; i < ret.side_count; i++) {
+    for (auto i = 0; i < ret.extra_count; i++) {
         ret.extra[i] = ygo_data_static_card_data_to_c(SCD_CAST(&extra[i]));
     }
 
