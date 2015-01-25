@@ -112,6 +112,3 @@ export_project(
 # Unit tests
 ################################
 add_unit_tests(NAME ygodeck)
-
-add_subdirectory(binding)
-add_subdirectory(example)
