@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<banlist date="September 2011">
+    <forbidden>
+        <card>Brain Control</card>
+        <card>Butterfly Dagger - Elma</card>
+        <card>Card of Safe Return</card>
+        <card>Change of Heart</card>
+        <card>Chaos Emperor Dragon - Envoy of the End</card>
+        <card>Cold Wave</card>
+        <card>Confiscation</card>
+        <card>Crush Card Virus</card>
+        <card>Cyber Jar</card>
+        <card>Cyber-Stein</card>
+        <card>Dark Magician of Chaos</card>
+        <card>Dark Strike Fighter</card>
+        <card>Delinquent Duo</card>
+        <card>Destiny HERO - Disk Commander</card>
+        <card>Dimension Fusion</card>
+        <card>Exchange of the Spirit</card>
+        <card>Fiber Jar</card>
+        <card>Fishborg Blaster</card>
+        <card>Giant Trunade</card>
+        <card>Goyo Guardian</card>
+        <card>Graceful Charity</card>
+        <card>Harpie's Feather Duster</card>
+        <card>Imperial Order</card>
+        <card>Last Turn</card>
+        <card>Last Will</card>
+        <card>Magical Scientist</card>
+        <card>Magician of Faith</card>
+        <card>Makyura the Destructor</card>
+        <card>Mass Driver</card>
+        <card>Metamorphosis</card>
+        <card>Mind Master</card>
+        <card>Mirage of Nightmare</card>
+        <card>Painful Choice</card>
+        <card>Pot of Greed</card>
+        <card>Premature Burial</card>
+        <card>Raigeki</card>
+        <card>Rescue Cat</card>
+        <card>Ring of Destruction</card>
+        <card>Royal Oppression</card>
+        <card>Sinister Serpent</card>
+        <card>Sixth Sense</card>
+        <card>Snatch Steal</card>
+        <card>Substitoad</card>
+        <card>Temple of the Kings</card>
+        <card>The Forceful Sentry</card>
+        <card>Thousand-Eyes Restrict</card>
+        <card>Time Seal</card>
+        <card>Tribe-Infecting Virus</card>
+        <card>Tsukuyomi</card>
+        <card>Victory Dragon</card>
+        <card>Witch of the Black Forest</card>
+        <card>Yata-Garasu</card>
+    </forbidden>
+    <limited>
+        <card>Advanced Ritual Art</card>
+        <card>Allure of Darkness</card>
+        <card>Blackwing - Gale the Whirlwind</card>
+        <card>Blackwing - Kalut the Moon Shadow</card>
+        <card>Black Luster Soldier - Envoy of the Beginning</card>
+        <card>Black Whirlwind</card>
+        <card>Book of Moon</card>
+        <card>Brionac, Dragon of the Ice Barrier</card>
+        <card>Burial from a Different Dimension</card>
+        <card>Card Destruction</card>
+        <card>Ceasefire</card>
+        <card>Charge of the Light Brigade</card>
+        <card>Dandylion</card>
+        <card>Dark Armed Dragon</card>
+        <card>Dark Hole</card>
+        <card>Debris Dragon</card>
+        <card>Elemental HERO Stratos</card>
+        <card>Emergency Teleport</card>
+        <card>Exodia the Forbidden One</card>
+        <card>Foolish Burial</card>
+        <card>Formula Synchron</card>
+        <card>Future Fusion</card>
+        <card>Gateway of the Six</card>
+        <card>Gladiator Beast Bestiari</card>
+        <card>Gorz the Emissary of Darkness</card>
+        <card>Heavy Storm</card>
+        <card>Honest</card>
+        <card>Infernity Launcher</card>
+        <card>Left Arm of the Forbidden One</card>
+        <card>Left Leg of the Forbidden One</card>
+        <card>Legendary Six Samurai - Shi En</card>
+        <card>Level Limit - Area B</card>
+        <card>Limiter Removal</card>
+        <card>Lonefire Blossom</card>
+        <card>Lumina, Lightsworn Summoner</card>
+        <card>Magical Explosion</card>
+        <card>Marshmallon</card>
+        <card>Mezuki</card>
+        <card>Mind Control</card>
+        <card>Mirror Force</card>
+        <card>Monster Gate</card>
+        <card>Monster Reborn</card>
+        <card>Morphing Jar</card>
+        <card>Necroface</card>
+        <card>Neo-Spacian Grand Mole</card>
+        <card>Night Assailant</card>
+        <card>One for One</card>
+        <card>Plaguespreader Zombie</card>
+        <card>Pot of Avarice</card>
+        <card>Primal Seed</card>
+        <card>Reasoning</card>
+        <card>Reinforcement of the Army</card>
+        <card>Return from the Different Dimension</card>
+        <card>Right Arm of the Forbidden One</card>
+        <card>Right Leg of the Forbidden One</card>
+        <card>Sangan</card>
+        <card>Scapegoat</card>
+        <card>Shien's Smoke Signal</card>
+        <card>Solemn Judgment</card>
+        <card>T.G. Hyper Librarian</card>
+        <card>The Transmigration Prophecy</card>
+        <card>Torrential Tribute</card>
+        <card>Trap Dustshoot</card>
+        <card>Trishula, Dragon of the Ice Barrier</card>
+        <card>Wall of Revealing Light</card>
+    </limited>
+    <semi-limited>
+        <card>Archlord Kristya</card>
+        <card>Bottomless Trap Hole</card>
+        <card>Call of the Haunted</card>
+        <card>Card Trooper</card>
+        <card>Chain Strike</card>
+        <card>Destiny Draw</card>
+        <card>Destiny HERO - Malicious</card>
+        <card>Dewloren, Tiger King of the Ice Barrier</card>
+        <card>Magic Cylinder</card>
+        <card>Magical Stone Excavation</card>
+        <card>Mind Crush</card>
+        <card>Necro Gardna</card>
+        <card>Ojama Trio</card>
+        <card>Royal Tribute</card>
+        <card>Solemn Warning</card>
+        <card>Summoner Monk</card>
+        <card>Swords of Revealing Light</card>
+        <card>Tragoedia</card>
+    </semi-limited>
+</banlist>

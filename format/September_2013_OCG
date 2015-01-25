@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<banlist date="September 2013 OCG">
+    <forbidden>
+        <card>Brain Control</card>
+        <card>Brionac, Dragon of the Ice Barrier</card>
+        <card>Butterfly Dagger - Elma</card>
+        <card>Burner, Dragon Ruler of Sparks</card>
+        <card>Card of Safe Return</card>
+        <card>Change of Heart</card>
+        <card>Chaos Emperor Dragon - Envoy of the End</card>
+        <card>Cold Wave</card>
+        <card>Confiscation</card>
+        <card>Crush Card Virus</card>
+        <card>Cyber Jar</card>
+        <card>Cyber-Stein</card>
+        <card>Dark Magician of Chaos</card>
+        <card>Dark Strike Fighter</card>
+        <card>Delinquent Duo</card>
+        <card>Destiny HERO - Disk Commander</card>
+        <card>Dimension Fusion</card>
+        <card>Exchange of the Spirit</card>
+        <card>Fiber Jar</card>
+        <card>Fishborg Blaster</card>
+        <card>Future Fusion</card>
+        <card>Giant Trunade</card>
+        <card>Glow-Up Bulb</card>
+        <card>Goyo Guardian</card>
+        <card>Graceful Charity</card>
+        <card>Harpie's Feather Duster</card>
+        <card>Imperial Order</card>
+        <card>Last Turn</card>
+        <card>Last Will</card>
+        <card>Lightning, Dragon Ruler of Drafts</card>
+        <card>Magical Scientist</card>
+        <card>Magician of Faith</card>
+        <card>Makyura the Destructor</card>
+        <card>Mass Driver</card>
+        <card>Metamorphosis</card>
+        <card>Mind Master</card>
+        <card>Mirage of Nightmare</card>
+        <card>Painful Choice</card>
+        <card>Pot of Greed</card>
+        <card>Premature Burial</card>
+        <card>Raigeki</card>
+        <card>Reactan, Dragon Ruler of Pebbles</card>
+        <card>Rescue Cat</card>
+        <card>Ring of Destruction</card>
+        <card>Royal Oppression</card>
+        <card>Sangan</card>
+        <card>Sinister Serpent</card>
+        <card>Sixth Sense</card>
+        <card>Snatch Steal</card>
+        <card>Spellbook of Judgment</card>
+        <card>Stream, Dragon Ruler of Droplets</card>
+        <card>Substitoad</card>
+        <card>Temple of the Kings</card>
+        <card>The Forceful Sentry</card>
+        <card>Thousand-Eyes Restrict</card>
+        <card>Time Seal</card>
+        <card>Trap Dustshoot</card>
+        <card>Tribe-Infecting Virus</card>
+        <card>Victory Dragon</card>
+        <card>Wind-Up Carrier Zenmaity</card>
+        <card>Witch of the Black Forest</card>
+        <card>Yata-Garasu</card>
+    </forbidden>
+    <limited>
+        <card>Abyss-sphere</card>
+        <card>Allure of Darkness</card>
+        <card>Blackwing - Gale the Whirlwind</card>
+        <card>Black Luster Soldier - Envoy of the Beginning</card>
+        <card>Book of Moon</card>
+        <card>Brotherhood of the Fire Fist - Rooster</card>
+        <card>Burial from a Different Dimension</card>
+        <card>Card Destruction</card>
+        <card>Ceasefire</card>
+        <card>Charge of the Light Brigade</card>
+        <card>Dandylion</card>
+        <card>Dark Armed Dragon</card>
+        <card>Dark Hole</card>
+        <card>Divine Wind of Mist Valley</card>
+        <card>Elemental HERO Stratos</card>
+        <card>Evigishki Gustkraken</card>
+        <card>Exodia the Forbidden One</card>
+        <card>Foolish Burial</card>
+        <card>Formula Synchron</card>
+        <card>Gateway of the Six</card>
+        <card>Genex Ally Birdman</card>
+        <card>Heavy Storm</card>
+        <card>Honest</card>
+        <card>Infernity Launcher</card>
+        <card>Inzektor Dragonfly</card>
+        <card>Inzektor Hornet</card>
+        <card>Left Arm of the Forbidden One</card>
+        <card>Left Leg of the Forbidden One</card>
+        <card>Legendary Six Samurai - Shi En</card>
+        <card>Limiter Removal</card>
+        <card>Lonefire Blossom</card>
+        <card>Magical Explosion</card>
+        <card>Mermail Abyssteus</card>
+        <card>Mezuki</card>
+        <card>Mind Control</card>
+        <card>Monster Gate</card>
+        <card>Monster Reborn</card>
+        <card>Morphing Jar</card>
+        <card>Necroface</card>
+        <card>Night Assailant</card>
+        <card>Number 11: Big Eye</card>
+        <card>One Day of Peace</card>
+        <card>One for One</card>
+        <card>Plaguespreader Zombie</card>
+        <card>Pot of Avarice</card>
+        <card>Primal Seed</card>
+        <card>Red-Eyes Darkness Metal Dragon</card>
+        <card>Reinforcement of the Army</card>
+        <card>Return from the Different Dimension</card>
+        <card>Right Arm of the Forbidden One</card>
+        <card>Right Leg of the Forbidden One</card>
+        <card>Solemn Judgment</card>
+        <card>Solemn Warning</card>
+        <card>Super Rejuvenation</card>
+        <card>T.G. Hyper Librarian</card>
+        <card>T.G. Striker</card>
+        <card>The Transmigration Prophecy</card>
+        <card>Trishula, Dragon of the Ice Barrier</card>
+        <card>Ultimate Offering</card>
+        <card>Wall of Revealing Light</card>
+        <card>Wind-Up Shark</card>
+    </limited>
+    <semi-limited>
+        <card>A Hero Lives</card>
+        <card>Archlord Kristya</card>
+        <card>Black Whirlwind</card>
+        <card>Bottomless Trap Hole</card>
+        <card>Card Trooper</card>
+        <card>Chain Strike</card>
+        <card>Chaos Sorcerer</card>
+        <card>Debris Dragon</card>
+        <card>Destiny HERO - Malicious</card>
+        <card>Dewloren, Tiger King of the Ice Barrier</card>
+        <card>Fire Formation - Tenki</card>
+        <card>Gladiator Beast Bestiari</card>
+        <card>Gorz the Emissary of Darkness</card>
+        <card>Hieratic Seal of Convocation</card>
+        <card>Magical Stone Excavation</card>
+        <card>Neo-Spacian Grand Mole</card>
+        <card>Ojama Trio</card>
+        <card>Reborn Tengu</card>
+        <card>Rescue Rabbit</card>
+        <card>Royal Tribute</card>
+        <card>Summoner Monk</card>
+        <card>The Agent of Mystery - Earth</card>
+        <card>Thunder King Rai-Oh</card>
+        <card>Torrential Tribute</card>
+        <card>Tour Guide From the Underworld</card>
+        <card>Tragoedia</card>
+    </semi-limited>
+</banlist>

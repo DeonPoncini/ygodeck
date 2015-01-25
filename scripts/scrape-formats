@@ -12,25 +12,21 @@ import requests
 import sys
 
 from bs4 import BeautifulSoup
+from xml.dom import minidom
+from xml.dom.minidom import Document
 
-PROJECT_ROOT = os.environ['PROJECT_ROOT']
+FORMAT_PATH = sys.argv[1]
 
-# check the environment is set
-if not PROJECT_ROOT:
-    print "Environment not set, please source scripts/open-project.sh"
-    sys.exit(-1)
-
-REPO_PATH = os.path.join(PROJECT_ROOT, 'libygodeck')
-FORMAT_PATH = os.path.join(REPO_PATH, 'format')
 WIKI_ROOT='http://yugioh.wikia.com/wiki/'
-
 LIMITED_CHART_URI = WIKI_ROOT + 'Historic_Forbidden/Limited_Chart'
 ILLEGAL_URI = WIKI_ROOT + 'Illegal'
 
-def add_card(d, date, card):
-    if not date in d:
-        d[date] = []
-    d[date].append(card)
+class Banlist:
+    def __init__(self, date, forbidden, limited, semilimited):
+        self.date = date
+        self.forbidden = forbidden
+        self.limited = limited
+        self.semilimited = semilimited
 
 def read_banlist():
     # find the ban list headers
@@ -58,9 +54,7 @@ def read_banlist():
     counter = 0
     index = 0
 
-    semilimited = {}
-    limited = {}
-    forbidden = {}
+    banlist = {}
 
     tds = soup.find_all("td")
     for td in tds:
@@ -69,23 +63,62 @@ def read_banlist():
                 # we move on to the next card
                 counter = 0
                 index = index + 1
+            date = formats[counter]
             limit = td['title']
-            if limit == 'Semi-limited':
-                add_card(semilimited, formats[counter], cards[index])
-            elif limit == 'Limited':
-                add_card(limited, formats[counter], cards[index])
-            elif limit == 'Forbidden':
-                add_card(forbidden, formats[counter], cards[index])
-            counter = counter + 1
-    return semilimited, limited, forbidden
+            card = cards[index]
 
-def write_banlist(banlist, trail):
+            if date not in banlist:
+                banlist[date] = Banlist(date, [], [], [])
+            if limit == 'Semi-limited':
+                banlist[date].semilimited.append(card)
+            elif limit == 'Limited':
+                banlist[date].limited.append(card)
+            elif limit == 'Forbidden':
+                banlist[date].forbidden.append(card)
+            counter = counter + 1
+    return banlist
+
+def write_banlist(banlist):
     # write out to files
     for k in banlist:
-        filename = os.path.join(FORMAT_PATH, k.replace(' ','_') + '_' + trail)
+        b = banlist[k]
+        filename = os.path.join(FORMAT_PATH, b.date.replace(' ','_'))
         cardout = codecs.open(filename,'w','utf-8')
-        for v in banlist[k]:
-            cardout.write(v + '\n')
+        # write out the banlist in XML format
+        doc = Document()
+        root = doc.createElement('banlist')
+        root.setAttribute('date', b.date)
+        doc.appendChild(root)
+
+        forbidden = doc.createElement('forbidden')
+        root.appendChild(forbidden)
+        for f in b.forbidden:
+            card = doc.createElement('card')
+            forbidden.appendChild(card)
+            text = doc.createTextNode(f.strip())
+            card.appendChild(text)
+
+        limited = doc.createElement('limited')
+        root.appendChild(limited)
+        for l in b.limited:
+            card = doc.createElement('card')
+            limited.appendChild(card)
+            text = doc.createTextNode(l.strip())
+            card.appendChild(text)
+
+        semi = doc.createElement('semi-limited')
+        root.appendChild(semi)
+        for s in b.semilimited:
+            card = doc.createElement('card')
+            semi.appendChild(card)
+            text = doc.createTextNode(s.strip())
+            card.appendChild(text)
+
+        doc.writexml(codecs.open(filename,'w','utf-8'),
+                indent="",
+                addindent="    ",
+                newl='\n')
+        doc.unlink()
 
 def read_illegals():
     # get all the illegal card names
@@ -110,13 +143,26 @@ def read_illegals():
 
 def write_illegals(illegals):
     filename = os.path.join(FORMAT_PATH, 'Illegal')
-    cardout = codecs.open(filename,'w','utf-8')
-    for i in illegals:
-        cardout.write(i + "\n")
+    doc = Document()
+    root = doc.createElement('banlist')
+    root.setAttribute('date', 'Illegal')
+    doc.appendChild(root)
 
-semilimited, limited, forbidden = read_banlist()
-write_banlist(semilimited, 'S')
-write_banlist(limited, 'L')
-write_banlist(forbidden, 'F')
+    illegal = doc.createElement('illegal')
+    root.appendChild(illegal)
+    for i in illegals:
+        card = doc.createElement('card')
+        illegal.appendChild(card)
+        text = doc.createTextNode(i.strip())
+        card.appendChild(text)
+
+    doc.writexml(codecs.open(filename,'w','utf-8'),
+            indent="",
+            addindent="    ",
+            newl='\n')
+    doc.unlink()
+
+banlist = read_banlist()
+write_banlist(banlist)
 illegals = read_illegals()
 write_illegals(illegals)

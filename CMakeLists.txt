@@ -85,6 +85,11 @@ add_custom_target(ygodeck-card-force
     ${YGODATA_PYTHON_INCLUDE_DIRS}
     true)
 
+add_custom_target(ygodeck-format
+    COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/scrape-formats
+    ${CMAKE_CURRENT_LIST_DIR}/format
+)
+
 ################################
 # Export library
 ################################

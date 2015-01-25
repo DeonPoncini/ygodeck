@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<banlist date="April 2005">
+    <forbidden>
+        <card>Butterfly Dagger - Elma</card>
+        <card>Change of Heart</card>
+        <card>Chaos Emperor Dragon - Envoy of the End</card>
+        <card>Confiscation</card>
+        <card>Dark Hole</card>
+        <card>Fiber Jar</card>
+        <card>Harpie's Feather Duster</card>
+        <card>Imperial Order</card>
+        <card>Magical Scientist</card>
+        <card>Makyura the Destructor</card>
+        <card>Mirage of Nightmare</card>
+        <card>Monster Reborn</card>
+        <card>Painful Choice</card>
+        <card>Raigeki</card>
+        <card>Sixth Sense</card>
+        <card>The Forceful Sentry</card>
+        <card>Witch of the Black Forest</card>
+        <card>Yata-Garasu</card>
+    </forbidden>
+    <limited>
+        <card>Black Luster Soldier - Envoy of the Beginning</card>
+        <card>Breaker the Magical Warrior</card>
+        <card>Call of the Haunted</card>
+        <card>Card Destruction</card>
+        <card>Ceasefire</card>
+        <card>Crush Card Virus</card>
+        <card>Cyber Jar</card>
+        <card>D.D. Warrior Lady</card>
+        <card>Dark Magician of Chaos</card>
+        <card>Deck Devastation Virus</card>
+        <card>Delinquent Duo</card>
+        <card>Exchange of the Spirit</card>
+        <card>Exiled Force</card>
+        <card>Exodia the Forbidden One</card>
+        <card>Graceful Charity</card>
+        <card>Heavy Storm</card>
+        <card>Injection Fairy Lily</card>
+        <card>Jinzo</card>
+        <card>Left Arm of the Forbidden One</card>
+        <card>Left Leg of the Forbidden One</card>
+        <card>Lightning Vortex</card>
+        <card>Mage Power</card>
+        <card>Magic Cylinder</card>
+        <card>Magician of Faith</card>
+        <card>Marshmallon</card>
+        <card>Mirror Force</card>
+        <card>Morphing Jar</card>
+        <card>Mystical Space Typhoon</card>
+        <card>Nobleman of Crossout</card>
+        <card>Pot of Greed</card>
+        <card>Premature Burial</card>
+        <card>Protector of the Sanctuary</card>
+        <card>Reckless Greed</card>
+        <card>Reflect Bounder</card>
+        <card>Right Arm of the Forbidden One</card>
+        <card>Right Leg of the Forbidden One</card>
+        <card>Ring of Destruction</card>
+        <card>Sangan</card>
+        <card>Sacred Phoenix of Nephthys</card>
+        <card>Sinister Serpent</card>
+        <card>Snatch Steal</card>
+        <card>Swords of Revealing Light</card>
+        <card>Torrential Tribute</card>
+        <card>Tribe-Infecting Virus</card>
+        <card>Twin-Headed Behemoth</card>
+        <card>United We Stand</card>
+    </limited>
+    <semi-limited>
+        <card>Abyss Soldier</card>
+        <card>Creature Swap</card>
+        <card>Dark Scorpion - Chick the Yellow</card>
+        <card>Emergency Provisions</card>
+        <card>Good Goblin Housekeeping</card>
+        <card>Gravity Bind</card>
+        <card>Last Turn</card>
+        <card>Level Limit - Area B</card>
+        <card>Manticore of Darkness</card>
+        <card>Marauding Captain</card>
+        <card>Night Assailant</card>
+        <card>Reinforcement of the Army</card>
+        <card>Upstart Goblin</card>
+        <card>Vampire Lord</card>
+    </semi-limited>
+</banlist>

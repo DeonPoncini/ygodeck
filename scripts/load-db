@@ -10,6 +10,8 @@ import os
 import sqlite3
 import sys
 
+from xml.dom import minidom
+
 PROJECT_ROOT = os.environ['PROJECT_ROOT']
 
 # check the environment is set
@@ -39,29 +41,53 @@ c = db.cursor()
 
 # read up every format and write into the database
 for filename in os.listdir(FORMAT_PATH):
-    f = filename.rsplit('_', 1)
-    date = f[0].replace('_', ' ')
-    limit = 'I'
-    if len(f) > 1:
-        limit = f[1]
-    ff = codecs.open(os.path.join(FORMAT_PATH, filename), 'r', 'utf-8')
-    content = ff.readlines()
+    formatDom = minidom.parse(os.path.join(FORMAT_PATH, filename))
+    banlist = formatDom.getElementsByTagName('banlist')
+
     all_formats = []
-    for line in content:
-        items = [None, date]
-        items.append(line.rstrip())
-        if limit == 'I':
-            items.append('Illegal')
-        elif limit == 'F':
-            items.append('Forbidden')
-        elif limit == 'L':
-            items.append('Limited')
-        elif limit == 'S':
-            items.append('Semi-limited')
-        else:
-            print "Invalid line: " + line
-            continue
-        all_formats.append(items)
+    for b in banlist:
+        date = b.getAttribute('date')
+        illegal = b.getElementsByTagName('illegal')
+        forbidden = b.getElementsByTagName('forbidden')
+        limited = b.getElementsByTagName('limited')
+        semilimited = b.getElementsByTagName('semi-limited')
+
+        for f in illegal:
+            cards = f.getElementsByTagName('card')
+            for a in cards:
+                text = a.firstChild.nodeValue
+                items = [None, date]
+                items.append(text.rstrip())
+                items.append('Illegal')
+                all_formats.append(items)
+
+        for f in forbidden:
+            cards = f.getElementsByTagName('card')
+            for a in cards:
+                text = a.firstChild.nodeValue
+                items = [None, date]
+                items.append(text.rstrip())
+                items.append('Forbidden')
+                all_formats.append(items)
+
+        for f in limited:
+            cards = f.getElementsByTagName('card')
+            for a in cards:
+                text = a.firstChild.nodeValue
+                items = [None, date]
+                items.append(text.rstrip())
+                items.append('Limited')
+                all_formats.append(items)
+
+        for f in semilimited:
+            cards = f.getElementsByTagName('card')
+            for a in cards:
+                text = a.firstChild.nodeValue
+                items = [None, date]
+                items.append(text.rstrip())
+                items.append('Semi-limited')
+                all_formats.append(items)
+
     c.executemany('INSERT INTO formats VALUES (?,?,?,?)', all_formats)
 
 # read up every card and write into the database

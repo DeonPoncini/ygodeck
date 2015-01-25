@@ -1,43 +1,48 @@
-Aggiba, the Malevolent Sh'nn S'yo
-Armament of the Lethal Lords
-Black Luster Soldier 
-Card of Last Will
-Chimaera, the Master of Beasts
-Creator of Hope
-Creator of Miracles
-Duelist ID Card
-Duelist Name Card
-Emperor of Lightning
-E☆HERO Pit Boss
-Fiend's Mirror 
-Get Your Game On!
-Grandopolis, The Eternal Golden City
-Grizzly, the Red Star Beast
-King Landia the Goldfang
-King of Destruction - Xexex
-Legendary Dragon of White
-Legendary Magician of Dark
-Leonardo's Silver Skyship
-Lorelei, the Symphonic Arsenal
-Masahiro the Dark Clown
-Meteo the Matchless
-Obelisk the Tormentor 
-Queen Nereia the Silvercrown
-Queen of Fate - Eternia
-Skuna, the Leonine Rakan
-Slifer the Sky Dragon 
-Stardust Divinity
-Super War-Lion 
-Testament of the Arcane Lords
-The Glory of the King's Hand
-The Kingdom
-The Seal of Orichalcos 
-The Twin Kings, Founders of the Empire
-The Winged Dragon of Ra 
-Tomohiro the Mountain Warrior
-Tyr, the Vanquishing Warlord
-Ulevo
-Voyage to the Kingdom
-Winning Formula
-Yasushi the Skull Knight
-Zera the Mant 
+<?xml version="1.0" ?>
+<banlist date="Illegal">
+    <illegal>
+        <card>Aggiba, the Malevolent Sh'nn S'yo</card>
+        <card>Armament of the Lethal Lords</card>
+        <card>Black Luster Soldier</card>
+        <card>Card of Last Will</card>
+        <card>Chimaera, the Master of Beasts</card>
+        <card>Creator of Hope</card>
+        <card>Creator of Miracles</card>
+        <card>Duelist ID Card</card>
+        <card>Duelist Name Card</card>
+        <card>Emperor of Lightning</card>
+        <card>E☆HERO Pit Boss</card>
+        <card>Fiend's Mirror</card>
+        <card>Get Your Game On!</card>
+        <card>Grandopolis, The Eternal Golden City</card>
+        <card>Grizzly, the Red Star Beast</card>
+        <card>King Landia the Goldfang</card>
+        <card>King of Destruction - Xexex</card>
+        <card>Legendary Dragon of White</card>
+        <card>Legendary Magician of Dark</card>
+        <card>Leonardo's Silver Skyship</card>
+        <card>Lorelei, the Symphonic Arsenal</card>
+        <card>Masahiro the Dark Clown</card>
+        <card>Meteo the Matchless</card>
+        <card>Obelisk the Tormentor</card>
+        <card>Queen Nereia the Silvercrown</card>
+        <card>Queen of Fate - Eternia</card>
+        <card>Skuna, the Leonine Rakan</card>
+        <card>Slifer the Sky Dragon</card>
+        <card>Stardust Divinity</card>
+        <card>Super War-Lion</card>
+        <card>Testament of the Arcane Lords</card>
+        <card>The Glory of the King's Hand</card>
+        <card>The Kingdom</card>
+        <card>The Seal of Orichalcos</card>
+        <card>The Twin Kings, Founders of the Empire</card>
+        <card>The Winged Dragon of Ra</card>
+        <card>Tomohiro the Mountain Warrior</card>
+        <card>Tyr, the Vanquishing Warlord</card>
+        <card>Ulevo</card>
+        <card>Voyage to the Kingdom</card>
+        <card>Winning Formula</card>
+        <card>Yasushi the Skull Knight</card>
+        <card>Zera the Mant</card>
+    </illegal>
+</banlist>

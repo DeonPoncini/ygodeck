@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<banlist date="April 2004">
+    <forbidden>
+        <card>Change of Heart</card>
+        <card>Cyber Jar</card>
+        <card>Delinquent Duo</card>
+        <card>Fiber Jar</card>
+        <card>Harpie's Feather Duster</card>
+        <card>Imperial Order</card>
+        <card>Injection Fairy Lily</card>
+        <card>Painful Choice</card>
+        <card>Raigeki</card>
+        <card>Yata-Garasu</card>
+    </forbidden>
+    <limited>
+        <card>Black Luster Soldier - Envoy of the Beginning</card>
+        <card>Breaker the Magical Warrior</card>
+        <card>Butterfly Dagger - Elma</card>
+        <card>Call of the Haunted</card>
+        <card>Card Destruction</card>
+        <card>Ceasefire</card>
+        <card>Chaos Emperor Dragon - Envoy of the End</card>
+        <card>Confiscation</card>
+        <card>Dark Hole</card>
+        <card>Dark Magician of Chaos</card>
+        <card>Exchange of the Spirit</card>
+        <card>Exiled Force</card>
+        <card>Exodia the Forbidden One</card>
+        <card>Graceful Charity</card>
+        <card>Heavy Storm</card>
+        <card>Jinzo</card>
+        <card>Left Arm of the Forbidden One</card>
+        <card>Left Leg of the Forbidden One</card>
+        <card>Mage Power</card>
+        <card>Magic Cylinder</card>
+        <card>Magical Scientist</card>
+        <card>Mirage of Nightmare</card>
+        <card>Mirror Force</card>
+        <card>Monster Reborn</card>
+        <card>Morphing Jar</card>
+        <card>Pot of Greed</card>
+        <card>Premature Burial</card>
+        <card>Reckless Greed</card>
+        <card>Reflect Bounder</card>
+        <card>Right Arm of the Forbidden One</card>
+        <card>Right Leg of the Forbidden One</card>
+        <card>Ring of Destruction</card>
+        <card>Sangan</card>
+        <card>Sinister Serpent</card>
+        <card>Snatch Steal</card>
+        <card>Swords of Revealing Light</card>
+        <card>The Forceful Sentry</card>
+        <card>Tribe-Infecting Virus</card>
+        <card>Twin-Headed Behemoth</card>
+        <card>United We Stand</card>
+        <card>Upstart Goblin</card>
+        <card>Vampire Lord</card>
+        <card>Witch of the Black Forest</card>
+    </limited>
+    <semi-limited>
+        <card>Creature Swap</card>
+        <card>Last Turn</card>
+        <card>Makyura the Destructor</card>
+        <card>Manticore of Darkness</card>
+        <card>Morphing Jar #2</card>
+        <card>Nobleman of Crossout</card>
+        <card>Reinforcement of the Army</card>
+    </semi-limited>
+</banlist>
