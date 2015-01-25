@@ -52,31 +52,65 @@ set_target_properties(ygodeck-jni PROPERTIES
     ${CMAKE_CURRENT_BINARY_DIR}/native-libs/)
 
 ################################
+# Generate database file
+################################
+
+make_directory(${CMAKE_CURRENT_BINARY_DIR}/test)
+add_custom_command(TARGET ygodeck-jni POST_BUILD
+    COMMAND rm ARGS -f ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+    COMMAND ${CMAKE_CURRENT_LIST_DIR}/../../scripts/load-db
+    ARGS ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+)
+
+################################
 # Build jar
 ################################
 file(GLOB_RECURSE JAVA_SRC ./*.java)
 
 set(JAR_TARGET_NAME "ygodeck.jar")
-set(GRADLE_TASK "build")
 
 set(JAR_PATH "${CMAKE_CURRENT_BINARY_DIR}/build/libs")
 set(JAR_TARGETS "${JAR_PATH}/${JAR_TARGET_NAME}")
 
+if ("${CROSS_TARGET}" STREQUAL "linux-64")
+    get_filename_component(JAVA_AWT_DIR ${JAVA_AWT_LIBRARY} PATH)
+endif()
+
 add_custom_command(
-    COMMAND gradlew -p ${CMAKE_CURRENT_LIST_DIR} --project-cache-dir
-    ${CMAKE_CURRENT_BINARY_DIR}/gradle
+    COMMAND gradlew
+    -p ${CMAKE_CURRENT_LIST_DIR}
+    --project-cache-dir ${CMAKE_CURRENT_BINARY_DIR}/gradle
     -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
     -PygodataIncludes=${YGODATA_JAVA_INCLUDE_DIRS}
     -PygodeckIncludes=${YGODECK-JAVA-DATA_JAVA_INCLUDE_DIRS}
     -PmindbwIncludes=${MINDBW_JAVA_INCLUDE_DIRS}
     -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
+    -PjavaAwtDir=${JAVA_AWT_DIR}
+    -PdbDir=${CMAKE_CURRENT_BINARY_DIR}/test/card.db
     -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
-    ${GRADLE_TASK}
+    build -x test
     OUTPUT ${JAR_TARGETS}
     DEPENDS ${SRC} ${JAVA_SRC} ${CMAKE_CURRENT_LIST_FILE})
 
 add_custom_target(ygodeckJar ALL DEPENDS ${JAR_TARGETS})
 add_dependencies(ygodeckJar ygodeck-jni)
+
+add_custom_target(ygodeckJar-test
+    COMMAND gradlew
+    -p ${CMAKE_CURRENT_LIST_DIR}
+    --project-cache-dir ${CMAKE_CURRENT_BINARY_DIR}/gradle
+    -PnativeDir=${CMAKE_CURRENT_BINARY_DIR}/native-libs/
+    -PygodataIncludes=${YGODATA_JAVA_INCLUDE_DIRS}
+    -PygodeckIncludes=${YGODECK-JAVA-DATA_JAVA_INCLUDE_DIRS}
+    -PmindbwIncludes=${MINDBW_JAVA_INCLUDE_DIRS}
+    -ParchiveNativeDir=${ARCHIVE_NATIVE_DIR}
+    -PjavaAwtDir=${JAVA_AWT_DIR}
+    -PdbDir=${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+    -PbuildDir=${CMAKE_CURRENT_BINARY_DIR}/build
+    test)
+
+add_dependencies(ygodeckJar-test ygodeckJar)
+add_dependencies(check ygodeckJar-test)
 
 ################################
 # Export jar

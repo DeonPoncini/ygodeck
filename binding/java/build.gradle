@@ -2,9 +2,16 @@ apply plugin: 'java'
 
 def nativeLibs = fileTree(nativeDir)
 
+repositories {
+    mavenCentral()
+}
+
 sourceSets {
     main {
         java.srcDirs = ['src', ygodataIncludes, ygodeckIncludes, mindbwIncludes]
+    }
+    test {
+        java.srcDirs = ['test']
     }
 }
 
@@ -12,3 +19,21 @@ jar {
     archiveName='ygodeck.jar'
     into ("lib/" + archiveNativeDir, { from nativeLibs})
 }
+
+dependencies {
+    testCompile group: 'junit', name:'junit', version: '4.12'
+}
+
+test {
+    testLogging {
+        showStandardStreams = true
+        events 'passed'
+    }
+
+    systemProperty "java.library.path",
+        System.getProperty('java.library.path') + '::' + nativeDir
+
+    environment('LD_LIBRARY_PATH',javaAwtDir + '/xawt/')
+    environment('CARD_DB_PATH',dbDir)
+}
+
