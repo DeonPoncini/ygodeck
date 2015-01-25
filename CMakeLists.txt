@@ -97,14 +97,9 @@ add_custom_target(ygodeck-format
 export_project(
     NAME ygodeck
     INCLUDES ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_BINARY_DIR}/include
+    JAVA_INCLUDES ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java
     LIBS ygodeck
     RES ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
-    VERSION ${DECK_VERSION}
-)
-
-export_project(
-    NAME ygodeck-java-data
-    JAVA_INCLUDES ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java
     VERSION ${DECK_VERSION}
 )
 
