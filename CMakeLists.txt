@@ -100,6 +100,7 @@ export_project(
     JAVA_INCLUDES ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/java
     LIBS ygodeck
     RES ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+    PATH ${CMAKE_CURRENT_LIST_DIR}/scripts/
     VERSION ${DECK_VERSION}
 )
 
