@@ -54,7 +54,7 @@ add_custom_command(OUTPUT
     ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/cpp/DataTypes.h
     COMMAND python
     ARGS $ENV{PROJECT_SCRIPT_DIR}/include/generate-data.py
-    ${CMAKE_CURRENT_LIST_DIR}/xml/data.xml
+    ${CMAKE_CURRENT_LIST_DIR}/data/xml/data.xml
     ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck)
 
 ################################
@@ -66,6 +66,8 @@ add_custom_command(TARGET ygodeck POST_BUILD
     COMMAND rm ARGS -f ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
     COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/load-db
     ARGS ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
+    ${MINDBW_PATH}/sqlite3-execute
+    ${CMAKE_CURRENT_LIST_DIR}/data
 )
 
 ################################
@@ -73,21 +75,21 @@ add_custom_command(TARGET ygodeck POST_BUILD
 ################################
 add_custom_target(ygodeck-card
     COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/scrape-cards
-    ${CMAKE_CURRENT_LIST_DIR}/card
+    ${CMAKE_CURRENT_LIST_DIR}/data/card
     ${CMAKE_CURRENT_BINARY_DIR}/error
     ${YGODATA_PYTHON_INCLUDE_DIRS}
     false)
 
 add_custom_target(ygodeck-card-force
     COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/scrape-cards
-    ${CMAKE_CURRENT_LIST_DIR}/card
+    ${CMAKE_CURRENT_LIST_DIR}/data/card
     ${CMAKE_CURRENT_BINARY_DIR}/error
     ${YGODATA_PYTHON_INCLUDE_DIRS}
     true)
 
 add_custom_target(ygodeck-format
     COMMAND ${CMAKE_CURRENT_LIST_DIR}/scripts/scrape-formats
-    ${CMAKE_CURRENT_LIST_DIR}/format
+    ${CMAKE_CURRENT_LIST_DIR}/data/format
 )
 
 ################################
@@ -101,6 +103,7 @@ export_project(
     LIBS ygodeck
     RES ${CMAKE_CURRENT_BINARY_DIR}/test/card.db
     PATH ${CMAKE_CURRENT_LIST_DIR}/scripts/
+    DATA ${CMAKE_CURRENT_LIST_DIR}/data
     VERSION ${DECK_VERSION}
 )
 

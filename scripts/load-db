@@ -19,16 +19,16 @@ if not PROJECT_ROOT:
     print "Environment not set, please source scripts/open-project.sh"
     sys.exit(-1)
 
-if len(sys.argv) != 2:
-    print "Usage is " + sys.argv[0] + " <output>"
+if len(sys.argv) != 4:
+    print "Usage is " + sys.argv[0] + " <db> <schema script> <data>"
 
 DB_PATH = sys.argv[1]
+EXECUTE_PATH = sys.argv[2]
+DATA_PATH = sys.argv[3]
 
-REPO_PATH = os.path.join(PROJECT_ROOT, 'ygodeck')
-SCHEMA_PATH = os.path.join(REPO_PATH, 'db', 'schema.sql')
-FORMAT_PATH = os.path.join(REPO_PATH, 'format')
-CARD_PATH = os.path.join(REPO_PATH, 'card')
-EXECUTE_PATH = os.path.join(PROJECT_ROOT, 'mindbw', 'scripts', 'sqlite3-execute')
+SCHEMA_PATH  = os.path.join(DATA_PATH, "db", "schema.sql")
+FORMAT_PATH = os.path.join(DATA_PATH, "format")
+CARD_PATH = os.path.join(DATA_PATH, "card")
 
 # load up the schema
 cmd = EXECUTE_PATH + ' ' + DB_PATH + ' ' + SCHEMA_PATH
