@@ -78,7 +78,7 @@ BOOST_AUTO_TEST_CASE(DeleteNotPresentCard)
 {
     main->addCard("Evilswarm Castor");
     auto mainCards = main->cards();
-    BOOST_CHECK(mainCards.size() == 1);
+    BOOST_CHECK_EQUAL(mainCards.size(), 1);
     main->deleteCard("Blue-Eyes White Dragon");
     mainCards = main->cards();
     BOOST_CHECK_EQUAL(mainCards.size(), 1);
