@@ -48,13 +48,13 @@ int Format::cardCount(const std::string& name) const
                         data::fromLimitation(data::Limitation::ILLEGAL))})}),
             [&](mindbw::DataMap data) {
                 callback = true;
-                count = CardLimitation(data::toLimitation(data["card_status"]),
-                        mFormat);
+                count = data::cardLimitation(
+                    data::toLimitation(data["card_status"]), mFormat);
             });
     if (!callback) {
         KIZHI_TRACE_F << name << " has no limitations in " << mFormatDate
             << " " << data::fromFormat(mFormat);
-        count = CardLimitation(data::Limitation::UNLIMITED, mFormat);
+        count = data::cardLimitation(data::Limitation::UNLIMITED, mFormat);
     }
     KIZHI_TRACE_F << name << " can appear " << count << " times in a deck";
     return count;

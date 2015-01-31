@@ -241,25 +241,25 @@ bool DeckSet::validate() const
 {
     // check if the deck as built is valid and meets size requirements
     if ((findDeck(data::DeckType::MAIN).size() <
-                data::DeckMin(data::DeckType::MAIN) ||
+                data::deckMin(data::DeckType::MAIN) ||
          (findDeck(data::DeckType::MAIN).size() >
-          data::DeckMax(data::DeckType::MAIN)))) {
+          data::deckMax(data::DeckType::MAIN)))) {
         KIZHI_TRACE_F << mName << " is invalid due to main deck size";
         return false;
     }
 
     if ((findDeck(data::DeckType::EXTRA).size() <
-                data::DeckMin(data::DeckType::EXTRA) ||
+                data::deckMin(data::DeckType::EXTRA) ||
          (findDeck(data::DeckType::EXTRA).size() >
-          data::DeckMax(data::DeckType::EXTRA)))) {
+          data::deckMax(data::DeckType::EXTRA)))) {
         KIZHI_TRACE_F << mName << " is invalid due to extra deck size";
         return false;
     }
 
     if ((findDeck(data::DeckType::SIDE).size() <
-                data::DeckMin(data::DeckType::SIDE) ||
+                data::deckMin(data::DeckType::SIDE) ||
          (findDeck(data::DeckType::SIDE).size() >
-          data::DeckMax(data::DeckType::SIDE)))) {
+          data::deckMax(data::DeckType::SIDE)))) {
         KIZHI_TRACE_F << mName << " is invalid due to side deck size";
         return false;
     }

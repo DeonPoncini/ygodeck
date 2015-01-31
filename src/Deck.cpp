@@ -33,7 +33,7 @@ DeckError Deck::addCard(const std::string& name)
 {
     KIZHI_TRACE_F << "Adding card " << name << " to "
         << fromDeckType(mDeckType) << " deck";
-    if (cards().size() >= DeckMax(mDeckType)) {
+    if (cards().size() >= data::deckMax(mDeckType)) {
         KIZHI_TRACE_F << "Deck is full";
         return DeckError::DECK_FULL;
     }
