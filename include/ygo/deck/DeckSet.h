@@ -31,6 +31,7 @@ public:
     void deleteCard(data::DeckType deckType, const std::string& name);
     void remove();
     bool validate() const;
+    std::string exportCards() const;
 
 private:
     DeckMap mDeckMap;

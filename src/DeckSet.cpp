@@ -268,5 +268,10 @@ bool DeckSet::validate() const
     return true;
 }
 
+std::string DeckSet::exportCards() const
+{
+    return fromCardMap(cards());
+}
+
 }
 }
