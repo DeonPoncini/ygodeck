@@ -64,7 +64,8 @@ std::vector<std::string> Format::formats()
 {
     static std::vector<std::string> ft = {
         fromFormat(data::Format::TRADITIONAL),
-        fromFormat(data::Format::ADVANCED)
+        fromFormat(data::Format::ADVANCED),
+        fromFormat(data::Format::MEGABANNED)
     };
     KIZHI_TRACE_F << "There are " << ft.size() << " formats";
     return ft;
