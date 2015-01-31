@@ -1,14 +1,17 @@
-Des Koala
-Monster
-DARK
-Effect
-None
-Beast
-3
-1100
-1800
-0
-0
-None
-None
-FLIP: Inflict 400 damage to your opponent for each card in their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Des Koala</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Inflict 400 damage to your opponent for each card in their hand.</text>
+</card>

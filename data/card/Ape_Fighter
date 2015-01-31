@@ -1,14 +1,17 @@
-Ape Fighter
-Monster
-DARK
-Effect
-None
-Beast
-4
-1900
-1200
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle: This card gains 300 ATK. If this card does not attack during your turn, the ATK gained from this effect returns to 0 during the End Phase of that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ape Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle: This card gains 300 ATK. If this card does not attack during your turn, the ATK gained from this effect returns to 0 during the End Phase of that turn.</text>
+</card>

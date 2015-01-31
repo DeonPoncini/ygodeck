@@ -1,14 +1,17 @@
-Dark Flattop
-Monster
-DARK
-Synchro
-Effect
-Machine
-8
-0
-3000
-0
-0
-None
-None
-1 DARK Tuner + 1 or more non-Tuner Machine-Type monstersOnce per turn: You can target 1 "Reactor" monster or "Flying Fortress SKY FIRE" in your Graveyard; Special Summon that target, ignoring its Summoning conditions. If this card is destroyed and sent to the Graveyard: You can Special Summon 1 Level 5 or lower Machine-Type monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Flattop</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 1 or more non-Tuner Machine-Type monstersOnce per turn: You can target 1 &quot;Reactor&quot; monster or &quot;Flying Fortress SKY FIRE&quot; in your Graveyard; Special Summon that target, ignoring its Summoning conditions. If this card is destroyed and sent to the Graveyard: You can Special Summon 1 Level 5 or lower Machine-Type monster from your hand.</text>
+</card>

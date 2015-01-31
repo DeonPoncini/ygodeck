@@ -1,14 +1,17 @@
-Cyber Falcon
-Monster
-WIND
-Normal
-None
-Machine
-4
-1400
-1200
-0
-0
-None
-None
-A jet-powered hawk that travels at the speed of sound.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Falcon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A jet-powered hawk that travels at the speed of sound.</text>
+</card>

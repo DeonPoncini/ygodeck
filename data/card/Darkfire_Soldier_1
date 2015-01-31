@@ -1,14 +1,17 @@
-Darkfire Soldier 1
-Monster
-FIRE
-Normal
-None
-Pyro
-4
-1700
-1150
-0
-0
-None
-None
-An explosive expert from a special elite force.
+<?xml version="1.0" ?>
+<card>
+    <name>Darkfire Soldier #1</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1150</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An explosive expert from a special elite force.</text>
+</card>

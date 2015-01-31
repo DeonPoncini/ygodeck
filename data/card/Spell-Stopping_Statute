@@ -1,14 +1,17 @@
-Spell-Stopping Statute
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Activate only when your opponent activates a Continuous Spell Card. Negate the activation and the effect of the card and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell-Stopping Statute</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Activate only when your opponent activates a Continuous Spell Card. Negate the activation and the effect of the card and destroy it.</text>
+</card>

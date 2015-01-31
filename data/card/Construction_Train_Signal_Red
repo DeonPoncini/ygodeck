@@ -1,14 +1,17 @@
-Construction Train Signal Red
-Monster
-EARTH
-Effect
-None
-Machine
-3
-1000
-1300
-0
-0
-None
-None
-When your opponent's monster declares an attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and proceed to damage calculation. This card cannot be destroyed by that battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Construction Train Signal Red</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent's monster declares an attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and proceed to damage calculation. This card cannot be destroyed by that battle.</text>
+</card>

@@ -1,14 +1,17 @@
-Jurrac Velphito
-Monster
-FIRE
-Synchro
-Effect
-Dinosaur
-5
-?
-?
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Dinosaur-Type monstersThis card's ATK and DEF are equal to the total original ATK of the Synchro Material Monsters used for its Synchro Summon. If this card attacks a face-down Defense Position monster, you can destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Velphito</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dinosaur</type>
+    <level>5</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Dinosaur-Type monstersThis card's ATK and DEF are equal to the total original ATK of the Synchro Material Monsters used for its Synchro Summon. If this card attacks a face-down Defense Position monster, you can destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation.</text>
+</card>

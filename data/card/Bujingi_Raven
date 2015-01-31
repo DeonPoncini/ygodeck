@@ -1,14 +1,17 @@
-Bujingi Raven
-Monster
-LIGHT
-Effect
-None
-Winged Beast
-4
-1600
-900
-0
-0
-None
-None
-When a "Bujin" monster you control is destroyed by battle with an opponent's monster and sent to your Graveyard: You can send this card from your hand to the Graveyard; destroy that opponent's monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujingi Raven</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Bujin&quot; monster you control is destroyed by battle with an opponent's monster and sent to your Graveyard: You can send this card from your hand to the Graveyard; destroy that opponent's monster.</text>
+</card>

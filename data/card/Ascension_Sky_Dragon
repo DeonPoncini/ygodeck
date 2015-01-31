@@ -1,14 +1,17 @@
-Ascension Sky Dragon
-Monster
-LIGHT
-Synchro
-Effect
-Dragon
-10
-?
-3000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card (by battle or by card effect) and sent to your Graveyard, if all the monsters that were used for the Synchro Summon of this card are in your Graveyard: You can Special Summon all of them, but their effects are negated. You can only use this effect of "Ascension Sky Dragon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ascension Sky Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>?</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card (by battle or by card effect) and sent to your Graveyard, if all the monsters that were used for the Synchro Summon of this card are in your Graveyard: You can Special Summon all of them, but their effects are negated. You can only use this effect of &quot;Ascension Sky Dragon&quot; once per turn.</text>
+</card>

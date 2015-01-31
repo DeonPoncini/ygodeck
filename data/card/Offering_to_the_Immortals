@@ -1,14 +1,17 @@
-Offering to the Immortals
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When your opponent's monster declares a direct attack while you have 3000 or less LP: Negate the attack, and if you do, Special Summon 2 "Ceremonial Tokens" (Rock-Type/EARTH/Level 1/ATK 0/DEF 0), and if you do that, add 1 "Earthbound Immortal" card, "Earthbound Revival", or "Roar of the Earthbound" from your Deck to your hand. "Ceremonial Tokens" cannot be Tributed, except for a Tribute Summon of an "Earthbound Immortal" monster, and cannot be used as Synchro Material.
+<?xml version="1.0" ?>
+<card>
+    <name>Offering to the Immortals</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When your opponent's monster declares a direct attack while you have 3000 or less LP: Negate the attack, and if you do, Special Summon 2 &quot;Ceremonial Tokens&quot; (Rock-Type/EARTH/Level 1/ATK 0/DEF 0), and if you do that, add 1 &quot;Earthbound Immortal&quot; card, &quot;Earthbound Revival&quot;, or &quot;Roar of the Earthbound&quot; from your Deck to your hand. &quot;Ceremonial Tokens&quot; cannot be Tributed, except for a Tribute Summon of an &quot;Earthbound Immortal&quot; monster, and cannot be used as Synchro Material.</text>
+</card>

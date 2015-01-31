@@ -1,14 +1,17 @@
-Slifer the Sky Dragon
-Monster
-DIVINE
-Effect
-None
-Divine-Beast
-10
-?
-?
-0
-0
-None
-None
-Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. During the End Phase, if this card was Special Summoned: Send it to the Graveyard. This card gains 1000 ATK and DEF for each card in your hand. When a monster(s) is Normal or Special Summoned to your opponent's side of the field in face-up Attack Position: That monster(s) loses 2000 ATK, then if its ATK has been reduced to 0 as a result, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Slifer the Sky Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DIVINE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Divine-Beast</type>
+    <level>10</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. During the End Phase, if this card was Special Summoned: Send it to the Graveyard. This card gains 1000 ATK and DEF for each card in your hand. When a monster(s) is Normal or Special Summoned to your opponent's side of the field in face-up Attack Position: That monster(s) loses 2000 ATK, then if its ATK has been reduced to 0 as a result, destroy it.</text>
+</card>

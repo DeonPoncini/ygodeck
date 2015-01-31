@@ -1,14 +1,17 @@
-Phantom Cricket
-Monster
-EARTH
-Effect
-None
-Insect
-2
-300
-1000
-0
-0
-None
-None
-FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom Cricket</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.</text>
+</card>

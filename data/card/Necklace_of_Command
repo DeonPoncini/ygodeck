@@ -1,14 +1,17 @@
-Necklace of Command
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-When a monster you control that's equipped with this card is destroyed by battle, and this card is sent to the Graveyard, you can either:● Draw 1 card. OR● Discard 1 random card from your opponent's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Necklace of Command</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>When a monster you control that's equipped with this card is destroyed by battle, and this card is sent to the Graveyard, you can either:● Draw 1 card. OR● Discard 1 random card from your opponent's hand.</text>
+</card>

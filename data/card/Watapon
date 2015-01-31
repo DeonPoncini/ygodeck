@@ -1,14 +1,17 @@
-Watapon
-Monster
-LIGHT
-Effect
-None
-Fairy
-1
-200
-300
-0
-0
-None
-None
-If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Watapon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.</text>
+</card>

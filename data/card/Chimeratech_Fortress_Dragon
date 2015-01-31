@@ -1,14 +1,17 @@
-Chimeratech Fortress Dragon
-Monster
-DARK
-Fusion
-Effect
-Machine
-8
-0
-0
-0
-0
-None
-None
-"Cyber Dragon" + 1 or more Machine-Type monstersCannot be used as a Fusion Material Monster. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either side of the field to the Graveyard. (You do not use "Polymerization".) The original ATK of this card becomes 1000 x the number of Fusion Material Monsters used for its Special Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Chimeratech Fortress Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Cyber Dragon&quot; + 1 or more Machine-Type monstersCannot be used as a Fusion Material Monster. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either side of the field to the Graveyard. (You do not use &quot;Polymerization&quot;.) The original ATK of this card becomes 1000 x the number of Fusion Material Monsters used for its Special Summon.</text>
+</card>

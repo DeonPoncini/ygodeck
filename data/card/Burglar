@@ -1,14 +1,17 @@
-Burglar
-Monster
-EARTH
-Normal
-None
-Beast
-3
-850
-800
-0
-0
-None
-None
-A sly rat. He will come at you with his huge left claw.
+<?xml version="1.0" ?>
+<card>
+    <name>Burglar</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>850</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A sly rat. He will come at you with his huge left claw.</text>
+</card>

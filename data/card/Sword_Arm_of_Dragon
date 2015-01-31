@@ -1,14 +1,17 @@
-Sword Arm of Dragon
-Monster
-EARTH
-Normal
-None
-Dinosaur
-6
-1750
-2030
-0
-0
-None
-None
-This Jurrasic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.
+<?xml version="1.0" ?>
+<card>
+    <name>Sword Arm of Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>6</level>
+    <attack>1750</attack>
+    <defense>2030</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This Jurrasic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.</text>
+</card>

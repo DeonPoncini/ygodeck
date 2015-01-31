@@ -1,14 +1,17 @@
-Megarock Dragon
-Monster
-EARTH
-Effect
-None
-Rock
-7
-?
-?
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play a Rock-Type monster(s) in your Graveyard. The original ATK and DEF of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Megarock Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>7</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play a Rock-Type monster(s) in your Graveyard. The original ATK and DEF of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700 points.</text>
+</card>

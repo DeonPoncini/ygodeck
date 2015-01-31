@@ -1,14 +1,17 @@
-Wodan the Resident of the Forest
-Monster
-EARTH
-Effect
-None
-Warrior
-3
-900
-1200
-0
-0
-None
-None
-Increase this card's ATK by 100 points for every Plant-Type monster that is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Wodan the Resident of the Forest</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Increase this card's ATK by 100 points for every Plant-Type monster that is face-up on the field.</text>
+</card>

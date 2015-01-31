@@ -1,14 +1,17 @@
-Ojama Blue
-Monster
-LIGHT
-Effect
-None
-Beast
-2
-0
-1000
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can add 2 "Ojama" cards from your Deck to your hand (this can include "Ojamuscle").
+<?xml version="1.0" ?>
+<card>
+    <name>Ojama Blue</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can add 2 &quot;Ojama&quot; cards from your Deck to your hand (this can include &quot;Ojamuscle&quot;).</text>
+</card>

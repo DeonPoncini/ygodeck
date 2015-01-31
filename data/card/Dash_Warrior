@@ -1,14 +1,17 @@
-Dash Warrior
-Monster
-WIND
-Effect
-None
-Warrior
-3
-600
-1200
-0
-0
-None
-None
-If this card attacks, it gains 1200 ATK during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Dash Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks, it gains 1200 ATK during the Damage Step only.</text>
+</card>

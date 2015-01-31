@@ -1,14 +1,17 @@
-Copycat
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-When this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK and DEF become equal to that monster's original ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Copycat</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK and DEF become equal to that monster's original ATK and DEF.</text>
+</card>

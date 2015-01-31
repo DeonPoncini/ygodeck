@@ -1,14 +1,17 @@
-Kinetic Soldier
-Monster
-EARTH
-Effect
-None
-Machine
-3
-1350
-1800
-0
-0
-None
-None
-If this card battles a Warrior-Type monster, during damage calculation: This card gains 2000 ATK and DEF during damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Kinetic Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1350</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card battles a Warrior-Type monster, during damage calculation: This card gains 2000 ATK and DEF during damage calculation only.</text>
+</card>

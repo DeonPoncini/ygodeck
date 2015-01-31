@@ -1,14 +1,17 @@
-Armed Dragon LV7
-Monster
-WIND
-Effect
-None
-Dragon
-7
-2800
-1000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by "Armed Dragon LV5", and cannot be Special Summoned by other ways. You can send 1 monster from your hand to the Graveyard; destroy all face-up monsters your opponent controls with ATK less than or equal to the sent monster's ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Armed Dragon LV7</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by &quot;Armed Dragon LV5&quot;, and cannot be Special Summoned by other ways. You can send 1 monster from your hand to the Graveyard; destroy all face-up monsters your opponent controls with ATK less than or equal to the sent monster's ATK.</text>
+</card>

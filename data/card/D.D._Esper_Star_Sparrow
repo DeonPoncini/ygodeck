@@ -1,14 +1,17 @@
-D.D. Esper Star Sparrow
-Monster
-LIGHT
-Effect
-None
-Warrior
-10
-3000
-1500
-0
-0
-None
-None
-There can only be 1 "D.D. Esper Star Sparrow" on the field. Your opponent cannot target other monsters you control with effects or for attacks. When an opponent's monster declares a direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Defense Position. If Summoned this way, banish it when it leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Esper Star Sparrow</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>There can only be 1 &quot;D.D. Esper Star Sparrow&quot; on the field. Your opponent cannot target other monsters you control with effects or for attacks. When an opponent's monster declares a direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Defense Position. If Summoned this way, banish it when it leaves the field.</text>
+</card>

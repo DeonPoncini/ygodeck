@@ -1,14 +1,17 @@
-Dokuroyaiba
-Monster
-FIRE
-Normal
-None
-Fiend
-3
-1000
-400
-0
-0
-None
-None
-A boomerang with brains that will pursue a target to the ends of the earth.
+<?xml version="1.0" ?>
+<card>
+    <name>Dokuroyaiba</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A boomerang with brains that will pursue a target to the ends of the earth.</text>
+</card>

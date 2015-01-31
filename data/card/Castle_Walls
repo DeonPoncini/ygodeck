@@ -1,14 +1,17 @@
-Castle Walls
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Castle Walls</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.</text>
+</card>

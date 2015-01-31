@@ -1,14 +1,17 @@
-Clown Zombie
-Monster
-DARK
-Normal
-None
-Zombie
-2
-1350
-0
-0
-0
-None
-None
-A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.
+<?xml version="1.0" ?>
+<card>
+    <name>Clown Zombie</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>1350</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.</text>
+</card>

@@ -1,14 +1,17 @@
-Legendary Ebon Steed
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Six Samurai" monster. It gains 200 ATK and DEF. If it would be destroyed, destroy this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Ebon Steed</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Six Samurai&quot; monster. It gains 200 ATK and DEF. If it would be destroyed, destroy this card instead.</text>
+</card>

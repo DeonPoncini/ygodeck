@@ -1,14 +1,17 @@
-Crystal Seer
-Monster
-WATER
-Flip
-Effect
-Spellcaster
-1
-100
-100
-0
-0
-None
-None
-FLIP: Excavate the top 2 cards of your Deck, add 1 of them to your hand, then place the other on the bottom of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Seer</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Excavate the top 2 cards of your Deck, add 1 of them to your hand, then place the other on the bottom of your Deck.</text>
+</card>

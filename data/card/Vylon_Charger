@@ -1,14 +1,17 @@
-Vylon Charger
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1000
-1000
-0
-0
-None
-None
-All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Charger</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.</text>
+</card>

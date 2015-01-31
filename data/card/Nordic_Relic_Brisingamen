@@ -1,14 +1,17 @@
-Nordic Relic Brisingamen
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 face-up monster you control and 1 face-up monster your opponent controls; the ATK of the first target becomes equal to the original ATK of the second target, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Nordic Relic Brisingamen</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 face-up monster you control and 1 face-up monster your opponent controls; the ATK of the first target becomes equal to the original ATK of the second target, until the end of this turn.</text>
+</card>

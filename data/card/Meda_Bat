@@ -1,14 +1,17 @@
-Meda Bat
-Monster
-DARK
-Normal
-None
-Fiend
-2
-800
-400
-0
-0
-None
-None
-An eyeball fiend created by a servant of the wicked, it uses "Dark Blasts" to blow away its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Meda Bat</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An eyeball fiend created by a servant of the wicked, it uses &quot;Dark Blasts&quot; to blow away its enemies.</text>
+</card>

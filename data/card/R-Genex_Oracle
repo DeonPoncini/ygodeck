@@ -1,14 +1,17 @@
-R-Genex Oracle
-Monster
-DARK
-Tuner
-None
-Spellcaster
-1
-300
-300
-0
-0
-None
-None
-If this card is added from your Deck to your hand by the effect of a "Genex" monster, you can Special Summon this card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a "Genex" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>R-Genex Oracle</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is added from your Deck to your hand by the effect of a &quot;Genex&quot; monster, you can Special Summon this card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a &quot;Genex&quot; monster.</text>
+</card>

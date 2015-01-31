@@ -1,14 +1,17 @@
-Reeze, Whirlwind of Gusto
-Monster
-WIND
-Effect
-None
-Psychic
-5
-1900
-1400
-0
-0
-None
-None
-Once per turn: You can return 1 card from your hand to the bottom of the Deck to target 1 monster your opponent controls and 1 face-up "Gusto" monster you control; switch control of both monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Reeze, Whirlwind of Gusto</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can return 1 card from your hand to the bottom of the Deck to target 1 monster your opponent controls and 1 face-up &quot;Gusto&quot; monster you control; switch control of both monsters.</text>
+</card>

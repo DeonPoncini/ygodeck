@@ -1,14 +1,17 @@
-Chronomaly Winged Sphinx
-Monster
-EARTH
-Effect
-None
-Rock
-5
-1600
-1900
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 Level 5 "Chronomaly" monster in your Graveyard; Special Summon that target. You cannot Special Summon monsters the turn you activate this effect, except "Chronomaly" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Chronomaly Winged Sphinx</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 Level 5 &quot;Chronomaly&quot; monster in your Graveyard; Special Summon that target. You cannot Special Summon monsters the turn you activate this effect, except &quot;Chronomaly&quot; monsters.</text>
+</card>

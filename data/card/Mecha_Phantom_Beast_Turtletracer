@@ -1,14 +1,17 @@
-Mecha Phantom Beast Turtletracer
-Monster
-WIND
-Effect
-None
-Machine
-3
-500
-2000
-0
-0
-None
-None
-This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Each turn, the first "Mecha Phantom Beast Token" you control that would be destroyed by battle, is not destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Turtletracer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's Level is increased by the total Levels of all &quot;Mecha Phantom Beast Tokens&quot; you control. While you control a Token, this card cannot be destroyed by battle or card effects. Each turn, the first &quot;Mecha Phantom Beast Token&quot; you control that would be destroyed by battle, is not destroyed.</text>
+</card>

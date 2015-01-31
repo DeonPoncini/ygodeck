@@ -1,14 +1,17 @@
-Creation Resonator
-Monster
-WIND
-Tuner
-Effect
-Fiend
-3
-800
-600
-0
-0
-None
-None
-If you control a Level 8 or higher Synchro Monster, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Creation Resonator</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a Level 8 or higher Synchro Monster, you can Special Summon this card (from your hand).</text>
+</card>

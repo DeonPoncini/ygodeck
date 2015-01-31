@@ -1,14 +1,17 @@
-Gem-Knight Topaz
-Monster
-EARTH
-Fusion
-Effect
-Thunder
-6
-1800
-1800
-0
-0
-None
-None
-"Gem-Knight Tourmaline" + 1 "Gem-Knight" monster Must first be Fusion Summoned with the above Fusion Material Monsters. This card can attack twice during each Battle Phase. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Topaz</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Thunder</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Gem-Knight Tourmaline&quot; + 1 &quot;Gem-Knight&quot; monster Must first be Fusion Summoned with the above Fusion Material Monsters. This card can attack twice during each Battle Phase. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.</text>
+</card>

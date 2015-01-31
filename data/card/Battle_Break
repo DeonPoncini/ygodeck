@@ -1,14 +1,17 @@
-Battle Break
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an opponent's monster declares an attack: Your opponent can reveal 1 monster in their hand to negate this card's effect, otherwise destroy the attacking monster, then end the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Battle Break</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an opponent's monster declares an attack: Your opponent can reveal 1 monster in their hand to negate this card's effect, otherwise destroy the attacking monster, then end the Battle Phase.</text>
+</card>

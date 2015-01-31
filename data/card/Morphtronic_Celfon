@@ -1,14 +1,17 @@
-Morphtronic Celfon
-Monster
-EARTH
-Effect
-None
-Machine
-1
-100
-100
-0
-0
-None
-None
-● While in Attack Position: Once per turn, you can roll a six-sided die. Reveal cards from top of your Deck equal to the roll and Special Summon 1 Level 4 or lower "Morphtronic" monster from among them, ignoring the Summoning conditions. Shuffle the rest into the Deck.● While in Defense Position: Once per turn, you can roll a six-sided die. Look at cards from top of your Deck equal to the roll, then return them in the same order.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Celfon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>● While in Attack Position: Once per turn, you can roll a six-sided die. Reveal cards from top of your Deck equal to the roll and Special Summon 1 Level 4 or lower &quot;Morphtronic&quot; monster from among them, ignoring the Summoning conditions. Shuffle the rest into the Deck.● While in Defense Position: Once per turn, you can roll a six-sided die. Look at cards from top of your Deck equal to the roll, then return them in the same order.</text>
+</card>

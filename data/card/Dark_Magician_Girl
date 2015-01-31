@@ -1,14 +1,17 @@
-Dark Magician Girl
-Monster
-DARK
-Effect
-None
-Spellcaster
-6
-2000
-1700
-0
-0
-None
-None
-This card gains 300 ATK for every "Dark Magician" or "Magician of Black Chaos" in either player's Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Magician Girl</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 300 ATK for every &quot;Dark Magician&quot; or &quot;Magician of Black Chaos&quot; in either player's Graveyard.</text>
+</card>

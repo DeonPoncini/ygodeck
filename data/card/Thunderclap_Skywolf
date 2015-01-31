@@ -1,14 +1,17 @@
-Thunderclap Skywolf
-Monster
-LIGHT
-Effect
-None
-Thunder
-7
-2500
-2000
-0
-0
-None
-None
-If this card is Special Summoned from the Graveyard: You can destroy all face-up monsters your opponent controls. You cannot conduct your Battle Phase the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Thunderclap Skywolf</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Special Summoned from the Graveyard: You can destroy all face-up monsters your opponent controls. You cannot conduct your Battle Phase the turn you activate this effect.</text>
+</card>

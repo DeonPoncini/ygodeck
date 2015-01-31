@@ -1,14 +1,17 @@
-Block Attack
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 face-up Attack Position monster on your opponent's side of the field and change it to Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Block Attack</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 face-up Attack Position monster on your opponent's side of the field and change it to Defense Position.</text>
+</card>

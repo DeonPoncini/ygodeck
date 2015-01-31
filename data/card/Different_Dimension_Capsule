@@ -1,14 +1,17 @@
-Different Dimension Capsule
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Different Dimension Capsule</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand.</text>
+</card>

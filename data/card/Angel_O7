@@ -1,14 +1,17 @@
-Angel O7
-Monster
-LIGHT
-Effect
-None
-Fairy
-7
-2500
-1500
-0
-0
-None
-None
-When this card is Tribute Summoned, it gains the following effect: ● The effects of Effect Monsters cannot be activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Angel O7</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned, it gains the following effect: ● The effects of Effect Monsters cannot be activated.</text>
+</card>

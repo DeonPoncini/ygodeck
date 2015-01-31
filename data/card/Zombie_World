@@ -1,14 +1,17 @@
-Zombie World
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All monsters on the field and in every Graveyard become Zombie-Type monsters. Neither player can Tribute Summon monsters, except Zombie-Type monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Zombie World</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All monsters on the field and in every Graveyard become Zombie-Type monsters. Neither player can Tribute Summon monsters, except Zombie-Type monsters.</text>
+</card>

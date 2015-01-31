@@ -1,14 +1,17 @@
-Solemn Authority
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate this card by targeting 1 "Aesir" monster you control; it cannot be targeted by other card effects while this card is on the field. Send this card to the Graveyard during your 2nd Standby Phase after activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Solemn Authority</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate this card by targeting 1 &quot;Aesir&quot; monster you control; it cannot be targeted by other card effects while this card is on the field. Send this card to the Graveyard during your 2nd Standby Phase after activation.</text>
+</card>

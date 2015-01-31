@@ -1,14 +1,17 @@
-Evil HERO Inferno Wing
-Monster
-FIRE
-Fusion
-Effect
-Fiend
-6
-2100
-1200
-0
-0
-None
-None
-"Elemental HERO Avian" + "Elemental HERO Burstinatrix"Must be Special Summoned with "Dark Fusion" and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to either the ATK or DEF (whichever is higher) of the destroyed monster in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Evil HERO Inferno Wing</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Avian&quot; + &quot;Elemental HERO Burstinatrix&quot;Must be Special Summoned with &quot;Dark Fusion&quot; and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to either the ATK or DEF (whichever is higher) of the destroyed monster in the Graveyard.</text>
+</card>

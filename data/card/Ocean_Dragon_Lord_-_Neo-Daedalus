@@ -1,14 +1,17 @@
-Ocean Dragon Lord - Neo-Daedalus
-Monster
-WATER
-Effect
-None
-Sea Serpent
-8
-2900
-1600
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Levia-Dragon - Daedalus". You can send "Umi" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Ocean Dragon Lord - Neo-Daedalus</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 &quot;Levia-Dragon - Daedalus&quot;. You can send &quot;Umi&quot; you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.</text>
+</card>

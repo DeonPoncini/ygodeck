@@ -1,14 +1,17 @@
-Number Wall
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate only if you control a "Number" monster. "Number" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another "Number" monster. When a "Number" monster you control is destroyed, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Number Wall</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate only if you control a &quot;Number&quot; monster. &quot;Number&quot; monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another &quot;Number&quot; monster. When a &quot;Number&quot; monster you control is destroyed, destroy this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Dark Scorpion - Cliff the Trap Remover
-Monster
-DARK
-Effect
-None
-Warrior
-3
-1200
-1000
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Target 1 Spell/Trap Card on the field; destroy that target.● Send the top 2 cards of their Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Scorpion - Cliff the Trap Remover</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Target 1 Spell/Trap Card on the field; destroy that target.● Send the top 2 cards of their Deck to the Graveyard.</text>
+</card>

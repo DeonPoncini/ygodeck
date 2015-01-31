@@ -1,18 +1,21 @@
-Foucault's Spellstone Cannon
-Monster
-DARK
-Pendulum
-None
-Spellcaster
-5
-2200
-1200
-2
-2
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Foucault's Cannon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1200</defense>
+    <lpendulum>2</lpendulum>
+    <rpendulum>2</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  During the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.
 
  Monster Effect
- A mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?
+ A mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?</text>
+</card>

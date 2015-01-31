@@ -1,14 +1,17 @@
-Proof of Powerlessness
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only while you control a face-up Level 7 or higher monster. Destroy all face-up Level 5 or lower monsters your opponent controls. Monsters you control cannot attack this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Proof of Powerlessness</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only while you control a face-up Level 7 or higher monster. Destroy all face-up Level 5 or lower monsters your opponent controls. Monsters you control cannot attack this turn.</text>
+</card>

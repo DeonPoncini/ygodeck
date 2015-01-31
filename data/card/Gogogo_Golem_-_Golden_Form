@@ -1,14 +1,17 @@
-Gogogo Golem - Golden Form
-Monster
-EARTH
-Effect
-None
-Rock
-4
-?
-1500
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Gogogo" monster, and cannot be Special Summoned by other ways. This card's ATK becomes double the original ATK of the Tributed monster. Any battle damage your opponent takes from battles involving this card is halved. Once per turn, during either player's turn, if a monster effect is activated on your opponent's side of the field: This card loses exactly 1500 ATK, and if it does, negate that effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Gogogo Golem - Golden Form</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>?</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 &quot;Gogogo&quot; monster, and cannot be Special Summoned by other ways. This card's ATK becomes double the original ATK of the Tributed monster. Any battle damage your opponent takes from battles involving this card is halved. Once per turn, during either player's turn, if a monster effect is activated on your opponent's side of the field: This card loses exactly 1500 ATK, and if it does, negate that effect.</text>
+</card>

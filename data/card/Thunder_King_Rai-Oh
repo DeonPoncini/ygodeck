@@ -1,14 +1,17 @@
-Thunder King Rai-Oh
-Monster
-LIGHT
-Effect
-None
-Thunder
-4
-1900
-800
-0
-0
-None
-None
-Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Thunder King Rai-Oh</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.</text>
+</card>

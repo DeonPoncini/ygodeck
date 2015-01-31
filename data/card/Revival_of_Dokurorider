@@ -1,14 +1,17 @@
-Revival of Dokurorider
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card is used to Ritual Summon "Dokurorider". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Revival of Dokurorider</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card is used to Ritual Summon &quot;Dokurorider&quot;. You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.</text>
+</card>

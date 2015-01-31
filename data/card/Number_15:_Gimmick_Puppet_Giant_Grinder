@@ -1,14 +1,17 @@
-Number 15: Gimmick Puppet Giant Grinder
-Monster
-DARK
-Xyz
-Effect
-Machine
-8
-1500
-2500
-0
-0
-None
-None
-2 Level 8 monstersUp to twice per turn, during your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Special Summoned monster your opponent controls; destroy it, then if it was an Xyz Monster, inflict damage to your opponent equal to its original ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 15: Gimmick Puppet Giant Grinder</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>1500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 8 monstersUp to twice per turn, during your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Special Summoned monster your opponent controls; destroy it, then if it was an Xyz Monster, inflict damage to your opponent equal to its original ATK.</text>
+</card>

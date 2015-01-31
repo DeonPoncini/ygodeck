@@ -1,14 +1,17 @@
-Sonata the Melodious Diva
-Monster
-LIGHT
-Effect
-None
-Fairy
-3
-1200
-1000
-0
-0
-None
-None
-If you control a "Melodious" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Sonata the Melodious Diva</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Melodious&quot; monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.</text>
+</card>

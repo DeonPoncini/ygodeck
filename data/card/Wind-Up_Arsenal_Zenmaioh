@@ -1,14 +1,17 @@
-Wind-Up Arsenal Zenmaioh
-Monster
-WIND
-Xyz
-Effect
-Machine
-5
-2600
-1900
-0
-0
-None
-None
-2 Level 5 monstersOnce per turn: You can detach 1 Xyz Material from this card to target 2 Set cards on the field; destroy them.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Arsenal Zenmaioh</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2600</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 monstersOnce per turn: You can detach 1 Xyz Material from this card to target 2 Set cards on the field; destroy them.</text>
+</card>

@@ -1,14 +1,17 @@
-Barox
-Monster
-DARK
-Fusion
-None
-Fiend
-5
-1380
-1530
-0
-0
-None
-None
-"Frenzied Panda" + "Ryu-Kishin"
+<?xml version="1.0" ?>
+<card>
+    <name>Barox</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1380</attack>
+    <defense>1530</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Frenzied Panda&quot; + &quot;Ryu-Kishin&quot;</text>
+</card>

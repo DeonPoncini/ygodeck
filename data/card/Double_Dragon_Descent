@@ -1,14 +1,17 @@
-Double Dragon Descent
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an opponent's Xyz Monster declares a direct attack: Special Summon 1 LIGHT Dragon-Type Xyz Monster from your Extra Deck in face-up Attack Position, then the attacking monster attacks it instead, and you proceed to damage calculation. Its ATK becomes equal to the attacking monster's ATK, also its effects are negated. You can only activate 1 "Double Dragon Descent" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Double Dragon Descent</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an opponent's Xyz Monster declares a direct attack: Special Summon 1 LIGHT Dragon-Type Xyz Monster from your Extra Deck in face-up Attack Position, then the attacking monster attacks it instead, and you proceed to damage calculation. Its ATK becomes equal to the attacking monster's ATK, also its effects are negated. You can only activate 1 &quot;Double Dragon Descent&quot; per turn.</text>
+</card>

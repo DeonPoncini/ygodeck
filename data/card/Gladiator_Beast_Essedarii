@@ -1,14 +1,17 @@
-Gladiator Beast Essedarii
-Monster
-EARTH
-Fusion
-Effect
-Beast
-5
-2500
-1400
-0
-0
-None
-None
-2 "Gladiator Beast" monstersMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".)
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Essedarii</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 &quot;Gladiator Beast&quot; monstersMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use &quot;Polymerization&quot;.)</text>
+</card>

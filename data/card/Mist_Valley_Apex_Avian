@@ -1,14 +1,17 @@
-Mist Valley Apex Avian
-Monster
-WIND
-Effect
-None
-Winged Beast
-7
-2700
-2000
-0
-0
-None
-None
-When an effect is activated, you can select 1 face-up "Mist Valley" card you control. Return that "Mist Valley" card to its owner's hand, negate the effect's activation, and destroy the card whose effect was activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Apex Avian</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>7</level>
+    <attack>2700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an effect is activated, you can select 1 face-up &quot;Mist Valley&quot; card you control. Return that &quot;Mist Valley&quot; card to its owner's hand, negate the effect's activation, and destroy the card whose effect was activated.</text>
+</card>

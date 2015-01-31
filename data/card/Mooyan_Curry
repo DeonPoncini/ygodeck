@@ -1,14 +1,17 @@
-Mooyan Curry
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Choose 1 player; that player gains 200 Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Mooyan Curry</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Choose 1 player; that player gains 200 Life Points.</text>
+</card>

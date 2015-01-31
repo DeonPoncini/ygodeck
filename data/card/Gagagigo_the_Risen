@@ -1,14 +1,17 @@
-Gagagigo the Risen
-Monster
-WATER
-Xyz
-None
-Reptile
-4
-2950
-2800
-0
-0
-None
-None
-3 Level 4 monsters
+<?xml version="1.0" ?>
+<card>
+    <name>Gagagigo the Risen</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>2950</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monsters</text>
+</card>

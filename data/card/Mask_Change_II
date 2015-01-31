@@ -1,14 +1,17 @@
-Mask Change II
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Discard 1 card, then target 1 face-up monster you control that has a Level; send it to the Graveyard, then Special Summon 1 "Masked HERO" monster from your Extra Deck with the same Attribute as that monster, but with a higher Level. (This Special Summon is treated as a Special Summon with "Mask Change".) You can only activate 1 "Mask Change Second" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mask Change II</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Discard 1 card, then target 1 face-up monster you control that has a Level; send it to the Graveyard, also, after that, if it left the field by this effect, Special Summon from your Extra Deck, 1 &quot;Masked HERO&quot; monster with the same Attribute, but a higher Level than, the Attribute/Level the monster had when it was on the field (its original Attribute/Level, if face-down. This Special Summon is treated as a Special Summon with &quot;Mask Change&quot;). You can only activate 1 &quot;Mask Change II&quot; per turn.</text>
+</card>

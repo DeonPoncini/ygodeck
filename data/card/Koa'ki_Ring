@@ -1,14 +1,17 @@
-Koa'ki Ring
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Reveal 1 "Iron Core of Koa'ki Meiru" in your hand to select 1 face-up monster on the field. Destroy that monster, and both players take 1000 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Ring</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Reveal 1 &quot;Iron Core of Koa'ki Meiru&quot; in your hand to select 1 face-up monster on the field. Destroy that monster, and both players take 1000 damage.</text>
+</card>

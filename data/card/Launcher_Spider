@@ -1,14 +1,17 @@
-Launcher Spider
-Monster
-FIRE
-Normal
-None
-Machine
-7
-2200
-2500
-0
-0
-None
-None
-A mechanical spider with rocket launchers capable of random fire.
+<?xml version="1.0" ?>
+<card>
+    <name>Launcher Spider</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2200</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mechanical spider with rocket launchers capable of random fire.</text>
+</card>

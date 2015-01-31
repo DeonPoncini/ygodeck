@@ -1,14 +1,17 @@
-Spell Canceller
-Monster
-WIND
-Effect
-None
-Machine
-5
-1800
-1600
-0
-0
-None
-None
-As long as this card remains face-up on the field, Spell Cards cannot be activated. The effects of all Spell Cards are also negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Canceller</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on the field, Spell Cards cannot be activated. The effects of all Spell Cards are also negated.</text>
+</card>

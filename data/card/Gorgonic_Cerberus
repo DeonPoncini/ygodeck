@@ -1,14 +1,17 @@
-Gorgonic Cerberus
-Monster
-DARK
-Effect
-None
-Rock
-3
-1300
-300
-0
-0
-None
-None
-When this card is Normal Summoned: You can make all Rock-Type monsters you control become Level 3.
+<?xml version="1.0" ?>
+<card>
+    <name>Gorgonic Cerberus</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can make all Rock-Type monsters you control become Level 3.</text>
+</card>

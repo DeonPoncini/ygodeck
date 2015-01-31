@@ -1,18 +1,21 @@
-Crystal Protector
-Monster
-FIRE
-Pendulum
-Effect
-Warrior
-4
-1500
-1800
-2
-2
-None
-None
-Pendulum Effect
- Once per turn, "Crystal Beast" cards, "Rainbow Dragons" and/or "Rainbow Dark Dragons" you control cannot be destroyed by a card effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Protector</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1800</defense>
+    <lpendulum>2</lpendulum>
+    <rpendulum>2</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ Once per turn, &quot;Crystal Beast&quot; cards, &quot;Rainbow Dragons&quot; and/or &quot;Rainbow Dark Dragons&quot; you control cannot be destroyed by a card effect.
 
  Monster Effect
- During damage calculation (in either player's turn), if a "Crystal Beast" monster you control battles an opponent’s monster: You can Tribute this card from your hand or your side of the field; your battling monster's ATK and DEF each become double its original ATK and DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.
+ During damage calculation (in either player's turn), if a &quot;Crystal Beast&quot; monster you control battles an opponent’s monster: You can Tribute this card from your hand or your side of the field; your battling monster's ATK and DEF each become double its original ATK and DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.</text>
+</card>

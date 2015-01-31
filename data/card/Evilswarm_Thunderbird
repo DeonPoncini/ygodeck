@@ -1,14 +1,17 @@
-Evilswarm Thunderbird
-Monster
-DARK
-Effect
-None
-Thunder
-4
-1650
-1050
-0
-0
-None
-None
-During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use the effect of "Evilswarm Thunderbird" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Thunderbird</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1650</attack>
+    <defense>1050</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use the effect of &quot;Evilswarm Thunderbird&quot; once per turn.</text>
+</card>

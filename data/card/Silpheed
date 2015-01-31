@@ -1,14 +1,17 @@
-Silpheed
-Monster
-WIND
-Effect
-None
-Fairy
-4
-1700
-700
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WIND monster in your Graveyard. When this card is destroyed as a result of battle and sent to the Graveyard, your opponent discards 1 random card from their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Silpheed</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WIND monster in your Graveyard. When this card is destroyed as a result of battle and sent to the Graveyard, your opponent discards 1 random card from their hand.</text>
+</card>

@@ -1,14 +1,17 @@
-World of Prophecy
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-9
-2900
-2400
-0
-0
-None
-None
-When this card is Special Summoned by the effect of a Spellcaster-Type monster or a "Spellbook" Spell Card: You can target 2 "Spellbook" Spell Cards in your Graveyard; add those targets to your hand. You cannot Special Summon other monsters during the turn you activate this effect. When you add card(s) to your hand by this effect: You can reveal 4 "Spellbook" Spell Cards with different names in your hand; destroy all other cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>World of Prophecy</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>9</level>
+    <attack>2900</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of a Spellcaster-Type monster or a &quot;Spellbook&quot; Spell Card: You can target 2 &quot;Spellbook&quot; Spell Cards in your Graveyard; add those targets to your hand. You cannot Special Summon other monsters during the turn you activate this effect. When you add card(s) to your hand by this effect: You can reveal 4 &quot;Spellbook&quot; Spell Cards with different names in your hand; destroy all other cards on the field.</text>
+</card>

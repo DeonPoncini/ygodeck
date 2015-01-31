@@ -1,14 +1,17 @@
-Cyber Valley
-Monster
-LIGHT
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-You can use 1 of these effects.● When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.● You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.● You can target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Valley</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can use 1 of these effects.● When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.● You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.● You can target 1 card in your Graveyard; banish this card and 1 card from your hand, then place that target on top of the Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Dark Gray
-Monster
-EARTH
-Normal
-None
-Beast
-3
-800
-900
-0
-0
-None
-None
-Entirely gray, this beast has rarely been seen by mortal eyes.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Gray</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Entirely gray, this beast has rarely been seen by mortal eyes.</text>
+</card>

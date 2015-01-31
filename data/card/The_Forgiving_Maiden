@@ -1,14 +1,17 @@
-The Forgiving Maiden
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-850
-2000
-0
-0
-None
-None
-Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>The Forgiving Maiden</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>850</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.</text>
+</card>

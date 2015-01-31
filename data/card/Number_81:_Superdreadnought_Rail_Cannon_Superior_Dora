@@ -1,14 +1,17 @@
-Number 81: Superdreadnought Rail Cannon Superior Dora
-Monster
-EARTH
-Xyz
-Effect
-Machine
-10
-3200
-4000
-0
-0
-None
-None
-2 Level 10 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; this turn, it is unaffected by other card effects, except its own.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 81: Superdreadnought Rail Cannon Superior Dora</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>3200</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 10 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; this turn, it is unaffected by other card effects, except its own.</text>
+</card>

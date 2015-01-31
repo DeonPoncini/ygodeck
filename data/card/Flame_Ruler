@@ -1,14 +1,17 @@
-Flame Ruler
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1500
-1600
-0
-0
-None
-None
-This card can be treated as 2 Tributes for the Tribute Summon of a FIRE monster
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Ruler</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be treated as 2 Tributes for the Tribute Summon of a FIRE monster</text>
+</card>

@@ -1,14 +1,17 @@
-Red Dragon Vase
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a "Red Dragon Archfiend": Draw 2 cards. You cannot Normal or Special Summon monsters the turn you activate this card, and until the end of your opponent's turn after this card is activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Red Dragon Vase</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Red Dragon Archfiend&quot;: Draw 2 cards. You cannot Normal or Special Summon monsters the turn you activate this card, and until the end of your opponent's turn after this card is activated.</text>
+</card>

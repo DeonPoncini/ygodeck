@@ -1,14 +1,17 @@
-Superheavy Samurai Soulpiercer
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1200
-0
-0
-0
-None
-None
-You can target 1 "Superheavy Samurai" monster you control; equip this monster from your hand or your side of the field to that target. If it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can add 1 "Superheavy Samurai" monster from your Deck to your hand, except "Superheavy Samurai Soulpiercer".
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Soulpiercer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 &quot;Superheavy Samurai&quot; monster you control; equip this monster from your hand or your side of the field to that target. If it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can add 1 &quot;Superheavy Samurai&quot; monster from your Deck to your hand, except &quot;Superheavy Samurai Soulpiercer&quot;.</text>
+</card>

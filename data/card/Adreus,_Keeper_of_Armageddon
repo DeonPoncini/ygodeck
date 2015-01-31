@@ -1,14 +1,17 @@
-Adreus, Keeper of Armageddon
-Monster
-DARK
-Xyz
-Effect
-Fiend
-5
-2600
-1700
-0
-0
-None
-None
-2 Level 5 monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up card your opponent controls; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Adreus, Keeper of Armageddon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2600</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up card your opponent controls; destroy it.</text>
+</card>

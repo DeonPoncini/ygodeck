@@ -1,14 +1,17 @@
-Worm Millidith
-Monster
-LIGHT
-Effect
-None
-Reptile
-4
-400
-1600
-0
-0
-None
-None
-FLIP: You can equip this card to a monster your opponent controls as an Equip Card. Inflict 400 damage to the controller of the equipped monster during each Standby Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Millidith</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can equip this card to a monster your opponent controls as an Equip Card. Inflict 400 damage to the controller of the equipped monster during each Standby Phase.</text>
+</card>

@@ -1,14 +1,17 @@
-Magic Triangle of the Ice Barrier
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Reveal 3 "Ice Barrier" monsters with different names in your hand to select 1 card your opponent controls. Destroy the opponent's card and Special Summon 1 "Ice Barrier" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Magic Triangle of the Ice Barrier</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Reveal 3 &quot;Ice Barrier&quot; monsters with different names in your hand to select 1 card your opponent controls. Destroy the opponent's card and Special Summon 1 &quot;Ice Barrier&quot; monster from your hand.</text>
+</card>

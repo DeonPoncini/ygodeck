@@ -1,14 +1,17 @@
-Justice Bringer
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1700
-1000
-0
-0
-None
-None
-Once per turn, when a Special Summoned monster your opponent controls activates its effect, you can negate the activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Justice Bringer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when a Special Summoned monster your opponent controls activates its effect, you can negate the activation.</text>
+</card>

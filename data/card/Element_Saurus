@@ -1,14 +1,17 @@
-Element Saurus
-Monster
-DARK
-Effect
-None
-Dinosaur
-4
-1500
-1200
-0
-0
-None
-None
-This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● FIRE: This card gains 500 ATK. ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Element Saurus</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● FIRE: This card gains 500 ATK. ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.</text>
+</card>

@@ -1,14 +1,17 @@
-T.G. Rush Rhino
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1600
-800
-0
-0
-None
-None
-If this card attacks, it gains 400 ATK during the Damage Step only. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 "T.G." monster from your Deck to your hand, except "T.G. Rush Rhino".
+<?xml version="1.0" ?>
+<card>
+    <name>T.G. Rush Rhino</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks, it gains 400 ATK during the Damage Step only. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 &quot;T.G.&quot; monster from your Deck to your hand, except &quot;T.G. Rush Rhino&quot;.</text>
+</card>

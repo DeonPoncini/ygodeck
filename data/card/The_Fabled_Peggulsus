@@ -1,14 +1,17 @@
-The Fabled Peggulsus
-Monster
-LIGHT
-Tuner
-None
-Beast
-1
-100
-1600
-0
-0
-None
-None
-When this card is discarded to the Graveyard, you can Special Summon it face-down on your side of the field. When this card is flipped face-up, you can reveal 1 "Fabled" monster in your hand to send 1 "Fabled" monster from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>The Fabled Peggulsus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is discarded to the Graveyard, you can Special Summon it face-down on your side of the field. When this card is flipped face-up, you can reveal 1 &quot;Fabled&quot; monster in your hand to send 1 &quot;Fabled&quot; monster from your Deck to the Graveyard.</text>
+</card>

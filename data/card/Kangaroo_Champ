@@ -1,14 +1,17 @@
-Kangaroo Champ
-Monster
-EARTH
-Effect
-None
-Beast
-4
-800
-700
-0
-0
-None
-None
-A monster that battles with this card is changed to Defense Position after damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Kangaroo Champ</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster that battles with this card is changed to Defense Position after damage calculation.</text>
+</card>

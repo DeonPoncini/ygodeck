@@ -1,14 +1,17 @@
-Bujingi Fox
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-200
-2100
-0
-0
-None
-None
-During either player's turn: You can banish this card from your Graveyard and send 1 "Bujin" monster from your hand to the Graveyard; you take no damage this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujingi Fox</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>200</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can banish this card from your Graveyard and send 1 &quot;Bujin&quot; monster from your hand to the Graveyard; you take no damage this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Archfiend Interceptor
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1400
-1600
-0
-0
-None
-None
-While you control this face-up Attack Position card, when an opponent's monster declares an attack, inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Interceptor</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control this face-up Attack Position card, when an opponent's monster declares an attack, inflict 500 damage to your opponent.</text>
+</card>

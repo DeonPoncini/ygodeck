@@ -1,14 +1,17 @@
-Chewbone
-Monster
-EARTH
-Effect
-None
-Zombie
-3
-300
-300
-0
-0
-None
-None
-FLIP: Special Summon 3 "Chewbone Jr. Tokens" (Zombie-Type/EARTH/Level 1/ATK 100 / DEF 300) in Defense Position to your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Chewbone</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Special Summon 3 &quot;Chewbone Jr. Tokens&quot; (Zombie-Type/EARTH/Level 1/ATK 100 / DEF 300) in Defense Position to your opponent's side of the field.</text>
+</card>

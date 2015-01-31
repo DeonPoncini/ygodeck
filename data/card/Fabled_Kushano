@@ -1,14 +1,17 @@
-Fabled Kushano
-Monster
-LIGHT
-Tuner
-None
-Fiend
-3
-1100
-800
-0
-0
-None
-None
-You can discard 1 "Fabled" monster to the Graveyard except "Fabled Kushano" to add this card from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Kushano</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard 1 &quot;Fabled&quot; monster to the Graveyard except &quot;Fabled Kushano&quot; to add this card from your Graveyard to your hand.</text>
+</card>

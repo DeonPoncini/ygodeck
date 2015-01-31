@@ -1,14 +1,17 @@
-Horseytail
-Monster
-WIND
-Effect
-None
-Plant
-2
-400
-500
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, Special Summon 1 "Horseytail Token" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) to your opponent's side of the field in Defense Position. When this Token is destroyed by battle with a Plant-Type monster, its controller sends 1 card from their hand to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Horseytail</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, Special Summon 1 &quot;Horseytail Token&quot; (Plant-Type/WIND/Level 1/ATK 0/DEF 0) to your opponent's side of the field in Defense Position. When this Token is destroyed by battle with a Plant-Type monster, its controller sends 1 card from their hand to the Graveyard.</text>
+</card>

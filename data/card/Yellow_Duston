@@ -1,14 +1,17 @@
-Yellow Duston
-Monster
-EARTH
-Effect
-None
-Fiend
-1
-0
-1000
-0
-0
-None
-None
-Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller targets 1 monster in their Graveyard; shuffle that target into the Deck. You can only control 1 face-up "Yellow Duston".
+<?xml version="1.0" ?>
+<card>
+    <name>Yellow Duston</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller targets 1 monster in their Graveyard; shuffle that target into the Deck. You can only control 1 face-up &quot;Yellow Duston&quot;.</text>
+</card>

@@ -1,14 +1,17 @@
-Nomadic Force
-Monster
-WIND
-Effect
-None
-Warrior
-4
-1700
-1000
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card to target 1 face-down Defense Position monster your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Nomadic Force</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card to target 1 face-down Defense Position monster your opponent controls; destroy that target.</text>
+</card>

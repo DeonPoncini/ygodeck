@@ -1,14 +1,17 @@
-Lightning Tricorn
-Monster
-LIGHT
-Synchro
-Effect
-Beast
-8
-2800
-2000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Beast-Type monstersIf this card is destroyed by your opponent's card (either by battle or by card effect), you can select 1 "Thunder Unicorn" or "Voltic Bicorn" in your Graveyard and Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightning Tricorn</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Beast-Type monstersIf this card is destroyed by your opponent's card (either by battle or by card effect), you can select 1 &quot;Thunder Unicorn&quot; or &quot;Voltic Bicorn&quot; in your Graveyard and Special Summon it.</text>
+</card>

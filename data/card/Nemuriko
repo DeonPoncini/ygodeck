@@ -1,14 +1,17 @@
-Nemuriko
-Monster
-DARK
-Normal
-None
-Spellcaster
-3
-800
-700
-0
-0
-None
-None
-A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.
+<?xml version="1.0" ?>
+<card>
+    <name>Nemuriko</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.</text>
+</card>

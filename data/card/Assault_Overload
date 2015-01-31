@@ -1,14 +1,17 @@
-Assault Overload
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Tribute 1 "/Assault Mode" monster. Inflict damage to both players equal to its Level x 200.
+<?xml version="1.0" ?>
+<card>
+    <name>Assault Overload</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 &quot;/Assault Mode&quot; monster. Inflict damage to both players equal to its Level x 200.</text>
+</card>

@@ -1,14 +1,17 @@
-Starlight Junktion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-You can Tribute 1 Tuner monster; Special Summon 1 "Synchron" monster from your Deck with a different Level than the Tributed monster. If you Special Summon a Synchro Monster from your Extra Deck during your opponent's turn: Target 1 card on the field; shuffle it into the Deck. You can only use each effect of "Starlight Junktion" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Starlight Junktion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 Tuner monster; Special Summon 1 &quot;Synchron&quot; monster from your Deck with a different Level than the Tributed monster. If you Special Summon a Synchro Monster from your Extra Deck during your opponent's turn: Target 1 card on the field; shuffle it into the Deck. You can only use each effect of &quot;Starlight Junktion&quot; once per turn.</text>
+</card>

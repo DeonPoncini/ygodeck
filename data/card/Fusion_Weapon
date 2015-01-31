@@ -1,14 +1,17 @@
-Fusion Weapon
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Fusion Weapon</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.</text>
+</card>

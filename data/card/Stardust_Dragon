@@ -1,14 +1,17 @@
-Stardust Dragon
-Monster
-WIND
-Synchro
-Effect
-Dragon
-8
-2500
-2000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersDuring either player's turn, when a card or effect is activated that would destroy a card(s) on the field: You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Stardust Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersDuring either player's turn, when a card or effect is activated that would destroy a card(s) on the field: You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your Graveyard.</text>
+</card>

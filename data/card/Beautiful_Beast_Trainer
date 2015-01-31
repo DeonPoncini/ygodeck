@@ -1,14 +1,17 @@
-Beautiful Beast Trainer
-Monster
-EARTH
-Normal
-None
-Warrior
-5
-1750
-1500
-0
-0
-None
-None
-A rare female beast-master with a very dangerous whip.
+<?xml version="1.0" ?>
+<card>
+    <name>Beautiful Beast Trainer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1750</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A rare female beast-master with a very dangerous whip.</text>
+</card>

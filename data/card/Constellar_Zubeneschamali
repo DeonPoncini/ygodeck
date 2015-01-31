@@ -1,14 +1,17 @@
-Constellar Zubeneschamali
-Monster
-LIGHT
-Effect
-None
-Machine
-5
-2100
-1400
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can add 1 "Constellar" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Zubeneschamali</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can add 1 &quot;Constellar&quot; monster from your Deck to your hand.</text>
+</card>

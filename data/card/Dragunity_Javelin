@@ -1,14 +1,17 @@
-Dragunity Javelin
-Monster
-WIND
-Tuner
-None
-Dragon
-2
-1200
-800
-0
-0
-None
-None
-If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type "Dragunity" monster you control, instead of sending it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Javelin</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>2</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type &quot;Dragunity&quot; monster you control, instead of sending it to the Graveyard.</text>
+</card>

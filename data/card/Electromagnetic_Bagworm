@@ -1,14 +1,17 @@
-Electromagnetic Bagworm
-Monster
-LIGHT
-Flip
-Effect
-Insect
-3
-200
-1400
-0
-0
-None
-None
-FLIP: Target 1 Machine-Type monster your opponent controls; take control of that target until your next End Phase.If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Electromagnetic Bagworm</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 Machine-Type monster your opponent controls; take control of that target until your next End Phase.If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.</text>
+</card>

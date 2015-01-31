@@ -1,18 +1,21 @@
-Leonardo's Silver Skyship
-Monster
-WIND
-Pendulum
-None
-Machine
-7
-0
-3000
-10
-10
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Leonardo's Silver Skyship</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>10</lpendulum>
+    <rpendulum>10</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  Once per turn: You can banish 3 Machine-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.
 
  Monster Effect
- Her wings display her glory.The proof of her glories are told in legend.
+ Her wings display her glory.The proof of her glories are told in legend.</text>
+</card>

@@ -1,14 +1,17 @@
-Blackwing - Hurricane the Tornado
-Monster
-DARK
-Tuner
-None
-Winged Beast
-1
-0
-0
-0
-0
-None
-None
-Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Hurricane the Tornado</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.</text>
+</card>

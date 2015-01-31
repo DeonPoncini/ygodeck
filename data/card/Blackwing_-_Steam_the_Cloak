@@ -1,14 +1,17 @@
-Blackwing - Steam the Cloak
-Monster
-DARK
-Tuner
-None
-Winged Beast
-3
-800
-1200
-0
-0
-None
-None
-If this face-up card leaves the field: Special Summon 1 "Steam Token" (Aqua-Type/WIND/Level 1/ATK 100/DEF 100). If this card is in your Graveyard: You can Tribute 1 monster; Special Summon this card from the Graveyard. You can only use this effect of "Blackwing - Steam the Cloak" once per Duel. If this card Summoned this way is used as a Synchro Material Monster, all other Synchro Material Monsters must be "Blackwing" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Steam the Cloak</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-up card leaves the field: Special Summon 1 &quot;Steam Token&quot; (Aqua-Type/WIND/Level 1/ATK 100/DEF 100). If this card is in your Graveyard: You can Tribute 1 monster; Special Summon this card from the Graveyard. You can only use this effect of &quot;Blackwing - Steam the Cloak&quot; once per Duel. If this card Summoned this way is used as a Synchro Material Monster, all other Synchro Material Monsters must be &quot;Blackwing&quot; monsters.</text>
+</card>

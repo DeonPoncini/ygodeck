@@ -1,14 +1,17 @@
-Castel, the Skyblaster Musketeer
-Monster
-WIND
-Xyz
-Effect
-Winged Beast
-4
-2000
-1500
-0
-0
-None
-None
-2 Level 4 monstersYou can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 Xyz Materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 "Castel, the Skyblaster Musketeer" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Castel, the Skyblaster Musketeer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersYou can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 Xyz Materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 &quot;Castel, the Skyblaster Musketeer&quot; effect per turn, and only once that turn.</text>
+</card>

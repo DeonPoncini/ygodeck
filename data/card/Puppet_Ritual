@@ -1,14 +1,17 @@
-Puppet Ritual
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If your opponent's Life Points are at least 2000 higher than yours: You can target 2 Level 8 "Gimmick Puppet" monsters in your Graveyard; Special Summon those targets. You can only activate 1 "Puppet Ritual" per turn. You cannot conduct your Battle Phase the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Puppet Ritual</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent's Life Points are at least 2000 higher than yours: You can target 2 Level 8 &quot;Gimmick Puppet&quot; monsters in your Graveyard; Special Summon those targets. You can only activate 1 &quot;Puppet Ritual&quot; per turn. You cannot conduct your Battle Phase the turn you activate this card.</text>
+</card>

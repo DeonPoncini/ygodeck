@@ -1,14 +1,17 @@
-Destiny HERO - Blade Master
-Monster
-DARK
-Effect
-None
-Warrior
-3
-300
-600
-0
-0
-None
-None
-During your opponent's Battle Phase: You can discard this card; all face-up "Destiny HERO" monsters you control gain 800 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Blade Master</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your opponent's Battle Phase: You can discard this card; all face-up &quot;Destiny HERO&quot; monsters you control gain 800 ATK until the End Phase.</text>
+</card>

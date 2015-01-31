@@ -1,14 +1,17 @@
-Labyrinth Wall
-Monster
-EARTH
-Normal
-None
-Rock
-5
-0
-3000
-0
-0
-None
-None
-These walls form a labyrinth with no exit for enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Labyrinth Wall</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>These walls form a labyrinth with no exit for enemies.</text>
+</card>

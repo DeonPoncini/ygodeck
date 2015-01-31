@@ -1,14 +1,17 @@
-Lightning, Dragon Ruler of Drafts
-Monster
-WIND
-Effect
-None
-Dragon
-3
-500
-1800
-0
-0
-None
-None
-You can discard this card AND 1 Dragon-Type or WIND monster; Special Summon 1 "Tempest, Dragon Ruler of Storms" from your Deck. It cannot attack this turn. You can only use the effect of "Lightning, Dragon Ruler of Drafts" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightning, Dragon Ruler of Drafts</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard this card AND 1 Dragon-Type or WIND monster; Special Summon 1 &quot;Tempest, Dragon Ruler of Storms&quot; from your Deck. It cannot attack this turn. You can only use the effect of &quot;Lightning, Dragon Ruler of Drafts&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Yubel - The Ultimate Nightmare
-Monster
-DARK
-Effect
-None
-Fiend
-12
-0
-0
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must be Special Summoned by "Yubel - Terror Incarnate", and cannot be Special Summoned by other ways. This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battles with an opponent's monster: Inflict damage equal to that monster's ATK to your opponent, also destroy that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Yubel - The Ultimate Nightmare</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>12</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must be Special Summoned by &quot;Yubel - Terror Incarnate&quot;, and cannot be Special Summoned by other ways. This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battles with an opponent's monster: Inflict damage equal to that monster's ATK to your opponent, also destroy that monster.</text>
+</card>

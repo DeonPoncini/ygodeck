@@ -1,14 +1,17 @@
-Catnipped Kitty
-Monster
-EARTH
-Effect
-None
-Beast
-2
-0
-500
-0
-0
-None
-None
-This card cannot be attacked if there is another Beast-Type monster on your side of the field. Once per turn, you can make the DEF of 1 monster on your opponent's side of the field 0 until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Catnipped Kitty</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be attacked if there is another Beast-Type monster on your side of the field. Once per turn, you can make the DEF of 1 monster on your opponent's side of the field 0 until the end of this turn.</text>
+</card>

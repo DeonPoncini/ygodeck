@@ -1,14 +1,17 @@
-Vylon Filament
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Vylon" monster. If the equipped monster attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this face-up card on the field is sent to the Graveyard: You can add 1 "Vylon" Spell Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Filament</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Vylon&quot; monster. If the equipped monster attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this face-up card on the field is sent to the Graveyard: You can add 1 &quot;Vylon&quot; Spell Card from your Deck to your hand.</text>
+</card>

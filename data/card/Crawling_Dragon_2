@@ -1,14 +1,17 @@
-Crawling Dragon 2
-Monster
-EARTH
-Normal
-None
-Dinosaur
-4
-1600
-1200
-0
-0
-None
-None
-A powerful dragon with teeth that can grind almost anything to dust.
+<?xml version="1.0" ?>
+<card>
+    <name>Crawling Dragon #2</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A powerful dragon with teeth that can grind almost anything to dust.</text>
+</card>

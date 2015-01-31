@@ -1,14 +1,17 @@
-Tragoedia
-Monster
-DARK
-Effect
-None
-Fiend
-10
-?
-?
-0
-0
-None
-None
-When you take Battle Damage: You can Special Summon this card from your hand. This card gains 600 ATK and DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with the same Level as the sent monster; take control of that target. Once per turn: You can target 1 monster in your Graveyard; this card's Level becomes the same as that target's, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Tragoedia</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you take Battle Damage: You can Special Summon this card from your hand. This card gains 600 ATK and DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with the same Level as the sent monster; take control of that target. Once per turn: You can target 1 monster in your Graveyard; this card's Level becomes the same as that target's, until the End Phase.</text>
+</card>

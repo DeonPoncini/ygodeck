@@ -1,14 +1,17 @@
-Rhaimundos of the Red Sword
-Monster
-EARTH
-Normal
-None
-Warrior
-4
-1200
-1300
-0
-0
-None
-None
-Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.
+<?xml version="1.0" ?>
+<card>
+    <name>Rhaimundos of the Red Sword</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.</text>
+</card>

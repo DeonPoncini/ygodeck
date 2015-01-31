@@ -1,14 +1,17 @@
-Gambler of Legend
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-500
-1400
-0
-0
-None
-None
-Once per turn, you can toss a coin 3 times and apply the appropriate effect: ● 3 Heads: Destroy all monsters your opponent controls. ● 2 Heads: Discard 1 random card from your opponent's hand. ● 1 Head: Destroy 1 card you control. ● 3 Tails: Discard your entire hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gambler of Legend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>500</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can toss a coin 3 times and apply the appropriate effect: ● 3 Heads: Destroy all monsters your opponent controls. ● 2 Heads: Discard 1 random card from your opponent's hand. ● 1 Head: Destroy 1 card you control. ● 3 Tails: Discard your entire hand.</text>
+</card>

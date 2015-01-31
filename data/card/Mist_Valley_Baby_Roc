@@ -1,14 +1,17 @@
-Mist Valley Baby Roc
-Monster
-WIND
-Tuner
-None
-Winged Beast
-2
-400
-600
-0
-0
-None
-None
-When this card is sent directly from the hand to the Graveyard, you can Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Baby Roc</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent directly from the hand to the Graveyard, you can Special Summon it.</text>
+</card>

@@ -1,14 +1,17 @@
-Takuhee
-Monster
-WIND
-Normal
-None
-Winged Beast
-4
-1450
-1000
-0
-0
-None
-None
-This bird is known far and wide as a harbinger of doom.
+<?xml version="1.0" ?>
+<card>
+    <name>Takuhee</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1450</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This bird is known far and wide as a harbinger of doom.</text>
+</card>

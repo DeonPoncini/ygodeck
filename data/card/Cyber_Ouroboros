@@ -1,14 +1,17 @@
-Cyber Ouroboros
-Monster
-DARK
-Effect
-None
-Machine
-2
-100
-600
-0
-0
-None
-None
-When this card is removed from play, you can send 1 card from your hand to the Graveyard to draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Ouroboros</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is removed from play, you can send 1 card from your hand to the Graveyard to draw 1 card.</text>
+</card>

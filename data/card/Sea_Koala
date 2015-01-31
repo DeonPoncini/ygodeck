@@ -1,14 +1,17 @@
-Sea Koala
-Monster
-EARTH
-Effect
-None
-Beast
-2
-100
-1600
-0
-0
-None
-None
-Once per turn: You can target 1 monster your opponent controls; change its ATK to 0 until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Sea Koala</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 monster your opponent controls; change its ATK to 0 until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Photon Leo
-Monster
-LIGHT
-Effect
-None
-Beast
-6
-2100
-1100
-0
-0
-None
-None
-When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Photon Leo</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.</text>
+</card>

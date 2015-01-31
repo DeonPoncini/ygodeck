@@ -1,14 +1,17 @@
-Hieratic Dragon of Tefnuit
-Monster
-LIGHT
-Effect
-None
-Dragon
-6
-2100
-1400
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, also make its ATK and DEF 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Hieratic Dragon of Tefnuit</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, also make its ATK and DEF 0.</text>
+</card>

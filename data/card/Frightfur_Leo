@@ -1,14 +1,17 @@
-Frightfur Leo
-Monster
-DARK
-Fusion
-Effect
-Fiend
-7
-2400
-2000
-0
-0
-None
-None
-[...] + 1 "Fluffal" monsterMust [...]. You can target ? face-up monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's [...]. [...] the turn you activate this effect. You can only use this effect of "Frightfur Wheel Saw Leo" [...].
+<?xml version="1.0" ?>
+<card>
+    <name>Frightfur Leo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Edge Imp Saw&quot; + 1 &quot;Fluffal&quot; monsterMust be Fusion Summoned and cannot be Special Summoned by other ways. You can target 1 face-up monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. This card cannot attack directly the turn you activate this effect. You can only use this effect of &quot;Frightfur Leo&quot; once per turn.</text>
+</card>

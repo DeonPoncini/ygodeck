@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Yuki Usagi</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when a monster effect is activated on the field OR when the effect of a face-up Spell/Trap Card is activated: You can send this card from your hand or from your side of the field to the Graveyard; destroy that card. You can only use this effect of &quot;Yuki Usagi&quot; once per turn.</text>
+</card>

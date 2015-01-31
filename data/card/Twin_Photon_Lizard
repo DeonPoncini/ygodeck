@@ -1,14 +1,17 @@
-Twin Photon Lizard
-Monster
-LIGHT
-Fusion
-Effect
-Dragon
-6
-2400
-1000
-0
-0
-None
-None
-2 "Photon" monstersYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Twin Photon Lizard</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 &quot;Photon&quot; monstersYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.</text>
+</card>

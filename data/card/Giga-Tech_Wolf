@@ -1,14 +1,17 @@
-Giga-Tech Wolf
-Monster
-FIRE
-Normal
-None
-Machine
-4
-1200
-1400
-0
-0
-None
-None
-An iron wolf with razor-sharp fangs that can penetrate any armor.
+<?xml version="1.0" ?>
+<card>
+    <name>Giga-Tech Wolf</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An iron wolf with razor-sharp fangs that can penetrate any armor.</text>
+</card>

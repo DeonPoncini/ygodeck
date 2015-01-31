@@ -1,14 +1,17 @@
-Millennium Shield
-Monster
-EARTH
-Normal
-None
-Warrior
-5
-0
-3000
-0
-0
-None
-None
-A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Millennium Shield</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.</text>
+</card>

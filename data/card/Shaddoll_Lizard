@@ -1,14 +1,17 @@
-Shaddoll Lizard
-Monster
-DARK
-Flip
-Effect
-Spellcaster
-4
-1800
-1000
-0
-0
-None
-None
-FLIP: You can target 1 monster on the field; destroy it.If this card is sent to the Graveyard by a card effect: You can send 1 "Shaddoll" card from your Deck to the Graveyard, except "Shaddoll Squamata". You can only use 1 "Shaddoll Squamata" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shaddoll Squamata</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can target 1 monster on the field; destroy it.If this card is sent to the Graveyard by a card effect: You can send 1 &quot;Shaddoll&quot; card from your Deck to the Graveyard, except &quot;Shaddoll Squamata&quot;. You can only use 1 &quot;Shaddoll Squamata&quot; effect per turn, and only once that turn.</text>
+</card>

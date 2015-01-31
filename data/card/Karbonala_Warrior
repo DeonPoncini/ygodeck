@@ -1,14 +1,17 @@
-Karbonala Warrior
-Monster
-EARTH
-Fusion
-None
-Warrior
-4
-1500
-1200
-0
-0
-None
-None
-"M-Warrior #1" + "M-Warrior #2"
+<?xml version="1.0" ?>
+<card>
+    <name>Karbonala Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;M-Warrior #1&quot; + &quot;M-Warrior #2&quot;</text>
+</card>

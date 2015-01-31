@@ -1,14 +1,17 @@
-Raidraptor - Mimicry Lanius
-Monster
-DARK
-Effect
-None
-Winged Beast
-4
-1100
-1900
-0
-0
-None
-None
-Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can increase the Levels of all "Raidraptor" monsters you currently control by 1. During your Main Phase, if this card was sent to the Graveyard this turn: You can banish this card from your Graveyard; add 1 "Raidraptor" card from your Deck to your hand, except "Raidraptor - Mimicry Lanius". You can only use this effect of "Raidraptor - Mimicry Lanius" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Raidraptor - Mimicry Lanius</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can increase the Levels of all &quot;Raidraptor&quot; monsters you currently control by 1. During your Main Phase, if this card was sent to the Graveyard this turn: You can banish this card from your Graveyard; add 1 &quot;Raidraptor&quot; card from your Deck to your hand, except &quot;Raidraptor - Mimicry Lanius&quot;. You can only use this effect of &quot;Raidraptor - Mimicry Lanius&quot; once per turn.</text>
+</card>

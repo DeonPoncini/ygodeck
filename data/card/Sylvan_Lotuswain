@@ -1,14 +1,17 @@
-Sylvan Lotuswain
-Monster
-WATER
-Effect
-None
-Plant
-5
-2300
-1100
-0
-0
-None
-None
-Once per turn: You can excavate a number of cards from the top of your Deck, equal to the number of cards your opponent controls, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target up to 5 "Sylvan" cards in your Graveyard, except "Sylvan Lotuswain"; place those targets on the bottom of your Deck in any order.
+<?xml version="1.0" ?>
+<card>
+    <name>Sylvan Lotuswain</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can excavate a number of cards from the top of your Deck, equal to the number of cards your opponent controls, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target up to 5 &quot;Sylvan&quot; cards in your Graveyard, except &quot;Sylvan Lotuswain&quot;; place those targets on the bottom of your Deck in any order.</text>
+</card>

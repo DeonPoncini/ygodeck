@@ -1,14 +1,17 @@
-Cell Explosion Virus
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when an opponent's monster with an A-Counter declares an attack. Destroy all Attack Position monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Cell Explosion Virus</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when an opponent's monster with an A-Counter declares an attack. Destroy all Attack Position monsters your opponent controls.</text>
+</card>

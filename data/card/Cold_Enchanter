@@ -1,14 +1,17 @@
-Cold Enchanter
-Monster
-WATER
-Effect
-None
-Aqua
-4
-1600
-1200
-0
-0
-None
-None
-You can discard 1 card to target 1 face-up monster on the field; place an Ice Counter on that target. This card gains 300 ATK for each Ice Counter on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Cold Enchanter</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard 1 card to target 1 face-up monster on the field; place an Ice Counter on that target. This card gains 300 ATK for each Ice Counter on the field.</text>
+</card>

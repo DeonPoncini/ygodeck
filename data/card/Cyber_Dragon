@@ -1,14 +1,17 @@
-Cyber Dragon
-Monster
-LIGHT
-Effect
-None
-Machine
-5
-2100
-1600
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).</text>
+</card>

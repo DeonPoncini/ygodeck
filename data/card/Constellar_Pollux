@@ -1,14 +1,17 @@
-Constellar Pollux
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1700
-600
-0
-0
-None
-None
-During the turn this card was Normal Summoned, you can Normal Summon 1 "Constellar" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Pollux</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During the turn this card was Normal Summoned, you can Normal Summon 1 &quot;Constellar&quot; monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)</text>
+</card>

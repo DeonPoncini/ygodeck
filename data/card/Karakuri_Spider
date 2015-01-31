@@ -1,14 +1,17 @@
-Karakuri Spider
-Monster
-EARTH
-Effect
-None
-Machine
-2
-400
-500
-0
-0
-None
-None
-If this card attacks a DARK monster, destroy the attack target after damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Spider</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks a DARK monster, destroy the attack target after damage calculation.</text>
+</card>

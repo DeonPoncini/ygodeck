@@ -1,14 +1,17 @@
-Battlecruiser Dianthus
-Monster
-EARTH
-Xyz
-Effect
-Plant
-3
-2100
-1800
-0
-0
-None
-None
-3 Level 3 monstersYou can detach 1 Xyz Material from this card; inflict 200 damage to your opponent for each card in their hand. You can only use the effect of "Battlecruiser Dianthus" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Battlecruiser Dianthus</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 3 monstersYou can detach 1 Xyz Material from this card; inflict 200 damage to your opponent for each card in their hand. You can only use the effect of &quot;Battlecruiser Dianthus&quot; once per turn.</text>
+</card>

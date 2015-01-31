@@ -1,14 +1,17 @@
-Cyber Dragon Nova
-Monster
-LIGHT
-Xyz
-Effect
-Machine
-5
-2100
-1600
-0
-0
-None
-None
-2 Level 5 Machine-Type monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 "Cyber Dragon" in your Graveyard; Special Summon that target. Once per turn, during either player's turn: You can banish 1 "Cyber Dragon" from your hand or face-up from your Monster Card Zone; this card gains 2100 ATK until the End Phase. If this card in your possession is sent to your Graveyard by your opponent's card effect: You can Special Summon 1 Machine-Type Fusion Monster from your Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Dragon Nova</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 Machine-Type monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 &quot;Cyber Dragon&quot; in your Graveyard; Special Summon that target. Once per turn, during either player's turn: You can banish 1 &quot;Cyber Dragon&quot; from your hand or face-up from your Monster Card Zone; this card gains 2100 ATK until the End Phase. If this card in your possession is sent to your Graveyard by your opponent's card effect: You can Special Summon 1 Machine-Type Fusion Monster from your Extra Deck.</text>
+</card>

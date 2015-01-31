@@ -1,14 +1,17 @@
-Paladin of Photon Dragon
-Monster
-LIGHT
-Ritual
-Effect
-Warrior
-4
-1900
-800
-0
-0
-None
-None
-You can Ritual Summon this card with "Luminous Dragon Ritual". You can Tribute this card; Special Summon 1 "Galaxy-Eyes Photon Dragon" from your hand or Deck. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Paladin of Photon Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Luminous Dragon Ritual&quot;. You can Tribute this card; Special Summon 1 &quot;Galaxy-Eyes Photon Dragon&quot; from your hand or Deck. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card.</text>
+</card>

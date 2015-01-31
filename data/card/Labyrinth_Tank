@@ -1,14 +1,17 @@
-Labyrinth Tank
-Monster
-DARK
-Fusion
-None
-Machine
-7
-2400
-2400
-0
-0
-None
-None
-"Giga-Tech Wolf" + "Cannon Soldier"
+<?xml version="1.0" ?>
+<card>
+    <name>Labyrinth Tank</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Giga-Tech Wolf&quot; + &quot;Cannon Soldier&quot;</text>
+</card>

@@ -1,14 +1,17 @@
-Divine Dragon - Excelion
-Monster
-LIGHT
-Effect
-None
-Dragon
-5
-1500
-900
-0
-0
-None
-None
-When this card is Normal Summoned, it gets 1 of the following effects for each "Divine Dragon - Excelion" in your Graveyard when this effect resolves (your choice). These effects cannot accumulate. ● This card gains 1000 ATK. ● If this card destroys your opponent's monster by battle, it can attack once again in a row. ● When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Divine Dragon - Excelion</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>1500</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, it gets 1 of the following effects for each &quot;Divine Dragon - Excelion&quot; in your Graveyard when this effect resolves (your choice). These effects cannot accumulate. ● This card gains 1000 ATK. ● If this card destroys your opponent's monster by battle, it can attack once again in a row. ● When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster.</text>
+</card>

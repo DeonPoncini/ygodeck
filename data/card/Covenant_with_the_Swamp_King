@@ -1,14 +1,17 @@
-Covenant with the Swamp King
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During your Main Phase: You can Fusion Summon 1 Fiend-Type Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If you would Fusion Summon a "DD" Fusion Monster, you can also banish monsters from your Graveyard as Fusion Materials. You can only use this effect of "Covenant with the Swamp King" once per turn. During each of your Standby Phases: You take 1000 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Covenant with the Swamp King</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can Fusion Summon 1 Fiend-Type Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If you would Fusion Summon a &quot;D/D&quot; Fusion Monster, you can also banish monsters from your Graveyard as Fusion Materials. You can only use this effect of &quot;Covenant with the Swamp King&quot; once per turn. During each of your Standby Phases: You take 1000 damage.</text>
+</card>

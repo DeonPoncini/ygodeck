@@ -1,14 +1,17 @@
-Blackwing - Pinaka the Waxing Moon
-Monster
-DARK
-Tuner
-Effect
-Winged Beast
-3
-1200
-1000
-0
-0
-None
-None
-Cannot be used as a Synchro Material, except for the Synchro Summon of a "Blackwing" monster. During the End Phase, if this card is in the Graveyard because it was sent there from the field this turn: You can add 1 "Blackwing" monster from your Deck to your hand, except "Blackwing - Pinaka the Waxing Moon". You can only use this effect of "Blackwing - Pinaka the Waxing Moon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Pinaka the Waxing Moon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Synchro Material, except for the Synchro Summon of a &quot;Blackwing&quot; monster. During the End Phase, if this card is in the Graveyard because it was sent there from the field this turn: You can add 1 &quot;Blackwing&quot; monster from your Deck to your hand, except &quot;Blackwing - Pinaka the Waxing Moon&quot;. You can only use this effect of &quot;Blackwing - Pinaka the Waxing Moon&quot; once per turn.</text>
+</card>

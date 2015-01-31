@@ -1,14 +1,17 @@
-Dragonic Attack
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as a Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragonic Attack</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as a Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.</text>
+</card>

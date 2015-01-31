@@ -1,14 +1,17 @@
-Mine Mole
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1000
-1200
-0
-0
-None
-None
-Once per turn, this card cannot be destroyed by battle. If this card is sent to the Graveyard as a Synchro Material Monster of a Beast-Type monster, draw 1 card. If this card is removed from the field by your opponent's card effect, remove this card from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Mine Mole</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, this card cannot be destroyed by battle. If this card is sent to the Graveyard as a Synchro Material Monster of a Beast-Type monster, draw 1 card. If this card is removed from the field by your opponent's card effect, remove this card from play.</text>
+</card>

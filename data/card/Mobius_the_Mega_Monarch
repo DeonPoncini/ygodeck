@@ -1,14 +1,17 @@
-Mobius the Mega Monarch
-Monster
-WATER
-Effect
-None
-Aqua
-8
-2800
-1000
-0
-0
-None
-None
-You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: You can target up to 3 Spell/Trap Cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing a WATER monster, add this additional effect.● Your opponent cannot activate the targeted card(s) in response to this effect’s activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Mobius the Mega Monarch</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: You can target up to 3 Spell/Trap Cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing a WATER monster, add this additional effect.● Your opponent cannot activate the targeted card(s) in response to this effect’s activation.</text>
+</card>

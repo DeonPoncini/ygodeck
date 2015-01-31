@@ -1,14 +1,17 @@
-Unibird
-Monster
-WIND
-Effect
-None
-Winged Beast
-2
-100
-600
-0
-0
-None
-None
-You can remove from play this face-up card, and 1 face-up monster you control, to select 1 Synchro Monster in your Graveyard with a Level less than or equal to the combined original Levels of the other 2 monsters. Special Summon that Synchro Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Unibird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can remove from play this face-up card, and 1 face-up monster you control, to select 1 Synchro Monster in your Graveyard with a Level less than or equal to the combined original Levels of the other 2 monsters. Special Summon that Synchro Monster.</text>
+</card>

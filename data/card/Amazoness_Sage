@@ -1,14 +1,17 @@
-Amazoness Sage
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1400
-700
-0
-0
-None
-None
-At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Sage</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap Card your opponent controls; destroy that target.</text>
+</card>

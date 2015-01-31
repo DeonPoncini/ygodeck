@@ -1,14 +1,17 @@
-Sword of Dragon's Soul
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-This card can only be equipped to a Warrior-Type monster. A monster equipped with this card increases its ATK by 700 points. A Dragon-Type monster that battles with the monster equipped with this card is destroyed at the end of the Battle Phase. (Damage calculation is applied normally.)
+<?xml version="1.0" ?>
+<card>
+    <name>Sword of Dragon's Soul</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be equipped to a Warrior-Type monster. A monster equipped with this card increases its ATK by 700 points. A Dragon-Type monster that battles with the monster equipped with this card is destroyed at the end of the Battle Phase. (Damage calculation is applied normally.)</text>
+</card>

@@ -1,14 +1,17 @@
-Lightning Chidori
-Monster
-WIND
-Xyz
-Effect
-Thunder
-4
-1900
-1600
-0
-0
-None
-None
-2 Level 4 WIND monstersWhen this card is Xyz Summoned: Target 1 Set card your opponent controls; return that target to the bottom of the Deck. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card your opponent controls; return that target to the top of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightning Chidori</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 WIND monstersWhen this card is Xyz Summoned: Target 1 Set card your opponent controls; return that target to the bottom of the Deck. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card your opponent controls; return that target to the top of the Deck.</text>
+</card>

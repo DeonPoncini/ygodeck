@@ -1,14 +1,17 @@
-Gimmick Puppet Twilight Joker
-Monster
-DARK
-Effect
-None
-Machine
-8
-800
-1600
-0
-0
-None
-None
-When a "Gimmick Puppet" monster you control is destroyed by battle and sent to your Graveyard: You can banish that monster; Special Summon this card from your hand. You can only use the effect of "Gimmick Puppet Twilight Joker" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gimmick Puppet Twilight Joker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Gimmick Puppet&quot; monster you control is destroyed by battle and sent to your Graveyard: You can banish that monster; Special Summon this card from your hand. You can only use the effect of &quot;Gimmick Puppet Twilight Joker&quot; once per turn.</text>
+</card>

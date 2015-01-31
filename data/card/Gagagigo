@@ -1,14 +1,17 @@
-Gagagigo
-Monster
-WATER
-Normal
-None
-Reptile
-4
-1850
-1000
-0
-0
-None
-None
-This young evildoer used to have an evil heart, but by meeting a special person, he discovered justice.
+<?xml version="1.0" ?>
+<card>
+    <name>Gagagigo</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1850</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This young evildoer used to have an evil heart, but by meeting a special person, he discovered justice.</text>
+</card>

@@ -1,14 +1,17 @@
-Malice Doll of Demise
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1600
-1700
-0
-0
-None
-None
-During your next Standby Phase after this card was sent from the field to the Graveyard by the effect of a Continuous Spell Card: Special Summon this card from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Malice Doll of Demise</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your next Standby Phase after this card was sent from the field to the Graveyard by the effect of a Continuous Spell Card: Special Summon this card from the Graveyard.</text>
+</card>

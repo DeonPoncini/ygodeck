@@ -1,14 +1,17 @@
-El Shaddoll Wendigo
-Monster
-WIND
-Fusion
-Effect
-Psychic
-6
-200
-2800
-0
-0
-None
-None
-1 "Shaddoll" monster + 1 WIND monsterMust first be Fusion Summoned. During either player's turn: You can target 1 monster you control; this turn, it cannot be destroyed by battle with an opponent's Special Summoned monster. You can only use this effect of "El Shaddoll Wendigo" once per turn. If this card is sent to the Graveyard: You can target 1 "Shaddoll" Spell/Trap Card in your Graveyard; add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>El Shaddoll Wendigo</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>6</level>
+    <attack>200</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Shaddoll&quot; monster + 1 WIND monsterMust first be Fusion Summoned. During either player's turn: You can target 1 monster you control; this turn, it cannot be destroyed by battle with an opponent's Special Summoned monster. You can only use this effect of &quot;El Shaddoll Wendigo&quot; once per turn. If this card is sent to the Graveyard: You can target 1 &quot;Shaddoll&quot; Spell/Trap Card in your Graveyard; add it to your hand.</text>
+</card>

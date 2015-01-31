@@ -1,14 +1,17 @@
-The Supremacy Sun
-Monster
-DARK
-Effect
-None
-Fiend
-10
-3000
-3000
-0
-0
-None
-None
-Cannot be Special Summoned, except by its own effect. After this face-up card on the field is destroyed and sent to the Graveyard, during the Standby Phase of the next turn: You can discard 1 card; Special Summon this card from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>The Supremacy Sun</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned, except by its own effect. After this face-up card on the field is destroyed and sent to the Graveyard, during the Standby Phase of the next turn: You can discard 1 card; Special Summon this card from the Graveyard.</text>
+</card>

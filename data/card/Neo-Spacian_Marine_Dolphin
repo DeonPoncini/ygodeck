@@ -1,14 +1,17 @@
-Neo-Spacian Marine Dolphin
-Monster
-WATER
-Fusion
-Effect
-Warrior
-4
-900
-1100
-0
-0
-None
-None
-This card's name is also treated as "Neo-Spacian Aqua Dolphin". This card cannot be Special Summoned except with "NEX". Once per turn, you can discard 1 card to look at your opponent's hand and select 1 Monster Card in it. If you control a monster with an ATK greater than or equal to the selected monster's, destroy the selected card and inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo-Spacian Marine Dolphin</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>900</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's name is also treated as &quot;Neo-Spacian Aqua Dolphin&quot;. This card cannot be Special Summoned except with &quot;NEX&quot;. Once per turn, you can discard 1 card to look at your opponent's hand and select 1 Monster Card in it. If you control a monster with an ATK greater than or equal to the selected monster's, destroy the selected card and inflict 500 damage to your opponent.</text>
+</card>

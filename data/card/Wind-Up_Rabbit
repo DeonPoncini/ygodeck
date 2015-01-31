@@ -1,14 +1,17 @@
-Wind-Up Rabbit
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-3
-1400
-600
-0
-0
-None
-None
-During either player's turn: You can target 1 "Wind-Up" monster you control; banish it until your next Standby Phase. This effect can be used only once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Rabbit</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can target 1 &quot;Wind-Up&quot; monster you control; banish it until your next Standby Phase. This effect can be used only once while this card is face-up on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Soul Tiger
-Monster
-EARTH
-Normal
-None
-Beast
-4
-0
-2100
-0
-0
-None
-None
-The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.
+<?xml version="1.0" ?>
+<card>
+    <name>Soul Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.</text>
+</card>

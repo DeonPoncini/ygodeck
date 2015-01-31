@@ -1,14 +1,17 @@
-Aqua Spirit
-Monster
-WATER
-Effect
-None
-Aqua
-4
-1600
-1200
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing 1 WATER monster in your Graveyard from play. During each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Aqua Spirit</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing 1 WATER monster in your Graveyard from play. During each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.</text>
+</card>

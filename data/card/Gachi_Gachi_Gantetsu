@@ -1,14 +1,17 @@
-Gachi Gachi Gantetsu
-Monster
-EARTH
-Xyz
-Effect
-Rock
-2
-500
-1800
-0
-0
-None
-None
-2 Level 2 monsters If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Face-up monsters you control gain 200 ATK and DEF for each Xyz Material attached to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Gachi Gachi Gantetsu</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 2 monsters If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Face-up monsters you control gain 200 ATK and DEF for each Xyz Material attached to this card.</text>
+</card>

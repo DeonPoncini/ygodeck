@@ -1,14 +1,17 @@
-Waboku
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Waboku</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.</text>
+</card>

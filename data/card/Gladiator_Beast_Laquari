@@ -1,14 +1,17 @@
-Gladiator Beast Laquari
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-4
-1800
-400
-0
-0
-None
-None
-If this card was Special Summoned by the effect of a "Gladiator Beast" monster, its original ATK becomes 2100. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Laquari".
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Laquari</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster, its original ATK becomes 2100. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 &quot;Gladiator Beast&quot; monster from your Deck, except &quot;Gladiator Beast Laquari&quot;.</text>
+</card>

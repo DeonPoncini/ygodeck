@@ -1,14 +1,17 @@
-Re-Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Pay 800 Life Points. Select 1 Fusion Monster from your Graveyard, Special Summon it, and equip it with this card. When this card is destroyed, remove the equipped monster from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Re-Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Pay 800 Life Points. Select 1 Fusion Monster from your Graveyard, Special Summon it, and equip it with this card. When this card is destroyed, remove the equipped monster from play.</text>
+</card>

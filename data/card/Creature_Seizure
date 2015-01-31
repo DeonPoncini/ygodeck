@@ -1,14 +1,17 @@
-Creature Seizure
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Creature Seizure</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.</text>
+</card>

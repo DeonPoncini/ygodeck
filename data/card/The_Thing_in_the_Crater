@@ -1,14 +1,17 @@
-The Thing in the Crater
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1000
-1200
-0
-0
-None
-None
-When this card is destroyed and sent from the field to the Graveyard, you can Special Summon 1 Pyro-Type Monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>The Thing in the Crater</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed and sent from the field to the Graveyard, you can Special Summon 1 Pyro-Type Monster from your hand.</text>
+</card>

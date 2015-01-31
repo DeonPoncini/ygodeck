@@ -1,14 +1,17 @@
-Rude Kaiser
-Monster
-EARTH
-Normal
-None
-Beast-Warrior
-5
-1800
-1600
-0
-0
-None
-None
-With an axe in each hand, this monster delivers heavy damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Rude Kaiser</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>With an axe in each hand, this monster delivers heavy damage.</text>
+</card>

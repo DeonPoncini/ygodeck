@@ -1,14 +1,17 @@
-Crawling Dragon
-Monster
-EARTH
-Normal
-None
-Dragon
-5
-1600
-1400
-0
-0
-None
-None
-This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.
+<?xml version="1.0" ?>
+<card>
+    <name>Crawling Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.</text>
+</card>

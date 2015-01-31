@@ -1,14 +1,17 @@
-Invader of the Throne
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1350
-1700
-0
-0
-None
-None
-FLIP: Select 1 monster on your opponent's side of the field and switch control of it with this card. This effect cannot be activated during the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Invader of the Throne</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1350</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Select 1 monster on your opponent's side of the field and switch control of it with this card. This effect cannot be activated during the Battle Phase.</text>
+</card>

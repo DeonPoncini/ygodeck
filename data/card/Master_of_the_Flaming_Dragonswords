@@ -1,14 +1,17 @@
-Master of the Flaming Dragonswords
-Monster
-FIRE
-Effect
-None
-Warrior
-4
-1800
-1200
-0
-0
-None
-None
-When a monster is Normal Summoned to your side of the field, except "Master of the Flaming Dragonswords": You can increase that monster's Level by 1, and this card gains 300 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Master of the Flaming Dragonswords</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a monster is Normal Summoned to your side of the field, except &quot;Master of the Flaming Dragonswords&quot;: You can increase that monster's Level by 1, and this card gains 300 ATK until the End Phase.</text>
+</card>

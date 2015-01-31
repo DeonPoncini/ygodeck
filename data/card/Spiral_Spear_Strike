@@ -1,14 +1,17 @@
-Spiral Spear Strike
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When a "Gaia the Fierce Knight", "Swift Gaia the Fierce Knight" or "Gaia the Dragon Champion" you control attacks a Defense Position monster, if the ATK of that card is higher than the DEF of the Defense Position monster, inflict the difference as Battle Damage to your opponent. If "Gaia the Dragon Champion" inflicts Battle Damage with this effect, draw 2 cards and discard 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Spiral Spear Strike</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Gaia the Fierce Knight&quot;, &quot;Swift Gaia the Fierce Knight&quot; or &quot;Gaia the Dragon Champion&quot; you control attacks a Defense Position monster, if the ATK of that card is higher than the DEF of the Defense Position monster, inflict the difference as Battle Damage to your opponent. If &quot;Gaia the Dragon Champion&quot; inflicts Battle Damage with this effect, draw 2 cards and discard 1 card.</text>
+</card>

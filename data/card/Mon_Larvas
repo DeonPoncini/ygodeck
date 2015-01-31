@@ -1,14 +1,17 @@
-Mon Larvas
-Monster
-EARTH
-Normal
-None
-Beast
-4
-1300
-1400
-0
-0
-None
-None
-A further step in the evolutionary chain, it is much more powerful than "Larvas".
+<?xml version="1.0" ?>
+<card>
+    <name>Mon Larvas</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A further step in the evolutionary chain, it is much more powerful than &quot;Larvas&quot;.</text>
+</card>

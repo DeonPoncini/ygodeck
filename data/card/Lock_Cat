@@ -1,14 +1,17 @@
-Lock Cat
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1200
-1000
-0
-0
-None
-None
-When this card is Normal Summoned, you can select 1 Level 1 Beast-Type monster in your Graveyard and Special Summon it in face-up Defense Position. Its effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Lock Cat</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can select 1 Level 1 Beast-Type monster in your Graveyard and Special Summon it in face-up Defense Position. Its effects are negated.</text>
+</card>

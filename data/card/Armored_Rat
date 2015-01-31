@@ -1,14 +1,17 @@
-Armored Rat
-Monster
-EARTH
-Normal
-None
-Beast
-3
-950
-1100
-0
-0
-None
-None
-The fur on this monster rat is tough enough to repel swords.
+<?xml version="1.0" ?>
+<card>
+    <name>Armored Rat</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>950</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The fur on this monster rat is tough enough to repel swords.</text>
+</card>

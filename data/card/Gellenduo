@@ -1,14 +1,17 @@
-Gellenduo
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1700
-0
-0
-0
-None
-None
-This card cannot be destroyed by battle. When this card's controller takes any damage, destroy this face-up card. This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Fairy-Type monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Gellenduo</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. When this card's controller takes any damage, destroy this face-up card. This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Fairy-Type monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Elegy the Melodious Diva
-Monster
-LIGHT
-Effect
-None
-Fairy
-5
-2000
-1200
-0
-0
-None
-None
-Special Summoned "Melodious" monsters you control cannot be destroyed by card effects. If this card was Special Summoned, all Fairy-Type monsters you control gain 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Elegy the Melodious Diva</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Special Summoned &quot;Melodious&quot; monsters you control cannot be destroyed by card effects. If this card was Special Summoned, all Fairy-Type monsters you control gain 300 ATK.</text>
+</card>

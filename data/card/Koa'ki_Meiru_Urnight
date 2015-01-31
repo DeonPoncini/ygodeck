@@ -1,14 +1,17 @@
-Koa'ki Meiru Urnight
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-4
-2000
-1500
-0
-0
-None
-None
-During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. Once per turn, you can reveal 1 "Iron Core of Koa'ki Meiru" in your hand to Special Summon 1 Level 4 or lower "Koa'ki Meiru" monster from your Deck, except "Koa'ki Meiru Urnight".
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Urnight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases, destroy this card unless you send 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. Once per turn, you can reveal 1 &quot;Iron Core of Koa'ki Meiru&quot; in your hand to Special Summon 1 Level 4 or lower &quot;Koa'ki Meiru&quot; monster from your Deck, except &quot;Koa'ki Meiru Urnight&quot;.</text>
+</card>

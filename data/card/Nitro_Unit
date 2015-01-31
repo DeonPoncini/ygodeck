@@ -1,14 +1,17 @@
-Nitro Unit
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a monster on your opponent's side of the field. When the equipped monster is destroyed by battle and sent to the Graveyard, inflict damage to your opponent equal to the ATK of the equipped monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Nitro Unit</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a monster on your opponent's side of the field. When the equipped monster is destroyed by battle and sent to the Graveyard, inflict damage to your opponent equal to the ATK of the equipped monster.</text>
+</card>

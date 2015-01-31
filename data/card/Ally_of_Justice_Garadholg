@@ -1,14 +1,17 @@
-Ally of Justice Garadholg
-Monster
-DARK
-Effect
-None
-Machine
-4
-1600
-400
-0
-0
-None
-None
-If this card battles a LIGHT monster, it gains 200 ATK during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Garadholg</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card battles a LIGHT monster, it gains 200 ATK during the Damage Step only.</text>
+</card>

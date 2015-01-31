@@ -1,14 +1,17 @@
-Pyramid of Light
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-If this face-up card is removed from your side of the field, destroy "Andro Sphinx" and "Sphinx Teleia" on your side of the field and remove them from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Pyramid of Light</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>If this face-up card is removed from your side of the field, destroy &quot;Andro Sphinx&quot; and &quot;Sphinx Teleia&quot; on your side of the field and remove them from play.</text>
+</card>

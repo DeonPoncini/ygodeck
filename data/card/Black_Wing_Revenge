@@ -1,14 +1,17 @@
-Black Wing Revenge
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Winged Beast-Type monster you control is destroyed by battle and sent to the Graveyard: Special Summon 2 "Blackwing - Black Crest Tokens" (Winged Beast-Type/DARK/Level 2/ATK 0/DEF 800).
+<?xml version="1.0" ?>
+<card>
+    <name>Black Wing Revenge</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Winged Beast-Type monster you control is destroyed by battle and sent to the Graveyard: Special Summon 2 &quot;Blackwing - Black Crest Tokens&quot; (Winged Beast-Type/DARK/Level 2/ATK 0/DEF 800).</text>
+</card>

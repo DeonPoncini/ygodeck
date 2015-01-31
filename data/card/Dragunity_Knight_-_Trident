@@ -1,14 +1,17 @@
-Dragunity Knight - Trident
-Monster
-WIND
-Synchro
-Effect
-Dragon
-7
-2400
-1700
-0
-0
-None
-None
-1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monstersOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Knight - Trident</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monstersOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards to the Graveyard.</text>
+</card>

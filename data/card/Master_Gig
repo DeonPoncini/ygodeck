@@ -1,14 +1,17 @@
-Master Gig
-Monster
-EARTH
-Effect
-None
-Psychic
-8
-2600
-1400
-0
-0
-None
-None
-Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Master Gig</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.</text>
+</card>

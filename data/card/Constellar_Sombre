@@ -1,14 +1,17 @@
-Constellar Sombre
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1550
-1600
-0
-0
-None
-None
-You can only use each effect of "Constellar Sombre" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 "Constellar" monster for 1 less Tribute.You can banish 1 "Constellar" monster from your Graveyard, then target 1 "Constellar" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.● This turn: You can activate this effect; Normal Summon 1 "Constellar" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Sombre</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1550</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only use each effect of &quot;Constellar Sombre&quot; once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 &quot;Constellar&quot; monster for 1 less Tribute.You can banish 1 &quot;Constellar&quot; monster from your Graveyard, then target 1 &quot;Constellar&quot; monster in your Graveyard; add that target to your hand, also, this card gains the following effect.● This turn: You can activate this effect; Normal Summon 1 &quot;Constellar&quot; monster.</text>
+</card>

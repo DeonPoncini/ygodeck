@@ -1,14 +1,17 @@
-Rank-Up-Magic Admiration of the Thousands
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 or more Xyz Monsters in each Graveyard, all of the same Rank; Special Summon from your Extra Deck, 1 "Number C" or "CXyz" monster that is 1 Rank higher than those monsters, and attach those monsters to it as Xyz Materials. You cannot Special Summon other monsters during the turn you activate this card. You can only activate 1 "Rank-Up-Magic Admiration of the Thousands" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Rank-Up-Magic Admiration of the Thousands</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 or more Xyz Monsters in each Graveyard, all of the same Rank; Special Summon from your Extra Deck, 1 &quot;Number C&quot; or &quot;CXyz&quot; monster that is 1 Rank higher than those monsters, and attach those monsters to it as Xyz Materials. You cannot Special Summon other monsters during the turn you activate this card. You can only activate 1 &quot;Rank-Up-Magic Admiration of the Thousands&quot; per turn.</text>
+</card>

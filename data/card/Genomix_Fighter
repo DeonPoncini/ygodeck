@@ -1,14 +1,17 @@
-Genomix Fighter
-Monster
-WIND
-Tuner
-None
-Psychic
-6
-2200
-1100
-0
-0
-None
-None
-You can Normal Summon this card without Tributing, but its original ATK is halved and its Level becomes 3. Once per turn: You can declare 1 Monster Type; if this card is used as a Synchro Material Monster this turn, treat this card and the other Synchro Material Monsters as that Monster Type for that Synchro Summon. If you activate this effect, you cannot Normal or Special Summon monsters for the rest of this turn, except monsters with the declared Monster Type.
+<?xml version="1.0" ?>
+<card>
+    <name>Genomix Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Normal Summon this card without Tributing, but its original ATK is halved and its Level becomes 3. Once per turn: You can declare 1 Monster Type; if this card is used as a Synchro Material Monster this turn, treat this card and the other Synchro Material Monsters as that Monster Type for that Synchro Summon. If you activate this effect, you cannot Normal or Special Summon monsters for the rest of this turn, except monsters with the declared Monster Type.</text>
+</card>

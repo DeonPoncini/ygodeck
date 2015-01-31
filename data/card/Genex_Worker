@@ -1,14 +1,17 @@
-Genex Worker
-Monster
-WIND
-Effect
-None
-Machine
-3
-1200
-1200
-0
-0
-None
-None
-You can Tribute this card to Special Summon 1 "Genex" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Worker</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card to Special Summon 1 &quot;Genex&quot; monster from your hand.</text>
+</card>

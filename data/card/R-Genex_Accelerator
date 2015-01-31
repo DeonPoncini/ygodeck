@@ -1,14 +1,17 @@
-R-Genex Accelerator
-Monster
-WIND
-Effect
-None
-Machine
-4
-1500
-1900
-0
-0
-None
-None
-When a "Genex" monster is added from your Deck to your hand, you can reveal that monster to Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>R-Genex Accelerator</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Genex&quot; monster is added from your Deck to your hand, you can reveal that monster to Special Summon it.</text>
+</card>

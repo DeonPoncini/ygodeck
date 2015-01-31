@@ -1,14 +1,17 @@
-Crop Circles
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Send any number of monsters from your side of the field to the Graveyard to activate this card. Select from your Deck 1 "Alien" monster whose Level is equal to the total Levels of the sent monsters, and Special Summon it. If you fail to find a monster to Special Summon, you take 2000 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Crop Circles</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Send any number of monsters from your side of the field to the Graveyard to activate this card. Select from your Deck 1 &quot;Alien&quot; monster whose Level is equal to the total Levels of the sent monsters, and Special Summon it. If you fail to find a monster to Special Summon, you take 2000 damage.</text>
+</card>

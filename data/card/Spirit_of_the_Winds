@@ -1,14 +1,17 @@
-Spirit of the Winds
-Monster
-WIND
-Normal
-None
-Spellcaster
-5
-1700
-1400
-0
-0
-None
-None
-A free-spirited wind elemental that flits about as it desires. It brings storms when it becomes upset.
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit of the Winds</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A free-spirited wind elemental that flits about as it desires. It brings storms when it becomes upset.</text>
+</card>

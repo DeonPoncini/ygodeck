@@ -1,14 +1,17 @@
-Elemental HERO Neo Bubbleman
-Monster
-WATER
-Effect
-None
-Warrior
-4
-800
-1200
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending "Elemental HERO Bubbleman" on your side of the field and "Metamorphosis" in your hand to the Graveyard. This card's name is treated as "Elemental HERO Bubbleman" while it is face-up on the field. Destroy an opponent's monster that battles with this card at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Neo Bubbleman</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending &quot;Elemental HERO Bubbleman&quot; on your side of the field and &quot;Metamorphosis&quot; in your hand to the Graveyard. This card's name is treated as &quot;Elemental HERO Bubbleman&quot; while it is face-up on the field. Destroy an opponent's monster that battles with this card at the end of the Damage Step.</text>
+</card>

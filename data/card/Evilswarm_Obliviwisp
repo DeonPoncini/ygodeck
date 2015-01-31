@@ -1,14 +1,17 @@
-Evilswarm Obliviwisp
-Monster
-DARK
-Effect
-None
-Pyro
-4
-450
-2050
-0
-0
-None
-None
-After damage calculation, if this card battles a monster: Negate the effects of that monster (including in the Graveyard).
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Obliviwisp</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>450</attack>
+    <defense>2050</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After damage calculation, if this card battles a monster: Negate the effects of that monster (including in the Graveyard).</text>
+</card>

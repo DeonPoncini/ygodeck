@@ -1,14 +1,17 @@
-Moja
-Monster
-EARTH
-Effect
-None
-Beast
-1
-100
-100
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 Beast-Type monster from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Moja</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 Beast-Type monster from your Graveyard to your hand.</text>
+</card>

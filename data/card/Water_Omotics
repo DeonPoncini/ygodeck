@@ -1,14 +1,17 @@
-Water Omotics
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1400
-1200
-0
-0
-None
-None
-Transforms the water overflowing from a jar into attacking dragons.
+<?xml version="1.0" ?>
+<card>
+    <name>Water Omotics</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Transforms the water overflowing from a jar into attacking dragons.</text>
+</card>

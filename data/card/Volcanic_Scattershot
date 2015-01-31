@@ -1,14 +1,17 @@
-Volcanic Scattershot
-Monster
-FIRE
-Effect
-None
-Pyro
-2
-500
-0
-0
-0
-None
-None
-When this card is sent to the Graveyard, inflict 500 damage to your opponent. If this card is sent to the Graveyard for the effect of a "Blaze Accelerator" card, you can send 2 "Volcanic Scattershots" from your hand / Deck to the Graveyard to destroy all monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Volcanic Scattershot</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard, inflict 500 damage to your opponent. If this card is sent to the Graveyard for the effect of a &quot;Blaze Accelerator&quot; card, you can send 2 &quot;Volcanic Scattershots&quot; from your hand / Deck to the Graveyard to destroy all monsters your opponent controls.</text>
+</card>

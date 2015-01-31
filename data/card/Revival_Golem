@@ -1,14 +1,17 @@
-Revival Golem
-Monster
-EARTH
-Effect
-None
-Rock
-4
-100
-2100
-0
-0
-None
-None
-The effect of "Revival Golem" can only be used once per turn. When this card is sent from your Deck to the Graveyard: Activate 1 of these effects.● Special Summon this card from the Graveyard.● Add this card from the Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Revival Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The effect of &quot;Revival Golem&quot; can only be used once per turn. When this card is sent from your Deck to the Graveyard: Activate 1 of these effects.● Special Summon this card from the Graveyard.● Add this card from the Graveyard to your hand.</text>
+</card>

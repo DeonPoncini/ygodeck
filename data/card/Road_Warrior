@@ -1,14 +1,17 @@
-Road Warrior
-Monster
-LIGHT
-Synchro
-Effect
-Warrior
-8
-3000
-1500
-0
-0
-None
-None
-"Road Synchron" + 2 or more non-Tuner monstersOnce per turn: You can Special Summon 1 Level 2 or lower Warrior or Machine-Type monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Road Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Road Synchron&quot; + 2 or more non-Tuner monstersOnce per turn: You can Special Summon 1 Level 2 or lower Warrior or Machine-Type monster from your Deck.</text>
+</card>

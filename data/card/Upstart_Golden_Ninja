@@ -1,14 +1,17 @@
-Upstart Golden Ninja
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-500
-1800
-0
-0
-None
-None
-Once per turn: You can send 1 Trap Card from your hand to the Graveyard; Special Summon 1 Level 4 or lower "Ninja" monster from your Deck in face-up Defense Position or face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Upstart Golden Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can send 1 Trap Card from your hand to the Graveyard; Special Summon 1 Level 4 or lower &quot;Ninja&quot; monster from your Deck in face-up Defense Position or face-down Defense Position.</text>
+</card>

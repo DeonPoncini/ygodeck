@@ -1,14 +1,17 @@
-Madolche Hootcake
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1500
-1100
-0
-0
-None
-None
-When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. You can target 1 monster in your Graveyard; banish it, and if you do, Special Summon 1 "Madolche" monster from your Deck, except "Madolche Hootcake". You can only use this effect of "Madolche Hootcake" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Madolche Hootcake</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. You can target 1 monster in your Graveyard; banish it, and if you do, Special Summon 1 &quot;Madolche&quot; monster from your Deck, except &quot;Madolche Hootcake&quot;. You can only use this effect of &quot;Madolche Hootcake&quot; once per turn.</text>
+</card>

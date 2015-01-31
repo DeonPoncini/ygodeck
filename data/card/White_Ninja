@@ -1,14 +1,17 @@
-White Ninja
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1500
-800
-0
-0
-None
-None
-FLIP: Target 1 Defense Position monster on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>White Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 Defense Position monster on the field; destroy that target.</text>
+</card>

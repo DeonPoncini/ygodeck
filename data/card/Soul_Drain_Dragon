@@ -1,14 +1,17 @@
-Soul Drain Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-8
-4000
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by a Dragon-Type Xyz Monster's effect in your possession, and cannot be Special Summoned by other ways. When Special Summoned, if your Life Points are lower than your opponent's: This card gains ATK equal to your current Life Point deficit, and if it does, your opponent takes no further damage this turn. This card cannot attack your opponent directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Soul Drain Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>4000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by a Dragon-Type Xyz Monster's effect in your possession, and cannot be Special Summoned by other ways. When Special Summoned, if your Life Points are lower than your opponent's: This card gains ATK equal to your current Life Point deficit, and if it does, your opponent takes no further damage this turn. This card cannot attack your opponent directly.</text>
+</card>

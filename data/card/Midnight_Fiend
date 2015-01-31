@@ -1,14 +1,17 @@
-Midnight Fiend
-Monster
-DARK
-Normal
-None
-Fiend
-2
-800
-600
-0
-0
-None
-None
-This monster only appears when a midnight tribute is made.
+<?xml version="1.0" ?>
+<card>
+    <name>Midnight Fiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster only appears when a midnight tribute is made.</text>
+</card>

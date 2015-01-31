@@ -1,14 +1,17 @@
-Cyber Prima
-Monster
-LIGHT
-Effect
-None
-Warrior
-6
-2300
-1600
-0
-0
-None
-None
-When this card is Tribute Summoned: Destroy all face-up Spell Cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Prima</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned: Destroy all face-up Spell Cards on the field.</text>
+</card>

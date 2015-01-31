@@ -1,14 +1,17 @@
-The Monarchs Stormforth
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Once during this turn, if you would Tribute a monster(s) for a Tribute Summon, you can Tribute 1 monster your opponent controls as if you controlled it. You can only activate 1 "The Monarchs Stormforth" per turn. During the turn you activate this card, you cannot Special Summon monsters from the Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>The Monarchs Stormforth</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Once during this turn, if you would Tribute a monster(s) for a Tribute Summon, you can Tribute 1 monster your opponent controls as if you controlled it. You can only activate 1 &quot;The Monarchs Stormforth&quot; per turn. During the turn you activate this card, you cannot Special Summon monsters from the Extra Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Magical Labyrinth
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to "Labyrinth Wall". You can Tribute the equipped monster; Special Summon "Wall Shadow" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Labyrinth</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to &quot;Labyrinth Wall&quot;. You can Tribute the equipped monster; Special Summon &quot;Wall Shadow&quot; from your Deck.</text>
+</card>

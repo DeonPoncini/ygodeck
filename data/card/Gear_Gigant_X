@@ -1,14 +1,17 @@
-Gear Gigant X
-Monster
-EARTH
-Xyz
-Effect
-Machine
-4
-2300
-1500
-0
-0
-None
-None
-2 Level 4 Machine-Type monstersOnce per turn: You can detach 1 Xyz Material from this card; add 1 Level 4 or lower Machine-Type monster from your Deck or Graveyard to your hand. When this card leaves the field: You can target 1 Level 3 or lower "Geargia" monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Gear Gigant X</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>2300</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 Machine-Type monstersOnce per turn: You can detach 1 Xyz Material from this card; add 1 Level 4 or lower Machine-Type monster from your Deck or Graveyard to your hand. When this card leaves the field: You can target 1 Level 3 or lower &quot;Geargia&quot; monster in your Graveyard; Special Summon that target.</text>
+</card>

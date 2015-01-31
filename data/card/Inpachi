@@ -1,14 +1,17 @@
-Inpachi
-Monster
-EARTH
-Normal
-None
-Machine
-4
-1600
-1900
-0
-0
-None
-None
-A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit.
+<?xml version="1.0" ?>
+<card>
+    <name>Inpachi</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit.</text>
+</card>

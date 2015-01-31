@@ -1,14 +1,17 @@
-Darkness Destroyer
-Monster
-DARK
-Effect
-None
-Fiend
-7
-2300
-1800
-0
-0
-None
-None
-Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Darkness Destroyer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.</text>
+</card>

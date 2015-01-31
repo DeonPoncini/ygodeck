@@ -1,14 +1,17 @@
-Spell Recycler
-Monster
-DARK
-Effect
-None
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-When an opponent's monster declares an attack: You can banish this card from your Graveyard, then target 1 Spell Card in your Graveyard; send the top card of your Deck to the Graveyard, and if you do, return the target to the bottom of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Recycler</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an opponent's monster declares an attack: You can banish this card from your Graveyard, then target 1 Spell Card in your Graveyard; send the top card of your Deck to the Graveyard, and if you do, return the target to the bottom of your Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Chaos Necromancer
-Monster
-DARK
-Effect
-None
-Fiend
-1
-0
-0
-0
-0
-None
-None
-The ATK of this card is the number of Monster Cards in your Graveyard x 300.
+<?xml version="1.0" ?>
+<card>
+    <name>Chaos Necromancer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The ATK of this card is the number of Monster Cards in your Graveyard x 300.</text>
+</card>

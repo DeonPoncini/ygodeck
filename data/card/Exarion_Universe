@@ -1,14 +1,17 @@
-Exarion Universe
-Monster
-DARK
-Effect
-None
-Beast-Warrior
-4
-1800
-1900
-0
-0
-None
-None
-During your Battle Step, if this card attacks a Defense Position monster: You can activate this effect; this card loses exactly 400 ATK, and if it does, it will inflict piercing battle damage to your opponent. These effects last until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Exarion Universe</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Battle Step, if this card attacks a Defense Position monster: You can activate this effect; this card loses exactly 400 ATK, and if it does, it will inflict piercing battle damage to your opponent. These effects last until the End Phase.</text>
+</card>

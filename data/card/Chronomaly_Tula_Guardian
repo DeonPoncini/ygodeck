@@ -1,14 +1,17 @@
-Chronomaly Tula Guardian
-Monster
-EARTH
-Effect
-None
-Rock
-5
-1800
-900
-0
-0
-None
-None
-If there is a face-up Field Spell Card on the field, you can Special Summon this card (from your hand). You can only control 1 "Chronomaly Tula Guardian".
+<?xml version="1.0" ?>
+<card>
+    <name>Chronomaly Tula Guardian</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If there is a face-up Field Spell Card on the field, you can Special Summon this card (from your hand). You can only control 1 &quot;Chronomaly Tula Guardian&quot;.</text>
+</card>

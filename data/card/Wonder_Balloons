@@ -1,14 +1,17 @@
-Wonder Balloons
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn: You can send any number of cards from your hand to the Graveyard; place 1 Balloon Counter on this card for each card sent to the Graveyard. All monsters your opponent controls lose 300 ATK for each Balloon Counter on this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Wonder Balloons</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can send any number of cards from your hand to the Graveyard; place 1 Balloon Counter on this card for each card sent to the Graveyard. All monsters your opponent controls lose 300 ATK for each Balloon Counter on this card.</text>
+</card>

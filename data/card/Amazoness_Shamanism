@@ -1,14 +1,17 @@
-Amazoness Shamanism
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Destroy all face-up "Amazoness" monsters you control. Then, you can Special Summon any number of Level 4 or lower "Amazoness" monsters from your Graveyard in face-up Defense Position, up to the number of monsters destroyed by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Shamanism</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Destroy all face-up &quot;Amazoness&quot; monsters you control. Then, you can Special Summon any number of Level 4 or lower &quot;Amazoness&quot; monsters from your Graveyard in face-up Defense Position, up to the number of monsters destroyed by this effect.</text>
+</card>

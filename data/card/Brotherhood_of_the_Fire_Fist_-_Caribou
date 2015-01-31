@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Caribou
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-4
-1100
-2000
-0
-0
-None
-None
-During the End Phase, if this card is in the Graveyard because it was destroyed by a card effect and sent there this turn: You can Special Summon 1 Level 4 "Fire Fist" monster from your Deck, except "Brotherhood of the Fire Fist - Caribou". If this card is sent to the Graveyard for the Synchro Summon of a "Fire Fist" monster: You can Set 1 "Fire Formation" Spell Card directly from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Caribou</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During the End Phase, if this card is in the Graveyard because it was destroyed by a card effect and sent there this turn: You can Special Summon 1 Level 4 &quot;Fire Fist&quot; monster from your Deck, except &quot;Brotherhood of the Fire Fist - Caribou&quot;. If this card is sent to the Graveyard for the Synchro Summon of a &quot;Fire Fist&quot; monster: You can Set 1 &quot;Fire Formation&quot; Spell Card directly from your Deck.</text>
+</card>

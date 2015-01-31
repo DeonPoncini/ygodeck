@@ -1,14 +1,17 @@
-Number 18: Heraldic Progenitor Plain-Coat
-Monster
-LIGHT
-Xyz
-Effect
-Psychic
-4
-2200
-2200
-0
-0
-None
-None
-2 Level 4 monstersDuring either player's turn, if there are 2 or more monsters on the field with the same name: You can detach 1 Xyz Material from this card; choose 1 of those monsters that have the same name and destroy all other monsters on the field with the same name. While this card is face-up on the field, your opponent cannot Summon another monster with the same name as the chosen monster. If this card is sent to the Graveyard: You can send 2 "Heraldic Beast" monsters from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 18: Heraldic Progenitor Plain-Coat</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>4</level>
+    <attack>2200</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersDuring either player's turn, if there are 2 or more monsters on the field with the same name: You can detach 1 Xyz Material from this card; choose 1 of those monsters that have the same name and destroy all other monsters on the field with the same name. While this card is face-up on the field, your opponent cannot Summon another monster with the same name as the chosen monster. If this card is sent to the Graveyard: You can send 2 &quot;Heraldic Beast&quot; monsters from your Deck to the Graveyard.</text>
+</card>

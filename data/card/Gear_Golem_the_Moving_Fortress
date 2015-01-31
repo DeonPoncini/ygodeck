@@ -1,14 +1,17 @@
-Gear Golem the Moving Fortress
-Monster
-EARTH
-Effect
-None
-Machine
-4
-800
-2200
-0
-0
-None
-None
-Once per turn, during your Main Phase 1: You can pay 800 Life Points; this card can attack your opponent directly this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gear Golem the Moving Fortress</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase 1: You can pay 800 Life Points; this card can attack your opponent directly this turn.</text>
+</card>

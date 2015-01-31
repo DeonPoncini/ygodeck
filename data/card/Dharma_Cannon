@@ -1,14 +1,17 @@
-Dharma Cannon
-Monster
-DARK
-Normal
-None
-Machine
-2
-900
-500
-0
-0
-None
-None
-A monstrous creature whose body is fitted with cannons that never miss their targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Dharma Cannon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monstrous creature whose body is fitted with cannons that never miss their targets.</text>
+</card>

@@ -1,14 +1,17 @@
-Sonic Duck
-Monster
-WIND
-Normal
-None
-Winged Beast
-3
-1700
-700
-0
-0
-None
-None
-A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.
+<?xml version="1.0" ?>
+<card>
+    <name>Sonic Duck</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>1700</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.</text>
+</card>

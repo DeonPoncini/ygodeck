@@ -1,14 +1,17 @@
-Superheavy Samurai Tama-C
-Monster
-DARK
-Tuner
-Effect
-Machine
-2
-100
-800
-0
-0
-None
-None
-If all monsters you control are "Superheavy Samurai" monsters, and you have no Spell/Trap Cards in your Graveyard: You can target 1 face-up monster your opponent controls; send that target and this card from the field to the Graveyard, then Special Summon 1 "Superheavy Samurai" Synchro Monster from your Extra Deck whose Level equals the total original Levels of the sent monsters. (This Special Summon is treated as a Synchro Summon.) You can only use this effect of "Superheavy Samurai Tama-C" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Tama-C</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If all monsters you control are &quot;Superheavy Samurai&quot; monsters, and you have no Spell/Trap Cards in your Graveyard: You can target 1 face-up monster your opponent controls; send that target and this card from the field to the Graveyard, then Special Summon 1 &quot;Superheavy Samurai&quot; Synchro Monster from your Extra Deck whose Level equals the total original Levels of the sent monsters. (This Special Summon is treated as a Synchro Summon.) You can only use this effect of &quot;Superheavy Samurai Tama-C&quot; once per turn.</text>
+</card>

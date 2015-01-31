@@ -1,14 +1,17 @@
-Dracocension
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn: You can Tribute 1 Dragon-Type monster that has a Level; Special Summon, from your Deck, 1 Wyrm-Type monster with the same Level as the Tributed monster's original Level, and if you do, any monster destroyed by battle with that monster is shuffled into the Deck instead of going to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dracocension</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can Tribute 1 Dragon-Type monster that has a Level; Special Summon, from your Deck, 1 Wyrm-Type monster with the same Level as the Tributed monster's original Level, and if you do, any monster destroyed by battle with that monster is shuffled into the Deck instead of going to the Graveyard.</text>
+</card>

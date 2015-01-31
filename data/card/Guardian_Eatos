@@ -1,14 +1,17 @@
-Guardian Eatos
-Monster
-WIND
-Effect
-None
-Fairy
-8
-2500
-2000
-0
-0
-None
-None
-If you have no monsters in your Graveyard, you can Special Summon this card (from your hand). You can send 1 of your Equip Spell Cards equipped to this card to the Graveyard, then target up to 3 monsters in your opponent's Graveyard; banish those targets, and if you do, this card gains 500 ATK for each monster banished by this effect, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Guardian Eatos</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you have no monsters in your Graveyard, you can Special Summon this card (from your hand). You can send 1 of your Equip Spell Cards equipped to this card to the Graveyard, then target up to 3 monsters in your opponent's Graveyard; banish those targets, and if you do, this card gains 500 ATK for each monster banished by this effect, until the end of this turn.</text>
+</card>

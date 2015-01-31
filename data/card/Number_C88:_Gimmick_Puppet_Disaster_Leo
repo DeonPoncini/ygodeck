@@ -1,14 +1,17 @@
-Number C88: Gimmick Puppet Disaster Leo
-Monster
-DARK
-Xyz
-Effect
-Machine
-9
-3500
-2500
-0
-0
-None
-None
-4 Level 9 monstersMust be Special Summoned with a "Rank-Up-Magic" Spell Card targeting "Number 88: Gimmick Puppet of Leo", and cannot be Special Summoned by other ways. This card cannot be targeted by card effects. Once per turn: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent. During your End Phase, if your opponent's Life Points are 2000 or less, and this card has no Xyz Materials, you win the Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C88: Gimmick Puppet Disaster Leo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>3500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>4 Level 9 monstersMust be Special Summoned with a &quot;Rank-Up-Magic&quot; Spell Card targeting &quot;Number 88: Gimmick Puppet of Leo&quot;, and cannot be Special Summoned by other ways. This card cannot be targeted by card effects. Once per turn: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent. During your End Phase, if your opponent's Life Points are 2000 or less, and this card has no Xyz Materials, you win the Duel.</text>
+</card>

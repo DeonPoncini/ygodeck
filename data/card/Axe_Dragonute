@@ -1,14 +1,17 @@
-Axe Dragonute
-Monster
-DARK
-Effect
-None
-Dragon
-4
-2000
-1200
-0
-0
-None
-None
-If this card attacks, change it to Defense Position at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Axe Dragonute</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks, change it to Defense Position at the end of the Damage Step.</text>
+</card>

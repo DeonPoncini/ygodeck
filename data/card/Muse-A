@@ -1,14 +1,17 @@
-Muse-A
-Monster
-LIGHT
-Normal
-None
-Fairy
-3
-850
-900
-0
-0
-None
-None
-A fairy of the arts that is unbeatable on the harp.
+<?xml version="1.0" ?>
+<card>
+    <name>Muse-A</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>850</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fairy of the arts that is unbeatable on the harp.</text>
+</card>

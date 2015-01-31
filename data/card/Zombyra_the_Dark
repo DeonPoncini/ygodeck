@@ -1,14 +1,17 @@
-Zombyra the Dark
-Monster
-DARK
-Effect
-None
-Warrior
-4
-2100
-500
-0
-0
-None
-None
-This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Zombyra the Dark</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.</text>
+</card>

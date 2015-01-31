@@ -1,14 +1,17 @@
-Number 94: Crystalzero
-Monster
-WATER
-Xyz
-Effect
-Warrior
-5
-2200
-1600
-0
-0
-None
-None
-2 Level 5 WATER monstersDuring either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; its ATK becomes half its current ATK until the end of your turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 94: Crystalzero</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 WATER monstersDuring either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; its ATK becomes half its current ATK until the end of your turn.</text>
+</card>

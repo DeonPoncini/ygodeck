@@ -1,14 +1,17 @@
-Victoria
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1800
-1500
-0
-0
-None
-None
-Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.
+<?xml version="1.0" ?>
+<card>
+    <name>Victoria</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.</text>
+</card>

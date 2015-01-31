@@ -1,14 +1,17 @@
-Bat
-Monster
-WIND
-Normal
-None
-Machine
-1
-300
-350
-0
-0
-None
-None
-A mechanical bat that drops blasts from its wings.
+<?xml version="1.0" ?>
+<card>
+    <name>Bat</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>350</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mechanical bat that drops blasts from its wings.</text>
+</card>

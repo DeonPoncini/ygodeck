@@ -1,14 +1,17 @@
-Legendary Six Samurai - Shi En
-Monster
-DARK
-Synchro
-Effect
-Warrior
-5
-2500
-1400
-0
-0
-None
-None
-1 Warrior-Type Tuner + 1 or more non-Tuner "Six Samurai" monstersOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can negate the activation, and if you do, destroy it. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Six Samurai - Shi En</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Warrior-Type Tuner + 1 or more non-Tuner &quot;Six Samurai&quot; monstersOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can negate the activation, and if you do, destroy it. If this card would be destroyed, you can destroy another face-up &quot;Six Samurai&quot; monster you control instead.</text>
+</card>

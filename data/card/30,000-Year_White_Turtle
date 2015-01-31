@@ -1,14 +1,17 @@
-30,000-Year White Turtle
-Monster
-WATER
-Normal
-None
-Aqua
-5
-1250
-2100
-0
-0
-None
-None
-A huge turtle that has existed for more than 30,000 years.
+<?xml version="1.0" ?>
+<card>
+    <name>30,000-Year White Turtle</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>5</level>
+    <attack>1250</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A huge turtle that has existed for more than 30,000 years.</text>
+</card>

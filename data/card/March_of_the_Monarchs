@@ -1,14 +1,17 @@
-March of the Monarchs
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Tribute Summoned monsters you control cannot be targeted by, or destroyed by, card effects. You cannot Special Summon monsters from your Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>March of the Monarchs</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Tribute Summoned monsters you control cannot be targeted by, or destroyed by, card effects. You cannot Special Summon monsters from your Extra Deck.</text>
+</card>

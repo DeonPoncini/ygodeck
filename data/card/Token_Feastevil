@@ -1,14 +1,17 @@
-Token Feastevil
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when a Token(s)is Special Summoned. Destroy all Tokens on the field, and inflict 300 damage to your opponent for each destroyed Token.
+<?xml version="1.0" ?>
+<card>
+    <name>Token Feastevil</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when a Token(s)is Special Summoned. Destroy all Tokens on the field, and inflict 300 damage to your opponent for each destroyed Token.</text>
+</card>

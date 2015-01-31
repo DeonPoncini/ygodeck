@@ -1,14 +1,17 @@
-Blocker
-Monster
-DARK
-Normal
-None
-Machine
-4
-850
-1800
-0
-0
-None
-None
-Constructed from several components, this monster can launch them in a pincer attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Blocker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>850</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Constructed from several components, this monster can launch them in a pincer attack.</text>
+</card>

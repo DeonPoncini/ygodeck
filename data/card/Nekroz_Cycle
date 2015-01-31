@@ -1,14 +1,17 @@
-Nekroz Cycle
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card can be used to Ritual Summon any "Nekroz" Ritual Monster. Tribute monsters from your hand or field, then Ritual Summon 1 "Nekroz" Ritual Monster from your hand or Graveyard whose Level exactly equals the total Levels of those monsters. You can only use this effect of "Nekroz Cycle" once per turn. If you control no monsters: You can banish this card and 1 "Nekroz" monster from your Graveyard; add 1 "Nekroz" Spell Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Nekroz Cycle</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used to Ritual Summon any &quot;Nekroz&quot; Ritual Monster. Tribute monsters from your hand or field, then Ritual Summon 1 &quot;Nekroz&quot; Ritual Monster from your hand or Graveyard whose Level exactly equals the total Levels of those monsters. You can only use this effect of &quot;Nekroz Cycle&quot; once per turn. If you control no monsters: You can banish this card and 1 &quot;Nekroz&quot; monster from your Graveyard; add 1 &quot;Nekroz&quot; Spell Card from your Deck to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Stoic of Prophecy
-Monster
-WATER
-Effect
-None
-Spellcaster
-1
-300
-200
-0
-0
-None
-None
-When this card is sent to the Graveyard: Add 1 Level 3 "Prophecy" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Stoic of Prophecy</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard: Add 1 Level 3 &quot;Prophecy&quot; monster from your Deck to your hand.</text>
+</card>

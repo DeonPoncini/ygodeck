@@ -1,14 +1,17 @@
-Twin Long Rods 2
-Monster
-WATER
-Normal
-None
-Aqua
-3
-850
-700
-0
-0
-None
-None
-An amphibious creature with two whip-like tails.
+<?xml version="1.0" ?>
+<card>
+    <name>Twin Long Rods #2</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>850</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An amphibious creature with two whip-like tails.</text>
+</card>

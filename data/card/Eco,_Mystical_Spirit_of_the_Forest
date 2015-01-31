@@ -1,14 +1,17 @@
-Eco, Mystical Spirit of the Forest
-Monster
-EARTH
-Effect
-None
-Plant
-4
-1700
-1000
-0
-0
-None
-None
-When you take damage from an opponent's card effect: You can Special Summon this card from your hand, and if you do, inflict damage to your opponent equal to the damage you took, also both players take no further effect damage this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Eco, Mystical Spirit of the Forest</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you take damage from an opponent's card effect: You can Special Summon this card from your hand, and if you do, inflict damage to your opponent equal to the damage you took, also both players take no further effect damage this turn.</text>
+</card>

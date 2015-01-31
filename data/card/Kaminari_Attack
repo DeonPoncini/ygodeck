@@ -1,14 +1,17 @@
-Kaminari Attack
-Monster
-WIND
-Fusion
-None
-Thunder
-5
-1900
-1400
-0
-0
-None
-None
-"Ocubeam" + "Mega Thunderball"
+<?xml version="1.0" ?>
+<card>
+    <name>Kaminari Attack</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Ocubeam&quot; + &quot;Mega Thunderball&quot;</text>
+</card>

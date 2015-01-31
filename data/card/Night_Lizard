@@ -1,14 +1,17 @@
-Night Lizard
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1150
-1300
-0
-0
-None
-None
-A lizard warrior protected by a hide of very tough emerald scales.
+<?xml version="1.0" ?>
+<card>
+    <name>Night Lizard</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1150</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A lizard warrior protected by a hide of very tough emerald scales.</text>
+</card>

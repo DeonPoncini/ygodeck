@@ -1,14 +1,17 @@
-Silver's Cry
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 Dragon-Type Normal Monster in your Graveyard; Special Summon that target. You can only activate 1 "Silver's Cry" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Silver's Cry</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Dragon-Type Normal Monster in your Graveyard; Special Summon that target. You can only activate 1 &quot;Silver's Cry&quot; per turn.</text>
+</card>

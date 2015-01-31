@@ -1,14 +1,17 @@
-Scrap Factory
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All "Scrap" monsters gain 200 ATK and DEF. When a face-up "Scrap" monster(s) on the field is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon 1 "Scrap" monster from your Deck. You can only use this effect of "Scrap Factory" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Factory</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All &quot;Scrap&quot; monsters gain 200 ATK and DEF. When a face-up &quot;Scrap&quot; monster(s) on the field is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon 1 &quot;Scrap&quot; monster from your Deck. You can only use this effect of &quot;Scrap Factory&quot; once per turn.</text>
+</card>

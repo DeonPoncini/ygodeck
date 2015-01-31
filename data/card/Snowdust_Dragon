@@ -1,14 +1,17 @@
-Snowdust Dragon
-Monster
-WATER
-Effect
-None
-Dragon
-8
-2800
-1800
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.
+<?xml version="1.0" ?>
+<card>
+    <name>Snowdust Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.</text>
+</card>

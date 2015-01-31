@@ -1,14 +1,17 @@
-Daigusto Eguls
-Monster
-WIND
-Synchro
-Effect
-Psychic
-7
-2600
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner "Gusto" monstersOnce per turn, during your End Phase: You can banish 1 WIND monster from your Graveyard to target 1 face-down card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Daigusto Eguls</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner &quot;Gusto&quot; monstersOnce per turn, during your End Phase: You can banish 1 WIND monster from your Graveyard to target 1 face-down card your opponent controls; destroy that target.</text>
+</card>

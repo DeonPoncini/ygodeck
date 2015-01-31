@@ -1,14 +1,17 @@
-Hitotsu-Me Giant
-Monster
-EARTH
-Normal
-None
-Beast-Warrior
-4
-1200
-1000
-0
-0
-None
-None
-A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.
+<?xml version="1.0" ?>
+<card>
+    <name>Hitotsu-Me Giant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.</text>
+</card>

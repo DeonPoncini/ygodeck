@@ -1,14 +1,17 @@
-Venom Swamp
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-During each player's End Phase: Place 1 Venom Counter on each face-up monster, except "Venom" monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Venom Swamp</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>During each player's End Phase: Place 1 Venom Counter on each face-up monster, except &quot;Venom&quot; monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Gorgonic Guardian
-Monster
-DARK
-Xyz
-Effect
-Rock
-3
-1600
-1200
-0
-0
-None
-None
-2 Level 3 Rock-Type monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. These effects last until the end of this turn. Once per turn: You can target 1 monster on the field with 0 ATK; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Gorgonic Guardian</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 Rock-Type monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. These effects last until the end of this turn. Once per turn: You can target 1 monster on the field with 0 ATK; destroy it.</text>
+</card>

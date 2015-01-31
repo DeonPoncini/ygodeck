@@ -1,14 +1,17 @@
-Gem-Knight Tourmaline
-Monster
-EARTH
-Normal
-None
-Thunder
-4
-1600
-1800
-0
-0
-None
-None
-He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Tourmaline</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.</text>
+</card>

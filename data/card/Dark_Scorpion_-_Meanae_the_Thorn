@@ -1,14 +1,17 @@
-Dark Scorpion - Meanae the Thorn
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1000
-1800
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Add 1 "Dark Scorpion" card from your Deck to your hand.● Target 1 "Dark Scorpion" card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Scorpion - Meanae the Thorn</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Add 1 &quot;Dark Scorpion&quot; card from your Deck to your hand.● Target 1 &quot;Dark Scorpion&quot; card in your Graveyard; add that target to your hand.</text>
+</card>

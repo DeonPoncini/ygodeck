@@ -1,14 +1,17 @@
-Earthquake Giant
-Monster
-EARTH
-Effect
-None
-Rock
-5
-1600
-2100
-0
-0
-None
-None
-Once per turn, when the battle position of this card is changed, you can select 1 monster your opponent controls and change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Earthquake Giant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when the battle position of this card is changed, you can select 1 monster your opponent controls and change its battle position.</text>
+</card>

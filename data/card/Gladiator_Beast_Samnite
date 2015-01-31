@@ -1,14 +1,17 @@
-Gladiator Beast Samnite
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1600
-1200
-0
-0
-None
-None
-If this card was Special Summoned by the effect of a "Gladiator Beast" monster, when this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 "Gladiator Beast" card from your Deck to your hand. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Samnite".
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Samnite</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster, when this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 &quot;Gladiator Beast&quot; card from your Deck to your hand. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 &quot;Gladiator Beast&quot; monster from your Deck, except &quot;Gladiator Beast Samnite&quot;.</text>
+</card>

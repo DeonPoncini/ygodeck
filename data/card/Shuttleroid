@@ -1,14 +1,17 @@
-Shuttleroid
-Monster
-WIND
-Effect
-None
-Machine
-4
-1000
-1200
-0
-0
-None
-None
-When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Shuttleroid</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.</text>
+</card>

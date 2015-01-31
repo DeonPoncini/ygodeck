@@ -1,14 +1,17 @@
-Form Change
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 "HERO" Fusion Monster you control; return it to the Extra Deck, then Special Summon from your Extra Deck, 1 "Masked HERO" monster with the same Level as that monster's original Level, but with a different name. (This Special Summon is treated as a Special Summon with "Mask Change".)
+<?xml version="1.0" ?>
+<card>
+    <name>Form Change</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;HERO&quot; Fusion Monster you control; return it to the Extra Deck, then Special Summon from your Extra Deck, 1 &quot;Masked HERO&quot; monster with the same Level as that monster's original Level, but with a different name. (This Special Summon is treated as a Special Summon with &quot;Mask Change&quot;.)</text>
+</card>

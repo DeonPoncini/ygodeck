@@ -1,14 +1,17 @@
-Fossil Excavation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate this card by discarding 1 card, then target 1 Dinosaur-Type monster in your Graveyard; Special Summon that target. Its effects are negated. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Fossil Excavation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate this card by discarding 1 card, then target 1 Dinosaur-Type monster in your Graveyard; Special Summon that target. Its effects are negated. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Giant Flea
-Monster
-EARTH
-Normal
-None
-Insect
-4
-1500
-1200
-0
-0
-None
-None
-A massive flea that feeds on the blood of its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Giant Flea</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A massive flea that feeds on the blood of its enemies.</text>
+</card>

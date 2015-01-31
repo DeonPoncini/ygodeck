@@ -1,14 +1,17 @@
-Cybernetic Hidden Technology
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When an opponent's monster declares an attack: You can send to the Graveyard 1 "Cyber Dragon" you control, or 1 Fusion Monster you control that lists "Cyber Dragon" as a Fusion Material Monster, then target the attacking monster; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Cybernetic Hidden Technology</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When an opponent's monster declares an attack: You can send to the Graveyard 1 &quot;Cyber Dragon&quot; you control, or 1 Fusion Monster you control that lists &quot;Cyber Dragon&quot; as a Fusion Material Monster, then target the attacking monster; destroy that target.</text>
+</card>

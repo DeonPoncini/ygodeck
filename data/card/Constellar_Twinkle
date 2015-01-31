@@ -1,14 +1,17 @@
-Constellar Twinkle
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 "Constellar" monster you control; increase its Level by 1 or 2. If this card is in the Graveyard: You can banish 1 "Constellar" monster from your Graveyard; add this card from the Graveyard to your hand. You can only use this effect of "Constellar Twinkle" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Twinkle</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Constellar&quot; monster you control; increase its Level by 1 or 2. If this card is in the Graveyard: You can banish 1 &quot;Constellar&quot; monster from your Graveyard; add this card from the Graveyard to your hand. You can only use this effect of &quot;Constellar Twinkle&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Heavy Cavalry of the Karmatic Flames
-Monster
-FIRE
-Gemini
-Effect
-Zombie
-4
-1800
-200
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● At the start of the Damage Step, if this card attacks a Special Summoned monster: You can banish that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Heavy Cavalry of the Karmatic Flames</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● At the start of the Damage Step, if this card attacks a Special Summoned monster: You can banish that monster.</text>
+</card>

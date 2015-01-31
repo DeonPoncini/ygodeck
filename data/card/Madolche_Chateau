@@ -1,14 +1,17 @@
-Madolche Chateau
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-When this card is activated: Shuffle all "Madolche" monsters in your Graveyard into the Deck. All "Madolche" monsters on the field gain 500 ATK and DEF. If a monster(s) in your Graveyard would be returned to the Deck by the effect of a "Madolche" monster, you can add it to your hand instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Madolche Chateau</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>When this card is activated: Shuffle all &quot;Madolche&quot; monsters in your Graveyard into the Deck. All &quot;Madolche&quot; monsters on the field gain 500 ATK and DEF. If a monster(s) in your Graveyard would be returned to the Deck by the effect of a &quot;Madolche&quot; monster, you can add it to your hand instead.</text>
+</card>

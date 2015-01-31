@@ -1,14 +1,17 @@
-Blast Juggler
-Monster
-FIRE
-Effect
-None
-Machine
-3
-800
-900
-0
-0
-None
-None
-You can only activate this effect during your Standby Phase. Tribute this face-up card to select and destroy 2 face-up monsters with an ATK 1000 or less.
+<?xml version="1.0" ?>
+<card>
+    <name>Blast Juggler</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only activate this effect during your Standby Phase. Tribute this face-up card to select and destroy 2 face-up monsters with an ATK 1000 or less.</text>
+</card>

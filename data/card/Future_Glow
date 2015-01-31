@@ -1,14 +1,17 @@
-Future Glow
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Banish 1 Psychic-Type monster from your Graveyard, and note its Level. All face-up Psychic-Type monsters you control gain ATK equal to that Level × 200.
+<?xml version="1.0" ?>
+<card>
+    <name>Future Glow</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Banish 1 Psychic-Type monster from your Graveyard, and note its Level. All face-up Psychic-Type monsters you control gain ATK equal to that Level × 200.</text>
+</card>

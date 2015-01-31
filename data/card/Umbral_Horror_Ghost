@@ -1,14 +1,17 @@
-Umbral Horror Ghost
-Monster
-DARK
-Effect
-None
-Fiend
-2
-200
-200
-0
-0
-None
-None
-During your Main Phase: You can Special Summon this card and 1 Level 4 or lower Fiend-Type monster from your hand. You cannot Normal Summon/Set during the turn you activate this effect. You can only use this effect of "Umbral Horror Ghost" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Umbral Horror Ghost</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can Special Summon this card and 1 Level 4 or lower Fiend-Type monster from your hand. You cannot Normal Summon/Set during the turn you activate this effect. You can only use this effect of &quot;Umbral Horror Ghost&quot; once per turn.</text>
+</card>

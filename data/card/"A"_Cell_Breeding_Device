@@ -1,14 +1,17 @@
-"A" Cell Breeding Device
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>&quot;A&quot; Cell Breeding Device</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.</text>
+</card>

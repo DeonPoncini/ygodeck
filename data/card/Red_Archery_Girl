@@ -1,14 +1,17 @@
-Red Archery Girl
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1400
-1500
-0
-0
-None
-None
-A mermaid archer that hides in a protective shell, waiting for the right moment to strike.
+<?xml version="1.0" ?>
+<card>
+    <name>Red Archery Girl</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mermaid archer that hides in a protective shell, waiting for the right moment to strike.</text>
+</card>

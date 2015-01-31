@@ -1,14 +1,17 @@
-Naturia Horneedle
-Monster
-EARTH
-Effect
-None
-Insect
-4
-1800
-100
-0
-0
-None
-None
-When your opponent Special Summons a monster, you can Tribute 1 face-up "Naturia" monster you control, except this card, to destroy the Special Summoned monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Horneedle</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent Special Summons a monster, you can Tribute 1 face-up &quot;Naturia&quot; monster you control, except this card, to destroy the Special Summoned monster.</text>
+</card>

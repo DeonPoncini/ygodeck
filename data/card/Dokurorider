@@ -1,14 +1,17 @@
-Dokurorider
-Monster
-DARK
-Ritual
-None
-Zombie
-6
-1900
-1850
-0
-0
-None
-None
-This monster can only be Ritual Summoned with the Ritual Magic Card, "Revival of Dokurorider". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from your field or your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dokurorider</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>1850</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster can only be Ritual Summoned with the Ritual Magic Card, &quot;Revival of Dokurorider&quot;. You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from your field or your hand.</text>
+</card>

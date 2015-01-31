@@ -1,14 +1,17 @@
-Fiend's Mirror
-Monster
-DARK
-Ritual
-None
-Fiend
-6
-2100
-1800
-0
-0
-None
-None
-You can Ritual Summon this card with "Beastly Mirror Ritual".
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend's Mirror</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Beastly Mirror Ritual&quot;.</text>
+</card>

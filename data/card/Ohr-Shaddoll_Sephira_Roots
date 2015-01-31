@@ -1,18 +1,21 @@
-Ohr-Shaddoll Sephira Roots
-Monster
-DARK
-Pendulum
-Effect
-Rock
-4
-450
-1950
-7
-7
-None
-None
-Pendulum Effect
- You cannot Pendulum Summon monsters, except "Shaddoll" or "Sephira" monsters. This effect cannot be negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Ohr-Shaddoll Sephira Roots</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>450</attack>
+    <defense>1950</defense>
+    <lpendulum>7</lpendulum>
+    <rpendulum>7</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Pendulum Summon monsters, except &quot;Shaddoll&quot; or &quot;Sephira&quot; monsters. This effect cannot be negated.
 
  Monster Effect
- If this card is Pendulum Summoned, or if this card is sent to the Graveyard: You can target 1 "Sephira" card in your Pendulum Zones, except "Ore-Shaddoll Sephira Roots"; Special Summon it. You can only use this effect of "Ore-Shaddoll Sephira Roots" once per turn.
+ If this card is Pendulum Summoned, or if this card is sent to the Graveyard: You can target 1 &quot;Sephira&quot; card in your Pendulum Zones, except &quot;Ore-Shaddoll Sephira Roots&quot;; Special Summon it. You can only use this effect of &quot;Ore-Shaddoll Sephira Roots&quot; once per turn.</text>
+</card>

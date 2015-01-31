@@ -1,14 +1,17 @@
-Rogue Doll
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-4
-1600
-1000
-0
-0
-None
-None
-A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.
+<?xml version="1.0" ?>
+<card>
+    <name>Rogue Doll</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.</text>
+</card>

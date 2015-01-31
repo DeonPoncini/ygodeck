@@ -1,14 +1,17 @@
-Blackwing - Hillen the Tengu-wind
-Monster
-DARK
-Tuner
-None
-Winged Beast
-5
-0
-2300
-0
-0
-None
-None
-When you take 2000 or more Battle Damage from your opponent's monster's direct attack while this card is in the Graveyard, you can select 1 Level 3 or lower "Blackwing" monster in your Graveyard. Special Summon that monster and this card from the Graveyard. Their effects are negated. Each player can only use the effect of "Blackwing - Hillen the Tengu-wind" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Hillen the Tengu-wind</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>0</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you take 2000 or more Battle Damage from your opponent's monster's direct attack while this card is in the Graveyard, you can select 1 Level 3 or lower &quot;Blackwing&quot; monster in your Graveyard. Special Summon that monster and this card from the Graveyard. Their effects are negated. Each player can only use the effect of &quot;Blackwing - Hillen the Tengu-wind&quot; once per Duel.</text>
+</card>

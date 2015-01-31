@@ -1,18 +1,21 @@
-Performapal Pendulum Wizard
-Monster
-EARTH
-Pendulum
-Effect
-Spellcaster
-4
-1500
-800
-2
-2
-None
-None
-Pendulum Effect
- If a "Performapal" monster(s) is Pendulum Summoned to your side of the field: All "Performapal" monsters you currently control gain 1000 ATK until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Pendulum Wizard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>2</lpendulum>
+    <rpendulum>2</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ If a &quot;Performapal&quot; monster(s) is Pendulum Summoned to your side of the field: All &quot;Performapal&quot; monsters you currently control gain 1000 ATK until the end of this turn.
 
  Monster Effect
- If this card is Special Summoned: You can target up to 2 cards you control; destroy them, and if you do, add an equal number of "Performapal" monsters with different names from your Deck to your hand, except "Performapal Pendulum Wizard". You can only use this effect of "Performapal Pendulum Wizard" once per turn.
+ If this card is Special Summoned: You can target up to 2 cards you control; destroy them, and if you do, add an equal number of &quot;Performapal&quot; monsters with different names from your Deck to your hand, except &quot;Performapal Pendulum Wizard&quot;. You can only use this effect of &quot;Performapal Pendulum Wizard&quot; once per turn.</text>
+</card>

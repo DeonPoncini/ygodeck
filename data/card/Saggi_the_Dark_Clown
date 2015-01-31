@@ -1,14 +1,17 @@
-Saggi the Dark Clown
-Monster
-DARK
-Normal
-None
-Spellcaster
-3
-600
-1500
-0
-0
-None
-None
-This clown appears from nowhere and executes very strange moves to avoid enemy attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Saggi the Dark Clown</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This clown appears from nowhere and executes very strange moves to avoid enemy attacks.</text>
+</card>

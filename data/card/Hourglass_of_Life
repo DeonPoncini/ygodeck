@@ -1,14 +1,17 @@
-Hourglass of Life
-Monster
-LIGHT
-Normal
-None
-Fairy
-2
-700
-600
-0
-0
-None
-None
-This creature grants power instead of shortening life.
+<?xml version="1.0" ?>
+<card>
+    <name>Hourglass of Life</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This creature grants power instead of shortening life.</text>
+</card>

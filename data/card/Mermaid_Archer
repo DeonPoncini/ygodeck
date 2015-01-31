@@ -1,14 +1,17 @@
-Mermaid Archer
-Monster
-WATER
-Effect
-None
-Sea Serpent
-3
-1200
-200
-0
-0
-None
-None
-Once per turn: You can target 1 face-up Level 3 or lower monster you control; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) While equipped with a monster by this effect, this card gains 800 ATK. If this card would be destroyed, you can destroy the monster equipped to it with this effect instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Mermaid Archer</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 face-up Level 3 or lower monster you control; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) While equipped with a monster by this effect, this card gains 800 ATK. If this card would be destroyed, you can destroy the monster equipped to it with this effect instead.</text>
+</card>

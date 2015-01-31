@@ -1,14 +1,17 @@
-Mermail Abyssdine
-Monster
-WATER
-Effect
-None
-Aqua
-3
-1000
-200
-0
-0
-None
-None
-When this card is added from your Deck or Graveyard to your hand by a card effect: You can Special Summon this card from your hand. You must control a "Mermail" monster to activate and to resolve this effect. When this card is Special Summoned by the effect of a "Mermail" monster: You can target 1 Level 3 or lower "Mermail" monster in your Graveyard; Special Summon that target. You can only use 1 "Mermail Abyssdine" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mermail Abyssdine</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is added from your Deck or Graveyard to your hand by a card effect: You can Special Summon this card from your hand. You must control a &quot;Mermail&quot; monster to activate and to resolve this effect. When this card is Special Summoned by the effect of a &quot;Mermail&quot; monster: You can target 1 Level 3 or lower &quot;Mermail&quot; monster in your Graveyard; Special Summon that target. You can only use 1 &quot;Mermail Abyssdine&quot; effect per turn, and only once that turn.</text>
+</card>

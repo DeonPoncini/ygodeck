@@ -1,14 +1,17 @@
-Vermillion Sparrow
-Monster
-FIRE
-Fusion
-None
-Pyro
-5
-1900
-1500
-0
-0
-None
-None
-"Rhaimundos of the Red Sword" + "Fireyarou"
+<?xml version="1.0" ?>
+<card>
+    <name>Vermillion Sparrow</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Rhaimundos of the Red Sword&quot; + &quot;Fireyarou&quot;</text>
+</card>

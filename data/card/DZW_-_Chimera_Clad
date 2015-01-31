@@ -1,14 +1,17 @@
-DZW - Chimera Clad
-Monster
-DARK
-Effect
-None
-Fiend
-1
-0
-0
-0
-0
-None
-None
-You can target 1 "Number C39" monster you control; equip this monster from your hand or your side of the field to that target. The equipped monster cannot be destroyed by battle. At the end of the Damage Step, when the equipped monster attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can make the opponent's monster's ATK 0 (even after this card leaves the field or the monster becomes unaffected by card effects), and if you do, the equipped monster can make a second attack on the same monster in a row.
+<?xml version="1.0" ?>
+<card>
+    <name>DZW - Chimera Clad</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 &quot;Number C39&quot; monster you control; equip this monster from your hand or your side of the field to that target. The equipped monster cannot be destroyed by battle. At the end of the Damage Step, when the equipped monster attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can make the opponent's monster's ATK 0 (even after this card leaves the field or the monster becomes unaffected by card effects), and if you do, the equipped monster can make a second attack on the same monster in a row.</text>
+</card>

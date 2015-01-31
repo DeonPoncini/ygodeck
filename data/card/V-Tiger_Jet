@@ -1,14 +1,17 @@
-V-Tiger Jet
-Monster
-LIGHT
-Normal
-None
-Machine
-4
-1600
-1800
-0
-0
-None
-None
-This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>V-Tiger Jet</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.</text>
+</card>

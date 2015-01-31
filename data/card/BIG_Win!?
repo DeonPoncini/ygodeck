@@ -1,14 +1,17 @@
-BIG Win!?
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Declare a Level between 1 and 12; each player tosses a coin, and if both are Heads, the Levels of all face-up monsters you currently control become the declared Level. If both are tails, you lose Life Points equal to the declared Level x 500.
+<?xml version="1.0" ?>
+<card>
+    <name>BIG Win!?</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Declare a Level between 1 and 12; each player tosses a coin, and if both are Heads, the Levels of all face-up monsters you currently control become the declared Level. If both are tails, you lose Life Points equal to the declared Level x 500.</text>
+</card>

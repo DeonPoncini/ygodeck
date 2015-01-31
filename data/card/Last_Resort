@@ -1,14 +1,17 @@
-Last Resort
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when your opponent's monster declares an attack. You can select 1 "Ancient City - Rainbow Ruins" from your Deck and activate it. If your opponent had an active Field Spell Card when this card was activated, they can draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Last Resort</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when your opponent's monster declares an attack. You can select 1 &quot;Ancient City - Rainbow Ruins&quot; from your Deck and activate it. If your opponent had an active Field Spell Card when this card was activated, they can draw 1 card.</text>
+</card>

@@ -1,14 +1,17 @@
-Numeral Hunter
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1600
-1400
-0
-0
-None
-None
-If this card is Summoned: Return all "Number" Xyz Monsters on the field to the Extra Deck. Neither player can Special Summon "Number" Xyz Monsters, also this card cannot be destroyed by battle with Xyz Monsters, and is unaffected by their effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Numeral Hunter</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Summoned: Return all &quot;Number&quot; Xyz Monsters on the field to the Extra Deck. Neither player can Special Summon &quot;Number&quot; Xyz Monsters, also this card cannot be destroyed by battle with Xyz Monsters, and is unaffected by their effects.</text>
+</card>

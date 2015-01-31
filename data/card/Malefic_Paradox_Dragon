@@ -1,14 +1,17 @@
-Malefic Paradox Dragon
-Monster
-DARK
-Synchro
-Effect
-Dragon
-10
-4000
-4000
-0
-0
-None
-None
-"Malefic Parallel Gear" + 1 non-Tuner "Malefic" monsterWhen this card is Synchro Summoned, you can select 1 Synchro Monster in either player's Graveyard, and Special Summon it. There can only be 1 face-up "Malefic Paradox Dragon" on the field. If "Malefic World" is not face-up on the field, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Malefic Paradox Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Malefic Parallel Gear&quot; + 1 non-Tuner &quot;Malefic&quot; monsterWhen this card is Synchro Summoned, you can select 1 Synchro Monster in either player's Graveyard, and Special Summon it. There can only be 1 face-up &quot;Malefic Paradox Dragon&quot; on the field. If &quot;Malefic World&quot; is not face-up on the field, destroy this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Big One Warrior
-Monster
-LIGHT
-Effect
-None
-Warrior
-1
-100
-600
-0
-0
-None
-None
-During your Main Phase, you can send 1 Level 1 monster, except this card, from your hand to the Graveyard to Special Summon this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Big One Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase, you can send 1 Level 1 monster, except this card, from your hand to the Graveyard to Special Summon this card from your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Bujinki Amaterasu
-Monster
-LIGHT
-Xyz
-Effect
-Beast-Warrior
-4
-2600
-2500
-0
-0
-None
-None
-3 Level 4 monstersYou can only control 1 "Bujinki Amaterasu". Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; apply this effect, depending on whose turn it is.● Your turn: Target 1 of your banished Level 4 or lower monsters; Special Summon that target.● Your opponent's turn: Target 1 of your banished Level 4 or lower monsters; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujinki Amaterasu</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2600</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersYou can only control 1 &quot;Bujinki Amaterasu&quot;. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; apply this effect, depending on whose turn it is.● Your turn: Target 1 of your banished Level 4 or lower monsters; Special Summon that target.● Your opponent's turn: Target 1 of your banished Level 4 or lower monsters; add that target to your hand.</text>
+</card>

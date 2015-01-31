@@ -1,14 +1,17 @@
-Dragunity Primus Pilus
-Monster
-WIND
-Effect
-None
-Winged Beast
-5
-2200
-1600
-0
-0
-None
-None
-When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type "Dragunity" monster you control. Equip it with 1 Level 3 or lower Dragon-Type "Dragunity" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Primus Pilus</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type &quot;Dragunity&quot; monster you control. Equip it with 1 Level 3 or lower Dragon-Type &quot;Dragunity&quot; monster from your Deck.</text>
+</card>

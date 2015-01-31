@@ -1,14 +1,17 @@
-Flamvell Baby
-Monster
-FIRE
-Tuner
-None
-Pyro
-1
-800
-200
-0
-0
-None
-None
-During your Main Phase, you can send this card from your hand to the Graveyard to select 1 face-up FIRE monster you control and have it gain 400 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Flamvell Baby</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>1</level>
+    <attack>800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase, you can send this card from your hand to the Graveyard to select 1 face-up FIRE monster you control and have it gain 400 ATK.</text>
+</card>

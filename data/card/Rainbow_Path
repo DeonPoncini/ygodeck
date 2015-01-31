@@ -1,14 +1,17 @@
-Rainbow Path
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an opponent's monster declares an attack: Send 1 "Crystal Beast" card from your Spell & Trap Card Zone to the Graveyard to target the attacking monster; negate the attack, then you can add 1 "Rainbow Dragon" or "Rainbow Dark Dragon" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Rainbow Path</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an opponent's monster declares an attack: Send 1 &quot;Crystal Beast&quot; card from your Spell &amp; Trap Card Zone to the Graveyard to target the attacking monster; negate the attack, then you can add 1 &quot;Rainbow Dragon&quot; or &quot;Rainbow Dark Dragon&quot; from your Deck to your hand.</text>
+</card>

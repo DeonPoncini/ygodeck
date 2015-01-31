@@ -1,14 +1,17 @@
-Divine Knight Ishzark
-Monster
-LIGHT
-Effect
-None
-Warrior
-6
-2300
-1800
-0
-0
-None
-None
-After damage calculation, when this card destroys a monster by battle: Banish that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Divine Knight Ishzark</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After damage calculation, when this card destroys a monster by battle: Banish that monster.</text>
+</card>

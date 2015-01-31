@@ -1,14 +1,17 @@
-Steam Gyroid
-Monster
-EARTH
-Fusion
-None
-Machine
-6
-2200
-1600
-0
-0
-None
-None
-"Gyroid" + "Steamroid"
+<?xml version="1.0" ?>
+<card>
+    <name>Steam Gyroid</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Gyroid&quot; + &quot;Steamroid&quot;</text>
+</card>

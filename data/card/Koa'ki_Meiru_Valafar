@@ -1,14 +1,17 @@
-Koa'ki Meiru Valafar
-Monster
-FIRE
-Effect
-None
-Fiend
-8
-3000
-2100
-0
-0
-None
-None
-During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard. You can Tribute Summon this monster by Tributing 1 "Koa'ki Meiru" monster. This card cannot be destroyed by the effects of Trap Cards. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Valafar</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases, destroy this card unless you send 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the Graveyard. You can Tribute Summon this monster by Tributing 1 &quot;Koa'ki Meiru&quot; monster. This card cannot be destroyed by the effects of Trap Cards. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.</text>
+</card>

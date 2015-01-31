@@ -1,14 +1,17 @@
-Evilswarm O'lantern
-Monster
-DARK
-Effect
-None
-Pyro
-4
-1650
-1250
-0
-0
-None
-None
-You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm O'lantern</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1650</attack>
+    <defense>1250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.</text>
+</card>

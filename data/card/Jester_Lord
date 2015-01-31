@@ -1,14 +1,17 @@
-Jester Lord
-Monster
-DARK
-Effect
-None
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell & Trap Card Zones.
+<?xml version="1.0" ?>
+<card>
+    <name>Jester Lord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell &amp; Trap Card Zones.</text>
+</card>

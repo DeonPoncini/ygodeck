@@ -1,14 +1,17 @@
-Light Laser
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Light Laser</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.</text>
+</card>

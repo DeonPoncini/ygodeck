@@ -1,14 +1,17 @@
-Call of Darkness
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Send any monster that was Special Summoned by "Monster Reborn" to the Graveyard. While this card is on on the field, "Monster Reborn" cannot be activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Call of Darkness</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Send any monster that was Special Summoned by &quot;Monster Reborn&quot; to the Graveyard. While this card is on on the field, &quot;Monster Reborn&quot; cannot be activated.</text>
+</card>

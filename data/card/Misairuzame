@@ -1,14 +1,17 @@
-Misairuzame
-Monster
-WATER
-Normal
-None
-Fish
-5
-1400
-1600
-0
-0
-None
-None
-A missile-launching fish protected by deadly spikes.
+<?xml version="1.0" ?>
+<card>
+    <name>Misairuzame</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>5</level>
+    <attack>1400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A missile-launching fish protected by deadly spikes.</text>
+</card>

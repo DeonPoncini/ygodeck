@@ -1,14 +1,17 @@
-Divine Dragon Ragnarok
-Monster
-LIGHT
-Normal
-None
-Dragon
-4
-1500
-1000
-0
-0
-None
-None
-A legendary dragon sent by the gods as their instrument. Legends say that if provoked, the whole world will sink beneath the sea.
+<?xml version="1.0" ?>
+<card>
+    <name>Divine Dragon Ragnarok</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A legendary dragon sent by the gods as their instrument. Legends say that if provoked, the whole world will sink beneath the sea.</text>
+</card>

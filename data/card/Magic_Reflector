@@ -1,14 +1,17 @@
-Magic Reflector
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 face-up Spell Card you control; place 1 counter on it. If it would ever be destroyed, remove the counter instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Magic Reflector</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 face-up Spell Card you control; place 1 counter on it. If it would ever be destroyed, remove the counter instead.</text>
+</card>

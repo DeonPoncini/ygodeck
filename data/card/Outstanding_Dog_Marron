@@ -1,14 +1,17 @@
-Outstanding Dog Marron
-Monster
-LIGHT
-Effect
-None
-Beast
-1
-100
-100
-0
-0
-None
-None
-When this card is sent to your Graveyard, add it to your Deck and shuffle it.
+<?xml version="1.0" ?>
+<card>
+    <name>Outstanding Dog Marron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to your Graveyard, add it to your Deck and shuffle it.</text>
+</card>

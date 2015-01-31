@@ -1,14 +1,17 @@
-Ghostrick Doll
-Monster
-DARK
-Effect
-None
-Spellcaster
-2
-300
-1200
-0
-0
-None
-None
-Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: During the End Phase, change as many face-up monsters on the field as possible to face-down Defense Position, then you can Special Summon 1 "Ghostrick" monster from your Deck in face-down Defense Position, whose Level is less than or equal to the number of monsters flipped face-down by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Doll</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned, unless you control a &quot;Ghostrick&quot; monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: During the End Phase, change as many face-up monsters on the field as possible to face-down Defense Position, then you can Special Summon 1 &quot;Ghostrick&quot; monster from your Deck in face-down Defense Position, whose Level is less than or equal to the number of monsters flipped face-down by this effect.</text>
+</card>

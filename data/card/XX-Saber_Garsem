@@ -1,14 +1,17 @@
-XX-Saber Garsem
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1400
-400
-0
-0
-None
-None
-When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 "X-Saber" monster from your Deck to your hand. This card gains 200 ATK for each face-up "X-Saber" monster you control.
+<?xml version="1.0" ?>
+<card>
+    <name>XX-Saber Garsem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 &quot;X-Saber&quot; monster from your Deck to your hand. This card gains 200 ATK for each face-up &quot;X-Saber&quot; monster you control.</text>
+</card>

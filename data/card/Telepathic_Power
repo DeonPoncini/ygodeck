@@ -1,14 +1,17 @@
-Telepathic Power
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster: Target the opponent's monster; destroy that target, and if you do, gain LP equal to the destroyed monster's ATK on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Telepathic Power</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster: Target the opponent's monster; destroy that target, and if you do, gain LP equal to the destroyed monster's ATK on the field.</text>
+</card>

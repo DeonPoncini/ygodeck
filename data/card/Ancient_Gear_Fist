@@ -1,14 +1,17 @@
-Ancient Gear Fist
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to an "Ancient Gear" monster. At the end of the Damage Step, if the equipped monster battled a monster and is still on the field: Destroy the monster it battled.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Gear Fist</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to an &quot;Ancient Gear&quot; monster. At the end of the Damage Step, if the equipped monster battled a monster and is still on the field: Destroy the monster it battled.</text>
+</card>

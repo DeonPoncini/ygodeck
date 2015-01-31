@@ -1,14 +1,17 @@
-Gather Your Mind
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Add 1 "Gather Your Mind" card from your Deck to your hand. Your Deck is then shuffled. You can only use 1 "Gather Your Mind" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gather Your Mind</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Add 1 &quot;Gather Your Mind&quot; card from your Deck to your hand. Your Deck is then shuffled. You can only use 1 &quot;Gather Your Mind&quot; per turn.</text>
+</card>

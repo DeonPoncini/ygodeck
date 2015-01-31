@@ -1,14 +1,17 @@
-Opticlops
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1800
-1700
-0
-0
-None
-None
-A one-eyed giant that serves the "Dark Ruler Ha Des", it skewers its enemies with its sharp horn, shattering them to pieces.
+<?xml version="1.0" ?>
+<card>
+    <name>Opticlops</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A one-eyed giant that serves the &quot;Dark Ruler Ha Des&quot;, it skewers its enemies with its sharp horn, shattering them to pieces.</text>
+</card>

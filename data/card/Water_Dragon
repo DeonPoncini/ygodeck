@@ -1,14 +1,17 @@
-Water Dragon
-Monster
-WATER
-Effect
-None
-Sea Serpent
-8
-2800
-2600
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Bonding - H2O". While this card is face-up on the field, the ATK of FIRE monsters and Pyro-Type monsters become 0. When this card is destroyed and sent to the Graveyard, you can Special Summon 2 "Hydrogeddons" and 1 "Oxygeddon" from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Water Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of &quot;Bonding - H2O&quot;. While this card is face-up on the field, the ATK of FIRE monsters and Pyro-Type monsters become 0. When this card is destroyed and sent to the Graveyard, you can Special Summon 2 &quot;Hydrogeddons&quot; and 1 &quot;Oxygeddon&quot; from your Graveyard.</text>
+</card>

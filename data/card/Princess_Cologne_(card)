@@ -1,14 +1,17 @@
-Princess Cologne (card)
-Monster
-LIGHT
-Xyz
-Effect
-Fairy
-4
-500
-2200
-0
-0
-None
-None
-2 Level 4 monstersWhen this card is Xyz Summoned: You can target 1 "Box of Friends" in your Graveyard; Special Summon that target. If you control another monster, your opponent cannot target this card with cards, effects, or for attacks. If a face-up Normal Monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can detach 1 Xyz Material from this card; Special Summon 1 Normal Monster from your Deck or Graveyard in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Princess Cologne</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>500</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersWhen this card is Xyz Summoned: You can target 1 &quot;Box of Friends&quot; in your Graveyard; Special Summon that target. If you control another monster, your opponent cannot target this card with cards, effects, or for attacks. If a face-up Normal Monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can detach 1 Xyz Material from this card; Special Summon 1 Normal Monster from your Deck or Graveyard in face-up Defense Position.</text>
+</card>

@@ -1,14 +1,17 @@
-Volcanic Rocket
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1900
-1400
-0
-0
-None
-None
-When this card is Summoned: You can add 1 "Blaze Accelerator" card from your Deck or Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Volcanic Rocket</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned: You can add 1 &quot;Blaze Accelerator&quot; card from your Deck or Graveyard to your hand.</text>
+</card>

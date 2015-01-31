@@ -1,14 +1,17 @@
-Ultimate Ancient Gear Golem
-Monster
-EARTH
-Fusion
-Effect
-Machine
-10
-4400
-3400
-0
-0
-None
-None
-"Ancient Gear Golem" + 2 "Ancient Gear" monstersThis card cannot be Special Summoned except by Fusion Summon. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. If this card is destroyed, you can Special Summon 1 "Ancient Gear Golem" from your Graveyard, ignoring the Summoning conditions.
+<?xml version="1.0" ?>
+<card>
+    <name>Ultimate Ancient Gear Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>4400</attack>
+    <defense>3400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Ancient Gear Golem&quot; + 2 &quot;Ancient Gear&quot; monstersThis card cannot be Special Summoned except by Fusion Summon. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. If this card is destroyed, you can Special Summon 1 &quot;Ancient Gear Golem&quot; from your Graveyard, ignoring the Summoning conditions.</text>
+</card>

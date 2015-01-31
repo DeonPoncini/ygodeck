@@ -1,14 +1,17 @@
-Gogogo Talisman
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-While you control 2 or more "Gogogo" monsters, you take no effect damage. Once per turn, when an attack is declared involving a "Gogogo" monster you control: You can activate this effect; that monster you control cannot be destroyed by that battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Gogogo Talisman</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>While you control 2 or more &quot;Gogogo&quot; monsters, you take no effect damage. Once per turn, when an attack is declared involving a &quot;Gogogo&quot; monster you control: You can activate this effect; that monster you control cannot be destroyed by that battle.</text>
+</card>

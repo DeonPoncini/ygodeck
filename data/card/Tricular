@@ -1,14 +1,17 @@
-Tricular
-Monster
-EARTH
-Effect
-None
-Machine
-3
-300
-300
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 "Bicular" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Tricular</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 &quot;Bicular&quot; from your hand or Deck.</text>
+</card>

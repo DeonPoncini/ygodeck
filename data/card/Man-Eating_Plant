@@ -1,14 +1,17 @@
-Man-Eating Plant
-Monster
-EARTH
-Normal
-None
-Plant
-2
-800
-600
-0
-0
-None
-None
-A meat-eating plant that is attractive to the eye but dangerous when approached.
+<?xml version="1.0" ?>
+<card>
+    <name>Man-Eating Plant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A meat-eating plant that is attractive to the eye but dangerous when approached.</text>
+</card>

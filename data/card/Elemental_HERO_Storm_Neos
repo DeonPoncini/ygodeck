@@ -1,14 +1,17 @@
-Elemental HERO Storm Neos
-Monster
-WIND
-Fusion
-Effect
-Warrior
-9
-3000
-2500
-0
-0
-None
-None
-"Elemental HERO Neos" + "Neo-Spacian Air Hummingbird" + "Neo-Spacian Aqua Dolphin"Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) Once per turn: You can destroy all Spell and Trap Cards on the field. During the End Phase: Shuffle this card into the Extra Deck. When this card is shuffled into the Extra Deck this way: Shuffle all cards on the field into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Storm Neos</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>9</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Neos&quot; + &quot;Neo-Spacian Air Hummingbird&quot; + &quot;Neo-Spacian Aqua Dolphin&quot;Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use &quot;Polymerization&quot;.) Once per turn: You can destroy all Spell and Trap Cards on the field. During the End Phase: Shuffle this card into the Extra Deck. When this card is shuffled into the Extra Deck this way: Shuffle all cards on the field into the Deck.</text>
+</card>

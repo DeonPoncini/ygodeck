@@ -1,14 +1,17 @@
-Satellarknight Capella
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1100
-2000
-0
-0
-None
-None
-If this card is Summoned: You can apply the effect below for the rest of this turn. You can only use this effect of "Stellarknight Capella" once per turn (but if it resolves, you can apply the effect multiple times).● You can treat Level 4 or lower "tellarknight" monsters you control as Level 5 when Xyz Summoning using 3 or more monsters as Xyz Materials.
+<?xml version="1.0" ?>
+<card>
+    <name>Satellarknight Capella</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Summoned: You can apply the effect below for the rest of this turn. You can only use this effect of &quot;Stellarknight Capella&quot; once per turn (but if it resolves, you can apply the effect multiple times).● You can treat Level 4 or lower &quot;tellarknight&quot; monsters you control as Level 5 when Xyz Summoning using 3 or more monsters as Xyz Materials.</text>
+</card>

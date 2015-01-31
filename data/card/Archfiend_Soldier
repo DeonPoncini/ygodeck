@@ -1,14 +1,17 @@
-Archfiend Soldier
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1900
-1500
-0
-0
-None
-None
-An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.</text>
+</card>

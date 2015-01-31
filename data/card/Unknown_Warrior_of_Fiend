@@ -1,14 +1,17 @@
-Unknown Warrior of Fiend
-Monster
-DARK
-Normal
-None
-Warrior
-3
-1000
-500
-0
-0
-None
-None
-The speed of this warrior creates an intense vacuum that can slice through a monster's hide.
+<?xml version="1.0" ?>
+<card>
+    <name>Unknown Warrior of Fiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The speed of this warrior creates an intense vacuum that can slice through a monster's hide.</text>
+</card>

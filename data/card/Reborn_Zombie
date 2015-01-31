@@ -1,14 +1,17 @@
-Reborn Zombie
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1000
-1600
-0
-0
-None
-None
-While you have no cards in your hand and this card is in Attack Position, it cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Reborn Zombie</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you have no cards in your hand and this card is in Attack Position, it cannot be destroyed by battle.</text>
+</card>

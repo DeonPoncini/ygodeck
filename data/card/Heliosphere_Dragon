@@ -1,14 +1,17 @@
-Heliosphere Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-4
-0
-1900
-0
-0
-None
-None
-While your opponent has 4 or less cards in their hand and this card is the only monster you control, your opponent cannot declare an attack. Once per turn, if you control a Level 8 Dragon-Type monster: You can make this card become Level 8 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Heliosphere Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While your opponent has 4 or less cards in their hand and this card is the only monster you control, your opponent cannot declare an attack. Once per turn, if you control a Level 8 Dragon-Type monster: You can make this card become Level 8 until the End Phase.</text>
+</card>

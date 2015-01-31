@@ -1,14 +1,17 @@
-Serene Psychic Witch
-Monster
-EARTH
-Effect
-None
-Psychic
-3
-1400
-1200
-0
-0
-None
-None
-When this card on the field is destroyed and sent to the Graveyard: You can banish 1 Psychic-Type monster with 2000 or less ATK from your Deck. During the next Standby Phase, if this card stays in the Graveyard: Special Summon the monster banished by this card's effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Serene Psychic Witch</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card on the field is destroyed and sent to the Graveyard: You can banish 1 Psychic-Type monster with 2000 or less ATK from your Deck. During the next Standby Phase, if this card stays in the Graveyard: Special Summon the monster banished by this card's effect.</text>
+</card>

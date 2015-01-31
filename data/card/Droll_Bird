@@ -1,14 +1,17 @@
-Droll Bird
-Monster
-WIND
-Normal
-None
-Winged Beast
-2
-600
-500
-0
-0
-None
-None
-This monster stuns its enemies with a massive beak and ear-piercing wails.
+<?xml version="1.0" ?>
+<card>
+    <name>Droll Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster stuns its enemies with a massive beak and ear-piercing wails.</text>
+</card>

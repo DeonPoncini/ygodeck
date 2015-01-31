@@ -1,14 +1,17 @@
-Succubus Knight
-Monster
-DARK
-Normal
-None
-Warrior
-5
-1650
-1300
-0
-0
-None
-None
-A warrior wizard adept in casting bone-chilling spells.
+<?xml version="1.0" ?>
+<card>
+    <name>Succubus Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1650</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A warrior wizard adept in casting bone-chilling spells.</text>
+</card>

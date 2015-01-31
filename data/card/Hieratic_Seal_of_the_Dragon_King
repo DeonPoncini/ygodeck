@@ -1,14 +1,17 @@
-Hieratic Seal of the Dragon King
-Monster
-LIGHT
-Gemini
-None
-Dragon
-6
-0
-0
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● You can Tribute this card; Special Summon 1 "Hieratic" monster, except "Hieratic Seal of the Dragon King", from your hand, Deck, or Graveyard, in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Hieratic Seal of the Dragon King</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● You can Tribute this card; Special Summon 1 &quot;Hieratic&quot; monster, except &quot;Hieratic Seal of the Dragon King&quot;, from your hand, Deck, or Graveyard, in face-up Defense Position.</text>
+</card>

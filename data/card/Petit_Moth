@@ -1,14 +1,17 @@
-Petit Moth
-Monster
-EARTH
-Normal
-None
-Insect
-1
-300
-200
-0
-0
-None
-None
-This small but deadly creature is better off avoided.
+<?xml version="1.0" ?>
+<card>
+    <name>Petit Moth</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This small but deadly creature is better off avoided.</text>
+</card>

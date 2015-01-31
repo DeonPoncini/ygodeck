@@ -1,14 +1,17 @@
-Raiza the Storm Monarch
-Monster
-WIND
-Effect
-None
-Winged Beast
-6
-2400
-1000
-0
-0
-None
-None
-When this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Raiza the Storm Monarch</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.</text>
+</card>

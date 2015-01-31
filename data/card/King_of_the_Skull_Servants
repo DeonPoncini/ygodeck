@@ -1,14 +1,17 @@
-King of the Skull Servants
-Monster
-DARK
-Effect
-None
-Zombie
-1
-?
-0
-0
-0
-None
-None
-The original ATK of this card is the combined number of "King of the Skull Servants" and "Skull Servant" in your Graveyard x 1000. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other "King of the Skull Servants" or "Skull Servant" from your Graveyard; Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>King of the Skull Servants</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>1</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The original ATK of this card is the combined number of &quot;King of the Skull Servants&quot; and &quot;Skull Servant&quot; in your Graveyard x 1000. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other &quot;King of the Skull Servants&quot; or 1 &quot;Skull Servant&quot; from your Graveyard; Special Summon this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Mira the Star-Bearer
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-1
-1100
-1000
-0
-0
-None
-None
-3 Level 1 monstersIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Mira the Star-Bearer</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>1100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 1 monstersIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.</text>
+</card>

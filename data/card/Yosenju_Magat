@@ -1,14 +1,17 @@
-Yosenju Magat
-Monster
-WIND
-Effect
-None
-Beast
-6
-2000
-100
-0
-0
-None
-None
-If this card is Normal Summoned: You can Special Summon 1 "Yosenju" monster from your Deck, except "Yosenju Magat". During the End Phase, if this card was Special Summoned this turn: Return it to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Yosenju Magat</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned: You can Special Summon 1 &quot;Yosenju&quot; monster from your Deck, except &quot;Yosenju Magat&quot;. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.</text>
+</card>

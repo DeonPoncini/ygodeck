@@ -1,14 +1,17 @@
-Psychic Nightmare
-Monster
-WIND
-Synchro
-Effect
-Psychic
-6
-2400
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Psychic-Type monstersOnce per turn, during your Main Phase, you can pick 1 random card in your opponent's hand and call what type of card it is (Monster, Spell or Trap). If you call it right, this card gains 1000 ATK until your opponent's End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Psychic Nightmare</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Psychic-Type monstersOnce per turn, during your Main Phase, you can pick 1 random card in your opponent's hand and call what type of card it is (Monster, Spell or Trap). If you call it right, this card gains 1000 ATK until your opponent's End Phase.</text>
+</card>

@@ -1,14 +1,17 @@
-Fiend's Mirror (DM)
-Monster
-DARK
-Normal
-None
-Fiend
-6
-2100
-1800
-0
-0
-None
-None
-An arcane glass that draws its enemies into the mirror world.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend's Mirror</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An arcane glass that draws its enemies into the mirror world.</text>
+</card>

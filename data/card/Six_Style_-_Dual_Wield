@@ -1,14 +1,17 @@
-Six Style - Dual Wield
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If the only monster you control is 1 "Six Samurai" monster in face-up Attack Position: Target 2 cards your opponent controls; return those targets to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Six Style - Dual Wield</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If the only monster you control is 1 &quot;Six Samurai&quot; monster in face-up Attack Position: Target 2 cards your opponent controls; return those targets to the hand.</text>
+</card>

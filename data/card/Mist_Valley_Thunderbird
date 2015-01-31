@@ -1,14 +1,17 @@
-Mist Valley Thunderbird
-Monster
-WIND
-Effect
-None
-Thunder
-3
-1100
-700
-0
-0
-None
-None
-When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Thunderbird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.</text>
+</card>

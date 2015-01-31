@@ -1,14 +1,17 @@
-Genex Neutron
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1800
-1200
-0
-0
-None
-None
-During the End Phase of the turn this card was Normal Summoned: You can add 1 Machine-Type Tuner monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Neutron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During the End Phase of the turn this card was Normal Summoned: You can add 1 Machine-Type Tuner monster from your Deck to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Chthonian Emperor Dragon
-Monster
-FIRE
-Gemini
-None
-Dragon
-6
-2400
-1500
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:● This card can attack twice during the same Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Chthonian Emperor Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:● This card can attack twice during the same Battle Phase.</text>
+</card>

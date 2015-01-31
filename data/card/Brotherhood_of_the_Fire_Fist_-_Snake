@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Snake
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-4
-1800
-600
-0
-0
-None
-None
-Once per turn, if a "Fire Formation" Spell/Trap Card(s) is sent to your Graveyard (except during the Damage Step): You can Set 1 "Fire Formation" Trap Card directly from your Deck. Once per turn, if you control no other monsters: You can send 2 face-up "Fire Formation" Spell/Trap Cards you control to the Graveyard; draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Snake</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, if a &quot;Fire Formation&quot; Spell/Trap Card(s) is sent to your Graveyard (except during the Damage Step): You can Set 1 &quot;Fire Formation&quot; Trap Card directly from your Deck. Once per turn, if you control no other monsters: You can send 2 face-up &quot;Fire Formation&quot; Spell/Trap Cards you control to the Graveyard; draw 1 card.</text>
+</card>

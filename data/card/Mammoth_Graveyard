@@ -1,14 +1,17 @@
-Mammoth Graveyard
-Monster
-EARTH
-Normal
-None
-Dinosaur
-3
-1200
-800
-0
-0
-None
-None
-A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.
+<?xml version="1.0" ?>
+<card>
+    <name>Mammoth Graveyard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.</text>
+</card>

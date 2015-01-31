@@ -1,14 +1,17 @@
-Spirit Ryu
-Monster
-WIND
-Effect
-None
-Dragon
-4
-1000
-1000
-0
-0
-None
-None
-You can only activate this effect during your Battle Step, if this card battles during your turn. Discard 1 Dragon-Type monster from your hand to the Graveyard to increase the ATK and DEF of this card by 1000 points until the End Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit Ryu</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only activate this effect during your Battle Step, if this card battles during your turn. Discard 1 Dragon-Type monster from your hand to the Graveyard to increase the ATK and DEF of this card by 1000 points until the End Step.</text>
+</card>

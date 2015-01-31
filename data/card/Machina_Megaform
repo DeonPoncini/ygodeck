@@ -1,14 +1,17 @@
-Machina Megaform
-Monster
-EARTH
-Effect
-None
-Machine
-8
-2600
-1500
-0
-0
-None
-None
-You can Tribute this card; Special Summon 1 "Machina" monster from your hand or Deck, except "Machina Megaform". If a face-up "Machina Fortress" you control is sent to the Graveyard, while this card is in your Graveyard (except during the Damage Step): You can banish that "Machina Fortress" from the Graveyard; Special Summon this card. You can only use 1 "Machina Megaform" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Machina Megaform</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card; Special Summon 1 &quot;Machina&quot; monster from your hand or Deck, except &quot;Machina Megaform&quot;. If a face-up &quot;Machina Fortress&quot; you control is sent to the Graveyard, while this card is in your Graveyard (except during the Damage Step): You can banish that &quot;Machina Fortress&quot; from the Graveyard; Special Summon this card. You can only use 1 &quot;Machina Megaform&quot; effect per turn, and only once that turn.</text>
+</card>

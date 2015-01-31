@@ -1,14 +1,17 @@
-Ryu-Kishin Clown
-Monster
-DARK
-Effect
-None
-Fiend
-2
-800
-500
-0
-0
-None
-None
-When this card is Summoned (including Flip Summon and Special Summon), select 1 face-up monster on the field and change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ryu-Kishin Clown</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned (including Flip Summon and Special Summon), select 1 face-up monster on the field and change its battle position.</text>
+</card>

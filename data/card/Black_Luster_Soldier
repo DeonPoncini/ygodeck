@@ -1,14 +1,17 @@
-Black Luster Soldier
-Monster
-EARTH
-Ritual
-None
-Warrior
-8
-3000
-2500
-0
-0
-None
-None
-You can Ritual Summon this card with "Black Luster Ritual".
+<?xml version="1.0" ?>
+<card>
+    <name>Black Luster Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Black Luster Ritual&quot;.</text>
+</card>

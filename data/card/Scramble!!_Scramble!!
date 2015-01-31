@@ -1,14 +1,17 @@
-Scramble!! Scramble!!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-If your opponent's monsters on the field outnumber your non-Token monsters on the field: Tribute any number of "Mecha Phantom Beast Tokens"; Special Summon an equal number of "Mecha Phantom Beast" monsters from your Deck. Shuffle them into the Deck during the End Phase. You can only activate 1 "Scramble!! Scramble!!" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Scramble!! Scramble!!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent's monsters on the field outnumber your non-Token monsters on the field: Tribute any number of &quot;Mecha Phantom Beast Tokens&quot;; Special Summon an equal number of &quot;Mecha Phantom Beast&quot; monsters from your Deck. Shuffle them into the Deck during the End Phase. You can only activate 1 &quot;Scramble!! Scramble!!&quot; per turn.</text>
+</card>

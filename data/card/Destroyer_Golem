@@ -1,14 +1,17 @@
-Destroyer Golem
-Monster
-EARTH
-Normal
-None
-Rock
-4
-1500
-1000
-0
-0
-None
-None
-A golem with a massive right hand for crushing its victims.
+<?xml version="1.0" ?>
+<card>
+    <name>Destroyer Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A golem with a massive right hand for crushing its victims.</text>
+</card>

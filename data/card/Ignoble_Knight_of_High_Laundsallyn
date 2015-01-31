@@ -1,14 +1,17 @@
-Ignoble Knight of High Laundsallyn
-Monster
-DARK
-Synchro
-Effect
-Warrior
-5
-2100
-900
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner "Noble Knight" monstersWhen this card is Synchro Summoned: You can equip 1 "Noble Arms" Equip Spell Card from your Deck to this card. At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard: You can add 1 "Noble Knight" or "Noble Arms" card from your Deck to your hand. You can only control 1 "Ignoble Knight of High Laundsallyn".
+<?xml version="1.0" ?>
+<card>
+    <name>Ignoble Knight of High Laundsallyn</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner &quot;Noble Knight&quot; monstersWhen this card is Synchro Summoned: You can equip 1 &quot;Noble Arms&quot; Equip Spell Card from your Deck to this card. At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard: You can add 1 &quot;Noble Knight&quot; or &quot;Noble Arms&quot; card from your Deck to your hand. You can only control 1 &quot;Ignoble Knight of High Laundsallyn&quot;.</text>
+</card>

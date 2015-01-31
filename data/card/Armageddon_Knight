@@ -1,14 +1,17 @@
-Armageddon Knight
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1400
-1200
-0
-0
-None
-None
-When this card is Summoned, you can send 1 DARK monster from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Armageddon Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, you can send 1 DARK monster from your Deck to the Graveyard.</text>
+</card>

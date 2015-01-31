@@ -1,14 +1,17 @@
-R-Genex Turbo
-Monster
-WIND
-Effect
-None
-Machine
-4
-1500
-1300
-0
-0
-None
-None
-When this card is Normal Summoned, you can add 1 Level 1 "Genex" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>R-Genex Turbo</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can add 1 Level 1 &quot;Genex&quot; monster from your Deck to your hand.</text>
+</card>

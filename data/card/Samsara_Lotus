@@ -1,14 +1,17 @@
-Samsara Lotus
-Monster
-DARK
-Effect
-None
-Plant
-1
-0
-0
-0
-0
-None
-None
-During your End Phase, if you control no Spell or Trap Cards, you can Special Summon this card from your Graveyard in face-up Attack Position. This card's controller takes 1000 damage during each of their Standby Phases.
+<?xml version="1.0" ?>
+<card>
+    <name>Samsara Lotus</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your End Phase, if you control no Spell or Trap Cards, you can Special Summon this card from your Graveyard in face-up Attack Position. This card's controller takes 1000 damage during each of their Standby Phases.</text>
+</card>

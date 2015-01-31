@@ -1,14 +1,17 @@
-Chaos Goddess
-Monster
-LIGHT
-Synchro
-Effect
-Fairy
-8
-2500
-1800
-0
-0
-None
-None
-1 LIGHT Tuner + 2 or more non-Tuner DARK monstersOnce per turn, you can send 1 LIGHT monster from your hand to the Graveyard to select 1 Level 5 or higher DARK monster in your Graveyard. Special Summon that monster. It cannot be used as a Synchro Material Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Chaos Goddess</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 LIGHT Tuner + 2 or more non-Tuner DARK monstersOnce per turn, you can send 1 LIGHT monster from your hand to the Graveyard to select 1 Level 5 or higher DARK monster in your Graveyard. Special Summon that monster. It cannot be used as a Synchro Material Monster.</text>
+</card>

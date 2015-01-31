@@ -1,14 +1,17 @@
-Masahiro the Dark Clown
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-600
-1500
-0
-0
-None
-None
-FLIP: Target 1 Flip Effect Monster in your Graveyard; this card's effect becomes that target's effect."The key to victory is to never quit believing in your Deck!"
+<?xml version="1.0" ?>
+<card>
+    <name>Masahiro the Dark Clown</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 Flip Effect Monster in your Graveyard; this card's effect becomes that target's effect.&quot;The key to victory is to never quit believing in your Deck!&quot;</text>
+</card>

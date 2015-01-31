@@ -1,14 +1,17 @@
-Masked Sorcerer
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-900
-1400
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Masked Sorcerer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.</text>
+</card>

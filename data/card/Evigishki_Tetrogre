@@ -1,14 +1,17 @@
-Evigishki Tetrogre
-Monster
-WATER
-Ritual
-Effect
-Aqua
-6
-2600
-2100
-0
-0
-None
-None
-You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can declare 1 card type (Monster, Spell or Trap); your opponent can discard 1 card to negate this card's effect, otherwise both players send 1 card of the declared type from their Main Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Evigishki Tetrogre</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>6</level>
+    <attack>2600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Gishki&quot; Ritual Spell Card. Once per turn: You can declare 1 card type (Monster, Spell or Trap); your opponent can discard 1 card to negate this card's effect, otherwise both players send 1 card of the declared type from their Main Deck to the Graveyard.</text>
+</card>

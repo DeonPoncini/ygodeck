@@ -1,14 +1,17 @@
-Elemental HERO Wild Wingman
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-8
-1900
-2300
-0
-0
-None
-None
-"Elemental HERO Wildheart" + "Elemental HERO Avian"Must be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell/Trap Card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Wild Wingman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>1900</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Wildheart&quot; + &quot;Elemental HERO Avian&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell/Trap Card on the field; destroy that target.</text>
+</card>

@@ -1,14 +1,17 @@
-My Body as a Shield
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field (except during the Damage Step): Pay 1500 Life Points; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>My Body as a Shield</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field (except during the Damage Step): Pay 1500 Life Points; negate the activation, and if you do, destroy it.</text>
+</card>

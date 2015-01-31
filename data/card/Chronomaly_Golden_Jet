@@ -1,14 +1,17 @@
-Chronomaly Golden Jet
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1300
-1400
-0
-0
-None
-None
-Once per turn: You can increase the Levels of all "Chronomaly" monsters you currently control by 1.
+<?xml version="1.0" ?>
+<card>
+    <name>Chronomaly Golden Jet</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can increase the Levels of all &quot;Chronomaly&quot; monsters you currently control by 1.</text>
+</card>

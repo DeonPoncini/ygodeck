@@ -1,14 +1,17 @@
-Amazoness Tiger
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1100
-1500
-0
-0
-None
-None
-You can only control 1 "Amazoness Tiger". This card gains 400 ATK for each "Amazoness" monster you control. Your opponent cannot attack any face-up "Amazoness" monsters, except this one.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only control 1 &quot;Amazoness Tiger&quot;. This card gains 400 ATK for each &quot;Amazoness&quot; monster you control. Your opponent cannot attack any face-up &quot;Amazoness&quot; monsters, except this one.</text>
+</card>

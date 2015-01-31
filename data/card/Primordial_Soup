@@ -1,14 +1,17 @@
-Primordial Soup
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn, during your Main Phase: You can shuffle up to 2 "Evolsaur" monsters from your hand into the Deck, then draw the same number of cards. You can only control 1 face-up "Primordial Soup".
+<?xml version="1.0" ?>
+<card>
+    <name>Primordial Soup</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase: You can shuffle up to 2 &quot;Evolsaur&quot; monsters from your hand into the Deck, then draw the same number of cards. You can only control 1 face-up &quot;Primordial Soup&quot;.</text>
+</card>

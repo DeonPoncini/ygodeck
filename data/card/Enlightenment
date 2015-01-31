@@ -1,14 +1,17 @@
-Enlightenment
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-You cannot Summon the turn you activate this card. Activate at the end of the Damage Step, if a Spellcaster-Type monster you control attacked and destroyed an opponent's monster by battle. That monster can attack again (immediately).
+<?xml version="1.0" ?>
+<card>
+    <name>Enlightenment</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>You cannot Summon the turn you activate this card. Activate at the end of the Damage Step, if a Spellcaster-Type monster you control attacked and destroyed an opponent's monster by battle. That monster can attack again (immediately).</text>
+</card>

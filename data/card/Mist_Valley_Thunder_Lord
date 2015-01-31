@@ -1,14 +1,17 @@
-Mist Valley Thunder Lord
-Monster
-WIND
-Synchro
-Effect
-Thunder
-7
-2600
-2400
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner "Mist Valley" monstersOnce per turn, you can select 1 card you control. Return it to the hand, and this card gains 500 ATK until the End Phase. This effect can be activated during either player's turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Thunder Lord</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Thunder</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner &quot;Mist Valley&quot; monstersOnce per turn, you can select 1 card you control. Return it to the hand, and this card gains 500 ATK until the End Phase. This effect can be activated during either player's turn.</text>
+</card>

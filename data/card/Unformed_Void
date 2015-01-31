@@ -1,14 +1,17 @@
-Unformed Void
-Monster
-LIGHT
-Xyz
-Effect
-Aqua
-4
-0
-0
-0
-0
-None
-None
-3 Level 4 monstersOnce per turn, during your opponent's Main Phase: You can detach 1 Xyz Material from this card; this card gains ATK and DEF equal to the total ATK of all face-up Xyz Monsters your opponent currently controls (this is a Quick Effect).
+<?xml version="1.0" ?>
+<card>
+    <name>Unformed Void</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersOnce per turn, during your opponent's Main Phase: You can detach 1 Xyz Material from this card; this card gains ATK and DEF equal to the total ATK of all face-up Xyz Monsters your opponent currently controls (this is a Quick Effect).</text>
+</card>

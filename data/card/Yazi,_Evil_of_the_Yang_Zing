@@ -1,14 +1,17 @@
-Yazi, Evil of the Yang Zing
-Monster
-DARK
-Synchro
-Effect
-Wyrm
-7
-2600
-2100
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersCannot be targeted by an opponent's card effects. You can only use each of these effects of "Yazi, Evil of the Yang Zing" once per turn.● You can target 1 "Yang Zing" monster you control and 1 card your opponent controls; destroy them.● When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 Wyrm-Type monster from your Deck in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Yazi, Evil of the Yang Zing</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Wyrm</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersCannot be targeted by an opponent's card effects. You can only use each of these effects of &quot;Yazi, Evil of the Yang Zing&quot; once per turn.● You can target 1 &quot;Yang Zing&quot; monster you control and 1 card your opponent controls; destroy them.● When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 Wyrm-Type monster from your Deck in Defense Position.</text>
+</card>

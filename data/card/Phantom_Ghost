@@ -1,14 +1,17 @@
-Phantom Ghost
-Monster
-DARK
-Normal
-None
-Zombie
-2
-600
-800
-0
-0
-None
-None
-A vengeful spirit made up of many restless souls.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom Ghost</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A vengeful spirit made up of many restless souls.</text>
+</card>

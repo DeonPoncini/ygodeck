@@ -1,14 +1,17 @@
-Gogiga Gagagigo
-Monster
-WATER
-Normal
-None
-Reptile
-8
-2950
-2800
-0
-0
-None
-None
-His soul long since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....
+<?xml version="1.0" ?>
+<card>
+    <name>Gogiga Gagagigo</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>8</level>
+    <attack>2950</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>His soul long since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....</text>
+</card>

@@ -1,14 +1,17 @@
-Gagaga Sister
-Monster
-DARK
-Effect
-None
-Spellcaster
-2
-200
-800
-0
-0
-None
-None
-When this card is Normal Summoned: You can add 1 "Gagaga" Spell/Trap Card from your Deck to your hand. You can target 1 other "Gagaga" monster you control; the Levels of that monster and this card become the combined current Levels of those 2 monsters, until the end of this turn. You can only use this effect of "Gagaga Sister" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gagaga Sister</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can add 1 &quot;Gagaga&quot; Spell/Trap Card from your Deck to your hand. You can target 1 other &quot;Gagaga&quot; monster you control; the Levels of that monster and this card become the combined current Levels of those 2 monsters, until the end of this turn. You can only use this effect of &quot;Gagaga Sister&quot; once per turn.</text>
+</card>

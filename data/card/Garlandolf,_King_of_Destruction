@@ -1,14 +1,17 @@
-Garlandolf, King of Destruction
-Monster
-DARK
-Ritual
-Effect
-Fiend
-7
-2500
-1400
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "Ritual of Destruction". When this card is Ritual Summoned, destroy all other face-up monsters on the field with DEF less than or equal to this card's ATK. This card gains 100 ATK for each monster destroyed by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Garlandolf, King of Destruction</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;Ritual of Destruction&quot;. When this card is Ritual Summoned, destroy all other face-up monsters on the field with DEF less than or equal to this card's ATK. This card gains 100 ATK for each monster destroyed by this effect.</text>
+</card>

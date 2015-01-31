@@ -1,14 +1,17 @@
-Mechanical Snail
-Monster
-DARK
-Normal
-None
-Machine
-3
-800
-1000
-0
-0
-None
-None
-A cyborg snail that still travels at a slow pace.
+<?xml version="1.0" ?>
+<card>
+    <name>Mechanical Snail</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A cyborg snail that still travels at a slow pace.</text>
+</card>

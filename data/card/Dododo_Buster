@@ -1,14 +1,17 @@
-Dododo Buster
-Monster
-EARTH
-Effect
-None
-Warrior
-6
-1900
-800
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, its Level becomes 4. When this card is Tribute Summoned: You can target 1 "Dododo" monster in your Graveyard; Special Summon that target in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Dododo Buster</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, its Level becomes 4. When this card is Tribute Summoned: You can target 1 &quot;Dododo&quot; monster in your Graveyard; Special Summon that target in face-up Defense Position.</text>
+</card>

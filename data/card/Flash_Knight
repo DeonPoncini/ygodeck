@@ -1,14 +1,17 @@
-Flash Knight
-Monster
-LIGHT
-Pendulum
-None
-Warrior
-4
-1800
-600
-7
-7
-None
-None
-The power of the pendulum flashes forth from this shining knight.
+<?xml version="1.0" ?>
+<card>
+    <name>Flash Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>600</defense>
+    <lpendulum>7</lpendulum>
+    <rpendulum>7</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The power of the pendulum flashes forth from this shining knight.</text>
+</card>

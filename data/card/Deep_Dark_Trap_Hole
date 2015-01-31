@@ -1,14 +1,17 @@
-Deep Dark Trap Hole
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Level 5 or higher Effect Monster(s) is Special Summoned: Banish that Level 5 or higher Effect Monster(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Deep Dark Trap Hole</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Level 5 or higher Effect Monster(s) is Special Summoned: Banish that Level 5 or higher Effect Monster(s).</text>
+</card>

@@ -1,14 +1,17 @@
-Great Shogun Shien
-Monster
-FIRE
-Effect
-None
-Warrior
-7
-2500
-2400
-0
-0
-None
-None
-If you control 2 or more face-up "Six Samurai" monsters, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn. If this card would be destroyed, you can destroy a face-up "Six Samurai" monster you control instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Great Shogun Shien</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control 2 or more face-up &quot;Six Samurai&quot; monsters, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn. If this card would be destroyed, you can destroy a face-up &quot;Six Samurai&quot; monster you control instead.</text>
+</card>

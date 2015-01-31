@@ -1,14 +1,17 @@
-Vylon Polytope
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target any number of "Vylon" Monster Cards you control that are Equip Cards; Special Summon them in face-up Defense Position. Banish them when they leave the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Polytope</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target any number of &quot;Vylon&quot; Monster Cards you control that are Equip Cards; Special Summon them in face-up Defense Position. Banish them when they leave the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Lightsworn Sanctuary
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn: You can send 1 "Lightsworn" monster from your hand to the Graveyard, then target 1 other "Lightsworn" monster in your Graveyard; add it to your hand. Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. If a "Lightsworn" card(s) you control would be destroyed by a card effect, you can remove 2 Shine Counters from your side of the field for each of those "Lightsworn" card(s) instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightsworn Sanctuary</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can send 1 &quot;Lightsworn&quot; monster from your hand to the Graveyard, then target 1 other &quot;Lightsworn&quot; monster in your Graveyard; add it to your hand. Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. If a &quot;Lightsworn&quot; card(s) you control would be destroyed by a card effect, you can remove 2 Shine Counters from your side of the field for each of those &quot;Lightsworn&quot; card(s) instead.</text>
+</card>

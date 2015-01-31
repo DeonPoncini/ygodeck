@@ -1,14 +1,17 @@
-Warrior of Tradition
-Monster
-EARTH
-Fusion
-None
-Warrior
-6
-1900
-1700
-0
-0
-None
-None
-"Sonic Maid" + "Beautiful Headhuntress"
+<?xml version="1.0" ?>
+<card>
+    <name>Warrior of Tradition</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Sonic Maid&quot; + &quot;Beautiful Headhuntress&quot;</text>
+</card>

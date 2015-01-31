@@ -1,14 +1,17 @@
-Dododo Witch
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1200
-1600
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can Special Summon 1 "Dododo" monster from your hand in Attack Position or face-down Defense Position, except "Dododo Witch".
+<?xml version="1.0" ?>
+<card>
+    <name>Dododo Witch</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can Special Summon 1 &quot;Dododo&quot; monster from your hand in Attack Position or face-down Defense Position, except &quot;Dododo Witch&quot;.</text>
+</card>

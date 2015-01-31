@@ -1,14 +1,17 @@
-Samsara Kaiser
-Monster
-EARTH
-Effect
-None
-Warrior
-2
-200
-100
-0
-0
-None
-None
-When you Tribute Summon a monster by Tributing this card, return this card to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Samsara Kaiser</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you Tribute Summon a monster by Tributing this card, return this card to your hand.</text>
+</card>

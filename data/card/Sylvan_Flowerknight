@@ -1,14 +1,17 @@
-Sylvan Flowerknight
-Monster
-EARTH
-Effect
-None
-Plant
-4
-1800
-1000
-0
-0
-None
-None
-When this card is Normal Summoned: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can choose 1 "Sylvan" card from your Deck and place it on top of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Sylvan Flowerknight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can choose 1 &quot;Sylvan&quot; card from your Deck and place it on top of your Deck.</text>
+</card>

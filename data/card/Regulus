@@ -1,14 +1,17 @@
-Regulus
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1700
-1000
-0
-0
-None
-None
-Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Regulus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.</text>
+</card>

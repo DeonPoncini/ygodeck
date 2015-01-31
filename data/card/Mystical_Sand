@@ -1,14 +1,17 @@
-Mystical Sand
-Monster
-EARTH
-Fusion
-None
-Rock
-6
-2100
-1700
-0
-0
-None
-None
-"Giant Soldier of Stone" + "Ancient Elf"
+<?xml version="1.0" ?>
+<card>
+    <name>Mystical Sand</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Giant Soldier of Stone&quot; + &quot;Ancient Elf&quot;</text>
+</card>

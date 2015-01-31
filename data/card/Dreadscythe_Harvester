@@ -1,14 +1,17 @@
-Dreadscythe Harvester
-Monster
-WIND
-Effect
-None
-Insect
-8
-2300
-1600
-0
-0
-None
-None
-You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dreadscythe Harvester</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>8</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.</text>
+</card>

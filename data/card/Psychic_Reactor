@@ -1,14 +1,17 @@
-Psychic Reactor
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control a Psychic-Type monster: Apply this effect to all Psychic-Type monsters you currently control, for the rest of this turn. When a Psychic-Type monster you control battles an opponent's monster, after damage calculation: Banish that Psychic-Type monster, also banish that opponent's monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Psychic Reactor</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control a Psychic-Type monster: Apply this effect to all Psychic-Type monsters you currently control, for the rest of this turn. When a Psychic-Type monster you control battles an opponent's monster, after damage calculation: Banish that Psychic-Type monster, also banish that opponent's monster.</text>
+</card>

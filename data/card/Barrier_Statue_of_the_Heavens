@@ -1,14 +1,17 @@
-Barrier Statue of the Heavens
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1000
-1000
-0
-0
-None
-None
-No monsters can be Special Summoned, except for LIGHT monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Barrier Statue of the Heavens</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>No monsters can be Special Summoned, except for LIGHT monsters.</text>
+</card>

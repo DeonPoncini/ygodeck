@@ -1,14 +1,17 @@
-Combo Fighter
-Monster
-WIND
-Effect
-None
-Warrior
-4
-1600
-800
-0
-0
-None
-None
-If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Combo Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.</text>
+</card>

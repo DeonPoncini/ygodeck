@@ -1,14 +1,17 @@
-Wretched Ghost of the Attic
-Monster
-DARK
-Normal
-None
-Fiend
-2
-550
-400
-0
-0
-None
-None
-A harmless monster found lurking in just about any attic.
+<?xml version="1.0" ?>
+<card>
+    <name>Wretched Ghost of the Attic</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>550</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A harmless monster found lurking in just about any attic.</text>
+</card>

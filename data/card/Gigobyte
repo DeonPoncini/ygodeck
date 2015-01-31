@@ -1,14 +1,17 @@
-Gigobyte
-Monster
-WATER
-Normal
-None
-Reptile
-1
-350
-300
-0
-0
-None
-None
-He has a tranquil soul, but carries a destiny that one day his heart shall be tainted by evil....
+<?xml version="1.0" ?>
+<card>
+    <name>Gigobyte</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>1</level>
+    <attack>350</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>He has a tranquil soul, but carries a destiny that one day his heart shall be tainted by evil....</text>
+</card>

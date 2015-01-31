@@ -1,14 +1,17 @@
-T.G. Hyper Librarian
-Monster
-DARK
-Synchro
-Effect
-Spellcaster
-5
-2400
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersIf a monster is Synchro Summoned: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>T.G. Hyper Librarian</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersIf a monster is Synchro Summoned: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.</text>
+</card>

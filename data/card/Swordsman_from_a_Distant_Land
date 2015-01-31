@@ -1,14 +1,17 @@
-Swordsman from a Distant Land
-Monster
-EARTH
-Effect
-None
-Warrior
-1
-250
-250
-0
-0
-None
-None
-If this card attacked an opponent's monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Swordsman from a Distant Land</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>250</attack>
+    <defense>250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacked an opponent's monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.</text>
+</card>

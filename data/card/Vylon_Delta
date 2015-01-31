@@ -1,14 +1,17 @@
-Vylon Delta
-Monster
-LIGHT
-Synchro
-Effect
-Fairy
-7
-1700
-2800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner LIGHT monsters If this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Delta</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>1700</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner LIGHT monsters If this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.</text>
+</card>

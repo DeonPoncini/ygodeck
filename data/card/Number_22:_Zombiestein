@@ -1,14 +1,17 @@
-Number 22: Zombiestein
-Monster
-DARK
-Xyz
-Effect
-Zombie
-8
-4500
-1000
-0
-0
-None
-None
-2 Level 8 DARK monstersMust be Xyz Summoned and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard to target 1 face-up card your opponent controls; change this card to Defense Position, and if you do, negate that face-up card's effect until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 22: Zombiestein</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>8</level>
+    <attack>4500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 8 DARK monstersMust be Xyz Summoned and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard to target 1 face-up card your opponent controls; change this card to Defense Position, and if you do, negate that face-up card's effect until the End Phase.</text>
+</card>

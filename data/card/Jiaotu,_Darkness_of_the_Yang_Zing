@@ -1,14 +1,17 @@
-Jiaotu, Darkness of the Yang Zing
-Monster
-DARK
-Tuner
-Effect
-Wyrm
-2
-0
-2000
-0
-0
-None
-None
-When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 "Yang Zing" monster from your Deck in Attack Position, except "Jiaotu, Darkness of the Yang Zing". If you control no other monsters: You can send 2 "Yang Zing" cards from your hand to the Graveyard; Special Summon 1 "Yang Zing" monster with 0 ATK and 1 "Yang Zing" monster with 0 DEF from your Deck, but banish them during the End Phase. You can only use 1 "Jiaotu, Darkness of the Yang Zing" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Jiaotu, Darkness of the Yang Zing</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Wyrm</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 &quot;Yang Zing&quot; monster from your Deck in Attack Position, except &quot;Jiaotu, Darkness of the Yang Zing&quot;. If you control no other monsters: You can send 2 &quot;Yang Zing&quot; cards from your hand to the Graveyard; Special Summon 1 &quot;Yang Zing&quot; monster with 0 ATK and 1 &quot;Yang Zing&quot; monster with 0 DEF from your Deck, but banish them during the End Phase. You can only use 1 &quot;Jiaotu, Darkness of the Yang Zing&quot; effect per turn, and only once that turn.</text>
+</card>

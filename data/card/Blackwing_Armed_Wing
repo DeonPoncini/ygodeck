@@ -1,14 +1,17 @@
-Blackwing Armed Wing
-Monster
-DARK
-Synchro
-Effect
-Winged Beast
-6
-2300
-1000
-0
-0
-None
-None
-1 "Blackwing" Tuner + 1 or more non-Tuner monstersIf this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing Armed Wing</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Blackwing&quot; Tuner + 1 or more non-Tuner monstersIf this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage to your opponent.</text>
+</card>

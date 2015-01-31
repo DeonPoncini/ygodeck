@@ -1,14 +1,17 @@
-Elf's Light
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-A LIGHT monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Elf's Light</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>A LIGHT monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.</text>
+</card>

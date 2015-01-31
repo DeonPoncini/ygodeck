@@ -1,14 +1,17 @@
-The Gross Ghost of Fled Dreams
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1300
-1800
-0
-0
-None
-None
-This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.
+<?xml version="1.0" ?>
+<card>
+    <name>The Gross Ghost of Fled Dreams</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.</text>
+</card>

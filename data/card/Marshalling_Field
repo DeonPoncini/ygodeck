@@ -1,14 +1,17 @@
-Marshalling Field
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-You cannot Special Summon monsters, except Machine-Type monsters. Once per turn: You can declare a Level from 5 to 9; all Level 5 or higher Machine-Type monsters you currently control become the declared Level. If a Machine-Type Xyz Monster(s) you control would be destroyed, you can send this face-up card to the Graveyard instead. If this card is sent from the field to the Graveyard: You can add 1 "Rank-Up-Magic Argent Chaos Force" from your Deck or Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Marshalling Field</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>You cannot Special Summon monsters, except Machine-Type monsters. Once per turn: You can declare a Level from 5 to 9; all Level 5 or higher Machine-Type monsters you currently control become the declared Level. If a Machine-Type Xyz Monster(s) you control would be destroyed, you can send this face-up card to the Graveyard instead. If this card is sent from the field to the Graveyard: You can add 1 &quot;Rank-Up-Magic Argent Chaos Force&quot; from your Deck or Graveyard to your hand.</text>
+</card>

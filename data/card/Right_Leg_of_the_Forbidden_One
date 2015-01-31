@@ -1,14 +1,17 @@
-Right Leg of the Forbidden One
-Monster
-DARK
-Normal
-None
-Spellcaster
-1
-200
-300
-0
-0
-None
-None
-A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.
+<?xml version="1.0" ?>
+<card>
+    <name>Right Leg of the Forbidden One</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.</text>
+</card>

@@ -1,14 +1,17 @@
-Windmill Genex
-Monster
-WIND
-Synchro
-Effect
-Machine
-7
-2000
-1600
-0
-0
-None
-None
-"Genex Controller" + 1 or more non-Tuner WIND monstersThis card gains 300 ATK for each face-down Spell and Trap Card on the field. You can send 1 card from your hand to the Graveyard to destroy 1 face-down Spell or Trap Card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Windmill Genex</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Genex Controller&quot; + 1 or more non-Tuner WIND monstersThis card gains 300 ATK for each face-down Spell and Trap Card on the field. You can send 1 card from your hand to the Graveyard to destroy 1 face-down Spell or Trap Card on the field.</text>
+</card>

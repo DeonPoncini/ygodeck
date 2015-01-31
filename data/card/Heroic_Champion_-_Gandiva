@@ -1,14 +1,17 @@
-Heroic Champion - Gandiva
-Monster
-EARTH
-Xyz
-Effect
-Warrior
-4
-2100
-1800
-0
-0
-None
-None
-2 Level 4 Warrior-Type monstersOnce per turn, when a Level 4 or lower monster(s) is Special Summoned to your opponent's side of the field (except during the Damage Step): You can detach 1 Xyz Material from this card; destroy that Special Summoned monster(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Heroic Champion - Gandiva</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 Warrior-Type monstersOnce per turn, when a Level 4 or lower monster(s) is Special Summoned to your opponent's side of the field (except during the Damage Step): You can detach 1 Xyz Material from this card; destroy that Special Summoned monster(s).</text>
+</card>

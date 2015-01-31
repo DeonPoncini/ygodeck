@@ -1,14 +1,17 @@
-Amulet Dragon
-Monster
-DARK
-Fusion
-Effect
-Dragon
-8
-2900
-2500
-0
-0
-None
-None
-"Dark Magician" + 1 Dragon-Type monsterMust be Fusion Summoned with the above Fusion Material Monsters or with "The Eye of Timaeus", and cannot be Special Summoned by other ways. If this card is Special Summoned: Target any number of Spell Cards in any Graveyard(s) (min. 1); banish those targets, and if you do, this card gains 100 ATK for each card banished by this effect. If this card is destroyed: You can target 1 Spellcaster-Type monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Amulet Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Dark Magician&quot; + 1 Dragon-Type monsterMust be Fusion Summoned with the above Fusion Material Monsters or with &quot;The Eye of Timaeus&quot;, and cannot be Special Summoned by other ways. If this card is Special Summoned: Target any number of Spell Cards in any Graveyard(s) (min. 1); banish those targets, and if you do, this card gains 100 ATK for each card banished by this effect. If this card is destroyed: You can target 1 Spellcaster-Type monster in your Graveyard; Special Summon that target.</text>
+</card>

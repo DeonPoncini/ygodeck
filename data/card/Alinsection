@@ -1,14 +1,17 @@
-Alinsection
-Monster
-EARTH
-Normal
-None
-Insect
-3
-950
-700
-0
-0
-None
-None
-A stag beetle with saw-like head and arms.
+<?xml version="1.0" ?>
+<card>
+    <name>Alinsection</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>950</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A stag beetle with saw-like head and arms.</text>
+</card>

@@ -1,14 +1,17 @@
-Loki, Lord of the Aesir
-Monster
-DARK
-Synchro
-Effect
-Spellcaster
-10
-3300
-3000
-0
-0
-None
-None
-1 "Nordic Alfar" Tuner + 2 or more non-Tuner monstersOnce per turn, when your opponent activates a Spell/Trap Card during your Battle Phase: You can negate the activation, and if you do, destroy it (this is a Quick Effect). During the End Phase, if this face-up card you controlled was destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard this turn: You can banish 1 "Nordic Alfar" Tuner monster from your Graveyard; Special Summon this card. When Summoned this way: You can target 1 Trap Card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Loki, Lord of the Aesir</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>10</level>
+    <attack>3300</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Nordic Alfar&quot; Tuner + 2 or more non-Tuner monstersOnce per turn, when your opponent activates a Spell/Trap Card during your Battle Phase: You can negate the activation, and if you do, destroy it (this is a Quick Effect). During the End Phase, if this face-up card you controlled was destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard this turn: You can banish 1 &quot;Nordic Alfar&quot; Tuner monster from your Graveyard; Special Summon this card. When Summoned this way: You can target 1 Trap Card in your Graveyard; add that target to your hand.</text>
+</card>

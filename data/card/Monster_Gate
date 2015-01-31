@@ -1,14 +1,17 @@
-Monster Gate
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Tribute 1 monster; reveal cards from the top of your Deck until you reveal a monster that can be Normal Summoned. Special Summon it, also send the other revealed cards to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Monster Gate</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 monster; reveal cards from the top of your Deck until you reveal a monster that can be Normal Summoned. Special Summon it, also send the other revealed cards to the Graveyard.</text>
+</card>

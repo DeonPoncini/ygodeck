@@ -1,14 +1,17 @@
-Geomancer of the Ice Barrier
-Monster
-WATER
-Tuner
-None
-Spellcaster
-3
-800
-1200
-0
-0
-None
-None
-Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Geomancer of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.</text>
+</card>

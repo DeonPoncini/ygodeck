@@ -1,14 +1,17 @@
-Fluffal Rabbit
-Monster
-EARTH
-Effect
-None
-Fairy
-1
-300
-1200
-0
-0
-None
-None
-If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 "Edge Imp Sabres" or 1 "Fluffal" monster in your Graveyard, except "Fluffal Rabbit"; add it to your hand. You can only use this effect of "Fluffal Rabbit" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fluffal Rabbit</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 &quot;Edge Imp Sabres&quot; or 1 &quot;Fluffal&quot; monster in your Graveyard, except &quot;Fluffal Rabbit&quot;; add it to your hand. You can only use this effect of &quot;Fluffal Rabbit&quot; once per turn.</text>
+</card>

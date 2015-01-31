@@ -1,14 +1,17 @@
-Covering Fire
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-During the Damage Step, while an opponent's monster is attacking a monster you control: Target 1 other face-up monster you control; your attacked monster gains ATK equal to that target's ATK during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Covering Fire</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>During the Damage Step, while an opponent's monster is attacking a monster you control: Target 1 other face-up monster you control; your attacked monster gains ATK equal to that target's ATK during the Damage Step only.</text>
+</card>

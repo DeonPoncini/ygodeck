@@ -1,14 +1,17 @@
-Card Breaker
-Monster
-LIGHT
-Effect
-None
-Warrior
-2
-100
-900
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell & Trap Card Zone to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Card Breaker</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell &amp; Trap Card Zone to the Graveyard.</text>
+</card>

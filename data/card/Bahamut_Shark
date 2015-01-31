@@ -1,14 +1,17 @@
-Bahamut Shark
-Monster
-WATER
-Xyz
-Effect
-Sea Serpent
-4
-2600
-2100
-0
-0
-None
-None
-2 Level 4 WATER monstersOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Bahamut Shark</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>4</level>
+    <attack>2600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 WATER monstersOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Karakuri Strategist mdl 248 "Nishipachi"
-Monster
-EARTH
-Tuner
-None
-Machine
-3
-500
-1600
-0
-0
-None
-None
-This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal or Special Summoned, select 1 monster on the field and change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Strategist mdl 248 &quot;Nishipachi&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal or Special Summoned, select 1 monster on the field and change its battle position.</text>
+</card>

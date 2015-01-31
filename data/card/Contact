@@ -1,14 +1,17 @@
-Contact
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send all "Chrysalis" monsters you control to the Graveyard, and Special Summon 1 monster from your hand or Deck that is written in the card text of those cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Contact</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send all &quot;Chrysalis&quot; monsters you control to the Graveyard, and Special Summon 1 monster from your hand or Deck that is written in the card text of those cards.</text>
+</card>

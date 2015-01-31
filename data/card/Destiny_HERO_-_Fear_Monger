@@ -1,14 +1,17 @@
-Destiny HERO - Fear Monger
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1000
-1000
-0
-0
-None
-None
-During your Standby Phase, if this card is in your Graveyard because it was destroyed by battle and sent there since your last Standby Phase: Target 1 "Destiny HERO" monster in your Graveyard, except a "Destiny HERO - Fear Monger"; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Fear Monger</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Standby Phase, if this card is in your Graveyard because it was destroyed by battle and sent there since your last Standby Phase: Target 1 &quot;Destiny HERO&quot; monster in your Graveyard, except a &quot;Destiny HERO - Fear Monger&quot;; Special Summon that target.</text>
+</card>

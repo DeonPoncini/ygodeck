@@ -1,14 +1,17 @@
-Dekoichi the Battlechanted Locomotive
-Monster
-DARK
-Effect
-None
-Machine
-4
-1400
-1000
-0
-0
-None
-None
-FLIP: Draw 1 card, then draw 1 additional card for each face-up "Bokoichi the Freightening Car" you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Dekoichi the Battlechanted Locomotive</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Draw 1 card, then draw 1 additional card for each face-up &quot;Bokoichi the Freightening Car&quot; you control.</text>
+</card>

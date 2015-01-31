@@ -1,14 +1,17 @@
-Explosive Magician
-Monster
-LIGHT
-Synchro
-Effect
-Spellcaster
-6
-2500
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Spellcaster-Type monstersYou can remove 2 Spell Counters from your side of the field to select and destroy 1 Spell or Trap Card your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Explosive Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Spellcaster-Type monstersYou can remove 2 Spell Counters from your side of the field to select and destroy 1 Spell or Trap Card your opponent controls.</text>
+</card>

@@ -1,14 +1,17 @@
-Limit Impulse
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Send 2 cards from your hand to the Graveyard. Special Summon 2 "Soul Tokens" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0). These Tokens cannot be Tributed except for a Tribute Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Limit Impulse</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Send 2 cards from your hand to the Graveyard. Special Summon 2 &quot;Soul Tokens&quot; (Fiend-Type/DARK/Level 1/ATK 0/DEF 0). These Tokens cannot be Tributed except for a Tribute Summon.</text>
+</card>

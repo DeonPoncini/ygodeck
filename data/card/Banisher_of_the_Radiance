@@ -1,14 +1,17 @@
-Banisher of the Radiance
-Monster
-LIGHT
-Effect
-None
-Fairy
-3
-1600
-0
-0
-0
-None
-None
-Any card sent to the Graveyard is banished instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Banisher of the Radiance</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Any card sent to the Graveyard is banished instead.</text>
+</card>

@@ -1,14 +1,17 @@
-Scrap Breaker
-Monster
-EARTH
-Effect
-None
-Machine
-6
-2100
-700
-0
-0
-None
-None
-If your opponent controls a monster, you can Special Summon this card from your hand. When this card is Special Summoned this way, select 1 face-up "Scrap" monster you control, and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Breaker</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster, you can Special Summon this card from your hand. When this card is Special Summoned this way, select 1 face-up &quot;Scrap&quot; monster you control, and destroy it.</text>
+</card>

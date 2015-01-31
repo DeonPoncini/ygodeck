@@ -1,14 +1,17 @@
-Extra Gate
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Declare a Level between 1 and 12; your opponent banishes 1 monster of that Level from their Extra Deck. If your opponent does not have a monster of that Level in their Extra Deck, you discard 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Extra Gate</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Declare a Level between 1 and 12; your opponent banishes 1 monster of that Level from their Extra Deck. If your opponent does not have a monster of that Level in their Extra Deck, you discard 1 card.</text>
+</card>

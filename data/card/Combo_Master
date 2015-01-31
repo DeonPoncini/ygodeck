@@ -1,14 +1,17 @@
-Combo Master
-Monster
-WIND
-Effect
-None
-Warrior
-5
-2200
-1500
-0
-0
-None
-None
-If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Combo Master</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Curtain of the Dark Ones
-Monster
-DARK
-Normal
-None
-Spellcaster
-2
-600
-500
-0
-0
-None
-None
-A curtain that a spellcaster made, it is said to raise a dark power.
+<?xml version="1.0" ?>
+<card>
+    <name>Curtain of the Dark Ones</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A curtain that a spellcaster made, it is said to raise a dark power.</text>
+</card>

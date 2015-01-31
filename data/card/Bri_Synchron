@@ -1,14 +1,17 @@
-Bri Synchron
-Monster
-EARTH
-Tuner
-None
-Machine
-4
-1500
-1100
-0
-0
-None
-None
-If this card is sent to the Graveyard as a Synchro Material, until the end of this turn, the Synchro Monster that used this card as a Synchro Material gains 600 ATK, but its effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Bri Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard as a Synchro Material, until the end of this turn, the Synchro Monster that used this card as a Synchro Material gains 600 ATK, but its effects are negated.</text>
+</card>

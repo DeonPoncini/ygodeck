@@ -1,14 +1,17 @@
-Bacon Saver
-Monster
-DARK
-Effect
-None
-Zombie
-2
-700
-600
-0
-0
-None
-None
-During either player's Battle Step, while an attack is occurring: You can banish this card from your Graveyard; negate the attack. You can only use the effect of "Bacon Saver" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Bacon Saver</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's Battle Step, while an attack is occurring: You can banish this card from your Graveyard; negate the attack. You can only use the effect of &quot;Bacon Saver&quot; once per Duel.</text>
+</card>

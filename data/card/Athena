@@ -1,14 +1,17 @@
-Athena
-Monster
-LIGHT
-Effect
-None
-Fairy
-7
-2600
-800
-0
-0
-None
-None
-Each time a Fairy-Type monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy-Type monster you control to the Graveyard, except "Athena", then target 1 Fairy-Type monster in your Graveyard, except "Athena"; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Athena</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time a Fairy-Type monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy-Type monster you control to the Graveyard, except &quot;Athena&quot;, then target 1 Fairy-Type monster in your Graveyard, except &quot;Athena&quot;; Special Summon that target.</text>
+</card>

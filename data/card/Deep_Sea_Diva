@@ -1,14 +1,17 @@
-Deep Sea Diva
-Monster
-WATER
-Tuner
-None
-Sea Serpent
-2
-200
-400
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent-Type monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Deep Sea Diva</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent-Type monster from your Deck.</text>
+</card>

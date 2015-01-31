@@ -1,14 +1,17 @@
-Cyber Dragon Core
-Monster
-LIGHT
-Effect
-None
-Machine
-2
-400
-1500
-0
-0
-None
-None
-When this card is Normal Summoned: Add 1 "Cyber" Spell/Trap Card from your Deck to your hand. If your opponent controls a monster and you control no monsters: You can banish this card from your Graveyard; Special Summon 1 "Cyber Dragon" monster from your Deck. You can only use 1 "Cyber Dragon Core" effect per turn, and only once that turn. This card's name becomes "Cyber Dragon" while it is on the field or in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Dragon Core</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: Add 1 &quot;Cyber&quot; Spell/Trap Card from your Deck to your hand. If your opponent controls a monster and you control no monsters: You can banish this card from your Graveyard; Special Summon 1 &quot;Cyber Dragon&quot; monster from your Deck. You can only use 1 &quot;Cyber Dragon Core&quot; effect per turn, and only once that turn. This card's name becomes &quot;Cyber Dragon&quot; while it is on the field or in the Graveyard.</text>
+</card>

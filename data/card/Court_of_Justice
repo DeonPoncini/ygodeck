@@ -1,14 +1,17 @@
-Court of Justice
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control a face-up Level 1 Fairy-Type monster to activate and to resolve this effect. You can only activate the effect of one "Court of Justice" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Court of Justice</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control a face-up Level 1 Fairy-Type monster to activate and to resolve this effect. You can only activate the effect of one &quot;Court of Justice&quot; per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Gorgonic Ghoul
-Monster
-DARK
-Effect
-None
-Rock
-1
-100
-100
-0
-0
-None
-None
-If you control a "Gorgonic Ghoul": You can pay 300 LP; Special Summon this card from your hand. You can use the effect of "Gorgonic Ghoul" up to twice per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gorgonic Ghoul</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Gorgonic Ghoul&quot;: You can pay 300 LP; Special Summon this card from your hand. You can use the effect of &quot;Gorgonic Ghoul&quot; up to twice per turn.</text>
+</card>

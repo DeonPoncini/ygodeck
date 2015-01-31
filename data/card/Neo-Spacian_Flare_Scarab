@@ -1,14 +1,17 @@
-Neo-Spacian Flare Scarab
-Monster
-FIRE
-Effect
-None
-Insect
-3
-500
-500
-0
-0
-None
-None
-This card gains 400 ATK for each Spell/Trap Card your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo-Spacian Flare Scarab</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 400 ATK for each Spell/Trap Card your opponent controls.</text>
+</card>

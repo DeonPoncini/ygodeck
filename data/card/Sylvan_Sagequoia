@@ -1,14 +1,17 @@
-Sylvan Sagequoia
-Monster
-WIND
-Effect
-None
-Plant
-7
-2600
-2100
-0
-0
-None
-None
-When a "Sylvan" monster is sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Once per turn: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 "Sylvan" Spell/Trap Card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Sylvan Sagequoia</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Sylvan&quot; monster is sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Once per turn: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 &quot;Sylvan&quot; Spell/Trap Card in your Graveyard; add that target to your hand.</text>
+</card>

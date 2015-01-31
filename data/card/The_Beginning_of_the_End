@@ -1,14 +1,17 @@
-The Beginning of the End
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Activate only if there are 7 or more DARK monsters in your Graveyard. Remove from play 5 DARK monsters from your Graveyard to draw 3 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>The Beginning of the End</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Activate only if there are 7 or more DARK monsters in your Graveyard. Remove from play 5 DARK monsters from your Graveyard to draw 3 cards.</text>
+</card>

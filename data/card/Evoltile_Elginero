@@ -1,14 +1,17 @@
-Evoltile Elginero
-Monster
-FIRE
-Effect
-None
-Reptile
-2
-0
-0
-0
-0
-None
-None
-When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 "Evoltile" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Evoltile Elginero</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 &quot;Evoltile&quot; monster from your Deck to your hand.</text>
+</card>

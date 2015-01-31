@@ -1,14 +1,17 @@
-Reborn Tengu
-Monster
-WIND
-Effect
-None
-Beast-Warrior
-4
-1700
-600
-0
-0
-None
-None
-When this card is removed from the field, Special Summon 1 "Reborn Tengu" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Reborn Tengu</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is removed from the field, Special Summon 1 &quot;Reborn Tengu&quot; from your Deck.</text>
+</card>

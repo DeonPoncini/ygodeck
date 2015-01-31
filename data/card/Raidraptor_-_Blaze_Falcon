@@ -1,14 +1,17 @@
-Raidraptor - Blaze Falcon
-Monster
-DARK
-Xyz
-Effect
-Winged Beast
-5
-1000
-2000
-0
-0
-None
-None
-3 Level 5 Winged-Beast-Type monstersWhile this card has Xyz Material, it can attack your opponent directly. When this card inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy it. Once per turn: You can detach 1 Xyz Material from this card; destroy as many Special Summoned monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Raidraptor - Blaze Falcon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 5 Winged-Beast-Type monstersWhile this card has Xyz Material, it can attack your opponent directly. When this card inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy it. Once per turn: You can detach 1 Xyz Material from this card; destroy as many Special Summoned monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed by this effect.</text>
+</card>

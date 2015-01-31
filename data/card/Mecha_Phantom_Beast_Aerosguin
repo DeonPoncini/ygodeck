@@ -1,14 +1,17 @@
-Mecha Phantom Beast Aerosguin
-Monster
-WIND
-Effect
-None
-Machine
-3
-1600
-400
-0
-0
-None
-None
-Once per turn: You can banish 1 "Mecha Phantom Beast" monster from your Graveyard, except "Mecha Phantom Beast Aerosguin"; Special Summon 1 "Mecha Phantom Beast Token" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Aerosguin</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can banish 1 &quot;Mecha Phantom Beast&quot; monster from your Graveyard, except &quot;Mecha Phantom Beast Aerosguin&quot;; Special Summon 1 &quot;Mecha Phantom Beast Token&quot; (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all &quot;Mecha Phantom Beast Tokens&quot; you control. While you control a Token, this card cannot be destroyed by battle or card effects.</text>
+</card>

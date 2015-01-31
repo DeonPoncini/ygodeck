@@ -1,14 +1,17 @@
-Terra the Terrible
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1200
-1300
-0
-0
-None
-None
-Known as a swamp dweller, this creature is a minion of the dark forces.
+<?xml version="1.0" ?>
+<card>
+    <name>Terra the Terrible</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Known as a swamp dweller, this creature is a minion of the dark forces.</text>
+</card>

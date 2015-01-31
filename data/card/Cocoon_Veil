@@ -1,14 +1,17 @@
-Cocoon Veil
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate by Tributing 1 face-up "Chrysalis" monster. This turn, any damage to a player caused by an effect becomes 0. Special Summon 1 "Neo-Spacian" monster written on the "Chrysalis" monster you Tributed, from your hand, Deck or from either player's Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Cocoon Veil</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate by Tributing 1 face-up &quot;Chrysalis&quot; monster. This turn, any damage to a player caused by an effect becomes 0. Special Summon 1 &quot;Neo-Spacian&quot; monster written on the &quot;Chrysalis&quot; monster you Tributed, from your hand, Deck or from either player's Graveyard.</text>
+</card>

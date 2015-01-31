@@ -1,14 +1,17 @@
-Don Turtle
-Monster
-WATER
-Effect
-None
-Reptile
-3
-1100
-1200
-0
-0
-None
-None
-When this card is Normal Summoned or Flip Summoned, you can Special Summon any number of "Don Turtle"(s) from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Don Turtle</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned or Flip Summoned, you can Special Summon any number of &quot;Don Turtle&quot;(s) from your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Mystery Hand
-Monster
-DARK
-Normal
-None
-Fiend
-2
-500
-500
-0
-0
-None
-None
-This monster twists reality and reaches between dimensions to attack its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystery Hand</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster twists reality and reaches between dimensions to attack its enemies.</text>
+</card>

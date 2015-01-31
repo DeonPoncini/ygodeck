@@ -1,14 +1,17 @@
-Contract with the Dark Master
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card is used to Ritual Summon "Dark Master - Zorc". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.
+<?xml version="1.0" ?>
+<card>
+    <name>Contract with the Dark Master</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card is used to Ritual Summon &quot;Dark Master - Zorc&quot;. You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.</text>
+</card>

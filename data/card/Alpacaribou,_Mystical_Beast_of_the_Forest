@@ -1,14 +1,17 @@
-Alpacaribou, Mystical Beast of the Forest
-Monster
-EARTH
-Effect
-None
-Beast
-7
-2700
-2100
-0
-0
-None
-None
-● While in Attack Position: Attack Position Winged Beast, Insect and Plant-Type monsters you control cannot be destroyed by battle.● While in Defense Position: Defense Position Winged Beast, Insect and Plant-Type monsters you control cannot be targeted by, or be destroyed by, card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Alpacaribou, Mystical Beast of the Forest</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>7</level>
+    <attack>2700</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>● While in Attack Position: Attack Position Winged Beast, Insect and Plant-Type monsters you control cannot be destroyed by battle.● While in Defense Position: Defense Position Winged Beast, Insect and Plant-Type monsters you control cannot be targeted by, or be destroyed by, card effects.</text>
+</card>

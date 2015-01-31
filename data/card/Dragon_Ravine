@@ -1,14 +1,17 @@
-Dragon Ravine
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Once per turn, during your Main Phase, you can discard 1 card to activate 1 of these effects:● Add 1 Level 4 or lower "Dragunity" monster from your Deck to your hand.● Send 1 Dragon-Type monster from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Ravine</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, you can discard 1 card to activate 1 of these effects:● Add 1 Level 4 or lower &quot;Dragunity&quot; monster from your Deck to your hand.● Send 1 Dragon-Type monster from your Deck to the Graveyard.</text>
+</card>

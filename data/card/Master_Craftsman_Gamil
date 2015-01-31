@@ -1,14 +1,17 @@
-Master Craftsman Gamil
-Monster
-FIRE
-Effect
-None
-Pyro
-2
-200
-200
-0
-0
-None
-None
-During either player's Damage Step, when a face-up monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 300 ATK until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Master Craftsman Gamil</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's Damage Step, when a face-up monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 300 ATK until the end of this turn.</text>
+</card>

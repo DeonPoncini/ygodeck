@@ -1,14 +1,17 @@
-V Salamander
-Monster
-FIRE
-Effect
-None
-Spellcaster
-4
-1500
-1300
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 "Utopia" monster in your Graveyard; Special Summon that target. You can target 1 "Number C39: Utopia Ray V" you control; equip this monster you control to that target. Once per turn, while this card is equipped to a monster: You can detach 1 Xyz Material from the equipped monster; negate the equipped monster's effects (even after this card leaves the field or the monster becomes unaffected by card effects), and if you do, destroy all monsters your opponent controls, and if you do that, inflict 1000 damage to your opponent for each monster destroyed by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>V Salamander</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 &quot;Utopia&quot; monster in your Graveyard; Special Summon that target. You can target 1 &quot;Number C39: Utopia Ray V&quot; you control; equip this monster you control to that target. Once per turn, while this card is equipped to a monster: You can detach 1 Xyz Material from the equipped monster; negate the equipped monster's effects (even after this card leaves the field or the monster becomes unaffected by card effects), and if you do, destroy all monsters your opponent controls, and if you do that, inflict 1000 damage to your opponent for each monster destroyed by this effect.</text>
+</card>

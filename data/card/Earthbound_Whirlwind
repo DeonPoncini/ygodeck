@@ -1,14 +1,17 @@
-Earthbound Whirlwind
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control an "Earthbound Immortal" monster: Destroy all Spell and Trap Cards your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Earthbound Whirlwind</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control an &quot;Earthbound Immortal&quot; monster: Destroy all Spell and Trap Cards your opponent controls.</text>
+</card>

@@ -1,14 +1,17 @@
-Monsturtle
-Monster
-WATER
-Normal
-None
-Aqua
-3
-800
-1000
-0
-0
-None
-None
-Protected by a spiked shell, this turtle has a very nasty disposition.
+<?xml version="1.0" ?>
+<card>
+    <name>Monsturtle</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Protected by a spiked shell, this turtle has a very nasty disposition.</text>
+</card>

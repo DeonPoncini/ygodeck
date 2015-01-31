@@ -1,14 +1,17 @@
-Cheepcheepcheep
-Monster
-WIND
-Flip
-Effect
-Winged Beast
-1
-300
-200
-0
-0
-None
-None
-FLIP: You can Special Summon 1 Level 5 or higher Tuner monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Cheepcheepcheep</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can Special Summon 1 Level 5 or higher Tuner monster from your Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Uniflora, Mystical Beast of the Forest
-Monster
-EARTH
-Effect
-None
-Beast
-1
-700
-500
-0
-0
-None
-None
-If all the monsters in your Graveyard are Beast-Type: You can Tribute this card; Special Summon 1 Beast-Type monster from your hand or Graveyard, except "Uniflora, Mystical Beast of the Forest", but it cannot attack this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Uniflora, Mystical Beast of the Forest</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If all the monsters in your Graveyard are Beast-Type: You can Tribute this card; Special Summon 1 Beast-Type monster from your hand or Graveyard, except &quot;Uniflora, Mystical Beast of the Forest&quot;, but it cannot attack this turn.</text>
+</card>

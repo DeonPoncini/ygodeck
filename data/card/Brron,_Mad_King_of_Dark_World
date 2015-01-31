@@ -1,14 +1,17 @@
-Brron, Mad King of Dark World
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1800
-400
-0
-0
-None
-None
-When this card inflicts battle damage to your opponent: You can discard 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Brron, Mad King of Dark World</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts battle damage to your opponent: You can discard 1 card.</text>
+</card>

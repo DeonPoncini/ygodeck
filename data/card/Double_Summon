@@ -1,14 +1,17 @@
-Double Summon
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-You can conduct 2 Normal Summons/Sets this turn, not just 1.
+<?xml version="1.0" ?>
+<card>
+    <name>Double Summon</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>You can conduct 2 Normal Summons/Sets this turn, not just 1.</text>
+</card>

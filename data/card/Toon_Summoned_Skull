@@ -1,14 +1,17 @@
-Toon Summoned Skull
-Monster
-DARK
-Toon
-None
-Fiend
-6
-2500
-1200
-0
-0
-None
-None
-(This card is always treated as an "Archfiend" card.)Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control "Toon World". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 1). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If "Toon World" on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Toon Summoned Skull</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Toon</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>(This card is always treated as an &quot;Archfiend&quot; card.)Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control &quot;Toon World&quot;. Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 1). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If &quot;Toon World&quot; on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.</text>
+</card>

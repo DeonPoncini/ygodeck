@@ -1,14 +1,17 @@
-Injection Fairy Lily
-Monster
-EARTH
-Effect
-None
-Spellcaster
-3
-400
-1500
-0
-0
-None
-None
-If this card attacks or is attacked, during damage calculation (in either player's turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Injection Fairy Lily</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks or is attacked, during damage calculation (in either player's turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.</text>
+</card>

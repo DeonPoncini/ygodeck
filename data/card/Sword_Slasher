@@ -1,14 +1,17 @@
-Sword Slasher
-Monster
-DARK
-Normal
-None
-Machine
-5
-1450
-1500
-0
-0
-None
-None
-A lethal engine of destruction that wields two well-honed blades.
+<?xml version="1.0" ?>
+<card>
+    <name>Sword Slasher</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1450</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A lethal engine of destruction that wields two well-honed blades.</text>
+</card>

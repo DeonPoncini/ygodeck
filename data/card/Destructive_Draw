@@ -1,14 +1,17 @@
-Destructive Draw
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.
+<?xml version="1.0" ?>
+<card>
+    <name>Destructive Draw</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.</text>
+</card>

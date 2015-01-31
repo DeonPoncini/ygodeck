@@ -1,14 +1,17 @@
-Eliminating the League
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Discard 1 Spell Card. Destroy 1 face-up monster your opponent controls. Check your opponent's hand, and all cards in their hand with the same name as the destroyed card are sent to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Eliminating the League</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Discard 1 Spell Card. Destroy 1 face-up monster your opponent controls. Check your opponent's hand, and all cards in their hand with the same name as the destroyed card are sent to the Graveyard.</text>
+</card>

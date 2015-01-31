@@ -1,14 +1,17 @@
-Gem-Knight Pearl
-Monster
-EARTH
-Xyz
-None
-Rock
-4
-2600
-1900
-0
-0
-None
-None
-2 Level 4 monsters
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Pearl</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>2600</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monsters</text>
+</card>

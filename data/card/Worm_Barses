@@ -1,14 +1,17 @@
-Worm Barses
-Monster
-LIGHT
-Effect
-None
-Reptile
-3
-1400
-1500
-0
-0
-None
-None
-When this card is Normal Summoned: Target 1 Defense Position monster; change that target to face-up Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Barses</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: Target 1 Defense Position monster; change that target to face-up Attack Position.</text>
+</card>

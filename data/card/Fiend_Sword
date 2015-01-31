@@ -1,14 +1,17 @@
-Fiend Sword
-Monster
-DARK
-Normal
-None
-Warrior
-4
-1400
-800
-0
-0
-None
-None
-Whoever resists the curse of this blade will gain untold power.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend Sword</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Whoever resists the curse of this blade will gain untold power.</text>
+</card>

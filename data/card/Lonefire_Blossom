@@ -1,14 +1,17 @@
-Lonefire Blossom
-Monster
-FIRE
-Effect
-None
-Plant
-3
-500
-1400
-0
-0
-None
-None
-Once per turn: You can Tribute 1 face-up Plant-Type monster; Special Summon 1 Plant-Type monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Lonefire Blossom</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can Tribute 1 face-up Plant-Type monster; Special Summon 1 Plant-Type monster from your Deck.</text>
+</card>

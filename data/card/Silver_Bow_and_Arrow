@@ -1,14 +1,17 @@
-Silver Bow and Arrow
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-A Fairy-Type monster equipped with this card increases its ATK and DEF by 300 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Silver Bow and Arrow</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>A Fairy-Type monster equipped with this card increases its ATK and DEF by 300 points.</text>
+</card>

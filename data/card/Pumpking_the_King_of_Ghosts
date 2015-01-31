@@ -1,14 +1,17 @@
-Pumpking the King of Ghosts
-Monster
-DARK
-Effect
-None
-Zombie
-6
-1800
-2000
-0
-0
-None
-None
-While "Castle of Dark Illusions" is face-up on the field, this card gains 100 ATK and DEF, and gains an additional 100 ATK and DEF during each of your next 4 Standby Phases.
+<?xml version="1.0" ?>
+<card>
+    <name>Pumpking the King of Ghosts</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While &quot;Castle of Dark Illusions&quot; is face-up on the field, this card gains 100 ATK and DEF, and gains an additional 100 ATK and DEF during each of your next 4 Standby Phases.</text>
+</card>

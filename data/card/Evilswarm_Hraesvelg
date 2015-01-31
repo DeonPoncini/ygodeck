@@ -1,14 +1,17 @@
-Evilswarm Hraesvelg
-Monster
-DARK
-Effect
-None
-Winged Beast
-4
-1150
-1850
-0
-0
-None
-None
-FLIP: Target 1 face-up card your opponent controls; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Hraesvelg</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1150</attack>
+    <defense>1850</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 face-up card your opponent controls; return that target to the hand.</text>
+</card>

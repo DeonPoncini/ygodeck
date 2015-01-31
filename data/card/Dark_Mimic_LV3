@@ -1,14 +1,17 @@
-Dark Mimic LV3
-Monster
-DARK
-Effect
-None
-Fiend
-3
-1000
-1000
-0
-0
-None
-None
-If this card is destroyed by battle and sent to the Graveyard: Draw 1 card, but if this card was Special Summoned by the effect of "Dark Mimic LV1", draw 2 cards instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Mimic LV3</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is destroyed by battle and sent to the Graveyard: Draw 1 card, but if this card was Special Summoned by the effect of &quot;Dark Mimic LV1&quot;, draw 2 cards instead.</text>
+</card>

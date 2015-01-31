@@ -1,14 +1,17 @@
-Destiny HERO - Malicious
-Monster
-DARK
-Effect
-None
-Warrior
-6
-800
-800
-0
-0
-None
-None
-You can banish this card from your Graveyard; Special Summon 1 "Destiny HERO - Malicious" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Malicious</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can banish this card from your Graveyard; Special Summon 1 &quot;Destiny HERO - Malicious&quot; from your Deck.</text>
+</card>

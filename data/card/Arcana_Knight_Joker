@@ -1,14 +1,17 @@
-Arcana Knight Joker
-Monster
-LIGHT
-Fusion
-Effect
-Warrior
-9
-3800
-2500
-0
-0
-None
-None
-"Queen's Knight" + "Jack's Knight" + "King's Knight"A Fusion Summon of this card can only be done with the above Fusion Material Monsters. Once per turn, during either player's turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or monster effect: You can discard the same type of card (Spell, Trap, or Monster Card); negate the effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcana Knight Joker</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>9</level>
+    <attack>3800</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Queen's Knight&quot; + &quot;Jack's Knight&quot; + &quot;King's Knight&quot;A Fusion Summon of this card can only be done with the above Fusion Material Monsters. Once per turn, during either player's turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or monster effect: You can discard the same type of card (Spell, Trap, or Monster Card); negate the effect.</text>
+</card>

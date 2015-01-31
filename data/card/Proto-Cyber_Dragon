@@ -1,14 +1,17 @@
-Proto-Cyber Dragon
-Monster
-LIGHT
-Effect
-None
-Machine
-3
-1100
-600
-0
-0
-None
-None
-This card's name becomes "Cyber Dragon" while it is on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Proto-Cyber Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's name becomes &quot;Cyber Dragon&quot; while it is on the field.</text>
+</card>

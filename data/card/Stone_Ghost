@@ -1,14 +1,17 @@
-Stone Ghost
-Monster
-EARTH
-Normal
-None
-Rock
-4
-1200
-1000
-0
-0
-None
-None
-With a head that erupts when angered, this monster launches a dangerous shower of boulders.
+<?xml version="1.0" ?>
+<card>
+    <name>Stone Ghost</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>With a head that erupts when angered, this monster launches a dangerous shower of boulders.</text>
+</card>

@@ -1,14 +1,17 @@
-Sonic Chick
-Monster
-EARTH
-Effect
-None
-Winged Beast
-1
-300
-300
-0
-0
-None
-None
-Cannot be destroyed by battle with a monster that has 1900 or more ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Sonic Chick</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be destroyed by battle with a monster that has 1900 or more ATK.</text>
+</card>

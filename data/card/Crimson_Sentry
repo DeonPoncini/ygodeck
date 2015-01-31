@@ -1,14 +1,17 @@
-Crimson Sentry
-Monster
-FIRE
-Effect
-None
-Warrior
-4
-1500
-1200
-0
-0
-None
-None
-Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the bottom of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Crimson Sentry</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the bottom of your Deck.</text>
+</card>

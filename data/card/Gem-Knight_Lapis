@@ -1,14 +1,17 @@
-Gem-Knight Lapis
-Monster
-EARTH
-Normal
-None
-Rock
-3
-1200
-100
-0
-0
-None
-None
-The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Lapis</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.</text>
+</card>

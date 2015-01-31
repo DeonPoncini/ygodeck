@@ -1,14 +1,17 @@
-Avenging Knight Parshath
-Monster
-LIGHT
-Synchro
-Effect
-Fairy
-8
-2600
-2100
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner LIGHT monstersOnce per turn: You can target 1 face-up monster your opponent controls; change that target's battle position. If this attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Avenging Knight Parshath</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner LIGHT monstersOnce per turn: You can target 1 face-up monster your opponent controls; change that target's battle position. If this attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Traptrix Dionaea
-Monster
-EARTH
-Effect
-None
-Plant
-4
-1700
-1100
-0
-0
-None
-None
-This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can target 1 "Traptrix" monster in your Graveyard; Special Summon that target in face-up Defense Position. When this card is Special Summoned: You can target 1 "Hole" Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of "Traptrix Dionaea" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Traptrix Dionaea</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is unaffected by the effects of &quot;Hole&quot; Normal Trap Cards. When this card is Normal Summoned: You can target 1 &quot;Traptrix&quot; monster in your Graveyard; Special Summon that target in face-up Defense Position. When this card is Special Summoned: You can target 1 &quot;Hole&quot; Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of &quot;Traptrix Dionaea&quot; once per turn.</text>
+</card>

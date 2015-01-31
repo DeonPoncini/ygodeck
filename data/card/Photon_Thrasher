@@ -1,14 +1,17 @@
-Photon Thrasher
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-2100
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. If you control another monster, this card cannot attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Photon Thrasher</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. If you control another monster, this card cannot attack.</text>
+</card>

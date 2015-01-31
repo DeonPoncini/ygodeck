@@ -1,14 +1,17 @@
-Baron of the Fiend Sword
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1550
-800
-0
-0
-None
-None
-An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.
+<?xml version="1.0" ?>
+<card>
+    <name>Baron of the Fiend Sword</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1550</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.</text>
+</card>

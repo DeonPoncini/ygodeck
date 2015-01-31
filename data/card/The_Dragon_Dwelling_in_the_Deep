@@ -1,14 +1,17 @@
-The Dragon Dwelling in the Deep
-Monster
-WATER
-Effect
-None
-Sea Serpent
-4
-1700
-1400
-0
-0
-None
-None
-Place 1 Ocean Counter on this card during each player's Standby Phases. When this card is removed from the field, all Fish-Type and Sea Serpent-Type monsters you control gain 200 ATK for each Ocean Counter on this card, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>The Dragon Dwelling in the Deep</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Place 1 Ocean Counter on this card during each player's Standby Phases. When this card is removed from the field, all Fish-Type and Sea Serpent-Type monsters you control gain 200 ATK for each Ocean Counter on this card, until the End Phase.</text>
+</card>

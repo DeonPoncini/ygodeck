@@ -1,14 +1,17 @@
-Dora of Fate
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-You can only activate this card during your opponent's turn. Select 1 face-up monster on your opponent's side of the field. When you Normal Summon a monster that is 1 Level lower than the selected monster during your next turn, inflict damage to your opponent's Life Points equal to the Level of the selected monster x 500 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Dora of Fate</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>You can only activate this card during your opponent's turn. Select 1 face-up monster on your opponent's side of the field. When you Normal Summon a monster that is 1 Level lower than the selected monster during your next turn, inflict damage to your opponent's Life Points equal to the Level of the selected monster x 500 points.</text>
+</card>

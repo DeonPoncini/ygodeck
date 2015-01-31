@@ -1,14 +1,17 @@
-Battlin' Boxer Cheat Commissioner
-Monster
-FIRE
-Xyz
-Effect
-Warrior
-3
-0
-1300
-0
-0
-None
-None
-2 Level 3 monstersAll monsters your opponent controls must attack, if able. While you control another "Battlin' Boxer" monster, your opponent cannot target this card for attacks. When an attack is declared involving another "Battlin' Boxer" monster you control: You can detach 2 Xyz Materials from this card; look at your opponent's hand, then Set 1 Spell Card from their hand to your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Battlin' Boxer Cheat Commissioner</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 monstersAll monsters your opponent controls must attack, if able. While you control another &quot;Battlin' Boxer&quot; monster, your opponent cannot target this card for attacks. When an attack is declared involving another &quot;Battlin' Boxer&quot; monster you control: You can detach 2 Xyz Materials from this card; look at your opponent's hand, then Set 1 Spell Card from their hand to your side of the field.</text>
+</card>

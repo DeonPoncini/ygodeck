@@ -1,14 +1,17 @@
-Starship Spy Plane
-Monster
-WIND
-Effect
-None
-Machine
-4
-1100
-500
-0
-0
-None
-None
-If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When this card is Special Summoned from the hand: Target 1 Spell/Trap Card your opponent controls; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Starship Spy Plane</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When this card is Special Summoned from the hand: Target 1 Spell/Trap Card your opponent controls; return that target to the hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Harvest Angel of Wisdom
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1800
-1000
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can add 1 Counter Trap Card from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Harvest Angel of Wisdom</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can add 1 Counter Trap Card from your Graveyard to your hand.</text>
+</card>

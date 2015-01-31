@@ -1,14 +1,17 @@
-Vampire Orchis
-Monster
-EARTH
-Effect
-None
-Plant
-4
-1700
-1000
-0
-0
-None
-None
-When this monster is Normal Summoned successfully, you can Special Summon 1 "Des Dendle" from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Vampire Orchis</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this monster is Normal Summoned successfully, you can Special Summon 1 &quot;Des Dendle&quot; from your hand.</text>
+</card>

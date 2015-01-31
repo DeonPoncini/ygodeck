@@ -1,14 +1,17 @@
-Stellarknight Delteros
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-4
-2500
-2100
-0
-0
-None
-None
-3 Level 4 monstersWhile this card has Xyz Material, your opponent cannot activate cards or effects when you Normal or Special Summon a monster(s). Once per turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it. If this card is sent from the field to the Graveyard: You can Special Summon 1 "tellarknight" monster from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Stellarknight Delteros</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersWhile this card has Xyz Material, your opponent cannot activate cards or effects when you Normal or Special Summon a monster(s). Once per turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it. If this card is sent from the field to the Graveyard: You can Special Summon 1 &quot;tellarknight&quot; monster from your hand or Deck.</text>
+</card>

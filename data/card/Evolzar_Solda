@@ -1,14 +1,17 @@
-Evolzar Solda
-Monster
-FIRE
-Xyz
-Effect
-Dragon
-6
-2600
-1000
-0
-0
-None
-None
-2 Level 6 Dinosaur-Type monstersThis card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Evolzar Solda</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 6 Dinosaur-Type monstersThis card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).</text>
+</card>

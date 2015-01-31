@@ -1,14 +1,17 @@
-Zombie Warrior
-Monster
-DARK
-Fusion
-None
-Zombie
-3
-1200
-900
-0
-0
-None
-None
-"Skull Servant" + "Battle Warrior"
+<?xml version="1.0" ?>
+<card>
+    <name>Zombie Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Skull Servant&quot; + &quot;Battle Warrior&quot;</text>
+</card>

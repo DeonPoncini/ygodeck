@@ -1,14 +1,17 @@
-Scrap Rage
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only during damage calculation, if a Defense Position "Scrap" monster on the field is being attacked. It gains 2000 DEF and is destroyed at the end of the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Rage</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only during damage calculation, if a Defense Position &quot;Scrap&quot; monster on the field is being attacked. It gains 2000 DEF and is destroyed at the end of the Battle Phase.</text>
+</card>

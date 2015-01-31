@@ -1,14 +1,17 @@
-Dragunity Tribus
-Monster
-WIND
-Effect
-None
-Winged Beast
-1
-500
-300
-0
-0
-None
-None
-When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Tribus</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>500</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.</text>
+</card>

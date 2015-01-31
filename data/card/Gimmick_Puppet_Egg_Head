@@ -1,14 +1,17 @@
-Gimmick Puppet Egg Head
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1600
-1200
-0
-0
-None
-None
-You can only use the effect of "Gimmick Puppet Egg Head" once per turn. You can discard 1 "Gimmick Puppet" monster, then activate 1 of these effects.● Inflict 800 damage to your opponent.● This card's Level becomes 8 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Gimmick Puppet Egg Head</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only use the effect of &quot;Gimmick Puppet Egg Head&quot; once per turn. You can discard 1 &quot;Gimmick Puppet&quot; monster, then activate 1 of these effects.● Inflict 800 damage to your opponent.● This card's Level becomes 8 until the End Phase.</text>
+</card>

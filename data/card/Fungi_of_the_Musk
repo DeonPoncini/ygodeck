@@ -1,14 +1,17 @@
-Fungi of the Musk
-Monster
-DARK
-Normal
-None
-Fiend
-1
-400
-300
-0
-0
-None
-None
-Melts away anything that dares to stand before it.
+<?xml version="1.0" ?>
+<card>
+    <name>Fungi of the Musk</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Melts away anything that dares to stand before it.</text>
+</card>

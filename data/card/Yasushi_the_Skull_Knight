@@ -1,14 +1,17 @@
-Yasushi the Skull Knight
-Monster
-DARK
-Fusion
-None
-Spellcaster
-7
-2650
-2250
-0
-0
-None
-None
-"Ultimate Offering" + "Witch of the Black Forest""The path to victory is fighting with a level head!"
+<?xml version="1.0" ?>
+<card>
+    <name>Yasushi the Skull Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>2650</attack>
+    <defense>2250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Ultimate Offering&quot; + &quot;Witch of the Black Forest&quot;&quot;The path to victory is fighting with a level head!&quot;</text>
+</card>

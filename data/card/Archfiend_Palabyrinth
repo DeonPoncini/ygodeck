@@ -1,14 +1,17 @@
-Archfiend Palabyrinth
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All Fiend-Type monsters you control gain 500 ATK. You can target 1 "Archfiend" monster you control; banish 1 other Fiend-Type monster you control, and if you do, Special Summon from your hand, Deck, or Graveyard, 1 "Archfiend" monster with same Level as the targeted monster. You can only use this effect of "Archfiend Palabyrinth" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Palabyrinth</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All Fiend-Type monsters you control gain 500 ATK. You can target 1 &quot;Archfiend&quot; monster you control; banish 1 other Fiend-Type monster you control, and if you do, Special Summon from your hand, Deck, or Graveyard, 1 &quot;Archfiend&quot; monster with same Level as the targeted monster. You can only use this effect of &quot;Archfiend Palabyrinth&quot; once per turn.</text>
+</card>

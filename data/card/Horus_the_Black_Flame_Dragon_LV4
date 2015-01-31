@@ -1,14 +1,17 @@
-Horus the Black Flame Dragon LV4
-Monster
-FIRE
-Effect
-None
-Dragon
-4
-1600
-1000
-0
-0
-None
-None
-Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 "Horus the Black Flame Dragon LV6" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Horus the Black Flame Dragon LV4</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 &quot;Horus the Black Flame Dragon LV6&quot; from your hand or Deck.</text>
+</card>

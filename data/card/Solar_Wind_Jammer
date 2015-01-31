@@ -1,14 +1,17 @@
-Solar Wind Jammer
-Monster
-LIGHT
-Effect
-None
-Machine
-5
-800
-2400
-0
-0
-None
-None
-If you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved. During each of your Standby Phases: Increase the Level of this card by 1. There can only be 1 "Solar Wind Jammer" on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Solar Wind Jammer</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>800</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved. During each of your Standby Phases: Increase the Level of this card by 1. There can only be 1 &quot;Solar Wind Jammer&quot; on the field.</text>
+</card>

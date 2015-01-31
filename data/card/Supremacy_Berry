@@ -1,14 +1,17 @@
-Supremacy Berry
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If your Life Points were lower than your opponent's when this card was activated, gain 2000 Life Points. If your Life Points were higher than your opponent's, you take 1000 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Supremacy Berry</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If your Life Points were lower than your opponent's when this card was activated, gain 2000 Life Points. If your Life Points were higher than your opponent's, you take 1000 damage.</text>
+</card>

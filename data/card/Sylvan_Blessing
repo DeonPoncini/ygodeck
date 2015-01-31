@@ -1,14 +1,17 @@
-Sylvan Blessing
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Place 1 card from your hand on either the top or bottom of the Deck, and if you do, Special Summon 1 "Sylvan" monster from your hand or Graveyard. It is unaffected by other card effects this turn. Place it on either the top or bottom of the Deck during the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Sylvan Blessing</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Place 1 card from your hand on either the top or bottom of the Deck, and if you do, Special Summon 1 &quot;Sylvan&quot; monster from your hand or Graveyard. It is unaffected by other card effects this turn. Place it on either the top or bottom of the Deck during the End Phase.</text>
+</card>

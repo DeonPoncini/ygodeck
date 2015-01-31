@@ -1,14 +1,17 @@
-Hazy Flame Peryton
-Monster
-FIRE
-Effect
-None
-Pyro
-6
-1600
-1700
-0
-0
-None
-None
-Cannot be Special Summoned, except by a "Hazy Flame" monster's effect. Your opponent cannot target this card with card effects. You can send 1 FIRE monster from your hand to the Graveyard and Tribute this card; Special Summon 2 "Hazy Flame" monsters from your Deck. You can only use this effect of "Hazy Flame Peryton" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Hazy Flame Peryton</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>6</level>
+    <attack>1600</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned, except by a &quot;Hazy Flame&quot; monster's effect. Your opponent cannot target this card with card effects. You can send 1 FIRE monster from your hand to the Graveyard and Tribute this card; Special Summon 2 &quot;Hazy Flame&quot; monsters from your Deck. You can only use this effect of &quot;Hazy Flame Peryton&quot; once per turn.</text>
+</card>

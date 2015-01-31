@@ -1,14 +1,17 @@
-Escher the Frost Vassal
-Monster
-WATER
-Effect
-None
-Aqua
-4
-800
-1000
-0
-0
-None
-None
-If your opponent controls 2 or more cards in their Spell & Trap Zones, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Escher the Frost Vassal</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls 2 or more cards in their Spell &amp; Trap Zones, you can Special Summon this card (from your hand).</text>
+</card>

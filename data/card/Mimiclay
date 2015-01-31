@@ -1,14 +1,17 @@
-Mimiclay
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If your opponent controls a monster: Target 1 Level 2 or lower Defense Position monster you control: Special Summon from your Deck, in Defense Position, 1 monster with the same name as that monster, but banish it when it leaves the field. You can only activate 1 "Mimiclay" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mimiclay</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster: Target 1 Level 2 or lower Defense Position monster you control: Special Summon from your Deck, in Defense Position, 1 monster with the same name as that monster, but banish it when it leaves the field. You can only activate 1 &quot;Mimiclay&quot; per turn.</text>
+</card>

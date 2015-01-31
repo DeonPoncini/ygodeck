@@ -1,14 +1,17 @@
-Xyz Reception
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level as that monster from your hand. Its effects are negated, also its ATK and DEF become 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Reception</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level as that monster from your hand. Its effects are negated, also its ATK and DEF become 0.</text>
+</card>

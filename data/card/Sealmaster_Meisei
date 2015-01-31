@@ -1,14 +1,17 @@
-Sealmaster Meisei
-Monster
-DARK
-Normal
-None
-Spellcaster
-3
-1100
-900
-0
-0
-None
-None
-One of the few people who has a good command of Talismans. His history is a mystery.
+<?xml version="1.0" ?>
+<card>
+    <name>Sealmaster Meisei</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>One of the few people who has a good command of Talismans. His history is a mystery.</text>
+</card>

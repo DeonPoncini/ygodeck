@@ -1,14 +1,17 @@
-Absolute End
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Absolute End</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.</text>
+</card>

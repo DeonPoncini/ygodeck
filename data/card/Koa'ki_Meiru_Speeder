@@ -1,14 +1,17 @@
-Koa'ki Meiru Speeder
-Monster
-WIND
-Effect
-None
-Machine
-3
-1200
-2200
-0
-0
-None
-None
-During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Machine-Type monster in your hand. If you draw "Iron Core of Koa'ki Meiru" during your Draw Phase, you can reveal it to your opponent to draw 1 more card.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Speeder</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases, destroy this card unless you send 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the Graveyard or reveal 1 Machine-Type monster in your hand. If you draw &quot;Iron Core of Koa'ki Meiru&quot; during your Draw Phase, you can reveal it to your opponent to draw 1 more card.</text>
+</card>

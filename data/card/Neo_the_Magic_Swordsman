@@ -1,14 +1,17 @@
-Neo the Magic Swordsman
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-4
-1700
-1000
-0
-0
-None
-None
-A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo the Magic Swordsman</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.</text>
+</card>

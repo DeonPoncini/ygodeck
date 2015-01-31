@@ -1,14 +1,17 @@
-Dweller in the Depths
-Monster
-EARTH
-Effect
-None
-Dragon
-3
-1500
-700
-0
-0
-None
-None
-This card gains 300 ATK for each Continuous Spell Card in your Spell & Trap Zone.
+<?xml version="1.0" ?>
+<card>
+    <name>Dweller in the Depths</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 300 ATK for each Continuous Spell Card in your Spell &amp; Trap Zone.</text>
+</card>

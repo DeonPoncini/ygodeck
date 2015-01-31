@@ -1,14 +1,17 @@
-Enchanting Mermaid
-Monster
-WATER
-Normal
-None
-Fish
-3
-1200
-900
-0
-0
-None
-None
-A beautiful mermaid that lures voyagers to a watery grave.
+<?xml version="1.0" ?>
+<card>
+    <name>Enchanting Mermaid</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A beautiful mermaid that lures voyagers to a watery grave.</text>
+</card>

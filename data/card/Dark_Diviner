@@ -1,14 +1,17 @@
-Dark Diviner
-Monster
-DARK
-Synchro
-Effect
-Fiend
-4
-2000
-1000
-0
-0
-None
-None
-1 DARK Tuner + 1 non-Tuner Insect-Type monsterThis card cannot be destroyed by battle. When this card declares an attack, if the ATK of the attack target is higher than this card: The ATK of the attack target becomes equal to this face-up card's current ATK. This change lasts until the end of the Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Send the top 3 cards of your opponent's Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Diviner</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 1 non-Tuner Insect-Type monsterThis card cannot be destroyed by battle. When this card declares an attack, if the ATK of the attack target is higher than this card: The ATK of the attack target becomes equal to this face-up card's current ATK. This change lasts until the end of the Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Send the top 3 cards of your opponent's Deck to the Graveyard.</text>
+</card>

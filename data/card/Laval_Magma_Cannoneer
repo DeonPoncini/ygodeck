@@ -1,14 +1,17 @@
-Laval Magma Cannoneer
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1700
-200
-0
-0
-None
-None
-Up to twice per turn: You can send 1 FIRE monster from your hand to the Graveyard; inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Magma Cannoneer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Up to twice per turn: You can send 1 FIRE monster from your hand to the Graveyard; inflict 500 damage to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Minefield Eruption
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Inflict 1000 damage to your opponent for each face-up "Mine Golem" on your side of the field. After that, destroy all face-up "Mine Golem"(s) on your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Minefield Eruption</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Inflict 1000 damage to your opponent for each face-up &quot;Mine Golem&quot; on your side of the field. After that, destroy all face-up &quot;Mine Golem&quot;(s) on your side of the field.</text>
+</card>

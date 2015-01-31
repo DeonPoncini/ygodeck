@@ -1,14 +1,17 @@
-Zeta Reticulant
-Monster
-DARK
-Effect
-None
-Fairy
-7
-2400
-2100
-0
-0
-None
-None
-You can Tribute 1 "Eva Token" to Special Summon this card from your hand. While this card is in your Graveyard, each time a monster(s) your opponent controls is removed from play, Special Summon 1 "Eva Token" (Fiend-Type/DARK/Level 2/ATK 500/DEF 500).
+<?xml version="1.0" ?>
+<card>
+    <name>Zeta Reticulant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 &quot;Eva Token&quot; to Special Summon this card from your hand. While this card is in your Graveyard, each time a monster(s) your opponent controls is removed from play, Special Summon 1 &quot;Eva Token&quot; (Fiend-Type/DARK/Level 2/ATK 500/DEF 500).</text>
+</card>

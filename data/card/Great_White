@@ -1,14 +1,17 @@
-Great White
-Monster
-WATER
-Normal
-None
-Fish
-4
-1600
-800
-0
-0
-None
-None
-A giant white shark with razor-sharp teeth.
+<?xml version="1.0" ?>
+<card>
+    <name>Great White</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A giant white shark with razor-sharp teeth.</text>
+</card>

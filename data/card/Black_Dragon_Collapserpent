@@ -1,14 +1,17 @@
-Black Dragon Collapserpent
-Monster
-DARK
-Effect
-None
-Dragon
-4
-1800
-1700
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your Graveyard, and cannot be Special Summoned by other ways. You can only Special Summon "Black Dragon Collapserpent" once per turn this way. If this card is sent from the field to the Graveyard: You can add 1 "White Dragon Wyverburster" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Dragon Collapserpent</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your Graveyard, and cannot be Special Summoned by other ways. You can only Special Summon &quot;Black Dragon Collapserpent&quot; once per turn this way. If this card is sent from the field to the Graveyard: You can add 1 &quot;White Dragon Wyverburster&quot; from your Deck to your hand.</text>
+</card>

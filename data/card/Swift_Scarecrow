@@ -1,14 +1,17 @@
-Swift Scarecrow
-Monster
-EARTH
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-When your opponent's monster declares a direct attack: You can discard this card; negate the attack, then end the Battle Phase (this is a Quick Effect).
+<?xml version="1.0" ?>
+<card>
+    <name>Swift Scarecrow</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent's monster declares a direct attack: You can discard this card; negate the attack, then end the Battle Phase (this is a Quick Effect).</text>
+</card>

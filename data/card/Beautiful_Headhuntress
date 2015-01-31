@@ -1,14 +1,17 @@
-Beautiful Headhuntress
-Monster
-EARTH
-Normal
-None
-Warrior
-4
-1600
-800
-0
-0
-None
-None
-A vicious creature that has decapitated numerous enemy monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Beautiful Headhuntress</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A vicious creature that has decapitated numerous enemy monsters.</text>
+</card>

@@ -1,14 +1,17 @@
-Lucky Trinket
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-2
-600
-800
-0
-0
-None
-None
-This creature may look slim and weak, but it's protected by a mystical force.
+<?xml version="1.0" ?>
+<card>
+    <name>Lucky Trinket</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This creature may look slim and weak, but it's protected by a mystical force.</text>
+</card>

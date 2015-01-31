@@ -1,14 +1,17 @@
-Jurrac Spinos
-Monster
-FIRE
-Effect
-None
-Dinosaur
-7
-2600
-1700
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard, Special Summon 1 "Spinos Token" (Dinosaur/FIRE/Level 1/ATK 300/DEF 0) in Attack Position to your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Spinos</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard, Special Summon 1 &quot;Spinos Token&quot; (Dinosaur/FIRE/Level 1/ATK 300/DEF 0) in Attack Position to your opponent's side of the field.</text>
+</card>

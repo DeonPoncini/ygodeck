@@ -1,14 +1,17 @@
-Souls of the Forgotten
-Monster
-DARK
-Normal
-None
-Fiend
-2
-900
-200
-0
-0
-None
-None
-A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Souls of the Forgotten</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.</text>
+</card>

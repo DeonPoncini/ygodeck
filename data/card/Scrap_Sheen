@@ -1,14 +1,17 @@
-Scrap Sheen
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Select 1 face-up "Scrap" monster you control and destroy it. All face-up "Scrap" monsters you control gain 1000 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Sheen</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 face-up &quot;Scrap&quot; monster you control and destroy it. All face-up &quot;Scrap&quot; monsters you control gain 1000 ATK until the End Phase.</text>
+</card>

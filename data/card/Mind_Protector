@@ -1,14 +1,17 @@
-Mind Protector
-Monster
-LIGHT
-Effect
-None
-Psychic
-3
-0
-2200
-0
-0
-None
-None
-This card's controller must pay 500 Life Points during each of their Standby Phases. If they cannot, destroy this card. Monsters with 2000 or less ATK cannot declare an attack, except for Psychic-Type monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Mind Protector</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's controller must pay 500 Life Points during each of their Standby Phases. If they cannot, destroy this card. Monsters with 2000 or less ATK cannot declare an attack, except for Psychic-Type monsters.</text>
+</card>

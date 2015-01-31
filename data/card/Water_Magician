@@ -1,14 +1,17 @@
-Water Magician
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1400
-1000
-0
-0
-None
-None
-This monster swamps an opponent with an almost endless supply of water.
+<?xml version="1.0" ?>
+<card>
+    <name>Water Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster swamps an opponent with an almost endless supply of water.</text>
+</card>

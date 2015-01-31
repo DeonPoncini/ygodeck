@@ -1,14 +1,17 @@
-Kishido Spirit
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Monsters on your side of the field cannot be destroyed in a battle if the monsters' ATK are equal.
+<?xml version="1.0" ?>
+<card>
+    <name>Kishido Spirit</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Monsters on your side of the field cannot be destroyed in a battle if the monsters' ATK are equal.</text>
+</card>

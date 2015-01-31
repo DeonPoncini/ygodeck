@@ -1,14 +1,17 @@
-Naturia Mosquito
-Monster
-EARTH
-Effect
-None
-Insect
-1
-200
-300
-0
-0
-None
-None
-While you control another face-up "Naturia" monster(s), your opponent cannot select this card as an attack target. Your opponent takes any Battle Damage you would have taken from battles involving a face-up "Naturia" monster you control, except this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Mosquito</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control another face-up &quot;Naturia&quot; monster(s), your opponent cannot select this card as an attack target. Your opponent takes any Battle Damage you would have taken from battles involving a face-up &quot;Naturia&quot; monster you control, except this card.</text>
+</card>

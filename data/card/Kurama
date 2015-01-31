@@ -1,14 +1,17 @@
-Kurama
-Monster
-WIND
-Normal
-None
-Winged Beast
-3
-800
-800
-0
-0
-None
-None
-A vicious bird that attacks from the skies with its whip-like tail.
+<?xml version="1.0" ?>
+<card>
+    <name>Kurama</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A vicious bird that attacks from the skies with its whip-like tail.</text>
+</card>

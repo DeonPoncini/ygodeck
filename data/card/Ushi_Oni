@@ -1,14 +1,17 @@
-Ushi Oni
-Monster
-DARK
-Normal
-None
-Fiend
-6
-2150
-1950
-0
-0
-None
-None
-A bull fiend restored by the dark arts, this monster appears out of a jar.
+<?xml version="1.0" ?>
+<card>
+    <name>Ushi Oni</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2150</attack>
+    <defense>1950</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A bull fiend restored by the dark arts, this monster appears out of a jar.</text>
+</card>

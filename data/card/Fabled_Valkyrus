@@ -1,14 +1,17 @@
-Fabled Valkyrus
-Monster
-LIGHT
-Synchro
-Effect
-Fiend
-8
-2900
-1700
-0
-0
-None
-None
-1 "Fabled" Tuner + 1 or more non-Tuner monstersOnce per turn, you can discard 1 Fiend-Type monster to draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Valkyrus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Fabled&quot; Tuner + 1 or more non-Tuner monstersOnce per turn, you can discard 1 Fiend-Type monster to draw 1 card.</text>
+</card>

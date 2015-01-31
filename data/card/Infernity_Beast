@@ -1,14 +1,17 @@
-Infernity Beast
-Monster
-DARK
-Effect
-None
-Beast
-3
-1600
-1200
-0
-0
-None
-None
-If this card attacks while you have no cards in your hand, your opponent cannot activate any Spell or Trap Cards until after the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Infernity Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks while you have no cards in your hand, your opponent cannot activate any Spell or Trap Cards until after the Damage Step.</text>
+</card>

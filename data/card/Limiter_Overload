@@ -1,14 +1,17 @@
-Limiter Overload
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When this card is sent to your Graveyard, Special Summon 1 "Speed Warrior" from your hand, Deck, or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Limiter Overload</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When this card is sent to your Graveyard, Special Summon 1 &quot;Speed Warrior&quot; from your hand, Deck, or Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Shaddoll Hedgehog
-Monster
-DARK
-Flip
-Effect
-Spellcaster
-3
-800
-200
-0
-0
-None
-None
-FLIP: You can add 1 "Shaddoll" Spell/Trap Card from your Deck to your hand.If this card is sent to the Graveyard by a card effect: You can add 1 "Shaddoll" monster from your Deck to your hand, except "Shaddoll Hedgehog". You can only use 1 "Shaddoll Hedgehog" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shaddoll Hedgehog</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can add 1 &quot;Shaddoll&quot; Spell/Trap Card from your Deck to your hand.If this card is sent to the Graveyard by a card effect: You can add 1 &quot;Shaddoll&quot; monster from your Deck to your hand, except &quot;Shaddoll Hedgehog&quot;. You can only use 1 &quot;Shaddoll Hedgehog&quot; effect per turn, and only once that turn.</text>
+</card>

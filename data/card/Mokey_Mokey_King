@@ -1,14 +1,17 @@
-Mokey Mokey King
-Monster
-LIGHT
-Fusion
-Effect
-Fairy
-6
-300
-100
-0
-0
-None
-None
-"Mokey Mokey" + "Mokey Mokey" + "Mokey Mokey"When this card is removed from the field, you can Special Summon as many "Mokey Mokey" as possible from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Mokey Mokey King</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>300</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Mokey Mokey&quot; + &quot;Mokey Mokey&quot; + &quot;Mokey Mokey&quot;When this card is removed from the field, you can Special Summon as many &quot;Mokey Mokey&quot; as possible from your Graveyard.</text>
+</card>

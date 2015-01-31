@@ -1,14 +1,17 @@
-The Flute of Summoning Kuriboh
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Add 1 "Kuriboh" or 1 "Winged Kuriboh" from your Deck to your hand, OR Special Summon 1 "Kuriboh" or 1 "Winged Kuriboh" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>The Flute of Summoning Kuriboh</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Add 1 &quot;Kuriboh&quot; or 1 &quot;Winged Kuriboh&quot; from your Deck to your hand, OR Special Summon 1 &quot;Kuriboh&quot; or 1 &quot;Winged Kuriboh&quot; from your Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Sinister Seed Token
-Monster
-DARK
-Token
-None
-Plant
-1
-100
-100
-0
-0
-None
-None
-This card can be used as any Token.
+<?xml version="1.0" ?>
+<card>
+    <name>Sinister Seed Token</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used as any Token.</text>
+</card>

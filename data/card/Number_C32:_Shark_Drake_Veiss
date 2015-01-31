@@ -1,14 +1,17 @@
-Number C32: Shark Drake Veiss
-Monster
-WATER
-Xyz
-Effect
-Sea Serpent
-4
-2800
-2100
-0
-0
-None
-None
-4 Level 4 WATER monstersYou can also Xyz Summon this card by using a "Number 32: Shark Drake" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C32: Shark Drake Veiss</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>4</level>
+    <attack>2800</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>4 Level 4 WATER monstersYou can also Xyz Summon this card by using a &quot;Number 32: Shark Drake&quot; you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the End Phase.</text>
+</card>

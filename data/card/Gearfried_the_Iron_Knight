@@ -1,14 +1,17 @@
-Gearfried the Iron Knight
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1800
-1600
-0
-0
-None
-None
-When an Equip Card(s) is equipped to this card: Destroy the Equip Card(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Gearfried the Iron Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an Equip Card(s) is equipped to this card: Destroy the Equip Card(s).</text>
+</card>

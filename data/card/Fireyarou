@@ -1,14 +1,17 @@
-Fireyarou
-Monster
-FIRE
-Normal
-None
-Pyro
-4
-1300
-1000
-0
-0
-None
-None
-A malevolent creature wrapped in flames that attacks enemies with intense fire.
+<?xml version="1.0" ?>
+<card>
+    <name>Fireyarou</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A malevolent creature wrapped in flames that attacks enemies with intense fire.</text>
+</card>

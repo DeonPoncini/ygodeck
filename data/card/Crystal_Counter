@@ -1,14 +1,17 @@
-Crystal Counter
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Send all cards in your Spell & Trap Card Zone to the Graveyard. Place as many "Crystal Beast" monsters as possible from your Graveyard in your Spell & Trap Card Zone, face-up, as Continuous Spell Cards. During the End Phase, destroy all face-up "Crystal Beast" cards you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Counter</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Send all cards in your Spell &amp; Trap Card Zone to the Graveyard. Place as many &quot;Crystal Beast&quot; monsters as possible from your Graveyard in your Spell &amp; Trap Card Zone, face-up, as Continuous Spell Cards. During the End Phase, destroy all face-up &quot;Crystal Beast&quot; cards you control.</text>
+</card>

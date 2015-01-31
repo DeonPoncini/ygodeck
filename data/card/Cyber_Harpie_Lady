@@ -1,14 +1,17 @@
-Cyber Harpie Lady
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1800
-1300
-0
-0
-None
-None
-(This card's name is always treated as "Harpie Lady".)
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Harpie Lady</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>(This card's name is always treated as &quot;Harpie Lady&quot;.)</text>
+</card>

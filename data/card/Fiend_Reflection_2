@@ -1,14 +1,17 @@
-Fiend Reflection 2
-Monster
-LIGHT
-Normal
-None
-Winged Beast
-4
-1100
-1400
-0
-0
-None
-None
-A bird-beast that summons reinforcements with a hand mirror.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend Reflection #2</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A bird-beast that summons reinforcements with a hand mirror.</text>
+</card>

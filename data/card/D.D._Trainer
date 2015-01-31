@@ -1,14 +1,17 @@
-D.D. Trainer
-Monster
-DARK
-Normal
-None
-Fiend
-1
-100
-2000
-0
-0
-None
-None
-A poor goblin that was sucked into a different dimension. However, he's doing his best with his new destiny.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Trainer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A poor goblin that was sucked into a different dimension. However, he's doing his best with his new destiny.</text>
+</card>

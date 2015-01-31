@@ -1,14 +1,17 @@
-Frog the Jam
-Monster
-WATER
-Normal
-None
-Aqua
-2
-700
-500
-0
-0
-None
-None
-A slime with the head of a frog, it attacks by croaking terribly.
+<?xml version="1.0" ?>
+<card>
+    <name>Frog the Jam</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A slime with the head of a frog, it attacks by croaking terribly.</text>
+</card>

@@ -1,14 +1,17 @@
-Infernalqueen Archfiend
-Monster
-FIRE
-Effect
-None
-Fiend
-4
-900
-1500
-0
-0
-None
-None
-The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 2 or 5, negate the effect and destroy the opponent's card. As long as this card remains on the field, during each Standby Phase, increase the ATK of 1 Archfiend Monster Card by 1000 points until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Infernalqueen Archfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>900</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 2 or 5, negate the effect and destroy the opponent's card. As long as this card remains on the field, during each Standby Phase, increase the ATK of 1 Archfiend Monster Card by 1000 points until the End Phase.</text>
+</card>

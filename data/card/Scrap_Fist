@@ -1,14 +1,17 @@
-Scrap Fist
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 "Junk Warrior" you control; this turn, if it battles an opponent's monster, apply these effects.● Your opponent cannot activate cards or effects until the end of the Damage Step.● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.● Double any battle damage your opponent takes from battles involving it.● It cannot be destroyed by battle.● Destroy that opponent's monster at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Fist</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Junk Warrior&quot; you control; this turn, if it battles an opponent's monster, apply these effects.● Your opponent cannot activate cards or effects until the end of the Damage Step.● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.● Double any battle damage your opponent takes from battles involving it.● It cannot be destroyed by battle.● Destroy that opponent's monster at the end of the Damage Step.</text>
+</card>

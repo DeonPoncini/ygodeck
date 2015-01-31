@@ -1,14 +1,17 @@
-Cyber Repair Plant
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If "Cyber Dragon" is in your Graveyard: You can activate 1 of these effects. If you have 3 or more "Cyber Dragons" in your Graveyard at activation, you can activate both effects and resolve in sequence. You can only activate 1 "Cyber Repair Plant" per turn.● Add 1 LIGHT Machine-Type monster from your Deck to your hand.● Target 1 LIGHT Machine-Type monster in your Graveyard; shuffle that target into your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Repair Plant</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If &quot;Cyber Dragon&quot; is in your Graveyard: You can activate 1 of these effects. If you have 3 or more &quot;Cyber Dragons&quot; in your Graveyard at activation, you can activate both effects and resolve in sequence. You can only activate 1 &quot;Cyber Repair Plant&quot; per turn.● Add 1 LIGHT Machine-Type monster from your Deck to your hand.● Target 1 LIGHT Machine-Type monster in your Graveyard; shuffle that target into your Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Mecha Phantom Beast Sabre Hawk
-Monster
-WIND
-Effect
-None
-Machine
-4
-2100
-100
-0
-0
-None
-None
-This card cannot attack your opponent directly. If you have a monster in your Graveyard that is not a "Mecha Phantom Beast" monster, this card cannot attack. This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 1 Token, then target 1 card in either player's Graveyard; banish that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Sabre Hawk</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot attack your opponent directly. If you have a monster in your Graveyard that is not a &quot;Mecha Phantom Beast&quot; monster, this card cannot attack. This card's Level is increased by the total Levels of all &quot;Mecha Phantom Beast Tokens&quot; you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 1 Token, then target 1 card in either player's Graveyard; banish that target.</text>
+</card>

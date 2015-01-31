@@ -1,14 +1,17 @@
-Grave Ohja
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1600
-1500
-0
-0
-None
-None
-While there is a face-down Defense Position monster(s)on your side of the field, no player can select this card as an attack target. Each time a monster on your side of the field is Flip Summoned, inflict 300 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Grave Ohja</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While there is a face-down Defense Position monster(s)on your side of the field, no player can select this card as an attack target. Each time a monster on your side of the field is Flip Summoned, inflict 300 damage to your opponent.</text>
+</card>

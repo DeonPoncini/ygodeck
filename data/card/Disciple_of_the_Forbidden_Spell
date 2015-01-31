@@ -1,14 +1,17 @@
-Disciple of the Forbidden Spell
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1700
-800
-0
-0
-None
-None
-When this card is Summoned, declare different Monster Card Attributes equal to the number of "Disciple of the Forbidden Spell"(s) in your Graveyard. If this card attacks a monster that has a declared Attribute, destroy the monster with this card's effect without applying damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Disciple of the Forbidden Spell</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, declare different Monster Card Attributes equal to the number of &quot;Disciple of the Forbidden Spell&quot;(s) in your Graveyard. If this card attacks a monster that has a declared Attribute, destroy the monster with this card's effect without applying damage calculation.</text>
+</card>

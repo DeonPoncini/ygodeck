@@ -1,14 +1,17 @@
-Vanadis of the Nordic Ascendant
-Monster
-DARK
-Tuner
-Effect
-Fairy
-4
-1200
-400
-0
-0
-None
-None
-For a Synchro Summon, you can substitute this card for any 1 "Nordic" Tuner monster. If this card is used as a Synchro Material, all other Synchro Materials must be "Nordic" monsters. Once per turn: You can send 1 "Nordic" monster from your Deck to the Graveyard; this card's Level becomes the Level of that monster, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Vanadis of the Nordic Ascendant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>For a Synchro Summon, you can substitute this card for any 1 &quot;Nordic&quot; Tuner monster. If this card is used as a Synchro Material, all other Synchro Materials must be &quot;Nordic&quot; monsters. Once per turn: You can send 1 &quot;Nordic&quot; monster from your Deck to the Graveyard; this card's Level becomes the Level of that monster, until the end of this turn.</text>
+</card>

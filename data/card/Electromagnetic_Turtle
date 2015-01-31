@@ -1,14 +1,17 @@
-Electromagnetic Turtle
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-0
-1800
-0
-0
-None
-None
-During your opponent's Battle Phase: You can banish this card from your Graveyard; end the Battle Phase (this is a Quick Effect). You can only use this effect of "Electromagnetic Turtle" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Electromagnetic Turtle</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your opponent's Battle Phase: You can banish this card from your Graveyard; end the Battle Phase (this is a Quick Effect). You can only use this effect of &quot;Electromagnetic Turtle&quot; once per Duel.</text>
+</card>

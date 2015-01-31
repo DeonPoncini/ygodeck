@@ -1,14 +1,17 @@
-Disk Magician
-Monster
-DARK
-Normal
-None
-Machine
-4
-1350
-1000
-0
-0
-None
-None
-This monster hides in a saucer and only appears when executing an attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Disk Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1350</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster hides in a saucer and only appears when executing an attack.</text>
+</card>

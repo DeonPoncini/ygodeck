@@ -1,14 +1,17 @@
-ZW - Eagle Claw
-Monster
-WIND
-Effect
-None
-Winged Beast
-5
-2000
-1200
-0
-0
-None
-None
-If your opponent's Life Points are at least 2000 higher than yours, you can Special Summon this card (from your hand). You can target 1 "Utopia" monster you control; equip this monster on the field to that target. It gains 2000 ATK. Once per turn, while this card is equipped to a monster, when a Trap Card or Trap effect that was activated on your opponent's side of the field resolves, negate the effects of that card. You can only control 1 "ZW - Eagle Claw".
+<?xml version="1.0" ?>
+<card>
+    <name>ZW - Eagle Claw</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent's Life Points are at least 2000 higher than yours, you can Special Summon this card (from your hand). You can target 1 &quot;Utopia&quot; monster you control; equip this monster on the field to that target. It gains 2000 ATK. Once per turn, while this card is equipped to a monster, when a Trap Card or Trap effect that was activated on your opponent's side of the field resolves, negate the effects of that card. You can only control 1 &quot;ZW - Eagle Claw&quot;.</text>
+</card>

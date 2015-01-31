@@ -1,14 +1,17 @@
-Gado Go!
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If a face-up "Gagaga", "Gogogo", or "Dododo" monster(s) you control is destroyed by battle or by card effect and sent to your Graveyard: Target 1 of those monsters; Special Summon it, then you can Special Summon up to 2 "Gagaga", "Dododo", and/or "Gogogo" monsters from your hand in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Gado Go!</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If a face-up &quot;Gagaga&quot;, &quot;Gogogo&quot;, or &quot;Dododo&quot; monster(s) you control is destroyed by battle or by card effect and sent to your Graveyard: Target 1 of those monsters; Special Summon it, then you can Special Summon up to 2 &quot;Gagaga&quot;, &quot;Dododo&quot;, and/or &quot;Gogogo&quot; monsters from your hand in Defense Position.</text>
+</card>

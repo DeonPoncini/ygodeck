@@ -1,14 +1,17 @@
-Hydro Pressure Cannon
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Level 3 or lower WATER monster. If it destroys an opponent's monster by battle, send 1 random card from your opponent's hand to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Hydro Pressure Cannon</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Level 3 or lower WATER monster. If it destroys an opponent's monster by battle, send 1 random card from your opponent's hand to the Graveyard.</text>
+</card>

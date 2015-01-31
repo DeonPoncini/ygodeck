@@ -1,14 +1,17 @@
-Cú Chulainn the Awakened
-Monster
-LIGHT
-Ritual
-Effect
-Warrior
-4
-500
-1000
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, Emblem of the Awakening. Once per turn, you can remove from play 1 Normal Monster in your Graveyard. This card gains ATK equal to that Normal Monster's ATK, until the Standby Phase of your next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Cú Chulainn the Awakened</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, Emblem of the Awakening. Once per turn, you can remove from play 1 Normal Monster in your Graveyard. This card gains ATK equal to that Normal Monster's ATK, until the Standby Phase of your next turn.</text>
+</card>

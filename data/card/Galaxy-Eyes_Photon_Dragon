@@ -1,14 +1,17 @@
-Galaxy-Eyes Photon Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-8
-3000
-2500
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During either player's Battle Step, when this card battles an opponent's monster: You can target the monster this card is battling; banish both the opponent's monster and this card. At the end of the Battle Phase, return any monsters banished by this effect to the field, and if the other monster was an Xyz Monster, this card gains 500 ATK for each Xyz Material it had when it was banished.
+<?xml version="1.0" ?>
+<card>
+    <name>Galaxy-Eyes Photon Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During either player's Battle Step, when this card battles an opponent's monster: You can target the monster this card is battling; banish both the opponent's monster and this card. At the end of the Battle Phase, return any monsters banished by this effect to the field, and if the other monster was an Xyz Monster, this card gains 500 ATK for each Xyz Material it had when it was banished.</text>
+</card>

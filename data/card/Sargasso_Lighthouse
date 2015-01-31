@@ -1,14 +1,17 @@
-Sargasso Lighthouse
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-When a Spell effect that would inflict damage to you is activated: You take no damage from that effect. While this card is in your Graveyard, you take no damage from the effect of "Sargasso the D.D. Battlefield". When this Set card is sent to the Graveyard: You can add 1 "Sargasso the D.D. Battlefield" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Sargasso Lighthouse</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>When a Spell effect that would inflict damage to you is activated: You take no damage from that effect. While this card is in your Graveyard, you take no damage from the effect of &quot;Sargasso the D.D. Battlefield&quot;. When this Set card is sent to the Graveyard: You can add 1 &quot;Sargasso the D.D. Battlefield&quot; from your Deck to your hand.</text>
+</card>

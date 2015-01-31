@@ -1,14 +1,17 @@
-Blackwing - Kochi the Daybreak
-Monster
-DARK
-Tuner
-Effect
-Winged Beast
-4
-700
-1500
-0
-0
-None
-None
-If this card was Special Summoned, it cannot be used as a Synchro Material.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Kochi the Daybreak</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>700</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned, it cannot be used as a Synchro Material.</text>
+</card>

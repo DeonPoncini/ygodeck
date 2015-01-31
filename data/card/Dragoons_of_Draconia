@@ -1,18 +1,21 @@
-Dragoons of Draconia
-Monster
-FIRE
-Pendulum
-None
-Beast-Warrior
-4
-1800
-200
-2
-2
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Dragoons of Draconia</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>2</lpendulum>
+    <rpendulum>2</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  Once per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.
 
  Monster Effect
- Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.
+ Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.</text>
+</card>

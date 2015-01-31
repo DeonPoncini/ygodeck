@@ -1,14 +1,17 @@
-Doma the Angel of Silence
-Monster
-DARK
-Normal
-None
-Fairy
-5
-1600
-1400
-0
-0
-None
-None
-This fairy rules over the end of existence.
+<?xml version="1.0" ?>
+<card>
+    <name>Doma the Angel of Silence</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This fairy rules over the end of existence.</text>
+</card>

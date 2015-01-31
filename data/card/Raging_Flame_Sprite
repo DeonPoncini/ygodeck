@@ -1,14 +1,17 @@
-Raging Flame Sprite
-Monster
-FIRE
-Effect
-None
-Pyro
-3
-100
-200
-0
-0
-None
-None
-This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: This card gains 1000 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Raging Flame Sprite</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>100</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: This card gains 1000 ATK.</text>
+</card>

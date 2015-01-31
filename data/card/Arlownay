@@ -1,14 +1,17 @@
-Arlownay
-Monster
-EARTH
-Normal
-None
-Plant
-3
-800
-1000
-0
-0
-None
-None
-A lady monster dwelling in a flower, she sprinkles the air with poisonous pollen.
+<?xml version="1.0" ?>
+<card>
+    <name>Arlownay</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A lady monster dwelling in a flower, she sprinkles the air with poisonous pollen.</text>
+</card>

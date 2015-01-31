@@ -1,14 +1,17 @@
-Giant Soldier of Stone
-Monster
-EARTH
-Normal
-None
-Rock
-3
-1300
-2000
-0
-0
-None
-None
-A giant warrior made of stone. A punch from this creature has earth-shaking results.
+<?xml version="1.0" ?>
+<card>
+    <name>Giant Soldier of Stone</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A giant warrior made of stone. A punch from this creature has earth-shaking results.</text>
+</card>

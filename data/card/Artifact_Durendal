@@ -1,14 +1,17 @@
-Artifact Durendal
-Monster
-LIGHT
-Xyz
-Effect
-Fairy
-5
-2400
-2100
-0
-0
-None
-None
-2 Level 5 monstersOnce per turn, during either player's turn, you can activate 1 of these effects.● When a monster effect is activated on the field, OR when a Normal Spell/Trap Card is activated: You can detach 1 Xyz Material from this card; the activated effect becomes "Destroy 1 Spell/Trap Card your opponent controls".● You can detach 1 Xyz Material from this card; each player with a hand shuffles their entire hand into the Deck, then each player draws the same number of cards they shuffled into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Artifact Durendal</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 monstersOnce per turn, during either player's turn, you can activate 1 of these effects.● When a monster effect is activated on the field, OR when a Normal Spell/Trap Card is activated: You can detach 1 Xyz Material from this card; the activated effect becomes &quot;Destroy 1 Spell/Trap Card your opponent controls&quot;.● You can detach 1 Xyz Material from this card; each player with a hand shuffles their entire hand into the Deck, then each player draws the same number of cards they shuffled into the Deck.</text>
+</card>

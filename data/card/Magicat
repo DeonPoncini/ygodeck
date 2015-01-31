@@ -1,14 +1,17 @@
-Magicat
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-2
-600
-500
-0
-0
-None
-None
-If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type Synchro Monster, you can return 1 Spell Card from your Graveyard to the top of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Magicat</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type Synchro Monster, you can return 1 Spell Card from your Graveyard to the top of your Deck.</text>
+</card>

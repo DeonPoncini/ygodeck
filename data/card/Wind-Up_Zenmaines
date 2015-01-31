@@ -1,14 +1,17 @@
-Wind-Up Zenmaines
-Monster
-FIRE
-Xyz
-Effect
-Machine
-3
-1500
-2100
-0
-0
-None
-None
-2 Level 3 monsters If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Zenmaines</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 monsters If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.</text>
+</card>

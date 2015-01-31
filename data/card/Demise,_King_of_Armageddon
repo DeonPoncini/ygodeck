@@ -1,14 +1,17 @@
-Demise, King of Armageddon
-Monster
-DARK
-Ritual
-Effect
-Fiend
-8
-2400
-2000
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "End of the World". You can pay 2000 Life Points to destroy all cards on the field, except this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Demise, King of Armageddon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;End of the World&quot;. You can pay 2000 Life Points to destroy all cards on the field, except this card.</text>
+</card>

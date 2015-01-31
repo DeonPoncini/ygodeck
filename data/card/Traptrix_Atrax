@@ -1,14 +1,17 @@
-Traptrix Atrax
-Monster
-EARTH
-Effect
-None
-Insect
-4
-1800
-1000
-0
-0
-None
-None
-This card is unaffected by the effects of "Hole" Normal Trap Cards. You can activate "Hole" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Traptrix Atrax</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is unaffected by the effects of &quot;Hole&quot; Normal Trap Cards. You can activate &quot;Hole&quot; Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.</text>
+</card>

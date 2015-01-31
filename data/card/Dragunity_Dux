@@ -1,14 +1,17 @@
-Dragunity Dux
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1500
-1000
-0
-0
-None
-None
-This card gains 200 ATK for each face-up "Dragunity" card you control. When this card is Normal Summoned, you can select 1 Level 3 or lower Dragon-Type "Dragunity" monster in your Graveyard and equip it as an Equip Card to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Dux</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 200 ATK for each face-up &quot;Dragunity&quot; card you control. When this card is Normal Summoned, you can select 1 Level 3 or lower Dragon-Type &quot;Dragunity&quot; monster in your Graveyard and equip it as an Equip Card to this card.</text>
+</card>

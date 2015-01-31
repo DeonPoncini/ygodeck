@@ -1,14 +1,17 @@
-Junk Gardna
-Monster
-EARTH
-Synchro
-Effect
-Warrior
-6
-1400
-2600
-0
-0
-None
-None
-"Junk Synchron" + 1 or more non-Tuner monstersOnce per turn, you can select 1 monster your opponent controls, and change its battle position. This effect can be activated during either player's turn. If this card is sent from the field to the Graveyard, you can select 1 monster on the field and change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Junk Gardna</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>1400</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Junk Synchron&quot; + 1 or more non-Tuner monstersOnce per turn, you can select 1 monster your opponent controls, and change its battle position. This effect can be activated during either player's turn. If this card is sent from the field to the Graveyard, you can select 1 monster on the field and change its battle position.</text>
+</card>

@@ -1,14 +1,17 @@
-Gravekeeper's Cannonholder
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1400
-1200
-0
-0
-None
-None
-You can Tribute 1 "Gravekeeper's" monster, except "Gravekeeper's Cannonholder"; inflict 700 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Cannonholder</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 &quot;Gravekeeper's&quot; monster, except &quot;Gravekeeper's Cannonholder&quot;; inflict 700 damage to your opponent.</text>
+</card>

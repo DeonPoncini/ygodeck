@@ -1,14 +1,17 @@
-Tri-Horned Dragon
-Monster
-DARK
-Normal
-None
-Dragon
-8
-2850
-2350
-0
-0
-None
-None
-An unworthy dragon with three sharp horns sprouting from its head.
+<?xml version="1.0" ?>
+<card>
+    <name>Tri-Horned Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2850</attack>
+    <defense>2350</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An unworthy dragon with three sharp horns sprouting from its head.</text>
+</card>

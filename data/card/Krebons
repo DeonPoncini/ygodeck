@@ -1,14 +1,17 @@
-Krebons
-Monster
-DARK
-Tuner
-None
-Psychic
-2
-1200
-400
-0
-0
-None
-None
-When this card is targeted for an attack: You can pay 800 Life Points; negate the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Krebons</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>2</level>
+    <attack>1200</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is targeted for an attack: You can pay 800 Life Points; negate the attack.</text>
+</card>

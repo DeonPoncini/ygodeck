@@ -1,14 +1,17 @@
-Water Girl
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1250
-1000
-0
-0
-None
-None
-A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Water Girl</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1250</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.</text>
+</card>

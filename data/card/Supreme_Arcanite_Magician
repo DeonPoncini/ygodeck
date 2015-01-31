@@ -1,14 +1,17 @@
-Supreme Arcanite Magician
-Monster
-LIGHT
-Fusion
-Effect
-Spellcaster
-10
-1400
-2800
-0
-0
-None
-None
-1 Spellcaster-Type Synchro Monster + 1 Spellcaster-Type monsterThis monster can only be Special Summoned by Fusion Summon (from the Extra Deck). When this card is Fusion Summoned, place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it. Once per turn, you can remove 1 Spell Counter from your side of the field to activate one of the following effects: ● Select 1 card on the field, and destroy it. ● Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Supreme Arcanite Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>10</level>
+    <attack>1400</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Spellcaster-Type Synchro Monster + 1 Spellcaster-Type monsterThis monster can only be Special Summoned by Fusion Summon (from the Extra Deck). When this card is Fusion Summoned, place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it. Once per turn, you can remove 1 Spell Counter from your side of the field to activate one of the following effects: ● Select 1 card on the field, and destroy it. ● Draw 1 card.</text>
+</card>

@@ -1,14 +1,17 @@
-Red-Eyes Wyvern
-Monster
-WIND
-Effect
-None
-Dragon
-4
-1800
-1600
-0
-0
-None
-None
-During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 "Red-Eyes" monster from your Graveyard, except "Red-Eyes B. Chick".
+<?xml version="1.0" ?>
+<card>
+    <name>Red-Eyes Wyvern</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 &quot;Red-Eyes&quot; monster from your Graveyard, except &quot;Red-Eyes B. Chick&quot;.</text>
+</card>

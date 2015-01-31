@@ -1,14 +1,17 @@
-Slate Warrior
-Monster
-WIND
-Flip
-Effect
-Fiend
-4
-1900
-400
-0
-0
-None
-None
-FLIP: This card gains 500 ATK and DEF.If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Slate Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: This card gains 500 ATK and DEF.If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.</text>
+</card>

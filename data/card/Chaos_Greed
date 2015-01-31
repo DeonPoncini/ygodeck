@@ -1,14 +1,17 @@
-Chaos Greed
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-You can only activate this card if 4 or more of your cards are currently removed from play and there are no cards in your Graveyard. Draw 2 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Chaos Greed</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>You can only activate this card if 4 or more of your cards are currently removed from play and there are no cards in your Graveyard. Draw 2 cards.</text>
+</card>

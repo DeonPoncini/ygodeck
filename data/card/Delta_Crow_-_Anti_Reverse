@@ -1,14 +1,17 @@
-Delta Crow - Anti Reverse
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control a "Blackwing" monster: Destroy all face-down Spell and Trap Cards your opponent controls. If you control exactly 3 "Blackwing" monsters, you can activate this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Delta Crow - Anti Reverse</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control a &quot;Blackwing&quot; monster: Destroy all face-down Spell and Trap Cards your opponent controls. If you control exactly 3 &quot;Blackwing&quot; monsters, you can activate this card from your hand.</text>
+</card>

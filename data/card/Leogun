@@ -1,14 +1,17 @@
-Leogun
-Monster
-EARTH
-Normal
-None
-Beast
-5
-1750
-1550
-0
-0
-None
-None
-Huge monster with a lion's mane similar to the King of Beasts.
+<?xml version="1.0" ?>
+<card>
+    <name>Leogun</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>5</level>
+    <attack>1750</attack>
+    <defense>1550</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Huge monster with a lion's mane similar to the King of Beasts.</text>
+</card>

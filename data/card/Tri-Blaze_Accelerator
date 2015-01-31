@@ -1,14 +1,17 @@
-Tri-Blaze Accelerator
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Activate only by sending 1 face-up "Blaze Accelerator" on your side of the field to the Graveyard. You can send 1 Pyro-Type monster from your hand to the Graveyard to destroy 1 monster your opponent controls and inflict 500 damage to your opponent, but you cannot declare an attack during this turn if you do.
+<?xml version="1.0" ?>
+<card>
+    <name>Tri-Blaze Accelerator</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Activate only by sending 1 face-up &quot;Blaze Accelerator&quot; on your side of the field to the Graveyard. You can send 1 Pyro-Type monster from your hand to the Graveyard to destroy 1 monster your opponent controls and inflict 500 damage to your opponent, but you cannot declare an attack during this turn if you do.</text>
+</card>

@@ -1,14 +1,17 @@
-Rampaging Rhynos
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-3
-1500
-1500
-0
-0
-None
-None
-Once per turn, this card can move to an adjacent unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Rampaging Rhynos</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, this card can move to an adjacent unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.</text>
+</card>

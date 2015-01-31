@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Nekroz of Sophia</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>11</level>
+    <attack>3600</attack>
+    <defense>3400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Nekroz&quot; Ritual Spell Card. Must be Ritual Summoned from your hand by using 3 monsters you control with different Types, and cannot be Special Summoned by other ways. During either player's Main Phase 1: You can discard both this card and 1 &quot;Nekroz&quot; Spell Card; during this phase, your opponent cannot Special Summon from the Extra Deck. When this card is Ritual Summoned: You can banish all other cards on the field and in the Graveyards. You cannot Normal/Set or Special Summon other monsters the turn you activate this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Archfiend Marmot of Nefariousness
-Monster
-EARTH
-Normal
-None
-Beast
-2
-400
-600
-0
-0
-None
-None
-An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Marmot of Nefariousness</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.</text>
+</card>

@@ -1,14 +1,17 @@
-Hammer Shot
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)
+<?xml version="1.0" ?>
+<card>
+    <name>Hammer Shot</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)</text>
+</card>

@@ -1,14 +1,17 @@
-Arcane Apprentice
-Monster
-FIRE
-Tuner
-None
-Spellcaster
-2
-1000
-400
-0
-0
-None
-None
-If this card is sent to the Graveyard for a Synchro Summon, you can add 1 "Assault Mode Activate" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcane Apprentice</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard for a Synchro Summon, you can add 1 &quot;Assault Mode Activate&quot; from your Deck to your hand.</text>
+</card>

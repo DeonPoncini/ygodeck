@@ -1,14 +1,17 @@
-Laval Stennon
-Monster
-FIRE
-Synchro
-Effect
-Pyro
-7
-2700
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner FIRE monstersWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. During either player's turn, when this card is targeted by a card effect: You can banish 1 "Laval" monster from your Graveyard; negate the activation, and if you do, destroy the targeting card.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Stennon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Pyro</type>
+    <level>7</level>
+    <attack>2700</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner FIRE monstersWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. During either player's turn, when this card is targeted by a card effect: You can banish 1 &quot;Laval&quot; monster from your Graveyard; negate the activation, and if you do, destroy the targeting card.</text>
+</card>

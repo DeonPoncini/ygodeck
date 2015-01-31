@@ -1,14 +1,17 @@
-Jurrac Velo
-Monster
-FIRE
-Effect
-None
-Dinosaur
-4
-1700
-1000
-0
-0
-None
-None
-When this face-up Attack Position card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can Special Summon 1 "Jurrac" monster with 1700 or less ATK from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Velo</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up Attack Position card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can Special Summon 1 &quot;Jurrac&quot; monster with 1700 or less ATK from your Deck.</text>
+</card>

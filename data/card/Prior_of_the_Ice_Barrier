@@ -1,14 +1,17 @@
-Prior of the Ice Barrier
-Monster
-WATER
-Effect
-None
-Aqua
-2
-1000
-400
-0
-0
-None
-None
-If you control a face-up "Ice Barrier" monster, you can Special Summon this card (from your hand). You cannot Special Summon any Level 5 or higher monsters the turn you use this effect. You can Tribute this card to target 1 "Ice Barrier" monster in your Graveyard, except "Prior of the Ice Barrier"; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Prior of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up &quot;Ice Barrier&quot; monster, you can Special Summon this card (from your hand). You cannot Special Summon any Level 5 or higher monsters the turn you use this effect. You can Tribute this card to target 1 &quot;Ice Barrier&quot; monster in your Graveyard, except &quot;Prior of the Ice Barrier&quot;; Special Summon that target.</text>
+</card>

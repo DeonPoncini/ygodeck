@@ -1,14 +1,17 @@
-Dragon Zombie
-Monster
-DARK
-Normal
-None
-Zombie
-3
-1600
-0
-0
-0
-None
-None
-A dragon revived by sorcery. Its breath is highly corrosive.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Zombie</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dragon revived by sorcery. Its breath is highly corrosive.</text>
+</card>

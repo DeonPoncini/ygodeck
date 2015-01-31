@@ -1,14 +1,17 @@
-Missing Force
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1500
-1000
-0
-0
-None
-None
-If you control no other monsters: You can Tribute this card to target 1 monster your opponent controls; take control of that target until the End Phase. You cannot Special Summon or conduct your Battle Phase the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Missing Force</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control no other monsters: You can Tribute this card to target 1 monster your opponent controls; take control of that target until the End Phase. You cannot Special Summon or conduct your Battle Phase the turn you activate this effect.</text>
+</card>

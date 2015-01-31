@@ -1,14 +1,17 @@
-Decoyroid
-Monster
-WIND
-Effect
-None
-Machine
-2
-300
-500
-0
-0
-None
-None
-While this card is face-up on your side of the field, your opponent cannot select a face-up monster as an attack target except "Decoyroid".
+<?xml version="1.0" ?>
+<card>
+    <name>Decoyroid</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is face-up on your side of the field, your opponent cannot select a face-up monster as an attack target except &quot;Decoyroid&quot;.</text>
+</card>

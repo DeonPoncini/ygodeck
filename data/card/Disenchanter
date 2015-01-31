@@ -1,14 +1,17 @@
-Disenchanter
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-5
-2000
-2300
-0
-0
-None
-None
-Once per turn: You can target 1 face-up Spell Card on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Disenchanter</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 face-up Spell Card on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.</text>
+</card>

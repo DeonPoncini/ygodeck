@@ -1,14 +1,17 @@
-Mirror of the Ice Barrier
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-During this turn, each time a card(s) is removed from play from your hand, your side of the field, and/or your Graveyard by the effect of an opponent's Effect Monster: ● If a card in your hand is removed from play, remove from play up to 2 random cards in your opponent's hand. ● If a card you control is removed from play, remove from play up to 2 cards your opponent controls. ● If a card in your Graveyard is removed from play, remove from play up to 2 cards in your opponent's Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Mirror of the Ice Barrier</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>During this turn, each time a card(s) is removed from play from your hand, your side of the field, and/or your Graveyard by the effect of an opponent's Effect Monster: ● If a card in your hand is removed from play, remove from play up to 2 random cards in your opponent's hand. ● If a card you control is removed from play, remove from play up to 2 cards your opponent controls. ● If a card in your Graveyard is removed from play, remove from play up to 2 cards in your opponent's Graveyard.</text>
+</card>

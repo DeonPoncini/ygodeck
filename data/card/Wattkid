@@ -1,14 +1,17 @@
-Wattkid
-Monster
-LIGHT
-Normal
-None
-Thunder
-3
-1000
-500
-0
-0
-None
-None
-A creature that electrocutes opponents with bolts of lightning.
+<?xml version="1.0" ?>
+<card>
+    <name>Wattkid</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A creature that electrocutes opponents with bolts of lightning.</text>
+</card>

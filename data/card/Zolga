@@ -1,14 +1,17 @@
-Zolga
-Monster
-EARTH
-Effect
-None
-Fairy
-4
-1700
-1200
-0
-0
-None
-None
-When a monster is Tribute Summoned by Tributing this card: The owner of this card gains 2000 Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Zolga</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a monster is Tribute Summoned by Tributing this card: The owner of this card gains 2000 Life Points.</text>
+</card>

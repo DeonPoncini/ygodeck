@@ -1,14 +1,17 @@
-Variable Form
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Once per turn, you can activate 1 of these effects.● Target 2 face-up "Inzektor" monsters you control; equip one to the other.● Target 1 "Inzektor" monster you control that is an Equip Card; Special Summon that target in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Variable Form</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Once per turn, you can activate 1 of these effects.● Target 2 face-up &quot;Inzektor&quot; monsters you control; equip one to the other.● Target 1 &quot;Inzektor&quot; monster you control that is an Equip Card; Special Summon that target in face-up Defense Position.</text>
+</card>

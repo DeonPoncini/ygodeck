@@ -1,14 +1,17 @@
-Justice of Prophecy
-Monster
-EARTH
-Effect
-None
-Spellcaster
-3
-1600
-800
-0
-0
-None
-None
-During your End Phase, if you activated a "Spellbook" Spell Card previously this turn: You can banish this card from the field; add both 1 Level 5 or higher LIGHT or DARK Spellcaster-Type monster and 1 "Spellbook" Spell Card from your Deck to your hand. You can only use the effect of "Justice of Prophecy" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Justice of Prophecy</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your End Phase, if you activated a &quot;Spellbook&quot; Spell Card previously this turn: You can banish this card from the field; add both 1 Level 5 or higher LIGHT or DARK Spellcaster-Type monster and 1 &quot;Spellbook&quot; Spell Card from your Deck to your hand. You can only use the effect of &quot;Justice of Prophecy&quot; once per turn.</text>
+</card>

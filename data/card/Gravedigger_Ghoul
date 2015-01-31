@@ -1,14 +1,17 @@
-Gravedigger Ghoul
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravedigger Ghoul</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play.</text>
+</card>

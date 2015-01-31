@@ -1,14 +1,17 @@
-Ignition Beast Volcannon
-Monster
-EARTH
-Fusion
-Effect
-Machine
-6
-2300
-1600
-0
-0
-None
-None
-1 Machine-Type monster + 1 Pyro-Type monsterWhen this card is Fusion Summoned: You can target 1 monster your opponent controls; destroy that target, also destroy this card, then if both monsters were destroyed, inflict damage to your opponent equal to the ATK of the monster in the Graveyard that was targeted by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Ignition Beast Volcannon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Machine-Type monster + 1 Pyro-Type monsterWhen this card is Fusion Summoned: You can target 1 monster your opponent controls; destroy that target, also destroy this card, then if both monsters were destroyed, inflict damage to your opponent equal to the ATK of the monster in the Graveyard that was targeted by this effect.</text>
+</card>

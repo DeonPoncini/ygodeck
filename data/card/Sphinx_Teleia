@@ -1,14 +1,17 @@
-Sphinx Teleia
-Monster
-LIGHT
-Effect
-None
-Beast
-10
-2500
-3000
-0
-0
-None
-None
-You can pay 500 Life Points to Special Summon this card when "Pyramid of Light" is on the field. This card cannot attack during the turn it is Normal Summoned or Special Summoned. This card cannot be Special Summoned from the Graveyard. If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the DEF of the destroyed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Sphinx Teleia</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>10</level>
+    <attack>2500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can pay 500 Life Points to Special Summon this card when &quot;Pyramid of Light&quot; is on the field. This card cannot attack during the turn it is Normal Summoned or Special Summoned. This card cannot be Special Summoned from the Graveyard. If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the DEF of the destroyed monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Elemental HERO Burstinatrix
-Monster
-FIRE
-Normal
-None
-Warrior
-3
-1200
-800
-0
-0
-None
-None
-A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Burstinatrix</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.</text>
+</card>

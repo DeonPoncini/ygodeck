@@ -1,14 +1,17 @@
-Magical Ghost
-Monster
-DARK
-Normal
-None
-Zombie
-4
-1300
-1400
-0
-0
-None
-None
-This creature casts a spell of terror and confusion just before attacking its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Ghost</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This creature casts a spell of terror and confusion just before attacking its enemies.</text>
+</card>

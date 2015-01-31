@@ -1,14 +1,17 @@
-Evigishki Levianima
-Monster
-WATER
-Ritual
-Effect
-Aqua
-8
-2700
-1500
-0
-0
-None
-None
-You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card declares an attack: Draw 1 card, and if you do, reveal it, then if it was a "Gishki" monster, look at 1 random card in your opponent's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Evigishki Levianima</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>8</level>
+    <attack>2700</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Gishki&quot; Ritual Spell Card. When this card declares an attack: Draw 1 card, and if you do, reveal it, then if it was a &quot;Gishki&quot; monster, look at 1 random card in your opponent's hand.</text>
+</card>

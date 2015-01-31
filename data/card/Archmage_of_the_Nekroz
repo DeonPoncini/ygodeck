@@ -1,14 +1,17 @@
-Archmage of the Nekroz
-Monster
-WATER
-Effect
-None
-Spellcaster
-4
-1500
-800
-0
-0
-None
-None
-If this card is Tributed by a card effect: You can add 1 Spellcaster-Type "Nekroz" Ritual Monster from your Deck to your hand. If this card is banished: You can send 1 "Nekroz" monster from your Deck to the Graveyard, except "Archmage of the Nekroz". You can only use 1 "Archmage of the Necloth" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Archmage of the Nekroz</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Tributed by a card effect: You can add 1 Spellcaster-Type &quot;Nekroz&quot; Ritual Monster from your Deck to your hand. If this card is banished: You can send 1 &quot;Nekroz&quot; monster from your Deck to the Graveyard, except &quot;Archmage of the Nekroz&quot;. You can only use 1 &quot;Archmage of the Necloth&quot; effect per turn, and only once that turn.</text>
+</card>

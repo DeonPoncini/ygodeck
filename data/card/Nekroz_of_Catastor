@@ -1,14 +1,17 @@
-Nekroz of Catastor
-Monster
-WATER
-Ritual
-Effect
-Dragon
-5
-2200
-1200
-0
-0
-None
-None
-You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned by using monsters other than "Nekroz of Catastor", and cannot be Special Summoned by other ways. You can discard this card, then target 1 "Nekroz" monster in your Graveyard; Special Summon that target. You can only use this effect of "Nekroz of Catastor" once per turn. At the start of the Damage Step, if a "Nekroz" monster you control battles a monster that was Special Summoned from the Extra Deck: Destroy that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Nekroz of Catastor</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Nekroz&quot; Ritual Spell Card. Must be Ritual Summoned by using monsters other than &quot;Nekroz of Catastor&quot;, and cannot be Special Summoned by other ways. You can discard this card, then target 1 &quot;Nekroz&quot; monster in your Graveyard; Special Summon that target. You can only use this effect of &quot;Nekroz of Catastor&quot; once per turn. At the start of the Damage Step, if a &quot;Nekroz&quot; monster you control battles a monster that was Special Summoned from the Extra Deck: Destroy that monster.</text>
+</card>

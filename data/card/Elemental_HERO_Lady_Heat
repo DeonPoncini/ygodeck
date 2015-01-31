@@ -1,14 +1,17 @@
-Elemental HERO Lady Heat
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1300
-1000
-0
-0
-None
-None
-During each of your End Phases: Inflict 200 damage to your opponent for each face-up "Elemental HERO" monster you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Lady Heat</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases: Inflict 200 damage to your opponent for each face-up &quot;Elemental HERO&quot; monster you control.</text>
+</card>

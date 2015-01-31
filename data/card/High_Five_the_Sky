@@ -1,14 +1,17 @@
-High Five the Sky
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-During your Battle Phase: Target 1 face-up Xyz Monster that has already attacked; it can make a second attack during this Battle Phase, and if it does, your opponent cannot activate cards or effects until the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>High Five the Sky</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>During your Battle Phase: Target 1 face-up Xyz Monster that has already attacked; it can make a second attack during this Battle Phase, and if it does, your opponent cannot activate cards or effects until the end of the Damage Step.</text>
+</card>

@@ -1,14 +1,17 @@
-Elemental HERO Necroshade
-Monster
-DARK
-Effect
-None
-Warrior
-5
-1600
-1800
-0
-0
-None
-None
-Once, while this card is in the Graveyard, you can Normal Summon 1 Level 5 or higher "Elemental HERO" monster from your hand without Tributes.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Necroshade</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once, while this card is in the Graveyard, 1 Level 5 or higher &quot;Elemental HERO&quot; monster you Normal Summon can be Summoned without without Tributing.</text>
+</card>

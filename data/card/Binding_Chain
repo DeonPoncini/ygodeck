@@ -1,14 +1,17 @@
-Binding Chain
-Monster
-LIGHT
-Normal
-None
-Fairy
-3
-1000
-1100
-0
-0
-None
-None
-The mystic links of this chain can rob enemies of their power.
+<?xml version="1.0" ?>
+<card>
+    <name>Binding Chain</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The mystic links of this chain can rob enemies of their power.</text>
+</card>

@@ -1,14 +1,17 @@
-Goe Goe the Gallant Ninja
-Monster
-WIND
-Effect
-None
-Warrior
-4
-1500
-1000
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent: Your opponent must discard 2 random cards. Your opponent must have at least 5 cards in their hand for you to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Goe Goe the Gallant Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent: Your opponent must discard 2 random cards. Your opponent must have at least 5 cards in their hand for you to activate and to resolve this effect.</text>
+</card>

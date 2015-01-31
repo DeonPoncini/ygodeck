@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<card>
+    <name>D/D Magical Astronomer Galilei</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>1</lpendulum>
+    <rpendulum>1</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Pendulum Summon monsters, except &quot;D/D&quot; monsters. This effect cannot be negated. During each of your Standby Phases: Increase this card's Pendulum Scales by 2 (max. 10), then destroy all monsters you control whose Levels are lower than this card's Pendulum Scales, except &quot;D/D&quot; monsters.
+
+ Monster Effect
+ During either player's turn: You can discard this card, then target 1 &quot;D/D&quot; card or 1 &quot;Covenant&quot; card you control; return that target to the hand. You can only use this effect of &quot;D/D Magical Astronomer Galilei&quot; once per turn.</text>
+</card>

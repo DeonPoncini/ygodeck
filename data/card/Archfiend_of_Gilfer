@@ -1,14 +1,17 @@
-Archfiend of Gilfer
-Monster
-DARK
-Effect
-None
-Fiend
-6
-2200
-2500
-0
-0
-None
-None
-When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend of Gilfer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.</text>
+</card>

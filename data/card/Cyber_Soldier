@@ -1,14 +1,17 @@
-Cyber Soldier
-Monster
-DARK
-Normal
-None
-Machine
-5
-1500
-1700
-0
-0
-None
-None
-Guardian of the Machine Master, it crushes opposition by rolling over them.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1500</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Guardian of the Machine Master, it crushes opposition by rolling over them.</text>
+</card>

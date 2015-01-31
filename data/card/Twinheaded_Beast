@@ -1,14 +1,17 @@
-Twinheaded Beast
-Monster
-FIRE
-Effect
-None
-Beast
-6
-1700
-1900
-0
-0
-None
-None
-This card can attack twice during the same Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Twinheaded Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>1700</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack twice during the same Battle Phase.</text>
+</card>

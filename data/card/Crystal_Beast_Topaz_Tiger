@@ -1,14 +1,17 @@
-Crystal Beast Topaz Tiger
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1600
-1000
-0
-0
-None
-None
-If this card attacks an opponent's monster, it gains 400 ATK during the Damage Step only. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Beast Topaz Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks an opponent's monster, it gains 400 ATK during the Damage Step only. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.</text>
+</card>

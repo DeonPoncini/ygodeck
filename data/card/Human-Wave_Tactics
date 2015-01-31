@@ -1,14 +1,17 @@
-Human-Wave Tactics
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-During the End Phase of each turn, select a number of Level 2 or lower Normal Monsters from your Deck equal to the number of your Level 2 or lower Normal Monsters destroyed as a result of battle during that turn, and Special Summon them to your side of the field. The Deck is then shuffled.
+<?xml version="1.0" ?>
+<card>
+    <name>Human-Wave Tactics</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>During the End Phase of each turn, select a number of Level 2 or lower Normal Monsters from your Deck equal to the number of your Level 2 or lower Normal Monsters destroyed as a result of battle during that turn, and Special Summon them to your side of the field. The Deck is then shuffled.</text>
+</card>

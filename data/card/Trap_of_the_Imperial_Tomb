@@ -1,14 +1,17 @@
-Trap of the Imperial Tomb
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Zombie-Type monster(s) is Special Summoned from your opponent's Graveyard to your side of the field: Target 2 cards on the field; destroy those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Trap of the Imperial Tomb</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Zombie-Type monster(s) is Special Summoned from your opponent's Graveyard to your side of the field: Target 2 cards on the field; destroy those targets.</text>
+</card>

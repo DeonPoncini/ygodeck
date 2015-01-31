@@ -1,14 +1,17 @@
-Granadora
-Monster
-WATER
-Effect
-None
-Reptile
-4
-1900
-700
-0
-0
-None
-None
-When this monster is Normal Summoned, Flip Summoned, or Special Summoned, increase your Life Points by 1000 points. When this card is destroyed and sent to the Graveyard, you take 2000 points of damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Granadora</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this monster is Normal Summoned, Flip Summoned, or Special Summoned, increase your Life Points by 1000 points. When this card is destroyed and sent to the Graveyard, you take 2000 points of damage.</text>
+</card>

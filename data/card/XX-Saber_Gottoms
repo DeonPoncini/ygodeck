@@ -1,14 +1,17 @@
-XX-Saber Gottoms
-Monster
-EARTH
-Synchro
-Effect
-Beast-Warrior
-9
-3100
-2600
-0
-0
-None
-None
-1 Tuner + 1 or more EARTH monstersYou can Tribute 1 "X-Saber" monster to discard 1 random card from your opponent's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>XX-Saber Gottoms</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>9</level>
+    <attack>3100</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more EARTH monstersYou can Tribute 1 &quot;X-Saber&quot; monster to discard 1 random card from your opponent's hand.</text>
+</card>

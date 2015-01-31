@@ -1,14 +1,17 @@
-Red Gadget
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1300
-1500
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can add 1 "Yellow Gadget" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Red Gadget</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can add 1 &quot;Yellow Gadget&quot; from your Deck to your hand.</text>
+</card>

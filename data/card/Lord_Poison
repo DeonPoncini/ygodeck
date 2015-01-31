@@ -1,14 +1,17 @@
-Lord Poison
-Monster
-WATER
-Effect
-None
-Plant
-4
-1500
-1000
-0
-0
-None
-None
-If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except "Lord Poison"; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Lord Poison</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except &quot;Lord Poison&quot;; Special Summon that target.</text>
+</card>

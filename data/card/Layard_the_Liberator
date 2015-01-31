@@ -1,14 +1,17 @@
-Layard the Liberator
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1400
-1500
-0
-0
-None
-None
-Add 2 of your removed from play Fairy-Type monsters to your hand each time a Counter Trap Card is activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Layard the Liberator</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Add 2 of your removed from play Fairy-Type monsters to your hand each time a Counter Trap Card is activated.</text>
+</card>

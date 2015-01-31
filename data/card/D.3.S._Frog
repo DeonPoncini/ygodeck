@@ -1,14 +1,17 @@
-D.3.S. Frog
-Monster
-WATER
-Fusion
-Effect
-Aqua
-8
-2500
-2000
-0
-0
-None
-None
-"Des Frog" + "Des Frog" + "Des Frog"A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains 500 ATK for each "Treeborn Frog" in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>D.3.S. Frog</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Des Frog&quot; + &quot;Des Frog&quot; + &quot;Des Frog&quot;A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains 500 ATK for each &quot;Treeborn Frog&quot; in your Graveyard.</text>
+</card>

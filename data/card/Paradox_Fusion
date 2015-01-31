@@ -1,14 +1,17 @@
-Paradox Fusion
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Activate by removing 1 face-up Fusion Monster you control from play. Negate the activation of a Spell or Trap Card, OR the Special Summon of a monster and destroy that card. During your 2nd End Phase, return the removed Fusion Monster to the field in face-up Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Paradox Fusion</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Activate by removing 1 face-up Fusion Monster you control from play. Negate the activation of a Spell or Trap Card, OR the Special Summon of a monster and destroy that card. During your 2nd End Phase, return the removed Fusion Monster to the field in face-up Attack Position.</text>
+</card>

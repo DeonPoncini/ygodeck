@@ -1,14 +1,17 @@
-Cloudian - Eye of the Typhoon
-Monster
-WIND
-Effect
-None
-Aqua
-8
-3000
-1000
-0
-0
-None
-None
-This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When this card declares an attack, change the battle positions of all face-up monsters, except "Cloudian" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Cloudian - Eye of the Typhoon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When this card declares an attack, change the battle positions of all face-up monsters, except &quot;Cloudian&quot; monsters.</text>
+</card>

@@ -1,14 +1,17 @@
-Protector of the Sanctuary
-Monster
-EARTH
-Effect
-None
-Fiend
-4
-1100
-1900
-0
-0
-None
-None
-Your opponent cannot draw cards except during Draw Phases.
+<?xml version="1.0" ?>
+<card>
+    <name>Protector of the Sanctuary</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot draw cards except during Draw Phases.</text>
+</card>

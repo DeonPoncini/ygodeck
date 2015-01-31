@@ -1,14 +1,17 @@
-Breakthrough!
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Select 1 "Six Samurai" monster you control. If the selected monster destroys an opponent's monster by battle, "Great Shogun Shien" and all "Six Samurai" monsters you control can attack your opponent directly during the Battle Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Breakthrough!</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Select 1 &quot;Six Samurai&quot; monster you control. If the selected monster destroys an opponent's monster by battle, &quot;Great Shogun Shien&quot; and all &quot;Six Samurai&quot; monsters you control can attack your opponent directly during the Battle Phase of this turn.</text>
+</card>

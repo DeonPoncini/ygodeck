@@ -1,14 +1,17 @@
-Dangerous Machine Type-6
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During each of your Standby Phases: Roll a six-sided die and apply the result.● 1: Discard 1 card.● 2: Your opponent discards 1 card.● 3: Draw 1 card.● 4: Your opponent draws 1 card.● 5: Destroy 1 monster your opponent controls.● 6: Destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dangerous Machine Type-6</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During each of your Standby Phases: Roll a six-sided die and apply the result.● 1: Discard 1 card.● 2: Your opponent discards 1 card.● 3: Draw 1 card.● 4: Your opponent draws 1 card.● 5: Destroy 1 monster your opponent controls.● 6: Destroy this card.</text>
+</card>

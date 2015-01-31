@@ -1,14 +1,17 @@
-Arcana Force III - The Empress
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1300
-1300
-0
-0
-None
-None
-When this card is Summoned, toss a coin: ● Heads: Each time your opponent Normal Summons or Sets a monster, you can Special Summon 1 "Arcana Force" monster from your hand. ● Tails: Each time your opponent Normal Summons or Sets a monster, send 1 card from your hand to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcana Force III - The Empress</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, toss a coin: ● Heads: Each time your opponent Normal Summons or Sets a monster, you can Special Summon 1 &quot;Arcana Force&quot; monster from your hand. ● Tails: Each time your opponent Normal Summons or Sets a monster, send 1 card from your hand to the Graveyard.</text>
+</card>

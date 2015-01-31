@@ -1,14 +1,17 @@
-Tin Goldfish
-Monster
-WATER
-Effect
-None
-Machine
-4
-800
-2000
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 Level 4 monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Tin Goldfish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 Level 4 monster from your hand.</text>
+</card>

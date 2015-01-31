@@ -1,14 +1,17 @@
-The Fabled Catsith
-Monster
-LIGHT
-Tuner
-None
-Beast
-1
-800
-600
-0
-0
-None
-None
-When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>The Fabled Catsith</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.</text>
+</card>

@@ -1,14 +1,17 @@
-Trent
-Monster
-EARTH
-Normal
-None
-Plant
-5
-1500
-1800
-0
-0
-None
-None
-A guardian of the woods, this massive tree is believed to be immortal.
+<?xml version="1.0" ?>
+<card>
+    <name>Trent</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>5</level>
+    <attack>1500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A guardian of the woods, this massive tree is believed to be immortal.</text>
+</card>

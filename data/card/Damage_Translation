@@ -1,14 +1,17 @@
-Damage Translation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Halve all effect damage you take this turn. During the End Phase this turn, Special Summon 1 "Ghost Token" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position for each time you took effect damage this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Damage Translation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Halve all effect damage you take this turn. During the End Phase this turn, Special Summon 1 &quot;Ghost Token&quot; (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position for each time you took effect damage this turn.</text>
+</card>

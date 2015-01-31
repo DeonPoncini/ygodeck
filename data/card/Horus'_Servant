@@ -1,14 +1,17 @@
-Horus' Servant
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-1
-100
-100
-0
-0
-None
-None
-Your opponent cannot target face-up "Horus the Black Flame Dragon" monsters with Spells, Traps, or card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Horus' Servant</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot target face-up &quot;Horus the Black Flame Dragon&quot; monsters with Spells, Traps, or card effects.</text>
+</card>

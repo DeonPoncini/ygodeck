@@ -1,14 +1,17 @@
-Garbage Ogre
-Monster
-DARK
-Effect
-None
-Fiend
-3
-800
-1300
-0
-0
-None
-None
-You can send this card from your hand to the Graveyard; add 1 "Garbage Lord" from your Deck to your hand. You can only use the effect of "Garbage Ogre" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Garbage Ogre</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send this card from your hand to the Graveyard; add 1 &quot;Garbage Lord&quot; from your Deck to your hand. You can only use the effect of &quot;Garbage Ogre&quot; once per turn.</text>
+</card>

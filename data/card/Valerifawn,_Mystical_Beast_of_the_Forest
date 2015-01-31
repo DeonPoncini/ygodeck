@@ -1,14 +1,17 @@
-Valerifawn, Mystical Beast of the Forest
-Monster
-EARTH
-Tuner
-Effect
-Beast
-2
-400
-900
-0
-0
-None
-None
-You can discard 1 card, then target 1 Level 2 or lower Beast-Type monster in your Graveyard, except "Valerifawn, Mystical Beast of the Forest"; Special Summon it in Attack Position or face-down Defense Position. You can only use this effect of "Valerifawn, Mystical Beast of the Forest" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Valerifawn, Mystical Beast of the Forest</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard 1 card, then target 1 Level 2 or lower Beast-Type monster in your Graveyard, except &quot;Valerifawn, Mystical Beast of the Forest&quot;; Special Summon it in Attack Position or face-down Defense Position. You can only use this effect of &quot;Valerifawn, Mystical Beast of the Forest&quot; once per turn.</text>
+</card>

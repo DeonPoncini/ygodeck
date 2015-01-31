@@ -1,14 +1,17 @@
-Bachibachibachi
-Monster
-LIGHT
-Effect
-None
-Insect
-3
-800
-800
-0
-0
-None
-None
-An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Bachibachibachi</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Tytannial, Princess of Camellias
-Monster
-WIND
-Effect
-None
-Plant
-8
-2800
-2600
-0
-0
-None
-None
-During either player's turn, when a card or effect that targets a card(s) on the field is activated: You can Tribute 1 face-up Plant-Type monster; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Tytannial, Princess of Camellias</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when a card or effect that targets a card(s) on the field is activated: You can Tribute 1 face-up Plant-Type monster; negate the activation, and if you do, destroy it.</text>
+</card>

@@ -1,14 +1,17 @@
-Truckroid
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1000
-2000
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: Equip the destroyed monster to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Truckroid</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: Equip the destroyed monster to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.</text>
+</card>

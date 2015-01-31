@@ -1,14 +1,17 @@
-Root Water
-Monster
-WATER
-Normal
-None
-Fish
-3
-900
-800
-0
-0
-None
-None
-An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Root Water</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.</text>
+</card>

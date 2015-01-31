@@ -1,14 +1,17 @@
-Elemental HERO Gaia
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-6
-2200
-2600
-0
-0
-None
-None
-1 "Elemental HERO" monster + 1 EARTH monsterMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains the same amount of ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Gaia</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Elemental HERO&quot; monster + 1 EARTH monsterMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains the same amount of ATK.</text>
+</card>

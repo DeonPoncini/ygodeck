@@ -1,14 +1,17 @@
-Miracle Fertilizer
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn: You can target 1 Plant-Type monster in your Graveyard; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Miracle Fertilizer</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 Plant-Type monster in your Graveyard; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.</text>
+</card>

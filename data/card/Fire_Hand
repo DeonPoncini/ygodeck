@@ -1,14 +1,17 @@
-Fire Hand
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1600
-1000
-0
-0
-None
-None
-When this card in your possession is destroyed by your opponent's card (either by battle, or by card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 "Ice Hand" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Hand</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card in your possession is destroyed by your opponent's card (either by battle, or by card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 &quot;Ice Hand&quot; from your Deck.</text>
+</card>

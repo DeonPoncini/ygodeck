@@ -1,14 +1,17 @@
-Corroding Shark
-Monster
-DARK
-Normal
-None
-Zombie
-3
-1100
-700
-0
-0
-None
-None
-A zombie shark that can deliver its lethal curse with a spell.
+<?xml version="1.0" ?>
+<card>
+    <name>Corroding Shark</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A zombie shark that can deliver its lethal curse with a spell.</text>
+</card>

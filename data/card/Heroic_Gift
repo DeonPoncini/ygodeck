@@ -1,14 +1,17 @@
-Heroic Gift
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If your opponent's Life Points are 2000 or less: Make their Life Points 8000, and if you do, draw 2 cards. You can only activate 1 "Heroic Gift" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Heroic Gift</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If your opponent's Life Points are 2000 or less: Make their Life Points 8000, and if you do, draw 2 cards. You can only activate 1 &quot;Heroic Gift&quot; per turn.</text>
+</card>

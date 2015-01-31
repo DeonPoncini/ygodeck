@@ -1,14 +1,17 @@
-Pandemonium
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Neither player has to pay Life Points during the Standby Phase for "Archfiend" monsters. Each time a player's "Archfiend" monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 "Archfiend" monster from their Deck to their hand that is a lower Level than the destroyed card.
+<?xml version="1.0" ?>
+<card>
+    <name>Pandemonium</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Neither player has to pay Life Points during the Standby Phase for &quot;Archfiend&quot; monsters. Each time a player's &quot;Archfiend&quot; monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 &quot;Archfiend&quot; monster from their Deck to their hand that is a lower Level than the destroyed card.</text>
+</card>

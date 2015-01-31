@@ -1,14 +1,17 @@
-Infestation Terminus
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 "lswarm" monster you control and 2 cards your opponent controls; banish the first target, and if you do, return the second targets to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Infestation Terminus</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 &quot;lswarm&quot; monster you control and 2 cards your opponent controls; banish the first target, and if you do, return the second targets to the hand.</text>
+</card>

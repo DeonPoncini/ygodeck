@@ -1,14 +1,17 @@
-Amazoness Paladin
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1700
-300
-0
-0
-None
-None
-This card gains 100 ATK for each "Amazoness" monster you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Paladin</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 100 ATK for each &quot;Amazoness&quot; monster you control.</text>
+</card>

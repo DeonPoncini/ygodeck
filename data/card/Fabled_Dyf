@@ -1,14 +1,17 @@
-Fabled Dyf
-Monster
-LIGHT
-Effect
-None
-Fiend
-3
-1400
-1700
-0
-0
-None
-None
-When a "Fabled" monster(s) is sent from the hand to your Graveyard, you can Tribute this card to select 1 of those monster(s) and Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Dyf</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Fabled&quot; monster(s) is sent from the hand to your Graveyard, you can Tribute this card to select 1 of those monster(s) and Special Summon it.</text>
+</card>

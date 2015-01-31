@@ -1,14 +1,17 @@
-Pumprincess the Princess of Ghosts
-Monster
-DARK
-Effect
-None
-Zombie
-3
-900
-1000
-0
-0
-None
-None
-If this face-up card is destroyed while in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard. While this card is treated as a Continuous Spell Card by this effect, during each player's Standby Phase: Place 1 Pumpkin Counter on this card. All monsters your opponent controls lose 100 ATK and DEF for each Pumpkin Counter on this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Pumprincess the Princess of Ghosts</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-up card is destroyed while in a Monster Card Zone, you can place it face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard. While this card is treated as a Continuous Spell Card by this effect, during each player's Standby Phase: Place 1 Pumpkin Counter on this card. All monsters your opponent controls lose 100 ATK and DEF for each Pumpkin Counter on this card.</text>
+</card>

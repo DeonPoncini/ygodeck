@@ -1,14 +1,17 @@
-Ritual Buster
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when a Ritual Monster is Ritual Summoned. Your opponent cannot activate any Spell or Trap Cards or use their effects until your next Standby Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Ritual Buster</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when a Ritual Monster is Ritual Summoned. Your opponent cannot activate any Spell or Trap Cards or use their effects until your next Standby Phase.</text>
+</card>

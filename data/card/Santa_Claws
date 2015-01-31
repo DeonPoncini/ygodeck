@@ -1,14 +1,17 @@
-Santa Claws
-Monster
-LIGHT
-Effect
-None
-Fiend
-6
-1200
-2500
-0
-0
-None
-None
-You can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position, by Tributing 1 monster they control. If Summoned this way, during the End Phase of this turn: You can draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Santa Claws</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>1200</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position, by Tributing 1 monster they control. If Summoned this way, during the End Phase of this turn: You can draw 1 card.</text>
+</card>

@@ -1,14 +1,17 @@
-Return Zombie
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1000
-1600
-0
-0
-None
-None
-During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Return Zombie</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Number C102: Archfiend Seraph
-Monster
-LIGHT
-Xyz
-Effect
-Fairy
-5
-2900
-2400
-0
-0
-None
-None
-4 Level 5 LIGHT monstersIf this face-up card would be destroyed, you can detach 2 Xyz Materials from this card instead. When the last Xyz Material(s) is detached from this card: Inflict 1500 damage to your opponent. If this card has "Number 102: Star Seraph Sentry" as an Xyz Material, it gains this effect.● Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; change that target's ATK to 0, and if you do, negate its effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C102: Archfiend Seraph</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>2900</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>4 Level 5 LIGHT monstersIf this face-up card would be destroyed, you can detach 2 Xyz Materials from this card instead. When the last Xyz Material(s) is detached from this card: Inflict 1500 damage to your opponent. If this card has &quot;Number 102: Star Seraph Sentry&quot; as an Xyz Material, it gains this effect.● Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; change that target's ATK to 0, and if you do, negate its effects.</text>
+</card>

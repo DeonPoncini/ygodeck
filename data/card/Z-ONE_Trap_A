@@ -1,14 +1,17 @@
-Z-ONE/Trap A
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-You can activate this card from your hand. Once per turn, during your Main Phase: You can Special Summon 1 "Z-ONE" monster from your hand, except "Z-ONE/Monster E", ignoring its Summoning conditions. During each of your Standby Phases: Destroy all "Z-ONE" and "Timelord" monsters you control. This card's activation and effect cannot be negated.-I activate "Zero Machine Ain"!-
+<?xml version="1.0" ?>
+<card>
+    <name>Z-ONE/Trap A</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>You can activate this card from your hand. Once per turn, during your Main Phase: You can Special Summon 1 &quot;Z-ONE&quot; monster from your hand, except &quot;Z-ONE/Monster E&quot;, ignoring its Summoning conditions. During each of your Standby Phases: Destroy all &quot;Z-ONE&quot; and &quot;Timelord&quot; monsters you control. This card's activation and effect cannot be negated.-I activate &quot;Zero Machine Ain&quot;!-</text>
+</card>

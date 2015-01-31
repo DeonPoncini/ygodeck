@@ -1,14 +1,17 @@
-Maiden of the Aqua
-Monster
-WATER
-Effect
-None
-Aqua
-4
-700
-2000
-0
-0
-None
-None
-As long as this card remains face-up on the field, the field is treated as "Umi" (however there is no increasing or decreasing of ATK/DEF due to "Umi"'s effect). If there is an active Field Spell Card on the field, this effect is not applied.
+<?xml version="1.0" ?>
+<card>
+    <name>Maiden of the Aqua</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on the field, the field is treated as &quot;Umi&quot; (however there is no increasing or decreasing of ATK/DEF due to &quot;Umi&quot;'s effect). If there is an active Field Spell Card on the field, this effect is not applied.</text>
+</card>

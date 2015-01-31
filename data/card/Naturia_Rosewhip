@@ -1,14 +1,17 @@
-Naturia Rosewhip
-Monster
-EARTH
-Tuner
-None
-Plant
-3
-400
-1700
-0
-0
-None
-None
-Your opponent can only activate 1 Spell/Trap Card per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Rosewhip</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent can only activate 1 Spell/Trap Card per turn.</text>
+</card>

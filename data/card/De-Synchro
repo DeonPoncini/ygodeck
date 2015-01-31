@@ -1,14 +1,17 @@
-De-Synchro
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your Graveyard, you can Special Summon all of them.
+<?xml version="1.0" ?>
+<card>
+    <name>De-Synchro</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your Graveyard, you can Special Summon all of them.</text>
+</card>

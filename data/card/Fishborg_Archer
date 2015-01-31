@@ -1,14 +1,17 @@
-Fishborg Archer
-Monster
-WATER
-Tuner
-None
-Fish
-3
-300
-300
-0
-0
-None
-None
-If this card is in your Graveyard and you control no monsters during either of your Main Phases: You can discard 1 WATER monster; Special Summon this card from your Graveyard, but destroy all monsters you control at the beginning of this turn's Battle Phase, except for WATER monsters. You can only use the effect of "Fishborg Archer" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fishborg Archer</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in your Graveyard and you control no monsters during either of your Main Phases: You can discard 1 WATER monster; Special Summon this card from your Graveyard, but destroy all monsters you control at the beginning of this turn's Battle Phase, except for WATER monsters. You can only use the effect of &quot;Fishborg Archer&quot; once per turn.</text>
+</card>

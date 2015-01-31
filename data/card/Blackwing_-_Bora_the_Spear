@@ -1,14 +1,17 @@
-Blackwing - Bora the Spear
-Monster
-DARK
-Effect
-None
-Winged Beast
-4
-1700
-800
-0
-0
-None
-None
-If you control a "Blackwing" monster other than "Blackwing - Bora the Spear", you can Special Summon this card (from your hand). If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Bora the Spear</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Blackwing&quot; monster other than &quot;Blackwing - Bora the Spear&quot;, you can Special Summon this card (from your hand). If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

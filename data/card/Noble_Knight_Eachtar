@@ -1,14 +1,17 @@
-Noble Knight Eachtar
-Monster
-DARK
-Effect
-None
-Warrior
-5
-1600
-2000
-0
-0
-None
-None
-You can banish 2 "Noble Knight" monsters from your Graveyard; Special Summon this card from your hand or Graveyard. You can only use this effect of "Noble Knight Eachtar" once per turn. A Synchro or Xyz Summon of a "Noble Knight" monster using this card as a Material cannot be negated, also your opponent cannot activate cards or effects when that monster is Special Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knight Eachtar</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can banish 2 &quot;Noble Knight&quot; monsters from your Graveyard; Special Summon this card from your hand or Graveyard. You can only use this effect of &quot;Noble Knight Eachtar&quot; once per turn. A Synchro or Xyz Summon of a &quot;Noble Knight&quot; monster using this card as a Material cannot be negated, also your opponent cannot activate cards or effects when that monster is Special Summoned.</text>
+</card>

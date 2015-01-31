@@ -1,14 +1,17 @@
-Green Phantom King
-Monster
-EARTH
-Normal
-None
-Plant
-3
-500
-1600
-0
-0
-None
-None
-This youthful king of the forests lives in a green world, abundant with trees and wildlife.
+<?xml version="1.0" ?>
+<card>
+    <name>Green Phantom King</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This youthful king of the forests lives in a green world, abundant with trees and wildlife.</text>
+</card>

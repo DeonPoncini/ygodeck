@@ -1,14 +1,17 @@
-Brainwashing Beam
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Select 1 monster with at least 1 A-Counter on your opponent's side of the field, and take control of that monster. During each of your End Phases, remove 1 A-Counter from that controlled monster. If all A-Counters are removed from that monster, or that monster is destroyed, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Brainwashing Beam</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Select 1 monster with at least 1 A-Counter on your opponent's side of the field, and take control of that monster. During each of your End Phases, remove 1 A-Counter from that controlled monster. If all A-Counters are removed from that monster, or that monster is destroyed, destroy this card.</text>
+</card>

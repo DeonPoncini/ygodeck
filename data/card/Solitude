@@ -1,14 +1,17 @@
-Solitude
-Monster
-EARTH
-Normal
-None
-Beast-Warrior
-3
-1050
-1000
-0
-0
-None
-None
-This beast-warrior swings a massive scythe that feeds on the souls of the slain.
+<?xml version="1.0" ?>
+<card>
+    <name>Solitude</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1050</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This beast-warrior swings a massive scythe that feeds on the souls of the slain.</text>
+</card>

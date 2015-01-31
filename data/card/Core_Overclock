@@ -1,14 +1,17 @@
-Core Overclock
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-All face-up "Koa'ki Meiru" monsters you control gain 500 ATK. Once per turn, during your Main Phase, you can discard 1 "Iron Core of Koa'ki Meiru" to have all face-up "Koa'ki Meiru" monsters you control gain 1000 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Core Overclock</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>All face-up &quot;Koa'ki Meiru&quot; monsters you control gain 500 ATK. Once per turn, during your Main Phase, you can discard 1 &quot;Iron Core of Koa'ki Meiru&quot; to have all face-up &quot;Koa'ki Meiru&quot; monsters you control gain 1000 ATK until the End Phase.</text>
+</card>

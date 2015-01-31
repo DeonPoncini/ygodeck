@@ -1,14 +1,17 @@
-Kelbek
-Monster
-EARTH
-Effect
-None
-Fairy
-4
-1500
-1800
-0
-0
-None
-None
-A monster that attacks this card returns to the hand. Damage calculation is applied normally.
+<?xml version="1.0" ?>
+<card>
+    <name>Kelbek</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster that attacks this card returns to the hand. Damage calculation is applied normally.</text>
+</card>

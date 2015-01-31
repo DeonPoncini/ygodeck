@@ -1,14 +1,17 @@
-Crystal Raigeki
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Send 1 "Crystal Beast" card from your Spell & Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Raigeki</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Send 1 &quot;Crystal Beast&quot; card from your Spell &amp; Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.</text>
+</card>

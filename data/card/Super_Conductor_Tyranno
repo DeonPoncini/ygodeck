@@ -1,14 +1,17 @@
-Super Conductor Tyranno
-Monster
-LIGHT
-Effect
-None
-Dinosaur
-8
-3300
-1400
-0
-0
-None
-None
-Once per turn: You can Tribute 1 monster; inflict 1000 damage to your opponent. This card cannot declare an attack the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Super Conductor Tyranno</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>8</level>
+    <attack>3300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can Tribute 1 monster; inflict 1000 damage to your opponent. This card cannot declare an attack the turn you activate this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Mr. Volcano
-Monster
-FIRE
-Normal
-None
-Pyro
-5
-2100
-1300
-0
-0
-None
-None
-This seemingly mild-mannered creature has an extremely volatile temper.
+<?xml version="1.0" ?>
+<card>
+    <name>Mr. Volcano</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This seemingly mild-mannered creature has an extremely volatile temper.</text>
+</card>

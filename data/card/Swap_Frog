@@ -1,14 +1,17 @@
-Swap Frog
-Monster
-WATER
-Effect
-None
-Aqua
-2
-1000
-500
-0
-0
-None
-None
-You can discard 1 WATER monster to Special Summon this card from your hand. When this card is Summoned, you can select and send 1 Level 2 or lower Aqua-Type WATER monster from your Deck or your side of the field to the Graveyard. Once per turn, you can return 1 monster you control to your hand to Normal Summon 1 "Frog" monster, except "Swap Frog" or "Frog the Jam", in addition to your Normal Summon or Set this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Swap Frog</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard 1 WATER monster to Special Summon this card from your hand. When this card is Summoned, you can select and send 1 Level 2 or lower Aqua-Type WATER monster from your Deck or your side of the field to the Graveyard. Once per turn, you can return 1 monster you control to your hand to Normal Summon 1 &quot;Frog&quot; monster, except &quot;Swap Frog&quot; or &quot;Frog the Jam&quot;, in addition to your Normal Summon or Set this turn.</text>
+</card>

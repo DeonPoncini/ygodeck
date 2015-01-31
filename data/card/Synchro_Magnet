@@ -1,14 +1,17 @@
-Synchro Magnet
-Monster
-EARTH
-Tuner
-None
-Machine
-3
-1000
-600
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Synchro Magnet</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.</text>
+</card>

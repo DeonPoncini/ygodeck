@@ -1,14 +1,17 @@
-Xing Zhen Hu Replica
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Select 1 Set Spell/Trap Card on the field. It cannot be activated. Cards and effects cannot be activated in response to this card's activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Xing Zhen Hu Replica</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Select 1 Set Spell/Trap Card on the field. It cannot be activated. Cards and effects cannot be activated in response to this card's activation.</text>
+</card>

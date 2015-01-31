@@ -1,14 +1,17 @@
-Charge of the Light Brigade
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower "Lightsworn" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Charge of the Light Brigade</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower &quot;Lightsworn&quot; monster from your Deck to your hand.</text>
+</card>

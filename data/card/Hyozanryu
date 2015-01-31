@@ -1,14 +1,17 @@
-Hyozanryu
-Monster
-LIGHT
-Normal
-None
-Dragon
-7
-2100
-2800
-0
-0
-None
-None
-A dragon created from a massive diamond that sparkles with blinding light.
+<?xml version="1.0" ?>
+<card>
+    <name>Hyozanryu</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2100</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dragon created from a massive diamond that sparkles with blinding light.</text>
+</card>

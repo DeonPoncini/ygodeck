@@ -1,14 +1,17 @@
-The Atmosphere
-Monster
-WIND
-Effect
-None
-Winged Beast
-8
-1000
-800
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 monsters you control and 1 monster from your Graveyard. Once per turn: You can target 1 face-up monster your opponent controls; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains ATK and DEF equal to the ATK and DEF of that equipped monster.
+<?xml version="1.0" ?>
+<card>
+    <name>The Atmosphere</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>8</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 monsters you control and 1 monster from your Graveyard. Once per turn: You can target 1 face-up monster your opponent controls; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains ATK and DEF equal to the ATK and DEF of that equipped monster.</text>
+</card>

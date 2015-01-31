@@ -1,14 +1,17 @@
-Transforming Sphere
-Monster
-WIND
-Effect
-None
-Winged Beast
-3
-100
-100
-0
-0
-None
-None
-Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card and equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains the ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase: The monster equipped to this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Transforming Sphere</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card and equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains the ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase: The monster equipped to this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position.</text>
+</card>

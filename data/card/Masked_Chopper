@@ -1,14 +1,17 @@
-Masked Chopper
-Monster
-EARTH
-Effect
-None
-Fiend
-1
-100
-100
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Masked Chopper</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.</text>
+</card>

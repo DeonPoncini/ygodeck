@@ -1,14 +1,17 @@
-Lavalval Chain
-Monster
-FIRE
-Xyz
-Effect
-Sea Serpent
-4
-1800
-1000
-0
-0
-None
-None
-2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;● Send 1 card from your Deck to the Graveyard.● Choose 1 monster from your Deck and place it on top of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Lavalval Chain</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;● Send 1 card from your Deck to the Graveyard.● Choose 1 monster from your Deck and place it on top of your Deck.</text>
+</card>

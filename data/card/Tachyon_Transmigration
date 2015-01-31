@@ -1,14 +1,17 @@
-Tachyon Transmigration
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-If you control a "Galaxy-Eyes" monster: Negate the activations of your opponent's Spell Cards, Trap Cards, and monster effects that are in the same Chain as this card, and if you do, shuffle all of those negated cards on the field into the Deck. If you control a "Galaxy-Eyes Tachyon Dragon" monster, you can activate this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Tachyon Transmigration</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>If you control a &quot;Galaxy-Eyes&quot; monster: Negate the activations of your opponent's Spell Cards, Trap Cards, and monster effects that are in the same Chain as this card, and if you do, shuffle all of those negated cards on the field into the Deck. If you control a &quot;Galaxy-Eyes Tachyon Dragon&quot; monster, you can activate this card from your hand.</text>
+</card>

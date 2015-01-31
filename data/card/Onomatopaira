@@ -1,14 +1,17 @@
-Onomatopaira
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-You can only activate 1 "Onomatopaira" per turn. Send 1 card from your hand to the Graveyard; add up to 2 of these monsters from your Deck to your hand (you cannot add 2 from the same category).● 1 "Zubaba" monster● 1 "Gagaga" monster● 1 "Gogogo" monster● 1 "Dododo" monster
+<?xml version="1.0" ?>
+<card>
+    <name>Onomatopaira</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>You can only activate 1 &quot;Onomatopaira&quot; per turn. Send 1 card from your hand to the Graveyard; add up to 2 of these monsters from your Deck to your hand (you cannot add 2 from the same category).● 1 &quot;Zubaba&quot; monster● 1 &quot;Gagaga&quot; monster● 1 &quot;Gogogo&quot; monster● 1 &quot;Dododo&quot; monster</text>
+</card>

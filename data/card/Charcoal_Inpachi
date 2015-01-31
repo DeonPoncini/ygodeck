@@ -1,14 +1,17 @@
-Charcoal Inpachi
-Monster
-FIRE
-Normal
-None
-Pyro
-1
-100
-2100
-0
-0
-None
-None
-A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.
+<?xml version="1.0" ?>
+<card>
+    <name>Charcoal Inpachi</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.</text>
+</card>

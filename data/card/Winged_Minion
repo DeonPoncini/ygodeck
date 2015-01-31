@@ -1,14 +1,17 @@
-Winged Minion
-Monster
-DARK
-Effect
-None
-Fiend
-2
-700
-700
-0
-0
-None
-None
-Tribute this face-up card. Select 1 face-up Fiend-Type monster on the field. Increase the ATK and DEF of the monster by 700 points as long as it remains face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Winged Minion</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Tribute this face-up card. Select 1 face-up Fiend-Type monster on the field. Increase the ATK and DEF of the monster by 700 points as long as it remains face-up on the field.</text>
+</card>

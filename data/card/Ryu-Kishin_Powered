@@ -1,14 +1,17 @@
-Ryu-Kishin Powered
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1600
-1200
-0
-0
-None
-None
-A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Ryu-Kishin Powered</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.</text>
+</card>

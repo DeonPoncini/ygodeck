@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Tiger King
-Monster
-FIRE
-Xyz
-Effect
-Beast-Warrior
-4
-2200
-1800
-0
-0
-None
-None
-2 Level 4 Beast-Warrior-Type monstersWhen this card is Xyz Summoned: You can Set 1 "Fire Formation" Spell/Trap Card directly from your Deck. Once per turn: You can detach 1 Xyz Material from this card; negate the effects of all face-up Effect Monsters currently on the field, except Beast-Warrior-Type, until the end of your opponent's turn. When this card is sent from the field to the Graveyard: You can send 3 "Fire Formation" Spell/Trap Cards you control to the Graveyard; Special Summon 2 Level 4 or lower Beast-Warrior-Type monsters with the same ATK from your Deck, in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Tiger King</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 Beast-Warrior-Type monstersWhen this card is Xyz Summoned: You can Set 1 &quot;Fire Formation&quot; Spell/Trap Card directly from your Deck. Once per turn: You can detach 1 Xyz Material from this card; negate the effects of all face-up Effect Monsters currently on the field, except Beast-Warrior-Type, until the end of your opponent's turn. When this card is sent from the field to the Graveyard: You can send 3 &quot;Fire Formation&quot; Spell/Trap Cards you control to the Graveyard; Special Summon 2 Level 4 or lower Beast-Warrior-Type monsters with the same ATK from your Deck, in face-up Defense Position.</text>
+</card>

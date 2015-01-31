@@ -1,14 +1,17 @@
-Reverse of Neos
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Activate only when a face-up "Neos" Fusion Monster you control is destroyed. Special Summon 1 "Elemental HERO Neos" from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Reverse of Neos</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Activate only when a face-up &quot;Neos&quot; Fusion Monster you control is destroyed. Special Summon 1 &quot;Elemental HERO Neos&quot; from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.</text>
+</card>

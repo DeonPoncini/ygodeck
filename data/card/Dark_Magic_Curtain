@@ -1,14 +1,17 @@
-Dark Magic Curtain
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Pay half your Life Points; Special Summon 1 "Dark Magician" from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Set).
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Magic Curtain</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Pay half your Life Points; Special Summon 1 &quot;Dark Magician&quot; from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Set).</text>
+</card>

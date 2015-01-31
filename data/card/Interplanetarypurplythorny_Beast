@@ -1,14 +1,17 @@
-Interplanetarypurplythorny Beast
-Monster
-DARK
-Effect
-None
-Beast
-5
-1100
-2200
-0
-0
-None
-None
-When a monster you control is destroyed by battle and sent to the Graveyard, while this card is in the Graveyard: You can Special Summon this card from your Graveyard. If Summoned this way, banish this card when it leaves the field. You can only use the effect of "Interplanetarypurplythorny Beast" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Interplanetarypurplythorny Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>5</level>
+    <attack>1100</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a monster you control is destroyed by battle and sent to the Graveyard, while this card is in the Graveyard: You can Special Summon this card from your Graveyard. If Summoned this way, banish this card when it leaves the field. You can only use the effect of &quot;Interplanetarypurplythorny Beast&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Getsu Fuhma
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1700
-1200
-0
-0
-None
-None
-If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Getsu Fuhma</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.</text>
+</card>

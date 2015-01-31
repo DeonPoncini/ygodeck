@@ -1,14 +1,17 @@
-Number 105: Battlin' Boxer Star Cestus
-Monster
-FIRE
-Xyz
-Effect
-Warrior
-4
-2500
-1600
-0
-0
-None
-None
-3 Level 4 monstersDuring either player's Battle Step, if a "Battlin' Boxer" monster you control battles an opponent's monster: You can detach 1 Xyz Material from this card; negate the effects of the opponent's monster until the end of the turn, that monster you control cannot be destroyed by that battle, also your opponent takes any battle damage you would have taken from that battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 105: Battlin' Boxer Star Cestus</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersDuring either player's Battle Step, if a &quot;Battlin' Boxer&quot; monster you control battles an opponent's monster: You can detach 1 Xyz Material from this card; negate the effects of the opponent's monster until the end of the turn, that monster you control cannot be destroyed by that battle, also your opponent takes any battle damage you would have taken from that battle.</text>
+</card>

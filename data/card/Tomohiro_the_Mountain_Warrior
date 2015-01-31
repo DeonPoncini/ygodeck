@@ -1,14 +1,17 @@
-Tomohiro the Mountain Warrior
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-3
-600
-1000
-0
-0
-None
-None
-You can Tribute 1 monster; inflict 500 damage to your opponent."Missing out on a win is frustrating! Next time, aim at being the champ!"
+<?xml version="1.0" ?>
+<card>
+    <name>Tomohiro the Mountain Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 monster; inflict 500 damage to your opponent.&quot;Missing out on a win is frustrating! Next time, aim at being the champ!&quot;</text>
+</card>

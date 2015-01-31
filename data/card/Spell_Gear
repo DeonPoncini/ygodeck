@@ -1,14 +1,17 @@
-Spell Gear
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 3 face-up "Ancient Gear" cards you control to the Graveyard. You can Special Summon up to 1 "Ancient Gear Golem" from your hand and 1 from your Deck, ignoring the Summoning conditions. Then, destroy all monsters you control except "Ancient Gear Golems". You cannot Normal Summon or Set until the end of your next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Gear</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 3 face-up &quot;Ancient Gear&quot; cards you control to the Graveyard. You can Special Summon up to 1 &quot;Ancient Gear Golem&quot; from your hand and 1 from your Deck, ignoring the Summoning conditions. Then, destroy all monsters you control except &quot;Ancient Gear Golems&quot;. You cannot Normal Summon or Set until the end of your next turn.</text>
+</card>

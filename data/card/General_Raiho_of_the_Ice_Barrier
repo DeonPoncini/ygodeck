@@ -1,14 +1,17 @@
-General Raiho of the Ice Barrier
-Monster
-WATER
-Effect
-None
-Warrior
-6
-2100
-2300
-0
-0
-None
-None
-When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).
+<?xml version="1.0" ?>
+<card>
+    <name>General Raiho of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).</text>
+</card>

@@ -1,14 +1,17 @@
-Dark Prisoner
-Monster
-DARK
-Normal
-None
-Fiend
-3
-600
-1000
-0
-0
-None
-None
-This monster bends light to hide its image from the eyes of opponents.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Prisoner</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster bends light to hide its image from the eyes of opponents.</text>
+</card>

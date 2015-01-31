@@ -1,14 +1,17 @@
-Constellar Antares
-Monster
-LIGHT
-Effect
-None
-Machine
-6
-2400
-900
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can target 1 "Constellar" monster in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Antares</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can target 1 &quot;Constellar&quot; monster in your Graveyard; add that target to your hand.</text>
+</card>

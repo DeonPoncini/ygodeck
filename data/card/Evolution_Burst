@@ -1,14 +1,17 @@
-Evolution Burst
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a "Cyber Dragon": Target 1 card your opponent controls; destroy that target. "Cyber Dragons" cannot attack the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Evolution Burst</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Cyber Dragon&quot;: Target 1 card your opponent controls; destroy that target. &quot;Cyber Dragons&quot; cannot attack the turn you activate this card.</text>
+</card>

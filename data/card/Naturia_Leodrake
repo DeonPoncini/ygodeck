@@ -1,14 +1,17 @@
-Naturia Leodrake
-Monster
-EARTH
-Synchro
-None
-Beast
-9
-3000
-1800
-0
-0
-None
-None
-1 EARTH Tuner + 1 or more non-Tuner EARTH monsters
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Leodrake</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>9</level>
+    <attack>3000</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 EARTH Tuner + 1 or more non-Tuner EARTH monsters</text>
+</card>

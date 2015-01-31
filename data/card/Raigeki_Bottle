@@ -1,14 +1,17 @@
-Raigeki Bottle
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each time a monster you control declares an attack, place 1 Thunder Counter on this card. You can send this card with 4 or more Thunder Counters to the Graveyard; destroy all monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Raigeki Bottle</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each time a monster you control declares an attack, place 1 Thunder Counter on this card. You can send this card with 4 or more Thunder Counters to the Graveyard; destroy all monsters your opponent controls.</text>
+</card>

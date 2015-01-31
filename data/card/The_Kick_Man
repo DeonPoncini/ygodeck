@@ -1,14 +1,17 @@
-The Kick Man
-Monster
-DARK
-Effect
-None
-Zombie
-3
-1300
-300
-0
-0
-None
-None
-When this card is Special Summoned, you can equip 1 appropriate Equip Spell Card from your Graveyard to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>The Kick Man</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned, you can equip 1 appropriate Equip Spell Card from your Graveyard to this card.</text>
+</card>

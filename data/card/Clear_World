@@ -1,14 +1,17 @@
-Clear World
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-During each of your End Phases, pay 500 Life Points or destroy this card. Each player receives certain effects, depending on the monster Attributes they control. ● LIGHT: Play with your hand revealed at all times. ● DARK: If you control 2 or more monsters, you cannot declare an attack. ● EARTH: During your Standby Phase: Target 1 face-up Defense Position monster you control; destroy it. ● WATER: During your End Phase: Discard 1 card. ● FIRE: During your End Phase: Take 1000 damage. ● WIND: You must pay 500 Life Points to activate a Spell Card.
+<?xml version="1.0" ?>
+<card>
+    <name>Clear World</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases, pay 500 Life Points or destroy this card. Each player receives certain effects, depending on the monster Attributes they control. ● LIGHT: Play with your hand revealed at all times. ● DARK: If you control 2 or more monsters, you cannot declare an attack. ● EARTH: During your Standby Phase: Target 1 face-up Defense Position monster you control; destroy it. ● WATER: During your End Phase: Discard 1 card. ● FIRE: During your End Phase: Take 1000 damage. ● WIND: You must pay 500 Life Points to activate a Spell Card.</text>
+</card>

@@ -1,14 +1,17 @@
-Bounzer Guard
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 face-up "Bounzer" monster you control; this turn, it cannot be targeted by other card effects, or be destroyed by battle. This turn, if an opponent's monster attacks, it must target that monster for an attack if it is still on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Bounzer Guard</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 face-up &quot;Bounzer&quot; monster you control; this turn, it cannot be targeted by other card effects, or be destroyed by battle. This turn, if an opponent's monster attacks, it must target that monster for an attack if it is still on the field.</text>
+</card>

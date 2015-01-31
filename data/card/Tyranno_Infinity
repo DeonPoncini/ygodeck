@@ -1,14 +1,17 @@
-Tyranno Infinity
-Monster
-EARTH
-Effect
-None
-Dinosaur
-4
-?
-0
-0
-0
-None
-None
-The original ATK of this card is the number of your banished Dinosaur-Type monsters x 1000.
+<?xml version="1.0" ?>
+<card>
+    <name>Tyranno Infinity</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The original ATK of this card is the number of your banished Dinosaur-Type monsters x 1000.</text>
+</card>

@@ -1,14 +1,17 @@
-Solar Flare Dragon
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1500
-1000
-0
-0
-None
-None
-While you control another Pyro-Type monster, this card cannot be attacked. During each of your End Phases: Inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Solar Flare Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control another Pyro-Type monster, this card cannot be attacked. During each of your End Phases: Inflict 500 damage to your opponent.</text>
+</card>

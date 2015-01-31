@@ -1,14 +1,17 @@
-Archfiend Emperor, the First Lord of Horror
-Monster
-DARK
-Effect
-None
-Fiend
-8
-3000
-2000
-0
-0
-None
-None
-You can Normal Summon this card without Tributing, but its original ATK and DEF become halved. If Summoned this way, it is destroyed during the End Phase. You cannot Special Summon any monsters, except Fiend-Type monsters. Once per turn: You can banish 1 "Archfiend" card from your hand or Graveyard, then target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Emperor, the First Lord of Horror</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Normal Summon this card without Tributing, but its original ATK and DEF become halved. If Summoned this way, it is destroyed during the End Phase. You cannot Special Summon any monsters, except Fiend-Type monsters. Once per turn: You can banish 1 &quot;Archfiend&quot; card from your hand or Graveyard, then target 1 card on the field; destroy that target.</text>
+</card>

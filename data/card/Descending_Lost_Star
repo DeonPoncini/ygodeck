@@ -1,14 +1,17 @@
-Descending Lost Star
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 Synchro Monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated, its Level is reduced by 1, its DEF becomes 0, also its battle position cannot be changed.
+<?xml version="1.0" ?>
+<card>
+    <name>Descending Lost Star</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 Synchro Monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated, its Level is reduced by 1, its DEF becomes 0, also its battle position cannot be changed.</text>
+</card>

@@ -1,14 +1,17 @@
-Final Ritual of the Ancients
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card is used to Ritual Summon "Reshef the Dark Being". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Final Ritual of the Ancients</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card is used to Ritual Summon &quot;Reshef the Dark Being&quot;. You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.</text>
+</card>

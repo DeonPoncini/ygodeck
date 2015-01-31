@@ -1,14 +1,17 @@
-Fluffal Leo
-Monster
-EARTH
-Effect
-None
-Fairy
-4
-1600
-1200
-0
-0
-None
-None
-When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Fluffal Leo</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.</text>
+</card>

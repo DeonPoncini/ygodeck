@@ -1,14 +1,17 @@
-Amphibious Bugroth MK-3
-Monster
-WATER
-Effect
-None
-Machine
-4
-1500
-1300
-0
-0
-None
-None
-As long as "Umi" remains face-up on the field, this card can attack your opponent's Life Points directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Amphibious Bugroth MK-3</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as &quot;Umi&quot; remains face-up on the field, this card can attack your opponent's Life Points directly.</text>
+</card>

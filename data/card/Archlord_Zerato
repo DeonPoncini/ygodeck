@@ -1,14 +1,17 @@
-Archlord Zerato
-Monster
-LIGHT
-Effect
-None
-Fairy
-8
-2800
-2300
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 face-up "Warrior of Zera" on your side of the field while "The Sanctuary in the Sky" is on the field. If "The Sanctuary in the Sky" is on your side of the field, by discarding 1 LIGHT Monster Card from your hand to the Graveyard, destroy all monsters on your opponent's side of the field. If "The Sanctuary in the Sky" is not on your side of the field, this effect is not applied.
+<?xml version="1.0" ?>
+<card>
+    <name>Archlord Zerato</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 face-up &quot;Warrior of Zera&quot; on your side of the field while &quot;The Sanctuary in the Sky&quot; is on the field. If &quot;The Sanctuary in the Sky&quot; is on your side of the field, by discarding 1 LIGHT Monster Card from your hand to the Graveyard, destroy all monsters on your opponent's side of the field. If &quot;The Sanctuary in the Sky&quot; is not on your side of the field, this effect is not applied.</text>
+</card>

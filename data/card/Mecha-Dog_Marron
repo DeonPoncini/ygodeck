@@ -1,14 +1,17 @@
-Mecha-Dog Marron
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1000
-1000
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, inflict 1000 damage to both players. When this card on the field is destroyed and sent to the Graveyard except by battle, inflict 1000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha-Dog Marron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, inflict 1000 damage to both players. When this card on the field is destroyed and sent to the Graveyard except by battle, inflict 1000 damage to your opponent.</text>
+</card>

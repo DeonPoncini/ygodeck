@@ -1,14 +1,17 @@
-Orbital Bombardment
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Send 1 "Alien" monster from your side of the field to the Graveyard to activate this card. Destroy 1 Spell or Trap Card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Orbital Bombardment</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Send 1 &quot;Alien&quot; monster from your side of the field to the Graveyard to activate this card. Destroy 1 Spell or Trap Card on the field.</text>
+</card>

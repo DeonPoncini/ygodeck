@@ -1,14 +1,17 @@
-Brionac, Dragon of the Ice Barrier
-Monster
-WATER
-Synchro
-Effect
-Sea Serpent
-6
-2300
-1400
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersYou can discard any number of cards to the Graveyard to target the same number of cards on the field; return those targets to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Brionac, Dragon of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersYou can discard any number of cards to the Graveyard to target the same number of cards on the field; return those targets to the hand.</text>
+</card>

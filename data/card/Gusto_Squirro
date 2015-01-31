@@ -1,14 +1,17 @@
-Gusto Squirro
-Monster
-WIND
-Tuner
-None
-Thunder
-2
-0
-1800
-0
-0
-None
-None
-When this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 Level 5 or higher "Gusto" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Gusto Squirro</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 Level 5 or higher &quot;Gusto&quot; monster from your Deck.</text>
+</card>

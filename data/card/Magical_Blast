@@ -1,14 +1,17 @@
-Magical Blast
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a Spellcaster-Type monster: Inflict 200 damage to your opponent for each Spellcaster-Type monster you currently control. During your Draw Phase, if this card is in your Graveyard, instead of conducting your normal draw: You can add this card from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Blast</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a Spellcaster-Type monster: Inflict 200 damage to your opponent for each Spellcaster-Type monster you currently control. During your Draw Phase, if this card is in your Graveyard, instead of conducting your normal draw: You can add this card from your Graveyard to your hand.</text>
+</card>

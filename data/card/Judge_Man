@@ -1,14 +1,17 @@
-Judge Man
-Monster
-EARTH
-Normal
-None
-Warrior
-6
-2200
-1500
-0
-0
-None
-None
-This club-wielding warrior battles to the end and will never surrender.
+<?xml version="1.0" ?>
+<card>
+    <name>Judge Man</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This club-wielding warrior battles to the end and will never surrender.</text>
+</card>

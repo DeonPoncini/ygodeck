@@ -1,14 +1,17 @@
-Amphibian Beast
-Monster
-WATER
-Normal
-None
-Fish
-6
-2400
-2000
-0
-0
-None
-None
-On land or in the sea, the speed of this monster is unmatchable.
+<?xml version="1.0" ?>
+<card>
+    <name>Amphibian Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>On land or in the sea, the speed of this monster is unmatchable.</text>
+</card>

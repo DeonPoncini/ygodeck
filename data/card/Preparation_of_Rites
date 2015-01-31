@@ -1,14 +1,17 @@
-Preparation of Rites
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Add to your hand 1 Level 7 or lower Ritual Monster Card from your Deck. Then you can add to your hand 1 Ritual Spell Card from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Preparation of Rites</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Add to your hand 1 Level 7 or lower Ritual Monster Card from your Deck. Then you can add to your hand 1 Ritual Spell Card from your Graveyard.</text>
+</card>

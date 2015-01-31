@@ -1,14 +1,17 @@
-Man Beast of Ares
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-3
-500
-500
-0
-0
-None
-None
-After a Chain (of 2 or more Links) resolves, this card gains 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Man Beast of Ares</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After a Chain (of 2 or more Links) resolves, this card gains 500 ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-T.G. Jet Falcon
-Monster
-WIND
-Tuner
-Effect
-Winged Beast
-3
-1400
-1200
-0
-0
-None
-None
-If this card is sent to the Graveyard as a Synchro Material: Inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>T.G. Jet Falcon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard as a Synchro Material: Inflict 500 damage to your opponent.</text>
+</card>

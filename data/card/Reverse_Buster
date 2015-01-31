@@ -1,14 +1,17 @@
-Reverse Buster
-Monster
-LIGHT
-Effect
-None
-Fiend
-4
-1500
-0
-0
-0
-None
-None
-This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Reverse Buster</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.</text>
+</card>

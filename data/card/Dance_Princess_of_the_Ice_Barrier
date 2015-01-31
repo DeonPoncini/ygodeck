@@ -1,14 +1,17 @@
-Dance Princess of the Ice Barrier
-Monster
-WATER
-Effect
-None
-Spellcaster
-4
-1700
-900
-0
-0
-None
-None
-Once per turn, if you control another face-up "Ice Barrier" monster, you can reveal any number of "Ice Barrier" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dance Princess of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, if you control another face-up &quot;Ice Barrier&quot; monster, you can reveal any number of &quot;Ice Barrier&quot; monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.</text>
+</card>

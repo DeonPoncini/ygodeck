@@ -1,14 +1,17 @@
-Tribe-Shocking Virus
-Monster
-WATER
-Effect
-None
-Thunder
-4
-1700
-1000
-0
-0
-None
-None
-Once per turn: You can banish 1 monster from your hand; destroy all face-up monsters on the field with the same Type as that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Tribe-Shocking Virus</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can banish 1 monster from your hand; destroy all face-up monsters on the field with the same Type as that monster.</text>
+</card>

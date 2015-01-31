@@ -1,14 +1,17 @@
-Malefic Rainbow Dragon
-Monster
-DARK
-Effect
-None
-Dragon
-10
-4000
-0
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 "Rainbow Dragon" from your hand or Deck. There can only be 1 face-up "Malefic" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Malefic Rainbow Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 &quot;Rainbow Dragon&quot; from your hand or Deck. There can only be 1 face-up &quot;Malefic&quot; monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.</text>
+</card>

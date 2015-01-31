@@ -1,18 +1,21 @@
-Sephiram Pilica, the Bold Ritual Beast Tamer
-Monster
-WIND
-Pendulum
-Effect
-Psychic
-3
-1000
-1500
-1
-1
-None
-None
-Pendulum Effect
- You cannot Pendulum Summon monsters, except "Ritual Beast" or "Sephira" monsters. This effect cannot be negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Sephiram Pilica, the Bold Ritual Beast Tamer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1500</defense>
+    <lpendulum>1</lpendulum>
+    <rpendulum>1</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Pendulum Summon monsters, except &quot;Ritual Beast&quot; or &quot;Sephira&quot; monsters. This effect cannot be negated.
 
  Monster Effect
- When this card is Normal or Pendulum Summoned: You can target 1 "Ritual Beast" or "Sephira" monster in your Graveyard, except "Sephiram Pilica, the Bold Ritual Beast Tamer"; Special Summon it, but destroy it during the End Phase. You can only Special Summon 1 "Sephiram Pilica, the Bold Ritual Beast Tamer" per turn.
+ When this card is Normal or Pendulum Summoned: You can target 1 &quot;Ritual Beast&quot; or &quot;Sephira&quot; monster in your Graveyard, except &quot;Sephiram Pilica, the Bold Ritual Beast Tamer&quot;; Special Summon it, but destroy it during the End Phase. You can only Special Summon 1 &quot;Sephiram Pilica, the Bold Ritual Beast Tamer&quot; per turn.</text>
+</card>

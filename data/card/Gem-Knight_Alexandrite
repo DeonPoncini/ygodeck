@@ -1,14 +1,17 @@
-Gem-Knight Alexandrite
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1800
-1200
-0
-0
-None
-None
-You can Tribute this card; Special Summon 1 "Gem-Knight" Normal Monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Alexandrite</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card; Special Summon 1 &quot;Gem-Knight&quot; Normal Monster from your Deck.</text>
+</card>

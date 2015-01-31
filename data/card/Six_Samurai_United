@@ -1,14 +1,17 @@
-Six Samurai United
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time a "Six Samurai" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card (max. 2). You can send this card to the Graveyard; draw 1 card for each Bushido Counter on this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Six Samurai United</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time a &quot;Six Samurai&quot; monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card (max. 2). You can send this card to the Graveyard; draw 1 card for each Bushido Counter on this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Neo Space Pathfinder
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1800
-800
-0
-0
-None
-None
-You can discard this card to the Graveyard to add 1 "Neo Space" from your Deck or Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo Space Pathfinder</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard this card to the Graveyard to add 1 &quot;Neo Space&quot; from your Deck or Graveyard to your hand.</text>
+</card>

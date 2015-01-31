@@ -1,14 +1,17 @@
-Ally of Justice Light Gazer
-Monster
-DARK
-Synchro
-Effect
-Machine
-8
-2400
-1600
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersThis card gains 200 ATK for each LIGHT monster in your opponent's Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Light Gazer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>2400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersThis card gains 200 ATK for each LIGHT monster in your opponent's Graveyard.</text>
+</card>

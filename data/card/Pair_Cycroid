@@ -1,14 +1,17 @@
-Pair Cycroid
-Monster
-EARTH
-Fusion
-Effect
-Machine
-5
-1600
-1200
-0
-0
-None
-None
-2 Machine-Type monsters with the same nameThis card can attack your opponent directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Pair Cycroid</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Machine-Type monsters with the same nameThis card can attack your opponent directly.</text>
+</card>

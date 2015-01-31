@@ -1,14 +1,17 @@
-Satellite Cannon
-Monster
-LIGHT
-Effect
-None
-Machine
-5
-0
-0
-0
-0
-None
-None
-This card cannot be destroyed by battle with a Level 7 or lower monster. During each of your End Phases: This card gains 1000 ATK. If this card attacks, this increased ATK returns to 0, after damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Satellite Cannon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle with a Level 7 or lower monster. During each of your End Phases: This card gains 1000 ATK. If this card attacks, this increased ATK returns to 0, after damage calculation.</text>
+</card>

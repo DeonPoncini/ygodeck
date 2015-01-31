@@ -1,14 +1,17 @@
-D.D. Jet Iron
-Monster
-LIGHT
-Effect
-None
-Machine
-10
-4000
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 "D.D. Esper Star Sparrow", "Beast-Warrior Puma", "Phoenix Beast Gairuda", and "Ironhammer the Giant" from your hand and/or face-up from your side of the field to the Graveyard. You can Tribute this card to target 1 "D.D. Esper Star Sparrow", "Beast-Warrior Puma", "Phoenix Beast Gairuda" and "Ironhammer the Giant" in your Graveyard; Special Summon those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Jet Iron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 &quot;D.D. Esper Star Sparrow&quot;, &quot;Beast-Warrior Puma&quot;, &quot;Phoenix Beast Gairuda&quot;, and &quot;Ironhammer the Giant&quot; from your hand and/or face-up from your side of the field to the Graveyard. You can Tribute this card to target 1 &quot;D.D. Esper Star Sparrow&quot;, &quot;Beast-Warrior Puma&quot;, &quot;Phoenix Beast Gairuda&quot; and &quot;Ironhammer the Giant&quot; in your Graveyard; Special Summon those targets.</text>
+</card>

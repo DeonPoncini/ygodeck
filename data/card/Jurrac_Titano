@@ -1,14 +1,17 @@
-Jurrac Titano
-Monster
-FIRE
-Effect
-None
-Dinosaur
-9
-3000
-2800
-0
-0
-None
-None
-Cannot be Special Summoned. Cannot be targeted by Trap or monster effects. Once per turn: You can banish 1 "Jurrac" monster with 1700 or less ATK from your Graveyard; this card gains 1000 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Titano</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>9</level>
+    <attack>3000</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. Cannot be targeted by Trap or monster effects. Once per turn: You can banish 1 &quot;Jurrac&quot; monster with 1700 or less ATK from your Graveyard; this card gains 1000 ATK until the End Phase.</text>
+</card>

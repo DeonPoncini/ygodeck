@@ -1,14 +1,17 @@
-Cards from the Sky
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Remove from play 1 LIGHT Fairy-Type monster in your hand and draw 2 cards. You cannot Special Summon or conduct your Battle Phase the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Cards from the Sky</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Remove from play 1 LIGHT Fairy-Type monster in your hand and draw 2 cards. You cannot Special Summon or conduct your Battle Phase the turn you activate this card.</text>
+</card>

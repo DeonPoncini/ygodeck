@@ -1,14 +1,17 @@
-Limitover Drive
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Return 1 Tuner Synchro Monster and 1 non-Tuner Synchro Monster you control to the Extra Deck; Special Summon 1 Synchro Monster from your Extra Deck whose Level is equal to the combined Level of those 2 returned monsters, ignoring its Summoning conditions. You can only activate 1 "Limitover Drive" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Limitover Drive</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Return 1 Tuner Synchro Monster and 1 non-Tuner Synchro Monster you control to the Extra Deck; Special Summon 1 Synchro Monster from your Extra Deck whose Level is equal to the combined Level of those 2 returned monsters, ignoring its Summoning conditions. You can only activate 1 &quot;Limitover Drive&quot; per turn.</text>
+</card>

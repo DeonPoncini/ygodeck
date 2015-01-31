@@ -1,14 +1,17 @@
-Number 69: Heraldry Crest
-Monster
-LIGHT
-Xyz
-Effect
-Psychic
-4
-2600
-1400
-0
-0
-None
-None
-3 Level 4 monstersWhen this card is Special Summoned: Negate the effects of all other face-up Xyz Monsters currently on the field. You can target 1 other face-up Xyz Monster on the field; until the End Phase, this card's name and original effect become the same as that monster. You can only use this effect of "Number 69: Heraldry Crest" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 69: Heraldry Crest</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>4</level>
+    <attack>2600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersWhen this card is Special Summoned: Negate the effects of all other face-up Xyz Monsters currently on the field. You can target 1 other face-up Xyz Monster on the field; until the End Phase, this card's name and original effect become the same as that monster. You can only use this effect of &quot;Number 69: Heraldry Crest&quot; once per turn.</text>
+</card>

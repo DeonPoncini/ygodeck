@@ -1,14 +1,17 @@
-A/D Changer
-Monster
-LIGHT
-Effect
-None
-Warrior
-1
-100
-100
-0
-0
-None
-None
-You can banish this card from your Graveyard, then target 1 monster on the field; change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>A/D Changer</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can banish this card from your Graveyard, then target 1 monster on the field; change its battle position.</text>
+</card>

@@ -1,14 +1,17 @@
-Bujin Hirume
-Monster
-LIGHT
-Effect
-None
-Beast-Warrior
-4
-2000
-1000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 "Bujin" monster from your Graveyard, except "Bujin Hirume". If this card, which was Summoned this way, is destroyed by your opponent's card (by battle or by card effect), and sent from your side of the field to your Graveyard, and both players have a hand: You can discard 1 card, then your opponent discards 1 card. You can only control 1 "Bujin Hirume".
+<?xml version="1.0" ?>
+<card>
+    <name>Bujin Hirume</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 &quot;Bujin&quot; monster from your Graveyard, except &quot;Bujin Hirume&quot;. If this card, which was Summoned this way, is destroyed by your opponent's card (by battle or by card effect), and sent from your side of the field to your Graveyard, and both players have a hand: You can discard 1 card, then your opponent discards 1 card. You can only control 1 &quot;Bujin Hirume&quot;.</text>
+</card>

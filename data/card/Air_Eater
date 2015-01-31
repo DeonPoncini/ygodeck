@@ -1,14 +1,17 @@
-Air Eater
-Monster
-WIND
-Normal
-None
-Fiend
-6
-2100
-1600
-0
-0
-None
-None
-A monster that feeds on oxygen, suffocating any who stand near.
+<?xml version="1.0" ?>
+<card>
+    <name>Air Eater</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster that feeds on oxygen, suffocating any who stand near.</text>
+</card>

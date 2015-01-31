@@ -1,14 +1,17 @@
-The Grand Spellbook Tower
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Once per turn, during your Standby Phase, if you have a Spellcaster-Type monster on your side of the field or in your Graveyard: You can return 1 "Spellbook" Spell Card from your Graveyard to the bottom of your Deck, except "The Grand Spellbook Tower", then draw 1 card. When this card is destroyed by your opponent's card and sent to the Graveyard: You can Special Summon 1 Spellcaster-Type monster from your hand or Deck whose Level is less than or equal to the number of "Spellbook" Spell Cards in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>The Grand Spellbook Tower</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Standby Phase, if you have a Spellcaster-Type monster on your side of the field or in your Graveyard: You can return 1 &quot;Spellbook&quot; Spell Card from your Graveyard to the bottom of your Deck, except &quot;The Grand Spellbook Tower&quot;, then draw 1 card. When this card is destroyed by your opponent's card and sent to the Graveyard: You can Special Summon 1 Spellcaster-Type monster from your hand or Deck whose Level is less than or equal to the number of &quot;Spellbook&quot; Spell Cards in your Graveyard.</text>
+</card>

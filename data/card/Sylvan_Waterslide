@@ -1,14 +1,17 @@
-Sylvan Waterslide
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each time an opponent's monster declares a direct attack: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. During your Draw Phase, instead of conducting your normal draw: Excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Sylvan Waterslide</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each time an opponent's monster declares a direct attack: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. During your Draw Phase, instead of conducting your normal draw: Excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, add it to your hand.</text>
+</card>

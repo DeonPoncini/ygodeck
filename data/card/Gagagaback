@@ -1,14 +1,17 @@
-Gagagaback
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-During the turn a "Gagaga" monster you control was destroyed by battle and sent to the Graveyard: Special Summon as many monsters from your Graveyard as possible that were destroyed by battle this turn, in face-up Defense Position, then take 600 damage for each monster Special Summoned by this effect. You can only activate 1 "Gagagaback" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gagagaback</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>During the turn a &quot;Gagaga&quot; monster you control was destroyed by battle and sent to the Graveyard: Special Summon as many monsters from your Graveyard as possible that were destroyed by battle this turn, in face-up Defense Position, then take 600 damage for each monster Special Summoned by this effect. You can only activate 1 &quot;Gagagaback&quot; per turn.</text>
+</card>

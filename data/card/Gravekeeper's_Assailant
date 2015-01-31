@@ -1,14 +1,17 @@
-Gravekeeper's Assailant
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1500
-1500
-0
-0
-None
-None
-When this card declares an attack while "Necrovalley" is on the field: You can target 1 face-up monster your opponent controls; change that target's battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Assailant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card declares an attack while &quot;Necrovalley&quot; is on the field: You can target 1 face-up monster your opponent controls; change that target's battle position.</text>
+</card>

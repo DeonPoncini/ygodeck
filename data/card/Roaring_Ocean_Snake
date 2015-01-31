@@ -1,14 +1,17 @@
-Roaring Ocean Snake
-Monster
-WATER
-Fusion
-None
-Aqua
-6
-2100
-1800
-0
-0
-None
-None
-"Mystic Lamp" + "Hyosube"
+<?xml version="1.0" ?>
+<card>
+    <name>Roaring Ocean Snake</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Mystic Lamp&quot; + &quot;Hyosube&quot;</text>
+</card>

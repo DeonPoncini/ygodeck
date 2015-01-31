@@ -1,14 +1,17 @@
-Dungeon Worm
-Monster
-EARTH
-Normal
-None
-Insect
-5
-1800
-1500
-0
-0
-None
-None
-Hidden under the floors of a labyrinth, it swallows any who pass above.
+<?xml version="1.0" ?>
+<card>
+    <name>Dungeon Worm</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Hidden under the floors of a labyrinth, it swallows any who pass above.</text>
+</card>

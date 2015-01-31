@@ -1,14 +1,17 @@
-Stardust Shimmer
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 Dragon-Type Synchro Monster in your Graveyard. Remove from play other monsters in your Graveyard whose total Levels equal the Level of the selected monster, and Special Summon it from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Stardust Shimmer</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 Dragon-Type Synchro Monster in your Graveyard. Remove from play other monsters in your Graveyard whose total Levels equal the Level of the selected monster, and Special Summon it from the Graveyard.</text>
+</card>

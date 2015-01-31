@@ -1,14 +1,17 @@
-Humhumming the Keyboard Djinn
-Monster
-WATER
-Xyz
-Effect
-Fiend
-3
-1100
-1800
-0
-0
-None
-None
-2 Level 3 monstersWhen this card is Special Summoned: You can target 1 "Djinn" Xyz Monster in your Graveyard; Special Summon that monster, then you can attach up to 2 cards from your hand to it as Xyz Materials. Once per turn, during your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 "Djinn" Xyz Monster you control; that monster can attack your opponent directly this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Humhumming the Keyboard Djinn</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 monstersWhen this card is Special Summoned: You can target 1 &quot;Djinn&quot; Xyz Monster in your Graveyard; Special Summon that monster, then you can attach up to 2 cards from your hand to it as Xyz Materials. Once per turn, during your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 &quot;Djinn&quot; Xyz Monster you control; that monster can attack your opponent directly this turn.</text>
+</card>

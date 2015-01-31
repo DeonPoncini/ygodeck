@@ -1,14 +1,17 @@
-Salvage Warrior
-Monster
-WATER
-Effect
-None
-Warrior
-5
-1900
-1600
-0
-0
-None
-None
-When this card is Tribute Summoned, you can Special Summon 1 Tuner monster from your hand or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Salvage Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned, you can Special Summon 1 Tuner monster from your hand or Graveyard.</text>
+</card>

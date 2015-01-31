@@ -1,14 +1,17 @@
-Effect Veiler
-Monster
-LIGHT
-Tuner
-Effect
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-During your opponent's Main Phase: You can send this card from your hand to the Graveyard, then target 1 face-up Effect Monster your opponent controls; negate that opponent's face-up monster's effects until the end of this turn (this is a Quick Effect).
+<?xml version="1.0" ?>
+<card>
+    <name>Effect Veiler</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your opponent's Main Phase: You can send this card from your hand to the Graveyard, then target 1 face-up Effect Monster your opponent controls; negate that opponent's face-up monster's effects until the end of this turn (this is a Quick Effect).</text>
+</card>

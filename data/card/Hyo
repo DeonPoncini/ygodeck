@@ -1,14 +1,17 @@
-Hyo
-Monster
-WATER
-Normal
-None
-Warrior
-3
-800
-1200
-0
-0
-None
-None
-None can survive the cold touch of this sub-zero warrior.
+<?xml version="1.0" ?>
+<card>
+    <name>Hyo</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>None can survive the cold touch of this sub-zero warrior.</text>
+</card>

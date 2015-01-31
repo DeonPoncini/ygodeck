@@ -1,14 +1,17 @@
-Nekogal 2
-Monster
-EARTH
-Normal
-None
-Beast-Warrior
-6
-1900
-2000
-0
-0
-None
-None
-A fast and lethal creature with very dangerous claws.
+<?xml version="1.0" ?>
+<card>
+    <name>Nekogal #2</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fast and lethal creature with very dangerous claws.</text>
+</card>

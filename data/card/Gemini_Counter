@@ -1,14 +1,17 @@
-Gemini Counter
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Change 1 face-up Gemini monster you control to face-down Defense Position and negate the activation of an opponent's Spell Card, and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Gemini Counter</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Change 1 face-up Gemini monster you control to face-down Defense Position and negate the activation of an opponent's Spell Card, and destroy it.</text>
+</card>

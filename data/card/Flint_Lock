@@ -1,14 +1,17 @@
-Flint Lock
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1500
-800
-0
-0
-None
-None
-Once per turn, you can equip a "Flint" on the field to this card. You can take any "Flint" equipped to this card and equip it to another face-up monster. This card can only be equipped with one "Flint" at a time. While equipped with "Flint", this card is unaffected by "Flint's" effect and cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Flint Lock</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can equip a &quot;Flint&quot; on the field to this card. You can take any &quot;Flint&quot; equipped to this card and equip it to another face-up monster. This card can only be equipped with one &quot;Flint&quot; at a time. While equipped with &quot;Flint&quot;, this card is unaffected by &quot;Flint's&quot; effect and cannot be destroyed by battle.</text>
+</card>

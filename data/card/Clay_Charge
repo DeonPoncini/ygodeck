@@ -1,14 +1,17 @@
-Clay Charge
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an "Elemental HERO Clayman" you control is targeted for an attack (even if it is face-down, but reveal it to your opponent in that case): Destroy the attacking monster and that "Elemental HERO Clayman", and inflict 800 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Clay Charge</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an &quot;Elemental HERO Clayman&quot; you control is targeted for an attack (even if it is face-down, but reveal it to your opponent in that case): Destroy the attacking monster and that &quot;Elemental HERO Clayman&quot;, and inflict 800 damage to your opponent.</text>
+</card>

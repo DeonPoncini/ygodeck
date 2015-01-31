@@ -1,14 +1,17 @@
-Prepared Explosives
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Inflict 300 damage to your opponent for each card they control. If this card on the field is destroyed by your opponent's card and sent to the Graveyard: Inflict 1000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Prepared Explosives</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Inflict 300 damage to your opponent for each card they control. If this card on the field is destroyed by your opponent's card and sent to the Graveyard: Inflict 1000 damage to your opponent.</text>
+</card>

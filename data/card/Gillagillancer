@@ -1,14 +1,17 @@
-Gillagillancer
-Monster
-EARTH
-Effect
-None
-Warrior
-6
-2200
-800
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). During each End Phase: You take 500 damage. This card must be face-up on the field to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Gillagillancer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). During each End Phase: You take 500 damage. This card must be face-up on the field to activate and to resolve this effect.</text>
+</card>

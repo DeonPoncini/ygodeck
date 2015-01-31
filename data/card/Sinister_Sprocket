@@ -1,14 +1,17 @@
-Sinister Sprocket
-Monster
-DARK
-Tuner
-None
-Fiend
-1
-400
-0
-0
-0
-None
-None
-If this card is sent to the Graveyard for the Synchro Summon of a DARK Synchro Monster, you can destroy 1 face-up Spell or Trap Card.
+<?xml version="1.0" ?>
+<card>
+    <name>Sinister Sprocket</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard for the Synchro Summon of a DARK Synchro Monster, you can destroy 1 face-up Spell or Trap Card.</text>
+</card>

@@ -1,14 +1,17 @@
-Number 53: Heart-eartH
-Monster
-DARK
-Xyz
-Effect
-Fiend
-5
-100
-100
-0
-0
-None
-None
-3 Level 5 monstersOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the End Phase. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: You can Special Summon 1 "Number 92: Heart-eartH Dragon" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)
+<?xml version="1.0" ?>
+<card>
+    <name>Number 53: Heart-eartH</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 5 monstersOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the End Phase. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: You can Special Summon 1 &quot;Number 92: Heart-eartH Dragon&quot; from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)</text>
+</card>

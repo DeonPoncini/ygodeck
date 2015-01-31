@@ -1,14 +1,17 @@
-Contrast HERO Chaos
-Monster
-DARK
-Fusion
-Effect
-Warrior
-9
-3000
-2600
-0
-0
-None
-None
-2 "Masked HERO" monsters(This card is always treated as an "Elemental HERO" card.)Must be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. Once per turn, during either player's turn: You can target 1 face-up card on the field; negate that target's effects until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Contrast HERO Chaos</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>9</level>
+    <attack>3000</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 &quot;Masked HERO&quot; monsters(This card is always treated as an &quot;Elemental HERO&quot; card.)Must be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. Once per turn, during either player's turn: You can target 1 face-up card on the field; negate that target's effects until the end of this turn.</text>
+</card>

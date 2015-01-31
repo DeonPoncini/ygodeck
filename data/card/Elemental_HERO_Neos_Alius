@@ -1,14 +1,17 @@
-Elemental HERO Neos Alius
-Monster
-LIGHT
-Gemini
-None
-Warrior
-4
-1900
-1300
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● This face-up card's name becomes "Elemental HERO Neos".
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Neos Alius</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● This card's name becomes &quot;Elemental HERO Neos&quot; while it is on the field.</text>
+</card>

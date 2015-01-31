@@ -1,14 +1,17 @@
-Hunter Owl
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1000
-900
-0
-0
-None
-None
-This card gains 500 ATK for each face-up WIND monster you control. While you control another face-up WIND monster, your opponent cannot select this card as an attack target.
+<?xml version="1.0" ?>
+<card>
+    <name>Hunter Owl</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 500 ATK for each face-up WIND monster you control. While you control another face-up WIND monster, your opponent cannot select this card as an attack target.</text>
+</card>

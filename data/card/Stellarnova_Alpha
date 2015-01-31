@@ -1,14 +1,17 @@
-Stellarnova Alpha
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When a Spell/Trap Card, or monster effect, is activated: Send 1 face-up "tellarknight" monster you control to the Graveyard; negate the activation, and if you do, destroy that card, then draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Stellarnova Alpha</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When a Spell/Trap Card, or monster effect, is activated: Send 1 face-up &quot;tellarknight&quot; monster you control to the Graveyard; negate the activation, and if you do, destroy that card, then draw 1 card.</text>
+</card>

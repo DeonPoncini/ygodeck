@@ -1,18 +1,21 @@
-Symphonic Warrior Guitaars
-Monster
-WIND
-Pendulum
-Effect
-Machine
-3
-1500
-100
-7
-7
-None
-None
-Pendulum Effect
- You can discard 1 card; Special Summon 1 "Symphonic Warrior" monster from your Deck, except "Symphonic Warrior Guitaars". You can only use this effect of "Symphonic Warrior Guitaars" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Symphonic Warrior Guitaars</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>100</defense>
+    <lpendulum>7</lpendulum>
+    <rpendulum>7</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You can discard 1 card; Special Summon 1 &quot;Symphonic Warrior&quot; monster from your Deck, except &quot;Symphonic Warrior Guitaars&quot;. You can only use this effect of &quot;Symphonic Warrior Guitaars&quot; once per turn.
 
  Monster Effect
- When this card is Normal Summoned: You can target 1 "Symphonic Warrior" monster in your Graveyard; Special Summon it.
+ When this card is Normal Summoned: You can target 1 &quot;Symphonic Warrior&quot; monster in your Graveyard; Special Summon it.</text>
+</card>

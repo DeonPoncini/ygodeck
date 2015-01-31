@@ -1,14 +1,17 @@
-Number 92: Heart-eartH Dragon
-Monster
-DARK
-Xyz
-Effect
-Dragon
-9
-0
-0
-0
-0
-None
-None
-3 Level 9 monstersThis card cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's End Phase: You can detach 1 Xyz Material from this card; banish all cards your opponent currently controls that were Normal or Special Summoned, or were Set, this turn. If this card is destroyed while it has Xyz Material: You can Special Summon this card from the Graveyard. When you do: It gains 1000 ATK for every card currently banished.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 92: Heart-eartH Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>9</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 9 monstersThis card cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's End Phase: You can detach 1 Xyz Material from this card; banish all cards your opponent currently controls that were Normal or Special Summoned, or were Set, this turn. If this card is destroyed while it has Xyz Material: You can Special Summon this card from the Graveyard. When you do: It gains 1000 ATK for every card currently banished.</text>
+</card>

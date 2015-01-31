@@ -1,14 +1,17 @@
-The Agent of Mystery - Earth
-Monster
-LIGHT
-Tuner
-None
-Fairy
-2
-1000
-800
-0
-0
-None
-None
-When this card is Normal Summoned, you can add 1 "The Agent" monster from your Deck to your hand, except "The Agent of Mystery - Earth". While "The Sanctuary in the Sky" is face-up on the field, you can add 1 "Master Hyperion" from your Deck to your hand instead.
+<?xml version="1.0" ?>
+<card>
+    <name>The Agent of Mystery - Earth</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can add 1 &quot;The Agent&quot; monster from your Deck to your hand, except &quot;The Agent of Mystery - Earth&quot;. While &quot;The Sanctuary in the Sky&quot; is face-up on the field, you can add 1 &quot;Master Hyperion&quot; from your Deck to your hand instead.</text>
+</card>

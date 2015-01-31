@@ -1,14 +1,17 @@
-Hyper Psychic Blaster/Assault Mode
-Monster
-EARTH
-Effect
-None
-Psychic
-11
-3500
-3000
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Assault Mode Activate". If this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster's DEF and gain Life Points equal to its ATK. When this card on the field is destroyed, you can Special Summon 1 "Hyper Psychic Blaster" from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Hyper Psychic Blaster/Assault Mode</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>11</level>
+    <attack>3500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with &quot;Assault Mode Activate&quot;. If this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster's DEF and gain Life Points equal to its ATK. When this card on the field is destroyed, you can Special Summon 1 &quot;Hyper Psychic Blaster&quot; from your Graveyard.</text>
+</card>

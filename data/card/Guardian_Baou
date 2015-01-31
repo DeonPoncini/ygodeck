@@ -1,14 +1,17 @@
-Guardian Baou
-Monster
-DARK
-Effect
-None
-Fiend
-4
-800
-400
-0
-0
-None
-None
-Cannot be Summoned unless you control a face-up "Wicked-Breaking Flamberge - Baou". When this card destroys an opponent's monster by battle and sends it to the Graveyard: It gains 1000 ATK. Negate the effects of monsters destroyed by battle with this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Guardian Baou</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Summoned unless you control a face-up &quot;Wicked-Breaking Flamberge - Baou&quot;. When this card destroys an opponent's monster by battle and sends it to the Graveyard: It gains 1000 ATK. Negate the effects of monsters destroyed by battle with this card.</text>
+</card>

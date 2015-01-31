@@ -1,18 +1,21 @@
-Odd-Eyes Pendulum Dragon
-Monster
-DARK
-Pendulum
-Effect
-Dragon
-7
-2500
-2000
-4
-4
-None
-None
-Pendulum Effect
- You can reduce the battle damage you take from a battle involving a Pendulum Monster you control to 0. During your End Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand. You can only use each Pendulum Effect of "Odd-Eyes Pendulum Dragon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Odd-Eyes Pendulum Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>4</lpendulum>
+    <rpendulum>4</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You can reduce the battle damage you take from a battle involving a Pendulum Monster you control to 0. During your End Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand. You can only use each Pendulum Effect of &quot;Odd-Eyes Pendulum Dragon&quot; once per turn.
 
  Monster Effect
- If this card battles an opponent's monster, any battle damage this card inflicts to your opponent is doubled.
+ If this card battles an opponent's monster, any battle damage this card inflicts to your opponent is doubled.</text>
+</card>

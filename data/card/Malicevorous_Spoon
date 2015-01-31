@@ -1,14 +1,17 @@
-Malicevorous Spoon
-Monster
-DARK
-Effect
-None
-Fiend
-2
-100
-500
-0
-0
-None
-None
-When a "Malicevorous" monster with a different name is Normal or Special Summoned to your side of the field (except during the Damage Step): You can target 1 Level 2 Fiend-Type monster in your Graveyard; Special Summon that target. Its effects are negated. You can only use the effect of "Malicevorous Spoon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Malicevorous Spoon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Malicevorous&quot; monster with a different name is Normal or Special Summoned to your side of the field (except during the Damage Step): You can target 1 Level 2 Fiend-Type monster in your Graveyard; Special Summon that target. Its effects are negated. You can only use the effect of &quot;Malicevorous Spoon&quot; once per turn.</text>
+</card>

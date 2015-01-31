@@ -1,14 +1,17 @@
-Cyber End Dragon
-Monster
-LIGHT
-Fusion
-Effect
-Machine
-10
-4000
-2800
-0
-0
-None
-None
-"Cyber Dragon" + "Cyber Dragon" + "Cyber Dragon"A Fusion Summon of this card can only be done with the above Fusion Material Monsters. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber End Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Cyber Dragon&quot; + &quot;Cyber Dragon&quot; + &quot;Cyber Dragon&quot;A Fusion Summon of this card can only be done with the above Fusion Material Monsters. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

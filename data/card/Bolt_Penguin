@@ -1,14 +1,17 @@
-Bolt Penguin
-Monster
-WATER
-Normal
-None
-Thunder
-3
-1100
-800
-0
-0
-None
-None
-With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.
+<?xml version="1.0" ?>
+<card>
+    <name>Bolt Penguin</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.</text>
+</card>

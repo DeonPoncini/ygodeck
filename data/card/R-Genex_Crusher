@@ -1,14 +1,17 @@
-R-Genex Crusher
-Monster
-EARTH
-Effect
-None
-Machine
-2
-800
-800
-0
-0
-None
-None
-When this card is Normal Summoned, you can add 1 Level 4 "R-Genex" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>R-Genex Crusher</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can add 1 Level 4 &quot;R-Genex&quot; monster from your Deck to your hand.</text>
+</card>

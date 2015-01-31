@@ -1,14 +1,17 @@
-Ninja Grandmaster Sasuke
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1800
-1000
-0
-0
-None
-None
-At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Ninja Grandmaster Sasuke</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.</text>
+</card>

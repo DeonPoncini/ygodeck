@@ -1,14 +1,17 @@
-Stand-Off
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 face-up Attack Position Effect Monster on each side of the field; if both monsters are still face-up on the field, negate their effects, then if both their effects were negated by this effect, as long as those monsters are in face-up Attack Position, they cannot be destroyed by battle, are unaffected by other card effects, also they cannot attack or change their battle positions.
+<?xml version="1.0" ?>
+<card>
+    <name>Stand-Off</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 face-up Attack Position Effect Monster on each side of the field; if both monsters are still face-up on the field, negate their effects, then if both their effects were negated by this effect, as long as those monsters are in face-up Attack Position, they cannot be destroyed by battle, are unaffected by other card effects, also they cannot attack or change their battle positions.</text>
+</card>

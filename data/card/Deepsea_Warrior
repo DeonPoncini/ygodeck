@@ -1,14 +1,17 @@
-Deepsea Warrior
-Monster
-WATER
-Effect
-None
-Warrior
-5
-1600
-1800
-0
-0
-None
-None
-As long as "Umi" is face-up on the field, this card is unaffected by any Spell Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Deepsea Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as &quot;Umi&quot; is face-up on the field, this card is unaffected by any Spell Cards.</text>
+</card>

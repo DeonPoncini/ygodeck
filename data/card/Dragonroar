@@ -1,14 +1,17 @@
-Dragonroar
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Banish 1 EARTH, 1 WATER, 1 FIRE, and 1 WIND monster from your Graveyard; shuffle 1 card on the field into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragonroar</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Banish 1 EARTH, 1 WATER, 1 FIRE, and 1 WIND monster from your Graveyard; shuffle 1 card on the field into the Deck.</text>
+</card>

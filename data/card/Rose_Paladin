@@ -1,14 +1,17 @@
-Rose Paladin
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1800
-200
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card; Special Summon 1 Plant-Type monster from your hand or Deck in Defense Position. You can send this card from your hand to the Graveyard: add 1 Level 7 or higher Plant-Type monster from your Deck to your hand. You can only use this effect of "Rose Paladin" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Rose Paladin</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card; Special Summon 1 Plant-Type monster from your hand or Deck in Defense Position. You can send this card from your hand to the Graveyard: add 1 Level 7 or higher Plant-Type monster from your Deck to your hand. You can only use this effect of &quot;Rose Paladin&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Forgotten Temple of the Deep
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-While this card is on the field, this card's name becomes "Umi". Once per turn: You can target 1 Level 4 or lower Fish, Sea Serpent or Aqua-Type monster you control; banish that target. During your End Phase: Special Summon the monster(s) banished by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Forgotten Temple of the Deep</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>While this card is on the field, this card's name becomes &quot;Umi&quot;. Once per turn: You can target 1 Level 4 or lower Fish, Sea Serpent or Aqua-Type monster you control; banish that target. During your End Phase: Special Summon the monster(s) banished by this effect.</text>
+</card>

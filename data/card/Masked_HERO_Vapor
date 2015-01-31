@@ -1,14 +1,17 @@
-Masked HERO Vapor
-Monster
-WATER
-Fusion
-Effect
-Warrior
-6
-2400
-2000
-0
-0
-None
-None
-Must be Special Summoned with "Mask Change", and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Masked HERO Vapor</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Must be Special Summoned with &quot;Mask Change&quot;, and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects.</text>
+</card>

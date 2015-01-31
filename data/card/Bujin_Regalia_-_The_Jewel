@@ -1,14 +1,17 @@
-Bujin Regalia - The Jewel
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 Rank 4 Xyz Monster you control; equip this card to that target. It gains 300 ATK for each Xyz Material attached to it. Once per turn, while this card is equipped to a monster by this effect: You can attach 1 "Bujin" monster from your hand to the equipped monster as an Xyz Material.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujin Regalia - The Jewel</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 Rank 4 Xyz Monster you control; equip this card to that target. It gains 300 ATK for each Xyz Material attached to it. Once per turn, while this card is equipped to a monster by this effect: You can attach 1 &quot;Bujin&quot; monster from your hand to the equipped monster as an Xyz Material.</text>
+</card>

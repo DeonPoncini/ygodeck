@@ -1,14 +1,17 @@
-Photon Chargeman
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1000
-1000
-0
-0
-None
-None
-Once per turn: You can make this card's ATK become double its original ATK, until your next Standby Phase. This card cannot attack the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Photon Chargeman</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can make this card's ATK become double its original ATK, until your next Standby Phase. This card cannot attack the turn you activate this effect.</text>
+</card>

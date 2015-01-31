@@ -1,14 +1,17 @@
-Mech Mole Zombie
-Monster
-DARK
-Normal
-None
-Zombie
-2
-500
-400
-0
-0
-None
-None
-This creature attacks by launching missile-like arms.
+<?xml version="1.0" ?>
+<card>
+    <name>Mech Mole Zombie</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This creature attacks by launching missile-like arms.</text>
+</card>

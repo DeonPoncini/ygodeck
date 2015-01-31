@@ -1,14 +1,17 @@
-Luster Dragon 2
-Monster
-WIND
-Normal
-None
-Dragon
-6
-2400
-1400
-0
-0
-None
-None
-This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.
+<?xml version="1.0" ?>
+<card>
+    <name>Luster Dragon #2</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.</text>
+</card>

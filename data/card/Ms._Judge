@@ -1,14 +1,17 @@
-Ms. Judge
-Monster
-LIGHT
-Effect
-None
-Fiend
-4
-1800
-600
-0
-0
-None
-None
-If an opponent's card effect activates, before resolving that effect, toss a coin twice, and if the result is 2 Heads, negate that effect. You can only use this effect of "Ms. Judge" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ms. Judge</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If an opponent's card effect activates, before resolving that effect, toss a coin twice, and if the result is 2 Heads, negate that effect. You can only use this effect of &quot;Ms. Judge&quot; once per turn.</text>
+</card>

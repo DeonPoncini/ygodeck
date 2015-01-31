@@ -1,14 +1,17 @@
-Poki Draco
-Monster
-FIRE
-Effect
-None
-Dragon
-3
-200
-100
-0
-0
-None
-None
-When this card is Normal Summoned: You can add 1 "Poki Draco" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Poki Draco</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can add 1 &quot;Poki Draco&quot; from your Deck to your hand.</text>
+</card>

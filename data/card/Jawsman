@@ -1,14 +1,17 @@
-Jawsman
-Monster
-WATER
-Effect
-None
-Beast-Warrior
-6
-2600
-1600
-0
-0
-None
-None
-Cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WATER. This card gains 300 ATK for each face-up WATER monster you control, except this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Jawsman</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>6</level>
+    <attack>2600</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WATER. This card gains 300 ATK for each face-up WATER monster you control, except this card.</text>
+</card>

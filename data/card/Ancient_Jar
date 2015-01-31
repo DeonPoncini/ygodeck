@@ -1,14 +1,17 @@
-Ancient Jar
-Monster
-EARTH
-Normal
-None
-Rock
-1
-400
-200
-0
-0
-None
-None
-A very fragile jar that contains something ancient and dangerous.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Jar</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A very fragile jar that contains something ancient and dangerous.</text>
+</card>

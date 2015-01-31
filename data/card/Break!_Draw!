@@ -1,14 +1,17 @@
-Break! Draw!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Machine-Type monster. When the equipped monster destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card. Destroy this card during your 3rd End Phase after activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Break! Draw!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Machine-Type monster. When the equipped monster destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card. Destroy this card during your 3rd End Phase after activation.</text>
+</card>

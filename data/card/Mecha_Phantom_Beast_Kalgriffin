@@ -1,14 +1,17 @@
-Mecha Phantom Beast Kalgriffin
-Monster
-WIND
-Effect
-None
-Machine
-7
-1000
-2500
-0
-0
-None
-None
-You can Tribute 2 "Mecha Phantom Beast" monsters; Special Summon this card from your hand. You can only use this effect of "Mecha Phantom Beast Kalgriffin" once per turn. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can discard 1 "Mecha Phantom Beast" monster; Special Summon 1 "Mecha Phantom Beast Token" (Machine-Type/WIND/Level 3/ATK 0/DEF 0).
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Kalgriffin</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>1000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 2 &quot;Mecha Phantom Beast&quot; monsters; Special Summon this card from your hand. You can only use this effect of &quot;Mecha Phantom Beast Kalgriffin&quot; once per turn. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can discard 1 &quot;Mecha Phantom Beast&quot; monster; Special Summon 1 &quot;Mecha Phantom Beast Token&quot; (Machine-Type/WIND/Level 3/ATK 0/DEF 0).</text>
+</card>

@@ -1,14 +1,17 @@
-Master Kyonshee
-Monster
-EARTH
-Normal
-None
-Zombie
-4
-1750
-1000
-0
-0
-None
-None
-A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.
+<?xml version="1.0" ?>
+<card>
+    <name>Master Kyonshee</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1750</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.</text>
+</card>

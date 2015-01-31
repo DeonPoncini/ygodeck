@@ -1,14 +1,17 @@
-Black Rose Moonlight Dragon
-Monster
-LIGHT
-Synchro
-Effect
-Dragon
-7
-2400
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen this card is Special Summoned, OR when a Level 5 or higher monster is Special Summoned to your opponent's side of the field face-up: Target 1 Special Summoned monster your opponent controls; return that target to the hand. You can only use the effect of "Black Rose Moonlight Dragon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Rose Moonlight Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen this card is Special Summoned, OR when a Level 5 or higher monster is Special Summoned to your opponent's side of the field face-up: Target 1 Special Summoned monster your opponent controls; return that target to the hand. You can only use the effect of &quot;Black Rose Moonlight Dragon&quot; once per turn.</text>
+</card>

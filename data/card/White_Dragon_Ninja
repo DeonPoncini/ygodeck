@@ -1,14 +1,17 @@
-White Dragon Ninja
-Monster
-LIGHT
-Effect
-None
-Dragon
-7
-2700
-1200
-0
-0
-None
-None
-Cannot be Special Summoned, except with a "Ninjitsu Art" card's effect. Spell/Trap Cards you control cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>White Dragon Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned, except with a &quot;Ninjitsu Art&quot; card's effect. Spell/Trap Cards you control cannot be destroyed by card effects.</text>
+</card>

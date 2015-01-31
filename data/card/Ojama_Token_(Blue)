@@ -1,14 +1,17 @@
-Ojama Token (Blue)
-Monster
-LIGHT
-Token
-None
-Beast
-2
-0
-1000
-0
-0
-None
-None
-This card can be used as any Token.
+<?xml version="1.0" ?>
+<card>
+    <name>Token</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used as any Token.</text>
+</card>

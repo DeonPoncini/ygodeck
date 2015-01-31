@@ -1,14 +1,17 @@
-Hero Signal
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower "Elemental HERO" monster from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Hero Signal</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower &quot;Elemental HERO&quot; monster from your hand or Deck.</text>
+</card>

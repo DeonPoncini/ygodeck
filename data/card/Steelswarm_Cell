@@ -1,14 +1,17 @@
-Steelswarm Cell
-Monster
-DARK
-Effect
-None
-Fiend
-1
-0
-0
-0
-0
-None
-None
-If you control no monsters, you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a "Steelswarm" monster, and cannot be used as a Synchro Material Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Steelswarm Cell</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control no monsters, you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a &quot;Steelswarm&quot; monster, and cannot be used as a Synchro Material Monster.</text>
+</card>

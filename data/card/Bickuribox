@@ -1,14 +1,17 @@
-Bickuribox
-Monster
-DARK
-Fusion
-None
-Fiend
-7
-2300
-2000
-0
-0
-None
-None
-"Crass Clown" + "Dream Clown"
+<?xml version="1.0" ?>
+<card>
+    <name>Bickuribox</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Crass Clown&quot; + &quot;Dream Clown&quot;</text>
+</card>

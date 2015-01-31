@@ -1,14 +1,17 @@
-Number 46: Dragluon
-Monster
-LIGHT
-Xyz
-Effect
-Dragon
-8
-3000
-3000
-0
-0
-None
-None
-2 Level 8 Dragon-Type monstersOnce per turn, if you control no other monsters: You can detach 1 Xyz Material from this card, then activate 1 of these effects.● Special Summon 1 Dragon-Type monster from your hand.● Target 1 Dragon-Type monster your opponent controls; take control of that target.● Dragon-Type monsters your opponent controls cannot activate their effects until the end of your opponent's turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 46: Dragluon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 8 Dragon-Type monstersOnce per turn, if you control no other monsters: You can detach 1 Xyz Material from this card, then activate 1 of these effects.● Special Summon 1 Dragon-Type monster from your hand.● Target 1 Dragon-Type monster your opponent controls; take control of that target.● Dragon-Type monsters your opponent controls cannot activate their effects until the end of your opponent's turn.</text>
+</card>

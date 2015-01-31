@@ -1,14 +1,17 @@
-Voltic Kong
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1800
-1000
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent: Send 1 card from the top of your opponent's Deck to the Graveyard for each face-up LIGHT monster you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Voltic Kong</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent: Send 1 card from the top of your opponent's Deck to the Graveyard for each face-up LIGHT monster you control.</text>
+</card>

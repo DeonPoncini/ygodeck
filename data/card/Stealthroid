@@ -1,14 +1,17 @@
-Stealthroid
-Monster
-DARK
-Effect
-None
-Machine
-4
-1200
-0
-0
-0
-None
-None
-If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another "roid" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Stealthroid</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another &quot;roid&quot; monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Beelzeus of the Ultimate Diabolic Dragons
-Monster
-DARK
-Synchro
-Effect
-Dragon
-10
-4000
-4000
-0
-0
-None
-None
-1 DARK Tuner + 2 or more non-Tuner monstersCannot be destroyed by battle or by card effects. Other monsters you control cannot attack. Once per turn: You can target 1 monster your opponent controls; any battle damage this card inflicts to your opponent this turn is halved, also that monster's ATK becomes 0, and if it does, you gain LP equal to that monster's original ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Beelzeus of the Ultimate Diabolic Dragons</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 2 or more non-Tuner monstersCannot be destroyed by battle or by card effects. Other monsters you control cannot attack. Once per turn: You can target 1 monster your opponent controls; any battle damage this card inflicts to your opponent this turn is halved, also that monster's ATK becomes 0, and if it does, you gain LP equal to that monster's original ATK.</text>
+</card>

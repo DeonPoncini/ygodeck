@@ -1,14 +1,17 @@
-Fissure
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).
+<?xml version="1.0" ?>
+<card>
+    <name>Fissure</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).</text>
+</card>

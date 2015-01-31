@@ -1,14 +1,17 @@
-Dark Scorpion Combination
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-You can only activate this card when there are "Don Zaloog", "Cliff the Trap Remover", "Dark Scorpion - Chick the Yellow", "Dark Scorpion - Gorg the Strong", and "Dark Scorpion - Meanae the Thorn" face-up on your side of the field. During this turn, any of these 5 cards can attack your opponent's Life Points directly. In that case, the Battle Damage inflicted to your opponent by each of those cards becomes 400 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Scorpion Combination</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>You can only activate this card when there are &quot;Don Zaloog&quot;, &quot;Cliff the Trap Remover&quot;, &quot;Dark Scorpion - Chick the Yellow&quot;, &quot;Dark Scorpion - Gorg the Strong&quot;, and &quot;Dark Scorpion - Meanae the Thorn&quot; face-up on your side of the field. During this turn, any of these 5 cards can attack your opponent's Life Points directly. In that case, the Battle Damage inflicted to your opponent by each of those cards becomes 400 points.</text>
+</card>

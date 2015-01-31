@@ -1,14 +1,17 @@
-Tethys, Goddess of Light
-Monster
-LIGHT
-Effect
-None
-Fairy
-5
-2400
-1800
-0
-0
-None
-None
-While this card is face-up on the field, when you draw a Fairy-Type monster(s), you can reveal 1 of those monsters to draw 1 more card.
+<?xml version="1.0" ?>
+<card>
+    <name>Tethys, Goddess of Light</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is face-up on the field, when you draw a Fairy-Type monster(s), you can reveal 1 of those monsters to draw 1 more card.</text>
+</card>

@@ -1,14 +1,17 @@
-Cursed Bill
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-When the equipped monster is destroyed and this card is sent to the Graveyard, inflict damage to the player who controlled the equipped monster, equal to the monster's original DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Cursed Bill</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>When the equipped monster is destroyed and this card is sent to the Graveyard, inflict damage to the player who controlled the equipped monster, equal to the monster's original DEF.</text>
+</card>

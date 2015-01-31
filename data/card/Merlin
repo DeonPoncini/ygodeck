@@ -1,14 +1,17 @@
-Merlin
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-1400
-500
-0
-0
-None
-None
-You can only use each effect of "Merlin" once per turn.● You can Tribute this card; Special Summon 1 "Noble Knight" monster from your Deck. You cannot Special Summon monsters the turn you activate this effect, except "Noble Knight" monsters.● During either player's turn: You can banish this card from your Graveyard; immediately after this effect resolves, Synchro Summon 1 "Noble Knight" Synchro Monster using monsters you control.● During either player's turn: You can banish this card from your Graveyard; immediately after this effect resolves, Xyz Summon 1 "Noble Knight" Xyz Monster using monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Merlin</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1400  </attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only use each effect of &quot;Merlin&quot; once per turn.● You can Tribute this card; Special Summon 1 &quot;Noble Knight&quot; monster from your Deck. You cannot Special Summon monsters the turn you activate this effect, except &quot;Noble Knight&quot; monsters.● During either player's turn: You can banish this card from your Graveyard; immediately after this effect resolves, Synchro Summon 1 &quot;Noble Knight&quot; Synchro Monster using monsters you control.● During either player's turn: You can banish this card from your Graveyard; immediately after this effect resolves, Xyz Summon 1 &quot;Noble Knight&quot; Xyz Monster using monsters you control.</text>
+</card>

@@ -1,14 +1,17 @@
-Dummy Golem
-Monster
-EARTH
-Effect
-None
-Rock
-2
-800
-800
-0
-0
-None
-None
-FLIP: Your opponent selects 1 monster that they control. Switch control of the selected monster and this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dummy Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Your opponent selects 1 monster that they control. Switch control of the selected monster and this card.</text>
+</card>

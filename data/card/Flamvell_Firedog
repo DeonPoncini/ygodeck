@@ -1,14 +1,17 @@
-Flamvell Firedog
-Monster
-FIRE
-Effect
-None
-Beast
-4
-1900
-200
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except "Flamvell Firedog".
+<?xml version="1.0" ?>
+<card>
+    <name>Flamvell Firedog</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except &quot;Flamvell Firedog&quot;.</text>
+</card>

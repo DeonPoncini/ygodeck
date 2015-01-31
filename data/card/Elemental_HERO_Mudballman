@@ -1,14 +1,17 @@
-Elemental HERO Mudballman
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-6
-1900
-3000
-0
-0
-None
-None
-"Elemental HERO Bubbleman" + "Elemental HERO Clayman"Must be Fusion Summoned and cannot be Special Summoned by other ways.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Mudballman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Bubbleman&quot; + &quot;Elemental HERO Clayman&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways.</text>
+</card>

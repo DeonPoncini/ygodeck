@@ -1,14 +1,17 @@
-Mecha Phantom Beast Warbluran
-Monster
-WIND
-Tuner
-Effect
-Machine
-1
-300
-300
-0
-0
-None
-None
-If this card is sent to the Graveyard for the Synchro Summon of a Machine-Type monster: Special Summon 1 "Mecha Phantom Beast Token" (Machine-Type/WIND/Level 3/ATK 0/DEF 0), also, for the rest of this turn, you cannot Special Summon any other monsters, except WIND monsters. While you control a Token, this card cannot be destroyed by battle or card effects. You can Tribute 1 other "Mecha Phantom Beast" monster; increase this card's Level by 1. You can only use 1 "Mecha Phantom Beast Warbluran" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Warbluran</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard for the Synchro Summon of a Machine-Type monster: Special Summon 1 &quot;Mecha Phantom Beast Token&quot; (Machine-Type/WIND/Level 3/ATK 0/DEF 0), also, for the rest of this turn, you cannot Special Summon any other monsters, except WIND monsters. While you control a Token, this card cannot be destroyed by battle or card effects. You can Tribute 1 other &quot;Mecha Phantom Beast&quot; monster; increase this card's Level by 1. You can only use 1 &quot;Mecha Phantom Beast Warbluran&quot; effect per turn, and only once that turn.</text>
+</card>

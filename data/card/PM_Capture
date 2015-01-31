@@ -1,18 +1,21 @@
-PM Capture
-Monster
-DARK
-Pendulum
-Effect
-Zombie
-4
-1800
-0
-5
-5
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>PM Capture</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>0</defense>
+    <lpendulum>5</lpendulum>
+    <rpendulum>5</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  When you Pendulum Summon a Zombie-Type monster(s): You can activate this effect; this turn, they cannot be destroyed by battle or by card effects.
 
  Monster Effect
- If this card destroys an opponent's monster by battle: You can target 1 Pendulum Monster in your Graveyard; add it to your hand.
+ If this card destroys an opponent's monster by battle: You can target 1 Pendulum Monster in your Graveyard; add it to your hand.</text>
+</card>

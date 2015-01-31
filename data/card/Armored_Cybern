@@ -1,14 +1,17 @@
-Armored Cybern
-Monster
-WIND
-Union
-None
-Machine
-4
-0
-2000
-0
-0
-None
-None
-Once per turn, you can either: Target 1 "Cyber Dragon" you control, or 1 Fusion Monster you control that lists "Cyber Dragon" as a Fusion Material Monster; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. Once per turn, while equipped to a monster by this effect: You can target 1 face-up monster on the field; the equipped monster loses exactly 1000 ATK, and if it does, destroy that target. (A monster can only by equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Armored Cybern</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can either: Target 1 &quot;Cyber Dragon&quot; you control, or 1 Fusion Monster you control that lists &quot;Cyber Dragon&quot; as a Fusion Material Monster; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. Once per turn, while equipped to a monster by this effect: You can target 1 face-up monster on the field; the equipped monster loses exactly 1000 ATK, and if it does, destroy that target. (A monster can only by equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)</text>
+</card>

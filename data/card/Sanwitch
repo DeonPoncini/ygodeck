@@ -1,14 +1,17 @@
-Sanwitch
-Monster
-DARK
-Fusion
-None
-Spellcaster
-6
-2100
-1800
-0
-0
-None
-None
-"Sangan" + "Witch of the Black Forest"
+<?xml version="1.0" ?>
+<card>
+    <name>Sanwitch</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Sangan&quot; + &quot;Witch of the Black Forest&quot;</text>
+</card>

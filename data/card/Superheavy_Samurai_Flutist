@@ -1,14 +1,17 @@
-Superheavy Samurai Flutist
-Monster
-EARTH
-Effect
-None
-Machine
-3
-500
-1000
-0
-0
-None
-None
-You can Tribute this card; Special Summon 1 "Superheavy Samurai" monster from your hand. During either player's turn, when a card or effect is activated that targets a "Superheavy Samurai" monster you control: You can banish this card from your Graveyard; negate the activation, and if you do, destroy that card. You can only use each effect of "Superheavy Samurai Flutist" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Flutist</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card; Special Summon 1 &quot;Superheavy Samurai&quot; monster from your hand. During either player's turn, when a card or effect is activated that targets a &quot;Superheavy Samurai&quot; monster you control: You can banish this card from your Graveyard; negate the activation, and if you do, destroy that card. You can only use each effect of &quot;Superheavy Samurai Flutist&quot; once per turn.</text>
+</card>

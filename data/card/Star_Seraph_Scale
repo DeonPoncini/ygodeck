@@ -1,14 +1,17 @@
-Star Seraph Scale
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1500
-900
-0
-0
-None
-None
-When this card is Special Summoned: You can Special Summon 1 "Star Seraph" monster from your hand, then you can place 1 LIGHT monster from your Graveyard on the top of your Deck. An Xyz Monster that was Xyz Summoned using 3 or more monsters you control (including this card on the field) gains this effect.● While this card has Xyz Material, each turn, the first time a monster(s) is Special Summoned from the hand, immediately draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Star Seraph Scale</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned: You can Special Summon 1 &quot;Star Seraph&quot; monster from your hand, then you can place 1 LIGHT monster from your Graveyard on the top of your Deck. An Xyz Monster that was Xyz Summoned using 3 or more monsters you control (including this card on the field) gains this effect.● While this card has Xyz Material, each turn, the first time a monster(s) is Special Summoned from the hand, immediately draw 1 card.</text>
+</card>

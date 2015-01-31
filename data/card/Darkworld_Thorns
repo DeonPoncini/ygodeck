@@ -1,14 +1,17 @@
-Darkworld Thorns
-Monster
-EARTH
-Normal
-None
-Plant
-3
-1200
-900
-0
-0
-None
-None
-A thorny plant found in the darklands that wraps itself around any unwary traveler.
+<?xml version="1.0" ?>
+<card>
+    <name>Darkworld Thorns</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A thorny plant found in the darklands that wraps itself around any unwary traveler.</text>
+</card>

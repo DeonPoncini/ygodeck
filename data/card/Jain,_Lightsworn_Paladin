@@ -1,14 +1,17 @@
-Jain, Lightsworn Paladin
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1800
-1200
-0
-0
-None
-None
-If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Jain, Lightsworn Paladin</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.</text>
+</card>

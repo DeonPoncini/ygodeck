@@ -1,14 +1,17 @@
-Double or Nothing!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-When a monster's attack is negated: Target that monster; during this Battle Phase, it can attack once again, and if it does, its ATK is doubled during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Double or Nothing!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>When a monster's attack is negated: Target that monster; during this Battle Phase, it can attack once again, and if it does, its ATK is doubled during the Damage Step only.</text>
+</card>

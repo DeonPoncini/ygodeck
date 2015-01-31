@@ -1,14 +1,17 @@
-Primal Seed
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If "Black Luster Soldier - Envoy of the Beginning" or "Chaos Emperor Dragon - Envoy of the End" is on the field: Target 2 of your banished cards; add both those targets to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Primal Seed</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If &quot;Black Luster Soldier - Envoy of the Beginning&quot; or &quot;Chaos Emperor Dragon - Envoy of the End&quot; is on the field: Target 2 of your banished cards; add both those targets to your hand.</text>
+</card>

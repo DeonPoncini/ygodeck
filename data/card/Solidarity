@@ -1,14 +1,17 @@
-Solidarity
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-If you have only 1 original Type of monster in your Graveyard, all face-up monsters you control with the same Type gain 800 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Solidarity</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>If you have only 1 original Type of monster in your Graveyard, all face-up monsters you control with the same Type gain 800 ATK.</text>
+</card>

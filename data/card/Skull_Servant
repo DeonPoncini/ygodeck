@@ -1,14 +1,17 @@
-Skull Servant
-Monster
-DARK
-Normal
-None
-Zombie
-1
-300
-200
-0
-0
-None
-None
-A skeletal ghost that isn't strong, but can mean trouble in large numbers.
+<?xml version="1.0" ?>
+<card>
+    <name>Skull Servant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A skeletal ghost that isn't strong, but can mean trouble in large numbers.</text>
+</card>

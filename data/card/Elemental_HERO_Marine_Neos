@@ -1,14 +1,17 @@
-Elemental HERO Marine Neos
-Monster
-WATER
-Fusion
-Effect
-Warrior
-8
-2800
-2300
-0
-0
-None
-None
-"Elemental HERO Neos" + "Neo-Spacian Marine Dolphin"Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) Once per turn: You can destroy 1 random card in your opponent's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Marine Neos</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Neos&quot; + &quot;Neo-Spacian Marine Dolphin&quot;Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use &quot;Polymerization&quot;.) Once per turn: You can destroy 1 random card in your opponent's hand.</text>
+</card>

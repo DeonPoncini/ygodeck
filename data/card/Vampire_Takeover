@@ -1,14 +1,17 @@
-Vampire Takeover
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you have no card in your Field Card Zone and all face-up monsters you control (min. 1) are Zombie-Type: Activate 1 "Vampire Kingdom" directly from your Deck, then, you can Special Summon 1 DARK "Vampire" monster from your Graveyard in face-up Defense Position. You can only activate 1 "Vampire Takeover" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Vampire Takeover</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you have no card in your Field Card Zone and all face-up monsters you control (min. 1) are Zombie-Type: Activate 1 &quot;Vampire Kingdom&quot; directly from your Deck, then, you can Special Summon 1 DARK &quot;Vampire&quot; monster from your Graveyard in face-up Defense Position. You can only activate 1 &quot;Vampire Takeover&quot; per turn.</text>
+</card>

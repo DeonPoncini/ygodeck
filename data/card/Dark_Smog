@@ -1,14 +1,17 @@
-Dark Smog
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Once per turn: You can target 1 monster in your opponent's Graveyard; discard 1 Fiend-Type monster, and if you do, banish that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Smog</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Once per turn: You can target 1 monster in your opponent's Graveyard; discard 1 Fiend-Type monster, and if you do, banish that target.</text>
+</card>

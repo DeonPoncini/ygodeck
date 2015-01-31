@@ -1,14 +1,17 @@
-U.A. Mighty Slugger
-Monster
-EARTH
-Effect
-None
-Warrior
-5
-2300
-700
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by returning 1 "U.A." monster you control to the hand, except "U.A. Mighty Slugger". You can only Special Summon "U.A. Mighty Slugger" once per turn this way. If this card attacks, your opponent cannot activate cards or effects until the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>U.A. Mighty Slugger</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by returning 1 &quot;U.A.&quot; monster you control to the hand, except &quot;U.A. Mighty Slugger&quot;. You can only Special Summon &quot;U.A. Mighty Slugger&quot; once per turn this way. If this card attacks, your opponent cannot activate cards or effects until the end of the Damage Step.</text>
+</card>

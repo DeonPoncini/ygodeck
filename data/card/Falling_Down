@@ -1,14 +1,17 @@
-Falling Down
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Activate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an "Archfiend" card. During each of your opponent's Standby Phases: You take 800 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Falling Down</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Activate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an &quot;Archfiend&quot; card. During each of your opponent's Standby Phases: You take 800 damage.</text>
+</card>

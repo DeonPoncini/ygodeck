@@ -1,14 +1,17 @@
-Spirit Message "I"
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-This card can only be placed on the field by the effect of "Destiny Board".
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit Message &quot;I&quot;</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be placed on the field by the effect of &quot;Destiny Board&quot;.</text>
+</card>

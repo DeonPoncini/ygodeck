@@ -1,14 +1,17 @@
-Amazoness Queen
-Monster
-EARTH
-Effect
-None
-Warrior
-6
-2400
-1800
-0
-0
-None
-None
-"Amazoness" monsters you control cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Queen</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Amazoness&quot; monsters you control cannot be destroyed by battle.</text>
+</card>

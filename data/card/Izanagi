@@ -1,14 +1,17 @@
-Izanagi
-Monster
-WIND
-Effect
-None
-Fairy
-6
-2200
-1000
-0
-0
-None
-None
-You can Special Summon this card from your hand by removing from play 1 Spirit monster from your hand. Spirit monsters you control do not have to have their effects that return them to the hand activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Izanagi</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card from your hand by removing from play 1 Spirit monster from your hand. Spirit monsters you control do not have to have their effects that return them to the hand activated.</text>
+</card>

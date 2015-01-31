@@ -1,14 +1,17 @@
-Magical Star Illusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If your opponent controls a monster(s) and you control as many or fewer monsters: Monsters currently on the field gain ATK equal to the combined Levels of all monsters their controller currently controls x 100, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Star Illusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster(s) and you control as many or fewer monsters: Monsters currently on the field gain ATK equal to the combined Levels of all monsters their controller currently controls x 100, until the end of this turn.</text>
+</card>

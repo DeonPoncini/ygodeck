@@ -1,14 +1,17 @@
-Earthbound Immortal Uru
-Monster
-DARK
-Effect
-None
-Insect
-10
-3000
-3000
-0
-0
-None
-None
-There can only be 1 "Earthbound Immortal" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. Once per turn: You can Tribute 1 other monster, then target 1 face-up monster your opponent controls; take control of that target, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Earthbound Immortal Uru</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>There can only be 1 &quot;Earthbound Immortal&quot; monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. Once per turn: You can Tribute 1 other monster, then target 1 face-up monster your opponent controls; take control of that target, until the End Phase.</text>
+</card>

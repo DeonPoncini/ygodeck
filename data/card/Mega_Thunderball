@@ -1,14 +1,17 @@
-Mega Thunderball
-Monster
-WIND
-Normal
-None
-Thunder
-2
-750
-600
-0
-0
-None
-None
-Rolls along the ground releasing bolts of electricity to attack its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Mega Thunderball</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>750</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Rolls along the ground releasing bolts of electricity to attack its enemies.</text>
+</card>

@@ -1,14 +1,17 @@
-Silver Sentinel
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1500
-1300
-0
-0
-None
-None
-You can Set this card from your hand to your Spell & Trap Card Zone as a Spell Card. During the End Phase of the turn this Set card in your Spell & Trap Card Zone was destroyed by an opponent's card effect and sent to the Graveyard: Target 1 card your opponent controls (if possible); Special Summon this card from the Graveyard, and if you do, destroy that target (if any).
+<?xml version="1.0" ?>
+<card>
+    <name>Silver Sentinel</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Set this card from your hand to your Spell &amp; Trap Card Zone as a Spell Card. During the End Phase of the turn this Set card in your Spell &amp; Trap Card Zone was destroyed by an opponent's card effect and sent to the Graveyard: Target 1 card your opponent controls (if possible); Special Summon this card from the Graveyard, and if you do, destroy that target (if any).</text>
+</card>

@@ -1,14 +1,17 @@
-Granmarg the Rock Monarch
-Monster
-EARTH
-Effect
-None
-Rock
-6
-2400
-1000
-0
-0
-None
-None
-When this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Granmarg the Rock Monarch</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.</text>
+</card>

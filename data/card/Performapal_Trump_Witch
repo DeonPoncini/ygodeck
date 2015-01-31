@@ -1,18 +1,21 @@
-Performapal Trump Witch
-Monster
-DARK
-Pendulum
-Effect
-Spellcaster
-1
-100
-100
-4
-4
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Trump Witch</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>4</lpendulum>
+    <rpendulum>4</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.
 
  Monster Effect
- You can Tribute this card; add 1 "Polymerization" from your Deck or Graveyard to your hand.
+ You can Tribute this card; add 1 &quot;Polymerization&quot; from your Deck or Graveyard to your hand.</text>
+</card>

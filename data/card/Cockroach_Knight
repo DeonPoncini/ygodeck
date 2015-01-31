@@ -1,14 +1,17 @@
-Cockroach Knight
-Monster
-EARTH
-Effect
-None
-Insect
-3
-800
-900
-0
-0
-None
-None
-When this card is sent to the Graveyard, it is returned to the top of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Cockroach Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard, it is returned to the top of the Deck.</text>
+</card>

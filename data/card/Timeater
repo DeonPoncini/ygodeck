@@ -1,14 +1,17 @@
-Timeater
-Monster
-DARK
-Effect
-None
-Machine
-6
-1900
-1700
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.
+<?xml version="1.0" ?>
+<card>
+    <name>Timeater</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.</text>
+</card>

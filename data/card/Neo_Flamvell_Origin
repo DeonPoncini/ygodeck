@@ -1,14 +1,17 @@
-Neo Flamvell Origin
-Monster
-FIRE
-Tuner
-None
-Pyro
-2
-500
-200
-0
-0
-None
-None
-If you control a face-up "Flamvell" monster, except "Neo Flamvell Origin", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo Flamvell Origin</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up &quot;Flamvell&quot; monster, except &quot;Neo Flamvell Origin&quot;, and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.</text>
+</card>

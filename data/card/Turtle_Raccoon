@@ -1,14 +1,17 @@
-Turtle Raccoon
-Monster
-WATER
-Normal
-None
-Aqua
-3
-700
-900
-0
-0
-None
-None
-A cunning raccoon protected by a solid turtle shell, it attacks with deception.
+<?xml version="1.0" ?>
+<card>
+    <name>Turtle Raccoon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A cunning raccoon protected by a solid turtle shell, it attacks with deception.</text>
+</card>

@@ -1,14 +1,17 @@
-Imprisoned Queen Archfiend
-Monster
-DARK
-Effect
-None
-Fiend
-8
-2600
-1700
-0
-0
-None
-None
-During each of your Standby Phases, you must pay 1000 Life Points (this is not optional), or this card is destroyed. During your Standby Phase: Target 1 Level 4 or lower Fiend-Type monster on the field; that target gains 1000 ATK until the End Phase. "Pandemonium" must be on the field and this card must be in your Graveyard to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Imprisoned Queen Archfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your Standby Phases, you must pay 1000 Life Points (this is not optional), or this card is destroyed. During your Standby Phase: Target 1 Level 4 or lower Fiend-Type monster on the field; that target gains 1000 ATK until the End Phase. &quot;Pandemonium&quot; must be on the field and this card must be in your Graveyard to activate and to resolve this effect.</text>
+</card>

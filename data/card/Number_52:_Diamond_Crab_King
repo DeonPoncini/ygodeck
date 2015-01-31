@@ -1,14 +1,17 @@
-Number 52: Diamond Crab King
-Monster
-EARTH
-Xyz
-Effect
-Rock
-4
-0
-3000
-0
-0
-None
-None
-2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card; this card's DEF becomes 0, also this card's ATK becomes 3000. These changes last until the end of this turn. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card is attacked while it has no Xyz Materials, change it to Attack Position at the end of the Damage Step. You can only control 1 "Number 52: Diamond Crab King".
+<?xml version="1.0" ?>
+<card>
+    <name>Number 52: Diamond Crab King</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card; change this card's DEF to 0, and if you do, change its ATK to 3000. These changes last until the end of this turn. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card is attacked, change it to Attack Position at the end of the Damage Step if it has no Xyz Materials. You can only control 1 &quot;Number 52: Diamond Crab King&quot;.</text>
+</card>

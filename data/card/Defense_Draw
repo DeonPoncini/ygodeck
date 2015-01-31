@@ -1,14 +1,17 @@
-Defense Draw
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only during damage calculation during your opponent's turn. The Battle Damage you would receive becomes 0. Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Defense Draw</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only during damage calculation during your opponent's turn. The Battle Damage you would receive becomes 0. Draw 1 card.</text>
+</card>

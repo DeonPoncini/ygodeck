@@ -1,14 +1,17 @@
-Reptilianne Scylla
-Monster
-DARK
-Effect
-None
-Reptile
-4
-1800
-1200
-0
-0
-None
-None
-If this card destroys a monster with 0 ATK by battle, you can Special Summon that monster from the Graveyard to your side of the field in face-up Defense Position. The effect(s) of that monster is negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Reptilianne Scylla</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys a monster with 0 ATK by battle, you can Special Summon that monster from the Graveyard to your side of the field in face-up Defense Position. The effect(s) of that monster is negated.</text>
+</card>

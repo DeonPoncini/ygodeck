@@ -1,14 +1,17 @@
-Melchid the Four-Face Beast
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1500
-1200
-0
-0
-None
-None
-This monster has four different masks for four different attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Melchid the Four-Face Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster has four different masks for four different attacks.</text>
+</card>

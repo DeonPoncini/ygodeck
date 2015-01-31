@@ -1,14 +1,17 @@
-NEX
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 1 face-up "Neo-Spacian" monster you control to the Graveyard. Special Summon 1 Level 4 monster with the same name from your Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>NEX</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 face-up &quot;Neo-Spacian&quot; monster you control to the Graveyard. Special Summon 1 Level 4 monster with the same name from your Extra Deck.</text>
+</card>

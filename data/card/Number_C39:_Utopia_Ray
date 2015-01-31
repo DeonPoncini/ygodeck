@@ -1,14 +1,17 @@
-Number C39: Utopia Ray
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-4
-2500
-2000
-0
-0
-None
-None
-3 Level 4 LIGHT monstersYou can also Xyz Summon this card by using a "Number 39: Utopia" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C39: Utopia Ray</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 LIGHT monstersYou can also Xyz Summon this card by using a &quot;Number 39: Utopia&quot; you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.</text>
+</card>

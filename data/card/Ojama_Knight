@@ -1,14 +1,17 @@
-Ojama Knight
-Monster
-LIGHT
-Fusion
-Effect
-Beast
-5
-0
-2500
-0
-0
-None
-None
-1 "Ojama" monster + 1 "Ojama" monster Select up to 2 of your opponent's Monster Card Zones. The selected zones cannot be used.
+<?xml version="1.0" ?>
+<card>
+    <name>Ojama Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>5</level>
+    <attack>0</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Ojama&quot; monster + 1 &quot;Ojama&quot; monster Select up to 2 of your opponent's Monster Card Zones. The selected zones cannot be used.</text>
+</card>

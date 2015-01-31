@@ -1,14 +1,17 @@
-Volcanic Rat
-Monster
-FIRE
-Normal
-None
-Pyro
-1
-500
-500
-0
-0
-None
-None
-This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.
+<?xml version="1.0" ?>
+<card>
+    <name>Volcanic Rat</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>1</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.</text>
+</card>

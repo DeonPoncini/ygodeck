@@ -1,14 +1,17 @@
-Crow Goblin
-Monster
-WIND
-Normal
-None
-Winged Beast
-5
-1850
-1600
-0
-0
-None
-None
-A clever long-nosed goblin, he is a force to be reckoned with.
+<?xml version="1.0" ?>
+<card>
+    <name>Crow Goblin</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>1850</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A clever long-nosed goblin, he is a force to be reckoned with.</text>
+</card>

@@ -1,14 +1,17 @@
-Raidraptor - Rise Falcon
-Monster
-DARK
-Xyz
-Effect
-Winged Beast
-4
-100
-2000
-0
-0
-None
-None
-3 Level 4 Winged Beast-Type monstersThis card can attack all Special Summoned monsters your opponent controls, once each. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; this card gains ATK equal to that monster's current ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Raidraptor - Rise Falcon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 Winged Beast-Type monstersThis card can attack all Special Summoned monsters your opponent controls, once each. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; this card gains ATK equal to that monster's current ATK.</text>
+</card>

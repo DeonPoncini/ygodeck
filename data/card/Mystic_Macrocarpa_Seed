@@ -1,14 +1,17 @@
-Mystic Macrocarpa Seed
-Monster
-EARTH
-Tuner
-None
-Plant
-3
-500
-1000
-0
-0
-None
-None
-Cannot be used as a Synchro Material Monster, except for the Synchro Summon of an EARTH monster. You can target 1 EARTH monster on the field; reduce its Level by 1. You can use the effect of "Mystic Macrocarpa Seed" up to twice per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystic Macrocarpa Seed</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Synchro Material Monster, except for the Synchro Summon of an EARTH monster. You can target 1 EARTH monster on the field; reduce its Level by 1. You can use the effect of &quot;Mystic Macrocarpa Seed&quot; up to twice per turn.</text>
+</card>

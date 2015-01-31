@@ -1,14 +1,17 @@
-Present Exchange
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Each player banishes 1 card from their Deck, face-down. During the End Phase of this turn, each player adds the card banished by their opponent to their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Present Exchange</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Each player banishes 1 card from their Deck, face-down. During the End Phase of this turn, each player adds the card banished by their opponent to their hand.</text>
+</card>

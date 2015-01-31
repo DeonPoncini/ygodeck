@@ -1,14 +1,17 @@
-DDD Resource Management
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Shuffle 3 "DD" monsters from your side of the field, hand or Graveyard and/or "DD" cards in your Pendulum Zones into the Deck, then you can add 2 "DD" monsters from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>DDD Resource Management</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Shuffle 3 &quot;D/D&quot; monsters from your side of the field, hand or Graveyard and/or &quot;D/D&quot; cards in your Pendulum Zones into the Deck, then you can add 2 &quot;D/D&quot; monsters from your Deck to your hand.</text>
+</card>

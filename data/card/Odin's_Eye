@@ -1,14 +1,17 @@
-Odin's Eye
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Once per turn, during each player's Standby Phase: You can target 1 "Aesir" monster you control; negate its effects until the end of this turn, and if you do, look at all cards in your opponent's hand and all Set cards they control. Your opponent cannot activate cards or effects in response to this effect's activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Odin's Eye</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Once per turn, during each player's Standby Phase: You can target 1 &quot;Aesir&quot; monster you control; negate its effects until the end of this turn, and if you do, look at all cards in your opponent's hand and all Set cards they control. Your opponent cannot activate cards or effects in response to this effect's activation.</text>
+</card>

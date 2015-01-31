@@ -1,14 +1,17 @@
-Evolsaur Diplo
-Monster
-FIRE
-Effect
-None
-Dinosaur
-4
-1600
-800
-0
-0
-None
-None
-When this card is Special Summoned by the effect of an "Evoltile" monster: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Evolsaur Diplo</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of an &quot;Evoltile&quot; monster: Target 1 Spell/Trap Card your opponent controls; destroy that target.</text>
+</card>

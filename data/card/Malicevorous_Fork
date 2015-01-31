@@ -1,14 +1,17 @@
-Malicevorous Fork
-Monster
-DARK
-Effect
-None
-Fiend
-2
-400
-400
-0
-0
-None
-None
-You can send 1 other Fiend-Type monster from your hand to the Graveyard; Special Summon this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Malicevorous Fork</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send 1 other Fiend-Type monster from your hand to the Graveyard; Special Summon this card from your hand.</text>
+</card>

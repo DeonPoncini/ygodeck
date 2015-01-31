@@ -1,14 +1,17 @@
-Armed Changer
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Armed Changer</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.</text>
+</card>

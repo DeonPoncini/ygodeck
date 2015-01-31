@@ -1,14 +1,17 @@
-Korogashi
-Monster
-EARTH
-Normal
-None
-Insect
-2
-550
-400
-0
-0
-None
-None
-A high-powered dung beetle that can roll dung larger than itself. It crushes its foes with its massive ball of dung.
+<?xml version="1.0" ?>
+<card>
+    <name>Korogashi</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>550</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A high-powered dung beetle that can roll dung larger than itself. It crushes its foes with its massive ball of dung.</text>
+</card>

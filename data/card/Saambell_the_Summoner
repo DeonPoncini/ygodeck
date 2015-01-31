@@ -1,14 +1,17 @@
-Saambell the Summoner
-Monster
-WIND
-Effect
-None
-Spellcaster
-2
-600
-400
-0
-0
-None
-None
-During your Main Phase: You can Special Summon 1 monster from your hand with the same Level as this card. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Saambell the Summoner</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can Special Summon 1 monster from your hand with the same Level as this card. This effect can only be used once while this card is face-up on the field.</text>
+</card>

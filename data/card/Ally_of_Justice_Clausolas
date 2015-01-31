@@ -1,14 +1,17 @@
-Ally of Justice Clausolas
-Monster
-DARK
-Normal
-None
-Machine
-6
-2300
-1200
-0
-0
-None
-None
-A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Clausolas</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.</text>
+</card>

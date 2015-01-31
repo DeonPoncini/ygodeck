@@ -1,14 +1,17 @@
-Skull Meister
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1700
-400
-0
-0
-None
-None
-During either player's turn, when a card effect is activated in your opponent's Graveyard, you can send this card from your hand to the Graveyard to negate the effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Skull Meister</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when a card effect is activated in your opponent's Graveyard, you can send this card from your hand to the Graveyard to negate the effect.</text>
+</card>

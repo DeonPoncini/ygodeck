@@ -1,14 +1,17 @@
-Dimensional Alchemist
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1300
-200
-0
-0
-None
-None
-Once per turn, you can activate this effect to remove from play the top card of your Deck and give this card 500 ATK until the End Phase. When this card is destroyed and sent from your side of the field to your Graveyard, you can select 1 of your removed from play monsters and return it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dimensional Alchemist</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can activate this effect to remove from play the top card of your Deck and give this card 500 ATK until the End Phase. When this card is destroyed and sent from your side of the field to your Graveyard, you can select 1 of your removed from play monsters and return it to your hand.</text>
+</card>

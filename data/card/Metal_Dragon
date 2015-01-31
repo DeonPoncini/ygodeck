@@ -1,14 +1,17 @@
-Metal Dragon
-Monster
-WIND
-Fusion
-None
-Machine
-6
-1850
-1700
-0
-0
-None
-None
-"Steel Ogre Grotto #1" + "Lesser Dragon"
+<?xml version="1.0" ?>
+<card>
+    <name>Metal Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1850</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Steel Ogre Grotto #1&quot; + &quot;Lesser Dragon&quot;</text>
+</card>

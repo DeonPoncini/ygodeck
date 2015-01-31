@@ -1,14 +1,17 @@
-Vindikite R-Genex
-Monster
-WIND
-Synchro
-Effect
-Machine
-8
-2400
-1000
-0
-0
-None
-None
-1 "Genex" Tuner + 1 or more non-Tuner WIND monstersYour opponent cannot select this card as an attack target. If this card destroys an opponent's monster by battle, you can add 1 "Genex" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Vindikite R-Genex</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Genex&quot; Tuner + 1 or more non-Tuner WIND monstersYour opponent cannot select this card as an attack target. If this card destroys an opponent's monster by battle, you can add 1 &quot;Genex&quot; monster from your Deck to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Naturia Gaiastralio
-Monster
-EARTH
-Fusion
-Effect
-Rock
-10
-3200
-2100
-0
-0
-None
-None
-2 EARTH Synchro MonstersDuring either player's turn, when a card or effect that targets exactly 1 card on the field (and no other cards) is activated: You can send 1 card from the hand to the Graveyard; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Gaiastralio</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>10</level>
+    <attack>3200</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 EARTH Synchro MonstersDuring either player's turn, when a card or effect that targets exactly 1 card on the field (and no other cards) is activated: You can send 1 card from the hand to the Graveyard; negate the activation, and if you do, destroy it.</text>
+</card>

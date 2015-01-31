@@ -1,14 +1,17 @@
-Photon Strike Bounzer
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-6
-2700
-2000
-0
-0
-None
-None
-2 Level 6 monstersOnce per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the effect, and if you do, inflict 1000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Photon Strike Bounzer</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 6 monstersOnce per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the effect, and if you do, inflict 1000 damage to your opponent.</text>
+</card>

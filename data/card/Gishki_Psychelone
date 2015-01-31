@@ -1,14 +1,17 @@
-Gishki Psychelone
-Monster
-WATER
-Ritual
-Effect
-Fiend
-4
-2150
-1650
-0
-0
-None
-None
-You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can declare 1 Monster Type and Attribute; look at 1 random card in your opponent's hand, and if it is a monster of the declared Type and Attribute, shuffle it into the Deck. Otherwise, return it to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Psychelone</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>2150</attack>
+    <defense>1650</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Gishki&quot; Ritual Spell Card. Once per turn: You can declare 1 Monster Type and Attribute; look at 1 random card in your opponent's hand, and if it is a monster of the declared Type and Attribute, shuffle it into the Deck. Otherwise, return it to the hand.</text>
+</card>

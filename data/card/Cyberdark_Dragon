@@ -1,14 +1,17 @@
-Cyberdark Dragon
-Monster
-DARK
-Fusion
-Effect
-Machine
-8
-1000
-1000
-0
-0
-None
-None
-"Cyberdark Horn" + "Cyberdark Edge" + "Cyberdark Keel"This monster cannot be Special Summoned except by Fusion Summon. When this monster is Special Summoned, select 1 Dragon-Type monster in your Graveyard and equip it to this card. This card gains ATK equal to the equipped card's ATK. This card gains 100 ATK for each Monster Card in your Graveyard. If this card would be destroyed by battle, the equipped monster is destroyed instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyberdark Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Cyberdark Horn&quot; + &quot;Cyberdark Edge&quot; + &quot;Cyberdark Keel&quot;This monster cannot be Special Summoned except by Fusion Summon. When this monster is Special Summoned, select 1 Dragon-Type monster in your Graveyard and equip it to this card. This card gains ATK equal to the equipped card's ATK. This card gains 100 ATK for each Monster Card in your Graveyard. If this card would be destroyed by battle, the equipped monster is destroyed instead.</text>
+</card>

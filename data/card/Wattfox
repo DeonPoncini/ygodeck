@@ -1,14 +1,17 @@
-Wattfox
-Monster
-LIGHT
-Tuner
-None
-Thunder
-2
-800
-100
-0
-0
-None
-None
-If this card is destroyed by your opponent's card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap card effects, or Monster Card effects, for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Wattfox</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is destroyed by your opponent's card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap card effects, or Monster Card effects, for the rest of this turn.</text>
+</card>

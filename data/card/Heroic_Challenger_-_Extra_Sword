@@ -1,14 +1,17 @@
-Heroic Challenger - Extra Sword
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1000
-1000
-0
-0
-None
-None
-An Xyz Monster that was Summoned using this card as Xyz Material gains this effect.● When it is Xyz Summoned: It gains 1000 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Heroic Challenger - Extra Sword</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An Xyz Monster that was Summoned using this card as Xyz Material gains this effect.● When it is Xyz Summoned: It gains 1000 ATK.</text>
+</card>

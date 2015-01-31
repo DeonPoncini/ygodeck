@@ -1,14 +1,17 @@
-Ancient Tree of Enlightenment
-Monster
-EARTH
-Normal
-None
-Plant
-3
-600
-1500
-0
-0
-None
-None
-This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Tree of Enlightenment</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.</text>
+</card>

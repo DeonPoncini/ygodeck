@@ -1,14 +1,17 @@
-Lavalval Dragun
-Monster
-FIRE
-Synchro
-Effect
-Dragon
-6
-2500
-1200
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner FIRE monstersOnce per turn: You can add 1 "Laval" monster from your Deck to your hand, then send 1 "Laval" monster from your hand to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Lavalval Dragun</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner FIRE monstersOnce per turn: You can add 1 &quot;Laval&quot; monster from your Deck to your hand, then send 1 &quot;Laval&quot; monster from your hand to the Graveyard.</text>
+</card>

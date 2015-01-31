@@ -1,14 +1,17 @@
-Larvas
-Monster
-EARTH
-Normal
-None
-Beast
-3
-800
-1000
-0
-0
-None
-None
-A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.
+<?xml version="1.0" ?>
+<card>
+    <name>Larvas</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.</text>
+</card>

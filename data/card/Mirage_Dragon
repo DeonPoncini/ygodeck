@@ -1,14 +1,17 @@
-Mirage Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-4
-1600
-600
-0
-0
-None
-None
-Your opponent cannot activate Trap Cards during the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Mirage Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot activate Trap Cards during the Battle Phase.</text>
+</card>

@@ -1,14 +1,17 @@
-D.D. Warrior Lady
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1500
-1600
-0
-0
-None
-None
-After damage calculation, when this card battles an opponent's monster: You can remove that monster, also remove this card.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Warrior Lady</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After damage calculation, when this card battles an opponent's monster: You can remove that monster, also remove this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Dandylion
-Monster
-EARTH
-Effect
-None
-Plant
-3
-300
-300
-0
-0
-None
-None
-If this card is sent to the Graveyard: Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Dandylion</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard: Special Summon 2 &quot;Fluff Tokens&quot; (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.</text>
+</card>

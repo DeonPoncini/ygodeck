@@ -1,14 +1,17 @@
-Void Expansion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-During your Standby Phase: You can Special Summon 1 "Infernoid Token" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an "Infernoid" monster using its own procedure, you can banish "Infernoid" monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target "Infernoid" monsters you control for attacks or with card effects, except the "Infernoid" monster you control with the highest Level (either, if tied).
+<?xml version="1.0" ?>
+<card>
+    <name>Void Expansion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>During your Standby Phase: You can Special Summon 1 &quot;Infernoid Token&quot; (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an &quot;Infernoid&quot; monster using its own procedure, you can banish &quot;Infernoid&quot; monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target &quot;Infernoid&quot; monsters you control for attacks or with card effects, except the &quot;Infernoid&quot; monster you control with the highest Level (either, if tied).</text>
+</card>

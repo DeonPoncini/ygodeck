@@ -1,14 +1,17 @@
-Fire Kraken
-Monster
-FIRE
-Normal
-None
-Aqua
-4
-1600
-1500
-0
-0
-None
-None
-A squid that thrives on fire and heat.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Kraken</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A squid that thrives on fire and heat.</text>
+</card>

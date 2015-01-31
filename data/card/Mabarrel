@@ -1,14 +1,17 @@
-Mabarrel
-Monster
-DARK
-Normal
-None
-Fiend
-5
-1700
-1400
-0
-0
-None
-None
-This cannon-like creature fires eyeballs so fast they can't be seen.
+<?xml version="1.0" ?>
+<card>
+    <name>Mabarrel</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This cannon-like creature fires eyeballs so fast they can't be seen.</text>
+</card>

@@ -1,14 +1,17 @@
-D.D. Unicorn Knight
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1800
-900
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned if your opponent controls a monster(s) and you control a face-up Tuner monster(s). When this card is Special Summoned this way, you can select 1 of your removed from play Level 3 or lower non-Tuner monsters and Special Summon it. Its effect(s) are negated. You cannot Normal Summon or Set the turn you Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Unicorn Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned if your opponent controls a monster(s) and you control a face-up Tuner monster(s). When this card is Special Summoned this way, you can select 1 of your removed from play Level 3 or lower non-Tuner monsters and Special Summon it. Its effect(s) are negated. You cannot Normal Summon or Set the turn you Special Summon this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Kamionwizard
-Monster
-DARK
-Fusion
-None
-Spellcaster
-4
-1300
-1100
-0
-0
-None
-None
-"Mystical Elf" + "Curtain of the Dark Ones"
+<?xml version="1.0" ?>
+<card>
+    <name>Kamionwizard</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Mystical Elf&quot; + &quot;Curtain of the Dark Ones&quot;</text>
+</card>

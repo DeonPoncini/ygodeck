@@ -1,14 +1,17 @@
-Skull Red Bird
-Monster
-WIND
-Normal
-None
-Winged Beast
-4
-1550
-1200
-0
-0
-None
-None
-This monster swoops down and attacks with a rain of knives stored in its wings.
+<?xml version="1.0" ?>
+<card>
+    <name>Skull Red Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1550</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster swoops down and attacks with a rain of knives stored in its wings.</text>
+</card>

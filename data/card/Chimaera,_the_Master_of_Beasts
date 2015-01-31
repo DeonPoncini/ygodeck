@@ -1,14 +1,17 @@
-Chimaera, the Master of Beasts
-Monster
-LIGHT
-Effect
-None
-Beast
-9
-3000
-3000
-0
-0
-None
-None
-This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Beast-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Chimaera, the Master of Beasts</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>9</level>
+    <attack>3000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Beast-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.</text>
+</card>

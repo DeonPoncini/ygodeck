@@ -1,14 +1,17 @@
-Gogogo Goram
-Monster
-EARTH
-Effect
-None
-Rock
-4
-2300
-0
-0
-0
-None
-None
-If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 "Gogogo" monster from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Gogogo Goram</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>2300</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 &quot;Gogogo&quot; monster from your Deck to the Graveyard.</text>
+</card>

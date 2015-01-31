@@ -1,14 +1,17 @@
-Wattlemur
-Monster
-LIGHT
-Effect
-None
-Thunder
-2
-800
-100
-0
-0
-None
-None
-If this card in its owner's possession is destroyed by your opponent's card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Wattlemur</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card in its owner's possession is destroyed by your opponent's card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Sacred Serpent's Wake
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-You can only activate 1 "Sacred Serpent's Wake" per turn. If you control 2 or more different kinds of monsters (Ritual, Fusion, Synchro, or Xyz): Activate 1 or more effects, depending on the number of different kinds you control, and resolve in sequence.● 2 or more: Target 1 monster in your Graveyard or 1 of your banished monsters; add that target to your hand.● 3 or more: Target 1 Trap Card in your Graveyard; add that target to your hand.● 4: Target 1 Spell Card in your Graveyard, except "Sacred Serpent's Wake"; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Sacred Serpent's Wake</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>You can only activate 1 &quot;Sacred Serpent's Wake&quot; per turn. If you control 2 or more different kinds of monsters (Ritual, Fusion, Synchro, or Xyz): Activate 1 or more effects, depending on the number of different kinds you control, and resolve in sequence.● 2 or more: Target 1 monster in your Graveyard or 1 of your banished monsters; add that target to your hand.● 3 or more: Target 1 Trap Card in your Graveyard; add that target to your hand.● 4: Target 1 Spell Card in your Graveyard, except &quot;Sacred Serpent's Wake&quot;; add that target to your hand.</text>
+</card>

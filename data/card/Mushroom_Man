@@ -1,14 +1,17 @@
-Mushroom Man
-Monster
-EARTH
-Normal
-None
-Plant
-2
-800
-600
-0
-0
-None
-None
-Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.
+<?xml version="1.0" ?>
+<card>
+    <name>Mushroom Man</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.</text>
+</card>

@@ -1,14 +1,17 @@
-Smoke Grenade of the Thief
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-When this Equip Spell Card is active and is destroyed by a card effect, look at your opponent's hand. Select 1 card from their hand and discard it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Smoke Grenade of the Thief</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>When this Equip Spell Card is active and is destroyed by a card effect, look at your opponent's hand. Select 1 card from their hand and discard it to the Graveyard.</text>
+</card>

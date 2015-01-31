@@ -1,14 +1,17 @@
-Vilepawn Archfiend
-Monster
-EARTH
-Effect
-None
-Fiend
-2
-1200
-200
-0
-0
-None
-None
-The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. As long as this card remains face-up on the field, your opponent cannot attack any Archfiend Monster Cards on your side of the field except "Vilepawn Archfiend".
+<?xml version="1.0" ?>
+<card>
+    <name>Vilepawn Archfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>1200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. As long as this card remains face-up on the field, your opponent cannot attack any Archfiend Monster Cards on your side of the field except &quot;Vilepawn Archfiend&quot;.</text>
+</card>

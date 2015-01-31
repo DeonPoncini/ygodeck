@@ -1,14 +1,17 @@
-Big Koala
-Monster
-EARTH
-Normal
-None
-Beast
-7
-2700
-2000
-0
-0
-None
-None
-A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.
+<?xml version="1.0" ?>
+<card>
+    <name>Big Koala</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>7</level>
+    <attack>2700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.</text>
+</card>

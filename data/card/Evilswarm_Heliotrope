@@ -1,14 +1,17 @@
-Evilswarm Heliotrope
-Monster
-DARK
-Normal
-None
-Rock
-4
-1950
-650
-0
-0
-None
-None
-.ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT "!etanimretxE !etacidarE !etanimilE"
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Heliotrope</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1950</attack>
+    <defense>650</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>.ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT &quot;!etanimretxE !etacidarE !etanimilE&quot;</text>
+</card>

@@ -1,14 +1,17 @@
-The Trojan Horse
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1600
-1200
-0
-0
-None
-None
-When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.
+<?xml version="1.0" ?>
+<card>
+    <name>The Trojan Horse</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.</text>
+</card>

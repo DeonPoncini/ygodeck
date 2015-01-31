@@ -1,14 +1,17 @@
-Dark Plant
-Monster
-DARK
-Normal
-None
-Plant
-1
-300
-400
-0
-0
-None
-None
-This mutant flower draws its power from pollutants and the dark forces.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Plant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This mutant flower draws its power from pollutants and the dark forces.</text>
+</card>

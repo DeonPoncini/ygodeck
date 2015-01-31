@@ -1,14 +1,17 @@
-Vengeful Shinobi
-Monster
-DARK
-Effect
-None
-Warrior
-2
-400
-800
-0
-0
-None
-None
-When this face-up Attack Position card is targeted for an attack: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Vengeful Shinobi</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up Attack Position card is targeted for an attack: Draw 1 card.</text>
+</card>

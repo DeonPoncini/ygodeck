@@ -1,14 +1,17 @@
-Shadow Vampire
-Monster
-DARK
-Effect
-None
-Zombie
-5
-2000
-0
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 DARK "Vampire" monster from your hand or Deck, except "Shadow Vampire", but if you do, only that monster can attack for the rest of this turn. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Shadow Vampire</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 DARK &quot;Vampire&quot; monster from your hand or Deck, except &quot;Shadow Vampire&quot;, but if you do, only that monster can attack for the rest of this turn. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.</text>
+</card>

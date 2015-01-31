@@ -1,14 +1,17 @@
-CXyz Dark Fairy Cheer Girl
-Monster
-DARK
-Xyz
-Effect
-Fairy
-5
-2500
-1900
-0
-0
-None
-None
-3 Level 5 monstersWhen this card is sent from the field to the Graveyard: Draw 1 card. If this card has "Fairy Cheer Girl" as an Xyz Material, it gains this effect.● When this card destroys an opponent's monster by battle and remains on the field: You can detach 1 Xyz Material from this card; inflict 400 damage to your opponent for each card in your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>CXyz Dark Fairy Cheer Girl</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 5 monstersWhen this card is sent from the field to the Graveyard: Draw 1 card. If this card has &quot;Fairy Cheer Girl&quot; as an Xyz Material, it gains this effect.● When this card destroys an opponent's monster by battle and remains on the field: You can detach 1 Xyz Material from this card; inflict 400 damage to your opponent for each card in your hand.</text>
+</card>

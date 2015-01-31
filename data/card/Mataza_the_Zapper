@@ -1,14 +1,17 @@
-Mataza the Zapper
-Monster
-DARK
-Effect
-None
-Warrior
-3
-1300
-800
-0
-0
-None
-None
-This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.
+<?xml version="1.0" ?>
+<card>
+    <name>Mataza the Zapper</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.</text>
+</card>

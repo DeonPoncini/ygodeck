@@ -1,14 +1,17 @@
-Cyber Archfiend
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1000
-2000
-0
-0
-None
-None
-At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to the normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Archfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to the normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card.</text>
+</card>

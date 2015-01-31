@@ -1,14 +1,17 @@
-Ground Collapse
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Select 2 Monster Card Zones on the field. Neither player can use the selected zones. You cannot select a zone that is occupied by a Monster Card.
+<?xml version="1.0" ?>
+<card>
+    <name>Ground Collapse</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Select 2 Monster Card Zones on the field. Neither player can use the selected zones. You cannot select a zone that is occupied by a Monster Card.</text>
+</card>

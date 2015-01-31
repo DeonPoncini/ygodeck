@@ -1,14 +1,17 @@
-Celestial Sword - Eatos
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-(This card is always treated as a "Noble Arms" card.)The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: You can target 1 "Guardian Eatos" you control; it gains 500 ATK for each banished monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Celestial Sword - Eatos</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>(This card is always treated as a &quot;Noble Arms&quot; card.)The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: You can target 1 &quot;Guardian Eatos&quot; you control; it gains 500 ATK for each banished monster.</text>
+</card>

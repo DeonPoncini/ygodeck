@@ -1,14 +1,17 @@
-Giant Scorpion of the Tundra
-Monster
-EARTH
-Normal
-None
-Insect
-3
-1100
-1000
-0
-0
-None
-None
-An extraordinary blue scorpion found in the tundra, not in the desert.
+<?xml version="1.0" ?>
+<card>
+    <name>Giant Scorpion of the Tundra</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An extraordinary blue scorpion found in the tundra, not in the desert.</text>
+</card>

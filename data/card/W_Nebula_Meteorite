@@ -1,14 +1,17 @@
-W Nebula Meteorite
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Change all face-down monsters on the field to face-up Defense Position. During the End Phase this turn, change all face-up LIGHT Reptile-Type monsters you control to face-down Defense Position, then draw 1 card for each. After that, you can Special Summon 1 Level 7 or higher LIGHT Reptile-Type monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>W Nebula Meteorite</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Change all face-down monsters on the field to face-up Defense Position. During the End Phase this turn, change all face-up LIGHT Reptile-Type monsters you control to face-down Defense Position, then draw 1 card for each. After that, you can Special Summon 1 Level 7 or higher LIGHT Reptile-Type monster from your Deck.</text>
+</card>

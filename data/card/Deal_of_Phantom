@@ -1,14 +1,17 @@
-Deal of Phantom
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Select 1 monster face-up on the field. Increase the selected monster's ATK by 100 points for each monster in your Graveyard during the turn this card is activated. The number of monsters is applied when this card is activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Deal of Phantom</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Select 1 monster face-up on the field. Increase the selected monster's ATK by 100 points for each monster in your Graveyard during the turn this card is activated. The number of monsters is applied when this card is activated.</text>
+</card>

@@ -1,14 +1,17 @@
-Dragon Dowser
-Monster
-EARTH
-Effect
-None
-Wyrm
-4
-1500
-1500
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard or when this card you control is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 EARTH Pendulum Monster from your Deck in Defense Position, but destroy it during the End Phase. You can only use this effect of "Dragon Dowser" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Dowser</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Wyrm</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard or when this card you control is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 EARTH Pendulum Monster from your Deck in Defense Position, but destroy it during the End Phase. You can only use this effect of &quot;Dragon Dowser&quot; once per turn.</text>
+</card>

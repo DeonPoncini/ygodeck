@@ -1,18 +1,21 @@
-Lancephorhynchus
-Monster
-WIND
-Pendulum
-None
-Dinosaur
-6
-2500
-800
-7
-7
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Lancephorhynchus</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>800</defense>
+    <lpendulum>7</lpendulum>
+    <rpendulum>7</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  If a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
 
  Monster Effect
- This primordial species survived extinction by evolving an offensive lance than can pierce anything, although its diet still consists mainly of fish.
+ This primordial species survived extinction by evolving an offensive lance than can pierce anything, although its diet still consists mainly of fish.</text>
+</card>

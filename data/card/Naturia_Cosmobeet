@@ -1,14 +1,17 @@
-Naturia Cosmobeet
-Monster
-EARTH
-Tuner
-None
-Plant
-2
-1000
-700
-0
-0
-None
-None
-When your opponent Normal Summons or Sets a monster, you can Special Summon this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Cosmobeet</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent Normal Summons or Sets a monster, you can Special Summon this card from your hand.</text>
+</card>

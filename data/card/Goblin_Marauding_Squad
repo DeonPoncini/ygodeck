@@ -1,14 +1,17 @@
-Goblin Marauding Squad
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-4
-1900
-0
-0
-0
-None
-None
-When this card declares an attack, your opponent cannot activate cards or effects. If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Goblin Marauding Squad</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card declares an attack, your opponent cannot activate cards or effects. If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.</text>
+</card>

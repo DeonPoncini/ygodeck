@@ -1,14 +1,17 @@
-Banner of Courage
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-All monsters you control gain 200 ATK during your Battle Phase only.
+<?xml version="1.0" ?>
+<card>
+    <name>Banner of Courage</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>All monsters you control gain 200 ATK during your Battle Phase only.</text>
+</card>

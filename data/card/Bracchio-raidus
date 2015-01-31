@@ -1,14 +1,17 @@
-Bracchio-raidus
-Monster
-WATER
-Fusion
-None
-Dinosaur
-6
-2200
-2000
-0
-0
-None
-None
-"Two-Headed King Rex" + "Crawling Dragon #2"
+<?xml version="1.0" ?>
+<card>
+    <name>Bracchio-raidus</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Two-Headed King Rex&quot; + &quot;Crawling Dragon #2&quot;</text>
+</card>

@@ -1,14 +1,17 @@
-Domino Effect
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When a monster your opponent controls is destroyed by battle and sent to the Graveyard, you can send 1 monster you control to the Graveyard to destroy 1 monster your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Domino Effect</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When a monster your opponent controls is destroyed by battle and sent to the Graveyard, you can send 1 monster you control to the Graveyard to destroy 1 monster your opponent controls.</text>
+</card>

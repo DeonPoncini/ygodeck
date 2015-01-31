@@ -1,14 +1,17 @@
-Dust Storm of Gusto
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Your opponent cannot activate cards or effects when "Gusto" monsters you control declare their attacks this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dust Storm of Gusto</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Your opponent cannot activate cards or effects when &quot;Gusto&quot; monsters you control declare their attacks this turn.</text>
+</card>

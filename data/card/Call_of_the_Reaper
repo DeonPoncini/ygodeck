@@ -1,14 +1,17 @@
-Call of the Reaper
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when a monster(s) is Special Summoned from your Graveyard. Select and Special Summon 1 "Supay" or 1 "Fire Ant Ascator" from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Call of the Reaper</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when a monster(s) is Special Summoned from your Graveyard. Select and Special Summon 1 &quot;Supay&quot; or 1 &quot;Fire Ant Ascator&quot; from your Graveyard.</text>
+</card>

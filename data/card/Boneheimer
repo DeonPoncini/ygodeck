@@ -1,14 +1,17 @@
-Boneheimer
-Monster
-WATER
-Normal
-None
-Aqua
-3
-850
-400
-0
-0
-None
-None
-This monster wanders the seas, sucking dry any creatures it may encounter.
+<?xml version="1.0" ?>
+<card>
+    <name>Boneheimer</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>850</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster wanders the seas, sucking dry any creatures it may encounter.</text>
+</card>

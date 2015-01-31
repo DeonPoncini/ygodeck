@@ -1,14 +1,17 @@
-Gaia Soul the Combustible Collective
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-2000
-0
-0
-0
-None
-None
-Once per turn: You can Tribute up to 2 Pyro-Type monsters; this card gains 1000 ATK for each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During the End Phase: Destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Gaia Soul the Combustible Collective</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can Tribute up to 2 Pyro-Type monsters; this card gains 1000 ATK for each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During the End Phase: Destroy this card.</text>
+</card>

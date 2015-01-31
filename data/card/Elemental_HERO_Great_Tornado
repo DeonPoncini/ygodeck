@@ -1,14 +1,17 @@
-Elemental HERO Great Tornado
-Monster
-WIND
-Fusion
-Effect
-Warrior
-8
-2800
-2200
-0
-0
-None
-None
-1 "Elemental HERO" monster + 1 WIND monsterMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Great Tornado</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Elemental HERO&quot; monster + 1 WIND monsterMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent currently controls.</text>
+</card>

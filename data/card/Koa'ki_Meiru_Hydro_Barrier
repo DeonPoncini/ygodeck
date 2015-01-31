@@ -1,14 +1,17 @@
-Koa'ki Meiru Hydro Barrier
-Monster
-WATER
-Effect
-None
-Aqua
-3
-1000
-1900
-0
-0
-None
-None
-You can return 1 "Iron Core of Koa'ki Meiru" from your hand to the top of your Deck. If you do, the effect(s) of all face-up Effect Monsters are negated until the Standby Phase of your next turn, except "Koa'ki Meiru" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Hydro Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can return 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the top of your Deck. If you do, the effect(s) of all face-up Effect Monsters are negated until the Standby Phase of your next turn, except &quot;Koa'ki Meiru&quot; monsters.</text>
+</card>

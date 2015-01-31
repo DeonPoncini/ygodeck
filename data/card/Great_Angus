@@ -1,14 +1,17 @@
-Great Angus
-Monster
-FIRE
-Normal
-None
-Beast
-4
-1800
-600
-0
-0
-None
-None
-A very violent beast, it is always berserk. People say that they have never seen it silent.
+<?xml version="1.0" ?>
+<card>
+    <name>Great Angus</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A very violent beast, it is always berserk. People say that they have never seen it silent.</text>
+</card>

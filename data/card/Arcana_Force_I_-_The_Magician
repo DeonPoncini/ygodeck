@@ -1,14 +1,17 @@
-Arcana Force I - The Magician
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1100
-1100
-0
-0
-None
-None
-When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcana Force I - The Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.</text>
+</card>

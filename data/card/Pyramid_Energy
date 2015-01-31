@@ -1,14 +1,17 @@
-Pyramid Energy
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-You can select and activate 1 of the following effects:● Increase the ATK of all face-up monsters on your side of the field by 200 points until the End Phase of the turn this card is activated.● Increase the DEF of all face-up monsters on your side of the field by 500 points until the End Phase of the turn this card is activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Pyramid Energy</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>You can select and activate 1 of the following effects:● Increase the ATK of all face-up monsters on your side of the field by 200 points until the End Phase of the turn this card is activated.● Increase the DEF of all face-up monsters on your side of the field by 500 points until the End Phase of the turn this card is activated.</text>
+</card>

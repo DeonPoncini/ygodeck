@@ -1,14 +1,17 @@
-Snyffus
-Monster
-EARTH
-Tuner
-None
-Beast
-1
-100
-100
-0
-0
-None
-None
-Once per turn, you can Tribute 1 Plant-Type monster to select and destroy 1 face-up card your opponent controls. When a Plant-Type monster(s) on the field is destroyed while this card is in the Graveyard, you can Special Summon this card from the Graveyard. If you do, it is removed from play when it is removed from the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Snyffus</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can Tribute 1 Plant-Type monster to select and destroy 1 face-up card your opponent controls. When a Plant-Type monster(s) on the field is destroyed while this card is in the Graveyard, you can Special Summon this card from the Graveyard. If you do, it is removed from play when it is removed from the field.</text>
+</card>

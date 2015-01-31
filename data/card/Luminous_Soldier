@@ -1,14 +1,17 @@
-Luminous Soldier
-Monster
-LIGHT
-Effect
-None
-Warrior
-5
-2100
-1400
-0
-0
-None
-None
-If this card battles a DARK monster, increase the ATK of this card by 500 points during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Luminous Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card battles a DARK monster, increase the ATK of this card by 500 points during the Damage Step only.</text>
+</card>

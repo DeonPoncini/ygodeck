@@ -1,14 +1,17 @@
-Gauntlet Launcher
-Monster
-EARTH
-Xyz
-Effect
-Warrior
-6
-2400
-2800
-0
-0
-None
-None
-2 Level 6 monstersYou can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Gauntlet Launcher</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 6 monstersYou can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it.</text>
+</card>

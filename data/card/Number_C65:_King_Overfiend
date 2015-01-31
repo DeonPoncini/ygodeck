@@ -1,14 +1,17 @@
-Number C65: King Overfiend
-Monster
-DARK
-Xyz
-Effect
-Fiend
-3
-1600
-0
-0
-0
-None
-None
-3 Level 3 DARK monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; it loses 1000 ATK and DEF. While this card has "Number 65: Djinn Buster" as an Xyz Material, it gains this effect.● Effect Monsters your opponent controls cannot activate their effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C65: King Overfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 3 DARK monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; it loses 1000 ATK and DEF. While this card has &quot;Number 65: Djinn Buster&quot; as an Xyz Material, it gains this effect.● Effect Monsters your opponent controls cannot activate their effects.</text>
+</card>

@@ -1,14 +1,17 @@
-Super-Ancient Dinobeast
-Monster
-EARTH
-Effect
-None
-Dinosaur
-8
-2700
-1400
-0
-0
-None
-None
-You can Tribute Summon this card in face-up Attack Position by Tributing 1 Dinosaur-Type monster. When a Dinosaur-Type monster(s) is Special Summoned from your Graveyard (except during the Damage Step): You can draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Super-Ancient Dinobeast</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>8</level>
+    <attack>2700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute Summon this card in face-up Attack Position by Tributing 1 Dinosaur-Type monster. When a Dinosaur-Type monster(s) is Special Summoned from your Graveyard (except during the Damage Step): You can draw 1 card.</text>
+</card>

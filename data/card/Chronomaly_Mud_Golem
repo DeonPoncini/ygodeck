@@ -1,14 +1,17 @@
-Chronomaly Mud Golem
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1700
-1000
-0
-0
-None
-None
-If a "Chronomaly" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Chronomaly Mud Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a &quot;Chronomaly&quot; monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

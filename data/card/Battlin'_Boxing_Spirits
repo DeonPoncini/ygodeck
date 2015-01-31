@@ -1,14 +1,17 @@
-Battlin' Boxing Spirits
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send the top card of your Deck to the Graveyard, then target 1 "Battlin' Boxer" monster in your Graveyard; Special Summon that target in face-up Defense Position. You can only activate 1 "Battlin' Boxing Spirits" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Battlin' Boxing Spirits</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send the top card of your Deck to the Graveyard, then target 1 &quot;Battlin' Boxer&quot; monster in your Graveyard; Special Summon that target in face-up Defense Position. You can only activate 1 &quot;Battlin' Boxing Spirits&quot; per turn.</text>
+</card>

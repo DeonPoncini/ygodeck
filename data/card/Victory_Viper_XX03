@@ -1,14 +1,17 @@
-Victory Viper XX03
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1200
-1000
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle: Activate 1 of these effects.● This card gains 400 ATK.● Target 1 face-up Spell/Trap Card on the field; destroy that target.● Special Summon 1 "Option Token". Its Type, Attribute, Level, ATK and DEF are always the same as this card, but it leaves the field if this card is no longer face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Victory Viper XX03</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle: Activate 1 of these effects.● This card gains 400 ATK.● Target 1 face-up Spell/Trap Card on the field; destroy that target.● Special Summon 1 &quot;Option Token&quot;. Its Type, Attribute, Level, ATK and DEF are always the same as this card, but it leaves the field if this card is no longer face-up on the field.</text>
+</card>

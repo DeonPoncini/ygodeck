@@ -1,14 +1,17 @@
-Hydrotortoise, the Empowered Warrior
-Monster
-WATER
-Flip
-Effect
-Warrior
-3
-1400
-900
-0
-0
-None
-None
-FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Hydrotortoise, the Empowered Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.</text>
+</card>

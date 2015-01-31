@@ -1,14 +1,17 @@
-Fabled Grimro
-Monster
-LIGHT
-Effect
-None
-Fiend
-4
-1700
-1000
-0
-0
-None
-None
-If you control a face-up "Fabled" monster: You can send this card from your hand to the Graveyard; add 1 "Fabled" monster from your Deck to your hand, except "Fabled Grimro".
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Grimro</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up &quot;Fabled&quot; monster: You can send this card from your hand to the Graveyard; add 1 &quot;Fabled&quot; monster from your Deck to your hand, except &quot;Fabled Grimro&quot;.</text>
+</card>

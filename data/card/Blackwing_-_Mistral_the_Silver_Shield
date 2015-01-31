@@ -1,14 +1,17 @@
-Blackwing - Mistral the Silver Shield
-Monster
-DARK
-Tuner
-Effect
-Winged Beast
-2
-100
-1800
-0
-0
-None
-None
-If this card on the field is destroyed and sent to the Graveyard: Reduce the next battle damage you would take this turn to 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Mistral the Silver Shield</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card on the field is destroyed and sent to the Graveyard: Reduce the next battle damage you would take this turn to 0.</text>
+</card>

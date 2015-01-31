@@ -1,14 +1,17 @@
-Heraldry Augmentation
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Psychic-Type Xyz Monsters on the field cannot be targeted by Spell/Trap effects. Once per turn: You can discard 1 "Heraldic Beast" monster; add 1 "Heraldry" Spell/Trap Card from your Deck to your hand, except "Heraldry Augmentation". You cannot Normal or Special Summon any monsters during the turn you activate this effect, except Psychic-Type Xyz Monsters and "Heraldic Beast" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Heraldry Augmentation</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Psychic-Type Xyz Monsters on the field cannot be targeted by Spell/Trap effects. Once per turn: You can discard 1 &quot;Heraldic Beast&quot; monster; add 1 &quot;Heraldry&quot; Spell/Trap Card from your Deck to your hand, except &quot;Heraldry Augmentation&quot;. You cannot Normal or Special Summon any monsters during the turn you activate this effect, except Psychic-Type Xyz Monsters and &quot;Heraldic Beast&quot; monsters.</text>
+</card>

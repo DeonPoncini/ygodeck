@@ -1,14 +1,17 @@
-Koitsu
-Monster
-WATER
-Union
-None
-Fairy
-10
-200
-100
-0
-0
-None
-None
-Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Aitsu" as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK of the equipped monster by 3000 points. When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Koitsu</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>10</level>
+    <attack>200</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your &quot;Aitsu&quot; as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK of the equipped monster by 3000 points. When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)</text>
+</card>

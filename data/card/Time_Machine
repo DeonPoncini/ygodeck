@@ -1,14 +1,17 @@
-Time Machine
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When exactly 1 monster is destroyed by battle and sent to the Graveyard: Special Summon that monster to the same side of the field it was on, in the same battle position it was in when destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Time Machine</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When exactly 1 monster is destroyed by battle and sent to the Graveyard: Special Summon that monster to the same side of the field it was on, in the same battle position it was in when destroyed.</text>
+</card>

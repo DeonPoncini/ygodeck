@@ -1,14 +1,17 @@
-Morphtronic Mix-up
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control 2 or more face-up "Morphtronic" monsters, select 2 cards your opponent controls. Destroy 1 card of your opponent's choice from those 2.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Mix-up</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control 2 or more face-up &quot;Morphtronic&quot; monsters, select 2 cards your opponent controls. Destroy 1 card of your opponent's choice from those 2.</text>
+</card>

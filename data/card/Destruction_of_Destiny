@@ -1,14 +1,17 @@
-Destruction of Destiny
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Send 3 cards from the top of your Deck to the Graveyard, and take 1000 damage for each Spell or Trap Card sent to the Graveyard this way.
+<?xml version="1.0" ?>
+<card>
+    <name>Destruction of Destiny</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Send 3 cards from the top of your Deck to the Graveyard, and take 1000 damage for each Spell or Trap Card sent to the Graveyard this way.</text>
+</card>

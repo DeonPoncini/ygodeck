@@ -1,14 +1,17 @@
-Kiryu
-Monster
-DARK
-Union
-None
-Dragon
-5
-2000
-1500
-0
-0
-None
-None
-Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Dark Blade" as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 900 points, and you can Tribute this card to allow the equipped monster to attack your opponent's Life Points directly this turn. (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Kiryu</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your &quot;Dark Blade&quot; as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 900 points, and you can Tribute this card to allow the equipped monster to attack your opponent's Life Points directly this turn. (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)</text>
+</card>

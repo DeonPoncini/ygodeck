@@ -1,18 +1,21 @@
-The Twin Kings, Founders of the Empire
-Monster
-LIGHT
-Pendulum
-Effect
-Beast
-8
-3000
-2200
-1
-1
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>The Twin Kings, Founders of the Empire</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2200</defense>
+    <lpendulum>1</lpendulum>
+    <rpendulum>1</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  Once per turn: You can banish 3 Beast-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.
 
  Monster Effect
- Cannot be Special Summoned, except by Pendulum Summon. Requires 3 Beast-Type Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, while you control no other monsters, you win the Match.
+ Cannot be Special Summoned, except by Pendulum Summon. Requires 3 Beast-Type Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, while you control no other monsters, you win the Match.</text>
+</card>

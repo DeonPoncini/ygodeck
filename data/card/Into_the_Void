@@ -1,14 +1,17 @@
-Into the Void
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Activate only if you have 3 or more cards in your hand. Draw 1 card. During the End Phase of this turn, discard all the cards in your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Into the Void</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Activate only if you have 3 or more cards in your hand. Draw 1 card. During the End Phase of this turn, discard all the cards in your hand.</text>
+</card>

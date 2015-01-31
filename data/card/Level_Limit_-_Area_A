@@ -1,14 +1,17 @@
-Level Limit - Area A
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Change all face-up Level 3 or lower monsters to Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Level Limit - Area A</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Change all face-up Level 3 or lower monsters to Attack Position.</text>
+</card>

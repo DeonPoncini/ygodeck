@@ -1,14 +1,17 @@
-Cyber-Stein
-Monster
-DARK
-Effect
-None
-Machine
-2
-700
-500
-0
-0
-None
-None
-Pay 5000 Life Points. Special Summon 1 Fusion Monster from your Fusion Deck to the field in Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber-Stein</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pay 5000 Life Points. Special Summon 1 Fusion Monster from your Fusion Deck to the field in Attack Position.</text>
+</card>

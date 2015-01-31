@@ -1,14 +1,17 @@
-Droll & Lock Bird
-Monster
-WIND
-Effect
-None
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase, you can send this card from your hand to the Graveyard. For the rest of this turn, neither player can add card(s) from their Deck to their hand. (Drawing cards is also considered as "adding a card to the hand.")
+<?xml version="1.0" ?>
+<card>
+    <name>Droll &amp; Lock Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase, you can send this card from your hand to the Graveyard. For the rest of this turn, neither player can add card(s) from their Deck to their hand. (Drawing cards is also considered as &quot;adding a card to the hand.&quot;)</text>
+</card>

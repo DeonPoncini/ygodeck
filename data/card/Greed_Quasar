@@ -1,14 +1,17 @@
-Greed Quasar
-Monster
-DARK
-Effect
-None
-Fiend
-7
-?
-?
-0
-0
-None
-None
-This card's original ATK and DEF are each equal to its Level x 300. This monster's Level is increased by the Level of monsters it destroys by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Greed Quasar</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's original ATK and DEF are each equal to its Level x 300. This monster's Level is increased by the Level of monsters it destroys by battle.</text>
+</card>

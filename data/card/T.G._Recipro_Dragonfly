@@ -1,14 +1,17 @@
-T.G. Recipro Dragonfly
-Monster
-WIND
-Synchro
-Effect
-Insect
-2
-300
-300
-0
-0
-None
-None
-1 Tuner + 1 non-Tuner monsterOnce per turn: You can target 1 other "T.G." Synchro Monster you control; send it to the Graveyard, then, if all the Synchro Monsters that were used for its Synchro Summon are in your Graveyard, you can Special Summon them.
+<?xml version="1.0" ?>
+<card>
+    <name>T.G. Recipro Dragonfly</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 non-Tuner monsterOnce per turn: You can target 1 other &quot;T.G.&quot; Synchro Monster you control; send it to the Graveyard, then, if all the Synchro Monsters that were used for its Synchro Summon are in your Graveyard, you can Special Summon them.</text>
+</card>

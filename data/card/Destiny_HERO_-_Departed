@@ -1,14 +1,17 @@
-Destiny HERO - Departed
-Monster
-DARK
-Effect
-None
-Warrior
-2
-1000
-0
-0
-0
-None
-None
-During your Standby Phase, if this card is in your Graveyard: Special Summon it in face-up Attack Position to your opponent's side of the field. If this card is destroyed by battle, banish it instead of sending it to the Graveyard. If a card effect would send this card to the Graveyard from the hand or Deck, banish it instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Departed</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Standby Phase, if this card is in your Graveyard: Special Summon it in face-up Attack Position to your opponent's side of the field. If this card is destroyed by battle, banish it instead of sending it to the Graveyard. If a card effect would send this card to the Graveyard from the hand or Deck, banish it instead.</text>
+</card>

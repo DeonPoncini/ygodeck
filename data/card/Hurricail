@@ -1,14 +1,17 @@
-Hurricail
-Monster
-WIND
-Normal
-None
-Spellcaster
-2
-900
-200
-0
-0
-None
-None
-A tornado that ravages the wastelands with sharp winds that can cut to the bone.
+<?xml version="1.0" ?>
+<card>
+    <name>Hurricail</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A tornado that ravages the wastelands with sharp winds that can cut to the bone.</text>
+</card>

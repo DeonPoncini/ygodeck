@@ -1,14 +1,17 @@
-Black Ray Lancer
-Monster
-DARK
-Xyz
-Effect
-Beast-Warrior
-3
-2100
-600
-0
-0
-None
-None
-2 Level 3 WATER monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster on the field; negate that target's effects until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Ray Lancer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>2100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 WATER monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster on the field; negate that target's effects until the End Phase.</text>
+</card>

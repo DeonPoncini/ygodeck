@@ -1,14 +1,17 @@
-Killer Needle
-Monster
-WIND
-Normal
-None
-Insect
-4
-1200
-1000
-0
-0
-None
-None
-A huge bee with exceptional strength that's particularly dangerous in a swarm.
+<?xml version="1.0" ?>
+<card>
+    <name>Killer Needle</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A huge bee with exceptional strength that's particularly dangerous in a swarm.</text>
+</card>

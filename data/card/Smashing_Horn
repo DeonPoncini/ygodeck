@@ -1,14 +1,17 @@
-Smashing Horn
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When a monster effect or Trap Card is activated that negates the Normal or Special Summon of a monster(s): Negate the activation and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Smashing Horn</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When a monster effect or Trap Card is activated that negates the Normal or Special Summon of a monster(s): Negate the activation and destroy it.</text>
+</card>

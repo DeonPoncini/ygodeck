@@ -1,14 +1,17 @@
-Dodger Dragon
-Monster
-WIND
-Effect
-None
-Dragon
-4
-1900
-1200
-0
-0
-None
-None
-This card's Normal Summon cannot be negated. After this card was Normal Summoned, your opponent cannot activate Counter Trap Cards for the rest of that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dodger Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's Normal Summon cannot be negated. After this card was Normal Summoned, your opponent cannot activate Counter Trap Cards for the rest of that turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Harpie Lady Sisters
-Monster
-WIND
-Effect
-None
-Winged Beast
-6
-1950
-2100
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned with "Elegant Egotist".
+<?xml version="1.0" ?>
+<card>
+    <name>Harpie Lady Sisters</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>1950</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned with &quot;Elegant Egotist&quot;.</text>
+</card>

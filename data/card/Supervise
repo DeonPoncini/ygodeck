@@ -1,14 +1,17 @@
-Supervise
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Gemini monster. It is treated as an Effect Monster, and gains its effect(s). When this face-up card on the field is sent to the Graveyard, select and Special Summon 1 Normal Monster from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Supervise</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Gemini monster. It is treated as an Effect Monster, and gains its effect(s). When this face-up card on the field is sent to the Graveyard, select and Special Summon 1 Normal Monster from your Graveyard.</text>
+</card>

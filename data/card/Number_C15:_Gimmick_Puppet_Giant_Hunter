@@ -1,14 +1,17 @@
-Number C15: Gimmick Puppet Giant Hunter
-Monster
-DARK
-Xyz
-Effect
-Machine
-9
-2500
-1500
-0
-0
-None
-None
-3 Level 9 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 card your opponent controls; destroy it, and if you do, and it was a monster, inflict damage to your opponent equal to its original ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C15: Gimmick Puppet Giant Hunter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>2500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 9 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 card your opponent controls; destroy it, and if you do, and it was a monster, inflict damage to your opponent equal to its original ATK.</text>
+</card>

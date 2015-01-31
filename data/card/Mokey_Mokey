@@ -1,14 +1,17 @@
-Mokey Mokey
-Monster
-LIGHT
-Normal
-None
-Fairy
-1
-300
-100
-0
-0
-None
-None
-An outcast angel. Nobody knows what he is thinking at all. Sometimes he gets mad and that is dreadful.
+<?xml version="1.0" ?>
+<card>
+    <name>Mokey Mokey</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An outcast angel. Nobody knows what he is thinking at all. Sometimes he gets mad and that is dreadful.</text>
+</card>

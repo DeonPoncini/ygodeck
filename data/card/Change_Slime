@@ -1,14 +1,17 @@
-Change Slime
-Monster
-WATER
-Normal
-None
-Aqua
-1
-400
-300
-0
-0
-None
-None
-A slime that can morph and adopt the shape and size of any monster it chooses.
+<?xml version="1.0" ?>
+<card>
+    <name>Change Slime</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A slime that can morph and adopt the shape and size of any monster it chooses.</text>
+</card>

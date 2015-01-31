@@ -1,14 +1,17 @@
-Number C5: Chaos Chimera Dragon
-Monster
-DARK
-Xyz
-Effect
-Dragon
-6
-0
-0
-0
-0
-None
-None
-3 or more Level 6 monstersThis card gains 1000 ATK for each Xyz Material attached to it. If this card attacks, at the end of the Damage Step: You can detach 1 Xyz Material from this card; this card can attack an opponent's monster again in a row. At the end of the Battle Phase: You can pay half your Life Points, then target 2 cards in any Graveyard(s); place 1 of them on top of the Deck, and if you do, attach the other to this card as an Xyz Material.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C5: Chaos Chimera Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 or more Level 6 monstersThis card gains 1000 ATK for each Xyz Material attached to it. If this card attacks, at the end of the Damage Step: You can detach 1 Xyz Material from this card; this card can attack an opponent's monster again in a row. At the end of the Battle Phase: You can pay half your Life Points, then target 2 cards in any Graveyard(s); place 1 of them on top of the Deck, and if you do, attach the other to this card as an Xyz Material.</text>
+</card>

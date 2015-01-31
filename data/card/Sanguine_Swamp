@@ -1,14 +1,17 @@
-Sanguine Swamp
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-If you control any other Spell or Trap Cards, destroy this card. Face-down Spell and Trap Cards cannot be activated. Destroy this card during your 2nd Standby Phase after activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Sanguine Swamp</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>If you control any other Spell or Trap Cards, destroy this card. Face-down Spell and Trap Cards cannot be activated. Destroy this card during your 2nd Standby Phase after activation.</text>
+</card>

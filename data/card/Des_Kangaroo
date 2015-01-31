@@ -1,14 +1,17 @@
-Des Kangaroo
-Monster
-DARK
-Effect
-None
-Beast
-4
-1500
-1700
-0
-0
-None
-None
-If the ATK of a monster that attacks this monster is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)
+<?xml version="1.0" ?>
+<card>
+    <name>Des Kangaroo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If the ATK of a monster that attacks this monster is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)</text>
+</card>

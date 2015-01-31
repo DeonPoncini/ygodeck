@@ -1,14 +1,17 @@
-Legendary Six Samurai - Mizuho
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-1600
-1000
-0
-0
-None
-None
-If you control a face-up "Legendary Six Samurai - Shinai", you can Special Summon this card from your hand. Once per turn, you can Tribute another "Six Samurai" monster to select and destroy 1 card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Six Samurai - Mizuho</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up &quot;Legendary Six Samurai - Shinai&quot;, you can Special Summon this card from your hand. Once per turn, you can Tribute another &quot;Six Samurai&quot; monster to select and destroy 1 card on the field.</text>
+</card>

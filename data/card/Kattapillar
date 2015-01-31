@@ -1,14 +1,17 @@
-Kattapillar
-Monster
-EARTH
-Normal
-None
-Insect
-1
-250
-300
-0
-0
-None
-None
-Attacks enemies by spitting thin, sticky webs.
+<?xml version="1.0" ?>
+<card>
+    <name>Kattapillar</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>1</level>
+    <attack>250</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Attacks enemies by spitting thin, sticky webs.</text>
+</card>

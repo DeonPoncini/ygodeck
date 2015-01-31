@@ -1,14 +1,17 @@
-Nature's Reflection
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Nature's Reflection</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.</text>
+</card>

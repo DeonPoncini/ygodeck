@@ -1,14 +1,17 @@
-Malacoda, Netherlord of the Burning Abyss
-Monster
-DARK
-Ritual
-Effect
-Fiend
-6
-2700
-2200
-0
-0
-None
-None
-You can Ritual Summon this card with "Good & Evil in the Burning Abyss". Must be Ritual Summoned, and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can send 1 "Burning Abyss" monster from your hand to the Graveyard, then target 1 face-up monster your opponent controls; until the end of this turn, that target loses ATK and DEF equal to the ATK and DEF of the "Burning Abyss" monster sent to the Graveyard this way. If this card is sent from the field to the Graveyard: You can target 1 card on the field; send it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Malacoda, Netherlord of the Burning Abyss</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2700</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Good &amp; Evil in the Burning Abyss&quot;. Must be Ritual Summoned, and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can send 1 &quot;Burning Abyss&quot; monster from your hand to the Graveyard, then target 1 face-up monster your opponent controls; until the end of this turn, that target loses ATK and DEF equal to the ATK and DEF of the &quot;Burning Abyss&quot; monster sent to the Graveyard this way. If this card is sent from the field to the Graveyard: You can target 1 card on the field; send it to the Graveyard.</text>
+</card>

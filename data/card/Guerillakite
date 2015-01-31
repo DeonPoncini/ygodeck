@@ -1,14 +1,17 @@
-Guerillakite
-Monster
-FIRE
-Tuner
-Effect
-Fiend
-4
-1600
-200
-0
-0
-None
-None
-If this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent. You can only use this effect of "Guerillakite" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Guerillakite</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent. You can only use this effect of &quot;Guerillakite&quot; once per turn.</text>
+</card>

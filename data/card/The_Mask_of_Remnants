@@ -1,14 +1,17 @@
-The Mask of Remnants
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Shuffle this card into its owner's Deck, OR if this card was put into play by the effect of "Masked Beast Des Gardius", this card is treated as an Equip Card. Control of the equipped monster is switched.
+<?xml version="1.0" ?>
+<card>
+    <name>The Mask of Remnants</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Shuffle this card into its owner's Deck, OR if this card was put into play by the effect of &quot;Masked Beast Des Gardius&quot;, this card is treated as an Equip Card. Control of the equipped monster is switched.</text>
+</card>

@@ -1,14 +1,17 @@
-Scrap Kong
-Monster
-EARTH
-Effect
-None
-Beast
-4
-2000
-1000
-0
-0
-None
-None
-When this card is Normal Summoned, destroy this card. When this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard, you can select 1 "Scrap" monster in your Graveyard, except "Scrap Kong", and add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Kong</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, destroy this card. When this card is destroyed by the effect of a &quot;Scrap&quot; card and sent to the Graveyard, you can select 1 &quot;Scrap&quot; monster in your Graveyard, except &quot;Scrap Kong&quot;, and add it to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Eradicator Epidemic Virus
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards; check your opponent's hand, all Spell/Trap Cards they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of the chosen type.
+<?xml version="1.0" ?>
+<card>
+    <name>Eradicator Epidemic Virus</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards; check your opponent's hand, all Spell/Trap Cards they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of the chosen type.</text>
+</card>

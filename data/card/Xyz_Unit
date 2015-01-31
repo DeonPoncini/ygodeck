@@ -1,14 +1,17 @@
-Xyz Unit
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank × 200. If the equipped monster you control would detach its Xyz Material to activate its effect: You can detach this card as 1 of the Xyz Materials.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Unit</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank × 200. If the equipped monster you control would detach its Xyz Material to activate its effect: You can detach this card as 1 of the Xyz Materials.</text>
+</card>

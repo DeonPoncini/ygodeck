@@ -1,14 +1,17 @@
-Molten Zombie
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1600
-400
-0
-0
-None
-None
-When this card is Special Summoned from the Graveyard: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Molten Zombie</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned from the Graveyard: Draw 1 card.</text>
+</card>

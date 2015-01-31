@@ -1,14 +1,17 @@
-Scrap Shark
-Monster
-EARTH
-Effect
-None
-Fish
-4
-2100
-0
-0
-0
-None
-None
-When an Effect Monster's effect or a Spell/Trap Card is activated, destroy this face-up card on the field. If this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard, you can send 1 "Scrap" monster from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Shark</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an Effect Monster's effect or a Spell/Trap Card is activated, destroy this face-up card on the field. If this card is destroyed by the effect of a &quot;Scrap&quot; card and sent to the Graveyard, you can send 1 &quot;Scrap&quot; monster from your Deck to the Graveyard.</text>
+</card>

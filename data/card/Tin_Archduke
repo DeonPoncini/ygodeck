@@ -1,14 +1,17 @@
-Tin Archduke
-Monster
-EARTH
-Xyz
-Effect
-Machine
-4
-2200
-1200
-0
-0
-None
-None
-3 Level 4 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position. (Flip monsters' effects are not activated.)
+<?xml version="1.0" ?>
+<card>
+    <name>Tin Archduke</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>2200</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position. (Flip monsters' effects are not activated.)</text>
+</card>

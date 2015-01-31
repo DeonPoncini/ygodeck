@@ -1,14 +1,17 @@
-Penguin Soldier
-Monster
-WATER
-Effect
-None
-Aqua
-2
-750
-500
-0
-0
-None
-None
-FLIP: You can target up to 2 monsters on the field; return those targets to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Penguin Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>750</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can target up to 2 monsters on the field; return those targets to the hand.</text>
+</card>

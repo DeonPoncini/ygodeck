@@ -1,14 +1,17 @@
-Doom Dozer
-Monster
-EARTH
-Effect
-None
-Insect
-8
-2800
-2600
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 Insect-Type monsters from your Graveyard, and cannot be Special Summoned by other ways. When this card inflicts Battle Damage to your opponent: Send the top card of their Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Doom Dozer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 Insect-Type monsters from your Graveyard, and cannot be Special Summoned by other ways. When this card inflicts Battle Damage to your opponent: Send the top card of their Deck to the Graveyard.</text>
+</card>

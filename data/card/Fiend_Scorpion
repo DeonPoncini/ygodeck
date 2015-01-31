@@ -1,14 +1,17 @@
-Fiend Scorpion
-Monster
-EARTH
-Normal
-None
-Insect
-2
-900
-200
-0
-0
-None
-None
-A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend Scorpion</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.</text>
+</card>

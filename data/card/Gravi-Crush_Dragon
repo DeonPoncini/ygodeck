@@ -1,14 +1,17 @@
-Gravi-Crush Dragon
-Monster
-DARK
-Effect
-None
-Dragon
-6
-2400
-1200
-0
-0
-None
-None
-You can send 1 face-up Continuous Spell Card you control to the Graveyard to destroy 1 monster your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravi-Crush Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send 1 face-up Continuous Spell Card you control to the Graveyard to destroy 1 monster your opponent controls.</text>
+</card>

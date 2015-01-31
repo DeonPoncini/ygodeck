@@ -1,14 +1,17 @@
-Skelgon
-Monster
-DARK
-Fusion
-None
-Zombie
-6
-1700
-1900
-0
-0
-None
-None
-"The Snake Hair" + "Blackland Fire Dragon"
+<?xml version="1.0" ?>
+<card>
+    <name>Skelgon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>1700</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;The Snake Hair&quot; + &quot;Blackland Fire Dragon&quot;</text>
+</card>

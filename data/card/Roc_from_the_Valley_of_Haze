@@ -1,14 +1,17 @@
-Roc from the Valley of Haze
-Monster
-WIND
-Effect
-None
-Winged Beast
-6
-2400
-1400
-0
-0
-None
-None
-When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.
+<?xml version="1.0" ?>
+<card>
+    <name>Roc from the Valley of Haze</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.</text>
+</card>

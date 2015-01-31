@@ -1,14 +1,17 @@
-Kaiser Sea Horse
-Monster
-LIGHT
-Effect
-None
-Sea Serpent
-4
-1700
-1650
-0
-0
-None
-None
-This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Kaiser Sea Horse</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1650</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.</text>
+</card>

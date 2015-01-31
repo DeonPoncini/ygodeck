@@ -1,14 +1,17 @@
-Serial Spell
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Activate only when you activate one of your Normal Spell Cards. Discard all the cards in your hand to the Graveyard. The effect of this card becomes the same as the Normal Spell Card.
+<?xml version="1.0" ?>
+<card>
+    <name>Serial Spell</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Activate only when you activate one of your Normal Spell Cards. Discard all the cards in your hand to the Graveyard. The effect of this card becomes the same as the Normal Spell Card.</text>
+</card>

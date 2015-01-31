@@ -1,14 +1,17 @@
-Golden Flying Fish
-Monster
-LIGHT
-Effect
-None
-Fish
-4
-1700
-1000
-0
-0
-None
-None
-You can Tribute 1 other Fish-Type monster, then target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Golden Flying Fish</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 other Fish-Type monster, then target 1 card on the field; destroy that target.</text>
+</card>

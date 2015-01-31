@@ -1,14 +1,17 @@
-Lion Alligator
-Monster
-WATER
-Effect
-None
-Reptile
-4
-1900
-200
-0
-0
-None
-None
-While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Lion Alligator</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

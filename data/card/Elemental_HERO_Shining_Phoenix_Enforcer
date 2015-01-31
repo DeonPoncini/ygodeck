@@ -1,14 +1,17 @@
-Elemental HERO Shining Phoenix Enforcer
-Monster
-FIRE
-Fusion
-Effect
-Warrior
-8
-2500
-2100
-0
-0
-None
-None
-"Elemental HERO Phoenix Enforcer" + "Elemental HERO Sparkman"Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each "Elemental HERO" card in your Graveyard. This card cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Shining Phoenix Enforcer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Phoenix Enforcer&quot; + &quot;Elemental HERO Sparkman&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each &quot;Elemental HERO&quot; card in your Graveyard. This card cannot be destroyed by battle.</text>
+</card>

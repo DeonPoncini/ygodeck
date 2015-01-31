@@ -1,14 +1,17 @@
-Inherited Fortune
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate during the turn a face-up "Fortune Lady" monster you control was destroyed. Special Summon up to 2 "Fortune Lady" monsters from your hand during your next Standby Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Inherited Fortune</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate during the turn a face-up &quot;Fortune Lady&quot; monster you control was destroyed. Special Summon up to 2 &quot;Fortune Lady&quot; monsters from your hand during your next Standby Phase.</text>
+</card>

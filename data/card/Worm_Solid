@@ -1,14 +1,17 @@
-Worm Solid
-Monster
-LIGHT
-Effect
-None
-Reptile
-4
-1000
-1600
-0
-0
-None
-None
-This card gains 100 DEF for each Reptile-Type "Worm" monster in your Graveyard. If your opponent takes Battle Damage by attacking this card, select and destroy 1 Spell or Trap Card your opponent controls at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Solid</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 100 DEF for each Reptile-Type &quot;Worm&quot; monster in your Graveyard. If your opponent takes Battle Damage by attacking this card, select and destroy 1 Spell or Trap Card your opponent controls at the end of the Damage Step.</text>
+</card>

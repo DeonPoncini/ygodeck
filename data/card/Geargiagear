@@ -1,14 +1,17 @@
-Geargiagear
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Special Summon 2 "Geargiano" monsters from your Deck and increase their Levels by 1. You can only activate 1 "Geargiagear" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Geargiagear</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Special Summon 2 &quot;Geargiano&quot; monsters from your Deck and increase their Levels by 1. You can only activate 1 &quot;Geargiagear&quot; per turn.</text>
+</card>

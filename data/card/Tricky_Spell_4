@@ -1,14 +1,17 @@
-Tricky Spell 4
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Send 1 face-up "The Tricky" you control to the Graveyard; Special Summon "Tricky Tokens" (Spellcaster-Type/WIND/Level 5/ATK 2000/DEF 1200) in Defense Position, equal to the number of monsters your opponent controls. "Tricky Tokens" cannot declare an attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Tricky Spell 4</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 face-up &quot;The Tricky&quot; you control to the Graveyard; Special Summon &quot;Tricky Tokens&quot; (Spellcaster-Type/WIND/Level 5/ATK 2000/DEF 1200) in Defense Position, equal to the number of monsters your opponent controls. &quot;Tricky Tokens&quot; cannot declare an attack.</text>
+</card>

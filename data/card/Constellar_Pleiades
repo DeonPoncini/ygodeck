@@ -1,14 +1,17 @@
-Constellar Pleiades
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-5
-2500
-1500
-0
-0
-None
-None
-2 Level 5 LIGHT monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card to target 1 card on the field; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Pleiades</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 LIGHT monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card to target 1 card on the field; return that target to the hand.</text>
+</card>

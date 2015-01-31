@@ -1,14 +1,17 @@
-Metal Fish
-Monster
-WATER
-Normal
-None
-Machine
-5
-1600
-1900
-0
-0
-None
-None
-A metal fish with a razor-sharp caudal fin.
+<?xml version="1.0" ?>
+<card>
+    <name>Metal Fish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A metal fish with a razor-sharp caudal fin.</text>
+</card>

@@ -1,14 +1,17 @@
-Powered Inzektron
-Monster
-LIGHT
-Synchro
-Effect
-Machine
-6
-2500
-1600
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: This turn, this card cannot be destroyed by battle or by card effects, also you take no damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Powered Inzektron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: This turn, this card cannot be destroyed by battle or by card effects, also you take no damage.</text>
+</card>

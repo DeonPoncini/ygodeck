@@ -1,14 +1,17 @@
-T.G. Power Gladiator
-Monster
-EARTH
-Synchro
-Effect
-Warrior
-5
-2300
-1000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner "T.G." monstersIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card on the field is destroyed: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>T.G. Power Gladiator</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner &quot;T.G.&quot; monstersIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card on the field is destroyed: Draw 1 card.</text>
+</card>

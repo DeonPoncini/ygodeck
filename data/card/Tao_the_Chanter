@@ -1,14 +1,17 @@
-Tao the Chanter
-Monster
-EARTH
-Normal
-None
-Spellcaster
-3
-1200
-900
-0
-0
-None
-None
-Master of Yin and Yang, this wizard handles a delicate balance of spells and counter spells.
+<?xml version="1.0" ?>
+<card>
+    <name>Tao the Chanter</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Master of Yin and Yang, this wizard handles a delicate balance of spells and counter spells.</text>
+</card>

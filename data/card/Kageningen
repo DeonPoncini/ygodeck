@@ -1,14 +1,17 @@
-Kageningen
-Monster
-DARK
-Normal
-None
-Warrior
-2
-800
-600
-0
-0
-None
-None
-He yoozes both a physical form and a shadow form ta attack. So he's a tough monstah ta beat!
+<?xml version="1.0" ?>
+<card>
+    <name>Kageningen</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>He yoozes both a physical form and a shadow form ta attack. So he's a tough monstah ta beat!</text>
+</card>

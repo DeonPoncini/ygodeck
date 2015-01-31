@@ -1,14 +1,17 @@
-Blade Skater
-Monster
-EARTH
-Normal
-None
-Warrior
-4
-1400
-1500
-0
-0
-None
-None
-An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Blade Skater</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.</text>
+</card>

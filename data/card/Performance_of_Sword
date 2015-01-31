@@ -1,14 +1,17 @@
-Performance of Sword
-Monster
-EARTH
-Ritual
-None
-Warrior
-6
-1950
-1850
-0
-0
-None
-None
-This monster can only be Ritual Summoned with the Ritual Spell Card, "Commencement Dance". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Performance of Sword</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>1950</attack>
+    <defense>1850</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster can only be Ritual Summoned with the Ritual Spell Card, &quot;Commencement Dance&quot;. You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.</text>
+</card>

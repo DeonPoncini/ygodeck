@@ -1,14 +1,17 @@
-Elemental HERO Knospe
-Monster
-EARTH
-Effect
-None
-Plant
-3
-600
-1000
-0
-0
-None
-None
-Each time this card inflicts Battle Damage to your opponent: It gains 100 ATK and loses 100 DEF. While you control another face-up "Elemental HERO" monster, your opponent cannot target this card for an attack, and this card can attack your opponent directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Knospe</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time this card inflicts Battle Damage to your opponent: It gains 100 ATK and loses 100 DEF. While you control another face-up &quot;Elemental HERO&quot; monster, your opponent cannot target this card for an attack, and this card can attack your opponent directly.</text>
+</card>

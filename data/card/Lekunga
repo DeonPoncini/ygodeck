@@ -1,14 +1,17 @@
-Lekunga
-Monster
-WATER
-Effect
-None
-Plant
-4
-1700
-500
-0
-0
-None
-None
-You can banish 2 WATER monsters from your Graveyard; Special Summon 1 "Lekunga Token" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Lekunga</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can banish 2 WATER monsters from your Graveyard; Special Summon 1 &quot;Lekunga Token&quot; (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.</text>
+</card>

@@ -1,14 +1,17 @@
-Wind-Up Magician
-Monster
-FIRE
-Effect
-None
-Spellcaster
-4
-600
-1800
-0
-0
-None
-None
-If the effect of a "Wind-Up" monster is activated, except "Wind-Up Magician": You can Special Summon 1 Level 4 or lower "Wind-Up" monster from your Deck in face-up Defense Position. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If the effect of a &quot;Wind-Up&quot; monster is activated, except &quot;Wind-Up Magician&quot;: You can Special Summon 1 Level 4 or lower &quot;Wind-Up&quot; monster from your Deck in face-up Defense Position. This effect can only be used once while this card is face-up on the field.</text>
+</card>

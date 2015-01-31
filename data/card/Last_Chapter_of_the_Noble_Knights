@@ -1,14 +1,17 @@
-Last Chapter of the Noble Knights
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If your opponent controls a monster and you control no monsters: You can target 1 "Noble Arms" Equip Spell Card and 1 appropriate "Noble Knight" monster in your Graveyard; Special Summon that monster, and if you do, equip that Equip Spell Card to that appropriate monster. You can only activate 1 "Last Chapter of the Noble Knights" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Last Chapter of the Noble Knights</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters: You can target 1 &quot;Noble Arms&quot; Equip Spell Card and 1 appropriate &quot;Noble Knight&quot; monster in your Graveyard; Special Summon that monster, and if you do, equip that Equip Spell Card to that appropriate monster. You can only activate 1 &quot;Last Chapter of the Noble Knights&quot; per turn.</text>
+</card>

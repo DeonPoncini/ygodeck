@@ -1,14 +1,17 @@
-Synchro Strike
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target Synchro Summoned monster gains 500 ATK for each Synchro Material Monster used to Summon it, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Synchro Strike</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target Synchro Summoned monster gains 500 ATK for each Synchro Material Monster used to Summon it, until the End Phase.</text>
+</card>

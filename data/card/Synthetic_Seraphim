@@ -1,14 +1,17 @@
-Synthetic Seraphim
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each time a Counter Trap Card is activated, Special Summon 1 "Synthetic Seraphim Token" (Fairy-Type/LIGHT/Level 1/ATK 300/DEF 300).
+<?xml version="1.0" ?>
+<card>
+    <name>Synthetic Seraphim</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each time a Counter Trap Card is activated, Special Summon 1 &quot;Synthetic Seraphim Token&quot; (Fairy-Type/LIGHT/Level 1/ATK 300/DEF 300).</text>
+</card>

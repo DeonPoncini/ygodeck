@@ -1,14 +1,17 @@
-Toad Master
-Monster
-WATER
-Normal
-None
-Aqua
-3
-1000
-1000
-0
-0
-None
-None
-A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.
+<?xml version="1.0" ?>
+<card>
+    <name>Toad Master</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.</text>
+</card>

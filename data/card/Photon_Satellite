@@ -1,14 +1,17 @@
-Photon Satellite
-Monster
-LIGHT
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-Once per turn: You can target 1 other "Photon" monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Photon Satellite</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 other &quot;Photon&quot; monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.</text>
+</card>

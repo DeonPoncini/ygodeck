@@ -1,14 +1,17 @@
-Dark Magician
-Monster
-DARK
-Normal
-None
-Spellcaster
-7
-2500
-2100
-0
-0
-None
-None
-The ultimate wizard in terms of attack and defense.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The ultimate wizard in terms of attack and defense.</text>
+</card>

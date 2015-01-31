@@ -1,14 +1,17 @@
-Zure, Knight of Dark World
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1800
-1500
-0
-0
-None
-None
-The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.
+<?xml version="1.0" ?>
+<card>
+    <name>Zure, Knight of Dark World</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.</text>
+</card>

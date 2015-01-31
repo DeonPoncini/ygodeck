@@ -1,14 +1,17 @@
-Arcanite Magician
-Monster
-LIGHT
-Synchro
-Effect
-Spellcaster
-7
-400
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Spellcaster-Type monstersWhen this card is Synchro Summoned: Place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it. You can remove 1 Spell Counter from your side of the field to target 1 card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcanite Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Spellcaster-Type monstersWhen this card is Synchro Summoned: Place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it. You can remove 1 Spell Counter from your side of the field to target 1 card your opponent controls; destroy that target.</text>
+</card>

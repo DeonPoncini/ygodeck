@@ -1,14 +1,17 @@
-Ancient One of the Deep Forest
-Monster
-EARTH
-Normal
-None
-Beast
-6
-1800
-1900
-0
-0
-None
-None
-This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient One of the Deep Forest</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.</text>
+</card>

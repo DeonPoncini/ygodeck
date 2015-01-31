@@ -1,14 +1,17 @@
-Boulder Tortoise
-Monster
-WATER
-Normal
-None
-Aqua
-6
-1450
-2200
-0
-0
-None
-None
-A stone turtle that is nearly indestructible.
+<?xml version="1.0" ?>
+<card>
+    <name>Boulder Tortoise</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>6</level>
+    <attack>1450</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A stone turtle that is nearly indestructible.</text>
+</card>

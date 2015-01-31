@@ -1,14 +1,17 @@
-Dark Cat with White Tail
-Monster
-EARTH
-Effect
-None
-Beast
-2
-800
-500
-0
-0
-None
-None
-FLIP: Return 2 Monster Cards on your opponent's side of the field and 1 Monster Card on your side of the field to their owners' hands.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Cat with White Tail</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Return 2 Monster Cards on your opponent's side of the field and 1 Monster Card on your side of the field to their owners' hands.</text>
+</card>

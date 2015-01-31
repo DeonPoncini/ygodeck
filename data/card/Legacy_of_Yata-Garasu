@@ -1,14 +1,17 @@
-Legacy of Yata-Garasu
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate 1 of these effects:● Draw 1 card.● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Legacy of Yata-Garasu</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate 1 of these effects:● Draw 1 card.● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.</text>
+</card>

@@ -1,14 +1,17 @@
-Indomitable Gladiator Beast
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target face-up "Gladiator Beast" monster you control gains 500 ATK until the End Phase. While this card is in your Graveyard, you can return 2 "Gladiator Beast" cards  from your Graveyard to the Deck to return this card to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Indomitable Gladiator Beast</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target face-up &quot;Gladiator Beast&quot; monster you control gains 500 ATK until the End Phase. While this card is in your Graveyard, you can return 2 &quot;Gladiator Beast&quot; cards  from your Graveyard to the Deck to return this card to your hand.</text>
+</card>

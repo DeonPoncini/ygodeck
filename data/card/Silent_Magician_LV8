@@ -1,14 +1,17 @@
-Silent Magician LV8
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-8
-3500
-1000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by "Silent Magician LV4" and cannot be Special Summoned by other ways. This card is unaffected by your opponent's Spell effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Silent Magician LV8</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>8</level>
+    <attack>3500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by &quot;Silent Magician LV4&quot; and cannot be Special Summoned by other ways. This card is unaffected by your opponent's Spell effects.</text>
+</card>

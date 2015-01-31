@@ -1,14 +1,17 @@
-Superheavy Samurai Blue Brawler
-Monster
-EARTH
-Effect
-None
-Machine
-4
-0
-2000
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can change its battle position. Cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Blue Brawler</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can change its battle position. Cannot be destroyed by battle.</text>
+</card>

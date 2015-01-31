@@ -1,14 +1,17 @@
-Needle Soldier
-Monster
-EARTH
-Effect
-None
-Machine
-1
-100
-100
-0
-0
-None
-None
-If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Needle Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.</text>
+</card>

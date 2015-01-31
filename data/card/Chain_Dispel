@@ -1,14 +1,17 @@
-Chain Dispel
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Spell/Trap Card is activated: Destroy all cards in the controller's Deck with the same name as the activated card.
+<?xml version="1.0" ?>
+<card>
+    <name>Chain Dispel</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Spell/Trap Card is activated: Destroy all cards in the controller's Deck with the same name as the activated card.</text>
+</card>

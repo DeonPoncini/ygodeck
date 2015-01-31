@@ -1,14 +1,17 @@
-Compulsory Escape Device
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Each player chooses 1 monster they control, then shuffles it into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Compulsory Escape Device</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Each player chooses 1 monster they control, then shuffles it into the Deck.</text>
+</card>

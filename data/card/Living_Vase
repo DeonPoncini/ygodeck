@@ -1,14 +1,17 @@
-Living Vase
-Monster
-EARTH
-Normal
-None
-Plant
-3
-900
-1100
-0
-0
-None
-None
-A living vase that bites enemies and blinds them with a blast of its flower.
+<?xml version="1.0" ?>
+<card>
+    <name>Living Vase</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A living vase that bites enemies and blinds them with a blast of its flower.</text>
+</card>

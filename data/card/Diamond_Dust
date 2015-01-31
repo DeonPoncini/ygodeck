@@ -1,14 +1,17 @@
-Diamond Dust
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Destroy all WATER monsters on the field, then if a WATER monster(s) is destroyed and sent to the Graveyard by this effect, inflict 500 damage to your opponent for each.
+<?xml version="1.0" ?>
+<card>
+    <name>Diamond Dust</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Destroy all WATER monsters on the field, then if a WATER monster(s) is destroyed and sent to the Graveyard by this effect, inflict 500 damage to your opponent for each.</text>
+</card>

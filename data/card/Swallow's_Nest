@@ -1,14 +1,17 @@
-Swallow's Nest
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Tribute 1 face-up Winged Beast-Type monster you control to Special Summon 1 Winged Beast-Type monster from the Deck with the same Level as the Tributed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Swallow's Nest</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 face-up Winged Beast-Type monster you control to Special Summon 1 Winged Beast-Type monster from the Deck with the same Level as the Tributed monster.</text>
+</card>

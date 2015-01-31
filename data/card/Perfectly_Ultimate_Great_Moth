@@ -1,14 +1,17 @@
-Perfectly Ultimate Great Moth
-Monster
-EARTH
-Effect
-None
-Insect
-8
-3500
-3000
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by Tributing "Petit Moth" on the 6th of your turns after "Petit Moth" has been equipped with "Cocoon of Evolution".
+<?xml version="1.0" ?>
+<card>
+    <name>Perfectly Ultimate Great Moth</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>8</level>
+    <attack>3500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by Tributing &quot;Petit Moth&quot; on the 6th of your turns after &quot;Petit Moth&quot; has been equipped with &quot;Cocoon of Evolution&quot;.</text>
+</card>

@@ -1,14 +1,17 @@
-Winged Cleaver
-Monster
-EARTH
-Normal
-None
-Insect
-2
-700
-700
-0
-0
-None
-None
-Few can withstand the scythe-like arms of this dangerous creature.
+<?xml version="1.0" ?>
+<card>
+    <name>Winged Cleaver</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Few can withstand the scythe-like arms of this dangerous creature.</text>
+</card>

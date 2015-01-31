@@ -1,14 +1,17 @@
-Shien's Castle of Mist
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-When a "Six Samurai" monster is attacked, the attacking monster loses 500 ATK during damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Shien's Castle of Mist</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Six Samurai&quot; monster is attacked, the attacking monster loses 500 ATK during damage calculation only.</text>
+</card>

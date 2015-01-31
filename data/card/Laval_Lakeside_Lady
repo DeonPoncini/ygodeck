@@ -1,14 +1,17 @@
-Laval Lakeside Lady
-Monster
-FIRE
-Tuner
-None
-Pyro
-3
-200
-200
-0
-0
-None
-None
-If this card is in your Graveyard and you have 3 or more "Laval" monsters with different names in your Graveyard: You can banish this card and 1 other "Laval" monster from your Graveyard to target 1 Set card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Lakeside Lady</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in your Graveyard and you have 3 or more &quot;Laval&quot; monsters with different names in your Graveyard: You can banish this card and 1 other &quot;Laval&quot; monster from your Graveyard to target 1 Set card your opponent controls; destroy that target.</text>
+</card>

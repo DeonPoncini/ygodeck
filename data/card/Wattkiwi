@@ -1,14 +1,17 @@
-Wattkiwi
-Monster
-LIGHT
-Tuner
-None
-Thunder
-3
-600
-100
-0
-0
-None
-None
-"Watt" monsters you control cannot be destroyed by battle while they are attacking.
+<?xml version="1.0" ?>
+<card>
+    <name>Wattkiwi</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Watt&quot; monsters you control cannot be destroyed by battle while they are attacking.</text>
+</card>

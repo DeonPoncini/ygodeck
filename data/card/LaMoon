@@ -1,14 +1,17 @@
-LaMoon
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-5
-1200
-1700
-0
-0
-None
-None
-A sorcerer that draws its power from the lunar landscape.
+<?xml version="1.0" ?>
+<card>
+    <name>LaMoon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1200</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A sorcerer that draws its power from the lunar landscape.</text>
+</card>

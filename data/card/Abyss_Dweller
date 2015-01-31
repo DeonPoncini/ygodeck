@@ -1,14 +1,17 @@
-Abyss Dweller
-Monster
-WATER
-Xyz
-Effect
-Sea Serpent
-4
-1700
-1400
-0
-0
-None
-None
-2 Level 4 monstersWhile this card has an Xyz Material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; any card effects that activate in your opponent's Graveyard cannot be activated this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Abyss Dweller</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersWhile this card has an Xyz Material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; any card effects that activate in your opponent's Graveyard cannot be activated this turn.</text>
+</card>

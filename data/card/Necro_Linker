@@ -1,14 +1,17 @@
-Necro Linker
-Monster
-DARK
-Effect
-None
-Fiend
-2
-600
-0
-0
-0
-None
-None
-You can Tribute this card to select 1 "Synchron" Tuner monster in your Graveyard. Special Summon that monster. It cannot be used as a Synchro Material Monster during the turn it is Special Summoned by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Necro Linker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card to select 1 &quot;Synchron&quot; Tuner monster in your Graveyard. Special Summon that monster. It cannot be used as a Synchro Material Monster during the turn it is Special Summoned by this effect.</text>
+</card>

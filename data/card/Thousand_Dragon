@@ -1,14 +1,17 @@
-Thousand Dragon
-Monster
-WIND
-Fusion
-None
-Dragon
-7
-2400
-2000
-0
-0
-None
-None
-"Time Wizard" + "Baby Dragon"
+<?xml version="1.0" ?>
+<card>
+    <name>Thousand Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Time Wizard&quot; + &quot;Baby Dragon&quot;</text>
+</card>

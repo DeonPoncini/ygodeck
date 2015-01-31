@@ -1,14 +1,17 @@
-Fairy of the Fountain
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1600
-1100
-0
-0
-None
-None
-This fairy protects a fountain from any who seek to muddy its waters.
+<?xml version="1.0" ?>
+<card>
+    <name>Fairy of the Fountain</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This fairy protects a fountain from any who seek to muddy its waters.</text>
+</card>

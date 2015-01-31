@@ -1,14 +1,17 @@
-Giga Gagagigo
-Monster
-WATER
-Normal
-None
-Reptile
-5
-2450
-1500
-0
-0
-None
-None
-In order to fight tremendous evil, he gained formidable power through body reconstruction, but lost his heart and his redemption.
+<?xml version="1.0" ?>
+<card>
+    <name>Giga Gagagigo</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>5</level>
+    <attack>2450</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>In order to fight tremendous evil, he gained formidable power through body reconstruction, but lost his heart and his redemption.</text>
+</card>

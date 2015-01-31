@@ -1,14 +1,17 @@
-Jack's Knight
-Monster
-LIGHT
-Normal
-None
-Warrior
-5
-1900
-1000
-0
-0
-None
-None
-A strong master swordsman. His loyalty is to justice, his duty to protect the weak.
+<?xml version="1.0" ?>
+<card>
+    <name>Jack's Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A strong master swordsman. His loyalty is to justice, his duty to protect the weak.</text>
+</card>

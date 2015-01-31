@@ -1,14 +1,17 @@
-Skelesaurus
-Monster
-DARK
-Gemini
-Effect
-Zombie
-4
-1700
-1400
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.● This card becomes EARTH Dinosaur-Type. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field in Defense Position, and if you do, it becomes Zombie-Type.
+<?xml version="1.0" ?>
+<card>
+    <name>Skelesaurus</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.● This card becomes EARTH Dinosaur-Type. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field in Defense Position, and if you do, it becomes Zombie-Type.</text>
+</card>

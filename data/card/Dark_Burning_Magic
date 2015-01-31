@@ -1,14 +1,17 @@
-Dark Burning Magic
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-If you control monsters whose original names are "Dark Magician" and "Dark Magician Girl": Destroy all cards your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Burning Magic</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>If you control monsters whose original names are &quot;Dark Magician&quot; and &quot;Dark Magician Girl&quot;: Destroy all cards your opponent controls.</text>
+</card>

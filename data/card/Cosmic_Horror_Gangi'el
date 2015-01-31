@@ -1,14 +1,17 @@
-Cosmic Horror Gangi'el
-Monster
-LIGHT
-Effect
-None
-Reptile
-7
-2600
-2000
-0
-0
-None
-None
-If you're Tributing a monster on your side of the field that is owned by your opponent, this card can be Normal Summoned with 1 Tribute. Once per turn, you can place 1 A-Counter on a monster on your opponent's side of the field. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)
+<?xml version="1.0" ?>
+<card>
+    <name>Cosmic Horror Gangi'el</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you're Tributing a monster on your side of the field that is owned by your opponent, this card can be Normal Summoned with 1 Tribute. Once per turn, you can place 1 A-Counter on a monster on your opponent's side of the field. (If a monster with an A-Counter battles an &quot;Alien&quot; monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)</text>
+</card>

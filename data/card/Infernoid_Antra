@@ -1,14 +1,17 @@
-Infernoid Antra
-Monster
-FIRE
-Effect
-None
-Fiend
-2
-0
-2000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 "Infernoid" monster from your hand or Graveyard, while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. Once per turn: You can target 1 face-up card your opponent controls; return it to the hand. Once per turn, during your opponent's turn: You can Tribute 1 monster, then target 1 card in your opponent's Graveyard; banish it (this is a Quick Effect).
+<?xml version="1.0" ?>
+<card>
+    <name>Infernoid Antra</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 &quot;Infernoid&quot; monster from your hand or Graveyard, while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. Once per turn: You can target 1 face-up card your opponent controls; return it to the hand. Once per turn, during your opponent's turn: You can Tribute 1 monster, then target 1 card in your opponent's Graveyard; banish it (this is a Quick Effect).</text>
+</card>

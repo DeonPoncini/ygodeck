@@ -1,14 +1,17 @@
-Dragunity Knight - Gae Bulg
-Monster
-WIND
-Synchro
-Effect
-Dragon
-6
-2000
-1100
-0
-0
-None
-None
-1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters  If this card attacks or is attacked, during the Damage Step you can banish 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Knight - Gae Bulg</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters  If this card attacks or is attacked, during the Damage Step you can banish 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.</text>
+</card>

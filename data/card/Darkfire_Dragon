@@ -1,14 +1,17 @@
-Darkfire Dragon
-Monster
-DARK
-Fusion
-None
-Dragon
-4
-1500
-1250
-0
-0
-None
-None
-"Firegrass" + "Petit Dragon"
+<?xml version="1.0" ?>
+<card>
+    <name>Darkfire Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Firegrass&quot; + &quot;Petit Dragon&quot;</text>
+</card>

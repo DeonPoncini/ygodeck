@@ -1,14 +1,17 @@
-Masked HERO Dian
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-8
-2800
-3000
-0
-0
-None
-None
-Must be Special Summoned with "Mask Change" and cannot be Special Summoned by other ways. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 Level 4 or lower "HERO" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Masked HERO Dian</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Must be Special Summoned with &quot;Mask Change&quot; and cannot be Special Summoned by other ways. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 Level 4 or lower &quot;HERO&quot; monster from your Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-D.D. Designator
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Declare 1 card name. Look at your opponent's hand, and if they have the declared card in their hand, remove that 1 card from play. If they do not have the declared card in their hand, remove 1 random card in your hand from play.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Designator</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Declare 1 card name. Look at your opponent's hand, and if they have the declared card in their hand, remove that 1 card from play. If they do not have the declared card in their hand, remove 1 random card in your hand from play.</text>
+</card>

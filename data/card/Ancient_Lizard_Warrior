@@ -1,14 +1,17 @@
-Ancient Lizard Warrior
-Monster
-EARTH
-Normal
-None
-Reptile
-4
-1400
-1100
-0
-0
-None
-None
-Before the dawn of man, this lizard warrior ruled supreme.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Lizard Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Before the dawn of man, this lizard warrior ruled supreme.</text>
+</card>

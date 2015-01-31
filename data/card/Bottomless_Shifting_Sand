@@ -1,14 +1,17 @@
-Bottomless Shifting Sand
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-At the end of your opponent's turn, destroy the face-up monster(s) with the highest ATK on the field. During your own Standby Phase, if you have 4 or less cards in your hand, this card is destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Bottomless Shifting Sand</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>At the end of your opponent's turn, destroy the face-up monster(s) with the highest ATK on the field. During your own Standby Phase, if you have 4 or less cards in your hand, this card is destroyed.</text>
+</card>

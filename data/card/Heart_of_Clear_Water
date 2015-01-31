@@ -1,14 +1,17 @@
-Heart of Clear Water
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-If the equipped monster's ATK is 1300 or higher, this card is destroyed. The monster equipped with this card is not destroyed as a result of battle or by the effect of a card that targets the monster. (Damage calculation is applied normally.)
+<?xml version="1.0" ?>
+<card>
+    <name>Heart of Clear Water</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>If the equipped monster's ATK is 1300 or higher, this card is destroyed. The monster equipped with this card is not destroyed as a result of battle or by the effect of a card that targets the monster. (Damage calculation is applied normally.)</text>
+</card>

@@ -1,14 +1,17 @@
-Jellyfish
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1200
-1500
-0
-0
-None
-None
-An almost invisible, semi-transparent jellyfish that drifts in the sea.
+<?xml version="1.0" ?>
+<card>
+    <name>Jellyfish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An almost invisible, semi-transparent jellyfish that drifts in the sea.</text>
+</card>

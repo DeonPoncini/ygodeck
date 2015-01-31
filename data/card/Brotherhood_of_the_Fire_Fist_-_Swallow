@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Swallow
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-5
-2000
-800
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by sending 3 face-up "Fire Formation" Spell/Trap Cards you control to the Graveyard. When this card is Normal or Special Summoned: You can Set 1 "Fire Formation" Trap Card directly from your Deck. You can only use this effect of "Brotherhood of the Fire Fist - Swallow" once per turn. Face-up Beast-Warrior-Type monsters you control cannot be targeted by your opponent's card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Swallow</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by sending 3 face-up &quot;Fire Formation&quot; Spell/Trap Cards you control to the Graveyard. When this card is Normal or Special Summoned: You can Set 1 &quot;Fire Formation&quot; Trap Card directly from your Deck. You can only use this effect of &quot;Brotherhood of the Fire Fist - Swallow&quot; once per turn. Face-up Beast-Warrior-Type monsters you control cannot be targeted by your opponent's card effects.</text>
+</card>

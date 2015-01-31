@@ -1,14 +1,17 @@
-Chimera the Flying Mythical Beast
-Monster
-WIND
-Fusion
-Effect
-Beast
-6
-2100
-1800
-0
-0
-None
-None
-"Gazelle the King of Mythical Beasts" + "Berfomet"(This monster is always treated as a "Phantom Beast" monster.)When this card is destroyed: You can target 1 "Berfomet" or 1 "Gazelle the King of Mythical Beasts" in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Chimera the Flying Mythical Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Gazelle the King of Mythical Beasts&quot; + &quot;Berfomet&quot;(This monster is always treated as a &quot;Phantom Beast&quot; monster.)When this card is destroyed: You can target 1 &quot;Berfomet&quot; or 1 &quot;Gazelle the King of Mythical Beasts&quot; in your Graveyard; Special Summon that target.</text>
+</card>

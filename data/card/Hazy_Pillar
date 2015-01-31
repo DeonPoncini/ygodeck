@@ -1,14 +1,17 @@
-Hazy Pillar
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-You can Normal Summon "Hazy Flame" monsters for 1 less Tribute. Once per turn: You can target 1 Xyz Monster you control; attach 1 "Hazy Flame" monster from your hand or your side of the field to that Xyz Monster as an Xyz Material.
+<?xml version="1.0" ?>
+<card>
+    <name>Hazy Pillar</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>You can Normal Summon &quot;Hazy Flame&quot; monsters for 1 less Tribute. Once per turn: You can target 1 Xyz Monster you control; attach 1 &quot;Hazy Flame&quot; monster from your hand or your side of the field to that Xyz Monster as an Xyz Material.</text>
+</card>

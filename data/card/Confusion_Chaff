@@ -1,14 +1,17 @@
-Confusion Chaff
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when your opponent declares a second direct attack during the same Battle Phase. Conduct battle between the attacking monster and the first monster that attacked directly (other effects cannot be activated during this battle).
+<?xml version="1.0" ?>
+<card>
+    <name>Confusion Chaff</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when your opponent declares a second direct attack during the same Battle Phase. Conduct battle between the attacking monster and the first monster that attacked directly (other effects cannot be activated during this battle).</text>
+</card>

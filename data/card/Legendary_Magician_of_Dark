@@ -1,14 +1,17 @@
-Legendary Magician of Dark
-Monster
-DARK
-Xyz
-Effect
-Spellcaster
-7
-2500
-2100
-0
-0
-None
-None
-3 Level 7 monstersMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their Life Points to 0, while it has an Xyz Material attached that was originally Spellcaster-Type, you win the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Magician of Dark</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 7 monstersMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their Life Points to 0, while it has an Xyz Material attached that was originally Spellcaster-Type, you win the Match.</text>
+</card>

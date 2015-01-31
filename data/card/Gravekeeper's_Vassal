@@ -1,14 +1,17 @@
-Gravekeeper's Vassal
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-700
-500
-0
-0
-None
-None
-Any battle damage this card inflicts to your opponent is treated as effect damage instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Vassal</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Any battle damage this card inflicts to your opponent is treated as effect damage instead.</text>
+</card>

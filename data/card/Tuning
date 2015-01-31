@@ -1,14 +1,17 @@
-Tuning
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Add 1 "Synchron" Tuner monster from your Deck to your hand, then send the top card of your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Tuning</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Add 1 &quot;Synchron&quot; Tuner monster from your Deck to your hand, then send the top card of your Deck to the Graveyard.</text>
+</card>

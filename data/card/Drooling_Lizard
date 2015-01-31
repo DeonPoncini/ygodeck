@@ -1,14 +1,17 @@
-Drooling Lizard
-Monster
-EARTH
-Normal
-None
-Reptile
-3
-900
-800
-0
-0
-None
-None
-A blood-sucking snake in human form that attacks any living being that passes nearby.
+<?xml version="1.0" ?>
+<card>
+    <name>Drooling Lizard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A blood-sucking snake in human form that attacks any living being that passes nearby.</text>
+</card>

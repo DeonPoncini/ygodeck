@@ -1,14 +1,17 @@
-Uni-Horned Familiar
-Monster
-LIGHT
-Tuner
-None
-Beast
-2
-0
-1000
-0
-0
-None
-None
-When this face-up Defense Position card is selected as an attack target, you can remove from play 1 monster you control other than this card to remove this card from play. The attacking monster must attack. During your next Standby Phase, if this card was removed from play by this effect, this card returns to the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Uni-Horned Familiar</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up Defense Position card is selected as an attack target, you can remove from play 1 monster you control other than this card to remove this card from play. The attacking monster must attack. During your next Standby Phase, if this card was removed from play by this effect, this card returns to the field.</text>
+</card>

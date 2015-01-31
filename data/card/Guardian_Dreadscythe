@@ -1,14 +1,17 @@
-Guardian Dreadscythe
-Monster
-DARK
-Effect
-None
-Fiend
-8
-2500
-2000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a "Guardian Eatos" is destroyed by battle or by card effect and sent to your Graveyard: You can Special Summon this card from your hand. When this card is Special Summoned: You can equip 1 "Reaper Scythe - Dreadscythe" from your Deck to this card. You cannot Normal or Special Summon monsters (but you can Normal Set). When this card is sent from the field to the Graveyard: Send 1 card from your hand to the Graveyard, and if you do, Special Summon this card from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Guardian Dreadscythe</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a &quot;Guardian Eatos&quot; is destroyed by battle or by card effect and sent to your Graveyard: You can Special Summon this card from your hand. When this card is Special Summoned: You can equip 1 &quot;Reaper Scythe - Dreadscythe&quot; from your Deck to this card. You cannot Normal or Special Summon monsters (but you can Normal Set). When this card is sent from the field to the Graveyard: Send 1 card from your hand to the Graveyard, and if you do, Special Summon this card from the Graveyard.</text>
+</card>

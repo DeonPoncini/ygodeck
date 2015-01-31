@@ -1,14 +1,17 @@
-Question
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-When activating this card, your opponent cannot check cards in the Graveyard. Your opponent calls the name of the first monster found at the bottom of your Graveyard. If he/she calls it right, the monster is removed from play. If he/she calls it wrong, the monster is Special Summoned to your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Question</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>When activating this card, your opponent cannot check cards in the Graveyard. Your opponent calls the name of the first monster found at the bottom of your Graveyard. If he/she calls it right, the monster is removed from play. If he/she calls it wrong, the monster is Special Summoned to your side of the field.</text>
+</card>

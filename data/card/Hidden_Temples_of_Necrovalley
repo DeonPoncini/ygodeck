@@ -1,14 +1,17 @@
-Hidden Temples of Necrovalley
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Activate only if both a "Gravekeeper's" monster and "Necrovalley" are on the field. Neither player can Special Summon monsters, except "Gravekeeper's" monsters. If either a "Gravekeeper's" monster or "Necrovalley" is not on the field, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Hidden Temples of Necrovalley</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Activate only if both a &quot;Gravekeeper's&quot; monster and &quot;Necrovalley&quot; are on the field. Neither player can Special Summon monsters, except &quot;Gravekeeper's&quot; monsters. If either a &quot;Gravekeeper's&quot; monster or &quot;Necrovalley&quot; is not on the field, destroy this card.</text>
+</card>

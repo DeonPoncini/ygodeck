@@ -1,14 +1,17 @@
-Miracle Contact
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Shuffle into the Deck, from your hand, field, or Graveyard, the Fusion Material Monsters that are listed on an "Elemental HERO" Fusion Monster that lists "Elemental HERO Neos" as a Fusion Material, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions.
+<?xml version="1.0" ?>
+<card>
+    <name>Miracle Contact</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Shuffle into the Deck, from your hand, field, or Graveyard, the Fusion Material Monsters that are listed on an &quot;Elemental HERO&quot; Fusion Monster that lists &quot;Elemental HERO Neos&quot; as a Fusion Material, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions.</text>
+</card>

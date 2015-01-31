@@ -1,14 +1,17 @@
-Axe of Fools
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-The equipped monster gains 1000 ATK, but its effects are negated. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Axe of Fools</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>The equipped monster gains 1000 ATK, but its effects are negated. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.</text>
+</card>

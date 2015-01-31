@@ -1,18 +1,21 @@
-Performapal Kaleidoscorp
-Monster
-LIGHT
-Pendulum
-Effect
-Insect
-6
-100
-2300
-4
-4
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Kaleidoscorp</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Insect</type>
+    <level>6</level>
+    <attack>100</attack>
+    <defense>2300</defense>
+    <lpendulum>4</lpendulum>
+    <rpendulum>4</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  All LIGHT monsters you control gain 300 ATK.
 
  Monster Effect
- Once per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.
+ Once per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.</text>
+</card>

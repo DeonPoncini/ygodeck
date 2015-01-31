@@ -1,14 +1,17 @@
-Botanical Lion
-Monster
-EARTH
-Effect
-None
-Plant
-4
-1600
-2000
-0
-0
-None
-None
-This card gains 300 ATK for each face-up Plant-Type monster you control. Control of this face-up card on the field cannot switch.
+<?xml version="1.0" ?>
+<card>
+    <name>Botanical Lion</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 300 ATK for each face-up Plant-Type monster you control. Control of this face-up card on the field cannot switch.</text>
+</card>

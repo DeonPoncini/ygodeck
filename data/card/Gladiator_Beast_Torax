@@ -1,14 +1,17 @@
-Gladiator Beast Torax
-Monster
-WATER
-Effect
-None
-Fish
-3
-1400
-400
-0
-0
-None
-None
-If this card was Special Summoned by the effect of a "Gladiator Beast" monster, at the end of any Battle Phase that this card attacked or was attacked, you can return it to the Deck to draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Torax</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster, at the end of any Battle Phase that this card attacked or was attacked, you can return it to the Deck to draw 1 card.</text>
+</card>

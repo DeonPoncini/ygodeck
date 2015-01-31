@@ -1,14 +1,17 @@
-Fires of Doomsday
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Special Summon 2 "Doomsday Tokens" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Set).
+<?xml version="1.0" ?>
+<card>
+    <name>Fires of Doomsday</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon 2 &quot;Doomsday Tokens&quot; (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Set).</text>
+</card>

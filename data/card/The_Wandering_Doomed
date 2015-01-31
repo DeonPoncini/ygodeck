@@ -1,14 +1,17 @@
-The Wandering Doomed
-Monster
-DARK
-Normal
-None
-Zombie
-2
-800
-600
-0
-0
-None
-None
-A monster that wanders the edges of the netherworld.
+<?xml version="1.0" ?>
+<card>
+    <name>The Wandering Doomed</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster that wanders the edges of the netherworld.</text>
+</card>

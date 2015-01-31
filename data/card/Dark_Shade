@@ -1,14 +1,17 @@
-Dark Shade
-Monster
-WIND
-Normal
-None
-Fiend
-3
-1000
-1000
-0
-0
-None
-None
-A crystal monster that unleashes a brilliant light to blind enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Shade</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A crystal monster that unleashes a brilliant light to blind enemies.</text>
+</card>

@@ -1,14 +1,17 @@
-Burden of the Mighty
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each face-up monster your opponent controls loses 100 ATK × its own Level.
+<?xml version="1.0" ?>
+<card>
+    <name>Burden of the Mighty</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each face-up monster your opponent controls loses 100 ATK × its own Level.</text>
+</card>

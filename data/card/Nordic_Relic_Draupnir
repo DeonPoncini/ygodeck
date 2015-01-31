@@ -1,14 +1,17 @@
-Nordic Relic Draupnir
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to an "Aesir" or "Nordic" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 "Nordic Relic" card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Nordic Relic Draupnir</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to an &quot;Aesir&quot; or &quot;Nordic&quot; monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 &quot;Nordic Relic&quot; card from your Deck to your hand.</text>
+</card>

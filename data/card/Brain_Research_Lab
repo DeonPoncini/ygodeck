@@ -1,14 +1,17 @@
-Brain Research Lab
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to your Normal Summon or Set. If successful, place 1 Psychic Counter on this card. You can also place 1 Psychic Counter on this card instead of paying Life Points to activate any Psychic-Type monster's effect that you control. When this card is removed from the field, the controller of this card takes 1000 damage for each Psychic Counter on it.
+<?xml version="1.0" ?>
+<card>
+    <name>Brain Research Lab</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to your Normal Summon or Set. If successful, place 1 Psychic Counter on this card. You can also place 1 Psychic Counter on this card instead of paying Life Points to activate any Psychic-Type monster's effect that you control. When this card is removed from the field, the controller of this card takes 1000 damage for each Psychic Counter on it.</text>
+</card>

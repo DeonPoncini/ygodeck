@@ -1,14 +1,17 @@
-Infernity Guardian
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1200
-1700
-0
-0
-None
-None
-While you have no cards in your hand, this face-up card cannot be destroyed by battle or by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Infernity Guardian</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you have no cards in your hand, this face-up card cannot be destroyed by battle or by card effects.</text>
+</card>

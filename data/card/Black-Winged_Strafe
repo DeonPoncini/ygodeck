@@ -1,14 +1,17 @@
-Black-Winged Strafe
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 1 "Blackwing" monster from your hand to the Graveyard to select 1 Defense Position monster your opponent controls. Send that monster to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Black-Winged Strafe</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 &quot;Blackwing&quot; monster from your hand to the Graveyard to select 1 Defense Position monster your opponent controls. Send that monster to the Graveyard.</text>
+</card>

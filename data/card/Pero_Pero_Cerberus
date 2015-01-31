@@ -1,14 +1,17 @@
-Pero Pero Cerberus
-Monster
-EARTH
-Effect
-None
-Beast
-3
-0
-1800
-0
-0
-None
-None
-If you take damage from an attack or an opponent's card effect, while this card is in your Graveyard: You can banish this card, then target 1 card on the field; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Pero Pero Cerberus</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you take damage from an attack or an opponent's card effect, while this card is in your Graveyard: You can banish this card, then target 1 card on the field; destroy it.</text>
+</card>

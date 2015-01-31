@@ -1,14 +1,17 @@
-People Running About
-Monster
-FIRE
-Normal
-None
-Pyro
-2
-600
-600
-0
-0
-None
-None
-Although they always suffer in silence, they swear an oath to inevitably revolt.
+<?xml version="1.0" ?>
+<card>
+    <name>People Running About</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Although they always suffer in silence, they swear an oath to inevitably revolt.</text>
+</card>

@@ -1,14 +1,17 @@
-Nimble Musasabi
-Monster
-EARTH
-Effect
-None
-Beast
-2
-800
-100
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can also Special Summon up to 2 "Nimble Musasabis" from your Deck to your opponent's side of the field in face-up Attack Position. This card cannot be Tributed for a Tribute Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Nimble Musasabi</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can also Special Summon up to 2 &quot;Nimble Musasabis&quot; from your Deck to your opponent's side of the field in face-up Attack Position. This card cannot be Tributed for a Tribute Summon.</text>
+</card>

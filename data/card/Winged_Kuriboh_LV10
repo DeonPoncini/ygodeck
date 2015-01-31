@@ -1,14 +1,17 @@
-Winged Kuriboh LV10
-Monster
-LIGHT
-Effect
-None
-Fairy
-10
-300
-200
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must be Special Summoned with "Transcendent Wings" and cannot be Special Summoned by other ways. During your opponent's Battle Phase: You can Tribute this face-up card; destroy all Attack Position monsters your opponent controls and inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Winged Kuriboh LV10</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>10</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must be Special Summoned with &quot;Transcendent Wings&quot; and cannot be Special Summoned by other ways. During your opponent's Battle Phase: You can Tribute this face-up card; destroy all Attack Position monsters your opponent controls and inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).</text>
+</card>

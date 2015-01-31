@@ -1,14 +1,17 @@
-Outer God Nyarla
-Monster
-EARTH
-Xyz
-Effect
-Fiend
-4
-0
-2600
-0
-0
-None
-None
-2 Level 4 monstersWhen this card is Xyz Summoned: You can discard any number of cards; increase this card's Rank by 1 for each card discarded. Once per turn, if this card has Xyz Material: You can target 1 monster in your Graveyard; detach all Xyz Materials from this card, and if you do, attach that monster to this card as an Xyz Material, and if you do that, this card's Type and Attribute become that Xyz Material's original Type and Attribute.
+<?xml version="1.0" ?>
+<card>
+    <name>Outer God Nyarla</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersWhen this card is Xyz Summoned: You can discard any number of cards; increase this card's Rank by 1 for each card discarded. Once per turn, if this card has Xyz Material: You can target 1 monster in your Graveyard; detach all Xyz Materials from this card, and if you do, attach that monster to this card as an Xyz Material, and if you do that, this card's Type and Attribute become that Xyz Material's original Type and Attribute.</text>
+</card>

@@ -1,14 +1,17 @@
-Giant Kozaky
-Monster
-DARK
-Effect
-None
-Fiend
-4
-2500
-2400
-0
-0
-None
-None
-If there is no face-up "Kozaky" on the field, destroy this card. If this face-up card is destroyed, inflict damage equal to the original ATK of this card to its current controller.
+<?xml version="1.0" ?>
+<card>
+    <name>Giant Kozaky</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If there is no face-up &quot;Kozaky&quot; on the field, destroy this card. If this face-up card is destroyed, inflict damage equal to the original ATK of this card to its current controller.</text>
+</card>

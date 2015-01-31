@@ -1,14 +1,17 @@
-Noble Knight Gawayn
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1900
-500
-0
-0
-None
-None
-If you control a LIGHT Normal Monster, you can Special Summon this card (from your hand) in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knight Gawayn</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a LIGHT Normal Monster, you can Special Summon this card (from your hand) in Defense Position.</text>
+</card>

@@ -1,14 +1,17 @@
-Amazoness Scouts
-Monster
-EARTH
-Effect
-None
-Warrior
-2
-500
-1100
-0
-0
-None
-None
-During either player's turn: You can Tribute this card; this turn, face-up "Amazoness" monsters you currently control cannot be targeted by monster effects, and cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Scouts</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can Tribute this card; this turn, face-up &quot;Amazoness&quot; monsters you currently control cannot be targeted by monster effects, and cannot be destroyed by card effects.</text>
+</card>

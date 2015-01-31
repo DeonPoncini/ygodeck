@@ -1,14 +1,17 @@
-Dark Scorpion Burglars
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1000
-1000
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent: Your opponent sends 1 Spell Card from their Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Scorpion Burglars</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent: Your opponent sends 1 Spell Card from their Deck to the Graveyard.</text>
+</card>

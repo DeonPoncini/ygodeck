@@ -1,14 +1,17 @@
-Fabled Raven
-Monster
-LIGHT
-Tuner
-None
-Fiend
-2
-1300
-1000
-0
-0
-None
-None
-Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Raven</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.</text>
+</card>

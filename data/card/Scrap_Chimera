@@ -1,14 +1,17 @@
-Scrap Chimera
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1700
-500
-0
-0
-None
-None
-This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a "Scrap" monster and all the other Synchro Material Monsters must also be "Scrap" monsters. When this card is Normal Summoned, you can select 1 "Scrap" Tuner monster in your Graveyard and Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Chimera</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a &quot;Scrap&quot; monster and all the other Synchro Material Monsters must also be &quot;Scrap&quot; monsters. When this card is Normal Summoned, you can select 1 &quot;Scrap&quot; Tuner monster in your Graveyard and Special Summon it.</text>
+</card>

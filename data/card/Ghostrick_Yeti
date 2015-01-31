@@ -1,14 +1,17 @@
-Ghostrick Yeti
-Monster
-DARK
-Effect
-None
-Zombie
-3
-300
-2000
-0
-0
-None
-None
-Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can target 1 "Ghostrick" monster on the field; this turn, it cannot be destroyed by battle or by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Yeti</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned, unless you control a &quot;Ghostrick&quot; monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can target 1 &quot;Ghostrick&quot; monster on the field; this turn, it cannot be destroyed by battle or by card effects.</text>
+</card>

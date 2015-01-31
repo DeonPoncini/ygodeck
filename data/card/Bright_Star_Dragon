@@ -1,14 +1,17 @@
-Bright Star Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-4
-1900
-1000
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 face-up monster on the field, except this card; increase that target's Level by 2 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Bright Star Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 face-up monster on the field, except this card; increase that target's Level by 2 until the End Phase.</text>
+</card>

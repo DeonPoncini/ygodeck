@@ -1,14 +1,17 @@
-Svartalf of the Nordic Alfar
-Monster
-DARK
-Tuner
-Effect
-Spellcaster
-5
-1400
-1600
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 "Nordic" monster in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Svartalf of the Nordic Alfar</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 &quot;Nordic&quot; monster in your Graveyard; add that target to your hand.</text>
+</card>

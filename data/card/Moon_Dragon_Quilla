@@ -1,14 +1,17 @@
-Moon Dragon Quilla
-Monster
-DARK
-Synchro
-Effect
-Dragon
-6
-2500
-2000
-0
-0
-None
-None
-"Supay" + 1 or more non-Tuner monsters If this card is targeted for an attack: Gain LP equal to half the attacking monster's ATK. If this card on the field is destroyed: You can target 1 "Sun Dragon Inti" in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Moon Dragon Quilla</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Supay&quot; + 1 or more non-Tuner monsters If this card is targeted for an attack: Gain LP equal to half the attacking monster's ATK. If this card on the field is destroyed: You can target 1 &quot;Sun Dragon Inti&quot; in your Graveyard; Special Summon that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Ninjitsu Art of Super-Transformation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Target 1 face-up "Ninja" monster you control and 1 face-up monster your opponent controls; send them to the Graveyard, then Special Summon to your side of the field 1 Dragon, Dinosaur, or Sea Serpent-Type monster from your Deck whose Level is less than or equal to the combined Levels of the sent monster(s). When this card leaves the field, banish that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Ninjitsu Art of Super-Transformation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Target 1 face-up &quot;Ninja&quot; monster you control and 1 face-up monster your opponent controls; send them to the Graveyard, then Special Summon to your side of the field 1 Dragon, Dinosaur, or Sea Serpent-Type monster from your Deck whose Level is less than or equal to the combined Levels of the sent monster(s). When this card leaves the field, banish that monster.</text>
+</card>

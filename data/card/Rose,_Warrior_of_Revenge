@@ -1,14 +1,17 @@
-Rose, Warrior of Revenge
-Monster
-FIRE
-Tuner
-None
-Warrior
-4
-1600
-600
-0
-0
-None
-None
-When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Rose, Warrior of Revenge</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.</text>
+</card>

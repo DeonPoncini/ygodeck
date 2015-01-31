@@ -1,14 +1,17 @@
-Wetlands
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All Aqua-Type/WATER/Level 2 or lower monsters gain 1200 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Wetlands</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All Aqua-Type/WATER/Level 2 or lower monsters gain 1200 ATK.</text>
+</card>

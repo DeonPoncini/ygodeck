@@ -1,14 +1,17 @@
-Fencing Fire Ferret
-Monster
-FIRE
-Effect
-None
-Beast
-4
-1700
-600
-0
-0
-None
-None
-If this card is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Fencing Fire Ferret</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict 500 damage to your opponent.</text>
+</card>

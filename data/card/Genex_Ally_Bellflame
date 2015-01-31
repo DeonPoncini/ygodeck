@@ -1,14 +1,17 @@
-Genex Ally Bellflame
-Monster
-DARK
-Effect
-None
-Machine
-4
-1700
-1000
-0
-0
-None
-None
-Each time a monster(s) you control is sent to the Graveyard, place 1 Genex Counter on this card. Each time a card(s) in your opponent's Graveyard is banished, place 2 Genex Counters on this card. This card gains 100 ATK for each Genex Counter on the field. If this card is destroyed by battle and sent to the Graveyard: Inflict 300 damage to your opponent for each Genex Counter that was on this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Ally Bellflame</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time a monster(s) you control is sent to the Graveyard, place 1 Genex Counter on this card. Each time a card(s) in your opponent's Graveyard is banished, place 2 Genex Counters on this card. This card gains 100 ATK for each Genex Counter on the field. If this card is destroyed by battle and sent to the Graveyard: Inflict 300 damage to your opponent for each Genex Counter that was on this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Yado Karu
-Monster
-WATER
-Effect
-None
-Aqua
-4
-900
-1700
-0
-0
-None
-None
-When this card is changed from Defense Position to Attack Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.
+<?xml version="1.0" ?>
+<card>
+    <name>Yado Karu</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>900</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is changed from Defense Position to Attack Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.</text>
+</card>

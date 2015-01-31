@@ -1,14 +1,17 @@
-Crystal Pair
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a "Crystal Beast" monster you control is destroyed by battle and sent to the Graveyard: Place 1 "Crystal Beast" monster from your Deck face-up in your Spell & Trap Card Zone as a Continuous Spell Card, then you take no Battle Damage for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Pair</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a &quot;Crystal Beast&quot; monster you control is destroyed by battle and sent to the Graveyard: Place 1 &quot;Crystal Beast&quot; monster from your Deck face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card, then you take no Battle Damage for the rest of this turn.</text>
+</card>

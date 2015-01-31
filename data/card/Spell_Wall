@@ -1,14 +1,17 @@
-Spell Wall
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Activate 1 of these effects. Your opponent takes no further damage this turn. ● During this turn, no Summon of a Spellcaster-Type monster can be negated, and when a Spellcaster-Type monster is Summoned, your opponent cannot activate cards or effects. ● Target 1 Spellcaster-Type monster you control; if it attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Wall</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Activate 1 of these effects. Your opponent takes no further damage this turn. ● During this turn, no Summon of a Spellcaster-Type monster can be negated, and when a Spellcaster-Type monster is Summoned, your opponent cannot activate cards or effects. ● Target 1 Spellcaster-Type monster you control; if it attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.</text>
+</card>

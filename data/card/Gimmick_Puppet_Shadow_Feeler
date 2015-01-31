@@ -1,14 +1,17 @@
-Gimmick Puppet Shadow Feeler
-Monster
-DARK
-Effect
-None
-Machine
-8
-1000
-1000
-0
-0
-None
-None
-Cannot be destroyed by battle. When you take battle damage from an opponent's direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Attack Position, and if you do, take 1000 damage. You can only use this effect of "Gimmick Puppet Shadow Feeler" once per turn. If this card is an Xyz Material and would be sent to the Graveyard, banish it instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Gimmick Puppet Shadow Feeler</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be destroyed by battle. When you take battle damage from an opponent's direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Attack Position, and if you do, take 1000 damage. You can only use this effect of &quot;Gimmick Puppet Shadow Feeler&quot; once per turn. If this card is an Xyz Material and would be sent to the Graveyard, banish it instead.</text>
+</card>

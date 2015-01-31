@@ -1,14 +1,17 @@
-Swift Samurai Storm!
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each turn, after the first time a "Six Samurai" monster you control battles, all "Six Samurai" monsters you control gain 300 ATK until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Swift Samurai Storm!</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each turn, after the first time a &quot;Six Samurai&quot; monster you control battles, all &quot;Six Samurai&quot; monsters you control gain 300 ATK until the end of this turn.</text>
+</card>

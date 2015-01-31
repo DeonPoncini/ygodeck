@@ -1,14 +1,17 @@
-Junk Synchron
-Monster
-DARK
-Tuner
-Effect
-Warrior
-3
-1300
-500
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Junk Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.</text>
+</card>

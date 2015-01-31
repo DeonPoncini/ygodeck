@@ -1,14 +1,17 @@
-Naturia Barkion
-Monster
-EARTH
-Synchro
-Effect
-Dragon
-6
-2500
-1800
-0
-0
-None
-None
-1 EARTH Tuner + 1 or more non-Tuner EARTH monsters During either player's turn, when a Trap Card is activated: You can banish 2 cards from your Graveyard; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Barkion</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 EARTH Tuner + 1 or more non-Tuner EARTH monsters During either player's turn, when a Trap Card is activated: You can banish 2 cards from your Graveyard; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.</text>
+</card>

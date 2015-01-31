@@ -1,14 +1,17 @@
-Mask Change
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 face-up "HERO" monster you control; send it to the Graveyard, then Special Summon 1 "Masked HERO" monster from the Extra Deck with the same Attribute that the "HERO" monster had when it was on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Mask Change</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;HERO&quot; monster you control; send it to the Graveyard, also, after that, if it left the field by this effect, Special Summon 1 &quot;Masked HERO&quot; monster from your Extra Deck with the same Attribute that the sent monster had when it was on the field (its original Attribute, if face-down).</text>
+</card>

@@ -1,14 +1,17 @@
-Vanguard of the Dragon
-Monster
-EARTH
-Effect
-None
-Dragon
-4
-1700
-1300
-0
-0
-None
-None
-You can send 1 Dragon-Type monster from your hand to the Graveyard; this card gains 300 ATK. When this card you control is sent to your Graveyard by your opponent's card effect: You can target 1 Dragon-Type Normal Monster in either player's Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Vanguard of the Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send 1 Dragon-Type monster from your hand to the Graveyard; this card gains 300 ATK. When this card you control is sent to your Graveyard by your opponent's card effect: You can target 1 Dragon-Type Normal Monster in either player's Graveyard; Special Summon that target.</text>
+</card>

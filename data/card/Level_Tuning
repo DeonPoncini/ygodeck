@@ -1,14 +1,17 @@
-Level Tuning
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Reduce the Level of all face-up monsters you control by 1 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Level Tuning</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Reduce the Level of all face-up monsters you control by 1 until the End Phase.</text>
+</card>

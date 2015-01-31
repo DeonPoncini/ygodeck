@@ -1,14 +1,17 @@
-Type Zero Magic Crusher
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Discard 1 Spell Card from your hand to inflict 500 points of damage to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Type Zero Magic Crusher</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Discard 1 Spell Card from your hand to inflict 500 points of damage to your opponent's Life Points.</text>
+</card>

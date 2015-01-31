@@ -1,14 +1,17 @@
-Hero of the East
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-1100
-1000
-0
-0
-None
-None
-Feel da strength ah dis sword-swinging samurai from da Far East.
+<?xml version="1.0" ?>
+<card>
+    <name>Hero of the East</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Feel da strength ah dis sword-swinging samurai from da Far East.</text>
+</card>

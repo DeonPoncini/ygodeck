@@ -1,14 +1,17 @@
-Dragunity Divine Lance
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Dragunity" monster. It gains ATK equal to its Level x 100, also it is unaffected by Trap effects. During your Main Phase: You can equip 1 Dragon-Type "Dragunity" Tuner monster from your Deck to the monster equipped with this card. You can only use this effect of "Dragunity Divine Lance" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Divine Lance</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Dragunity&quot; monster. It gains ATK equal to its Level x 100, also it is unaffected by Trap effects. During your Main Phase: You can equip 1 Dragon-Type &quot;Dragunity&quot; Tuner monster from your Deck to the monster equipped with this card. You can only use this effect of &quot;Dragunity Divine Lance&quot; once per turn.</text>
+</card>

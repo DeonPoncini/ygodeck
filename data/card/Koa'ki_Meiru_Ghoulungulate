@@ -1,14 +1,17 @@
-Koa'ki Meiru Ghoulungulate
-Monster
-EARTH
-Effect
-None
-Zombie
-5
-2500
-1700
-0
-0
-None
-None
-During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Zombie-Type monster in your hand. If a "Koa'ki Meiru" monster you control would be destroyed by battle or by a card effect, you can remove from play 1 "Koa'ki Meiru" monster in your Graveyard instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Ghoulungulate</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases, destroy this card unless you send 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the Graveyard or reveal 1 Zombie-Type monster in your hand. If a &quot;Koa'ki Meiru&quot; monster you control would be destroyed by battle or by a card effect, you can remove from play 1 &quot;Koa'ki Meiru&quot; monster in your Graveyard instead.</text>
+</card>

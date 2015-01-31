@@ -1,14 +1,17 @@
-Tripwire Beast
-Monster
-EARTH
-Normal
-None
-Thunder
-4
-1200
-1300
-0
-0
-None
-None
-This creature attacks with electromagnetic waves.
+<?xml version="1.0" ?>
+<card>
+    <name>Tripwire Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This creature attacks with electromagnetic waves.</text>
+</card>

@@ -1,14 +1,17 @@
-Dark Lucius LV6
-Monster
-EARTH
-Effect
-None
-Fiend
-6
-1700
-600
-0
-0
-None
-None
-If this card was Special Summoned by the effect of "Dark Lucius LV4", the effects of your opponent's monsters that this card destroys by battle are negated. During your next Standby Phase after this card has negated your opponent's monster effect, by sending this card to the Graveyard, Special Summon 1 "Dark Lucius LV8" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Lucius LV6</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>1700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned by the effect of &quot;Dark Lucius LV4&quot;, the effects of your opponent's monsters that this card destroys by battle are negated. During your next Standby Phase after this card has negated your opponent's monster effect, by sending this card to the Graveyard, Special Summon 1 &quot;Dark Lucius LV8&quot; from your hand or Deck.</text>
+</card>

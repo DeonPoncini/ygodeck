@@ -1,14 +1,17 @@
-Island Turtle
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1100
-2000
-0
-0
-None
-None
-A huge turtle that is often mistaken for an island.
+<?xml version="1.0" ?>
+<card>
+    <name>Island Turtle</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A huge turtle that is often mistaken for an island.</text>
+</card>

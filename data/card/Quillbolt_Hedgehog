@@ -1,14 +1,17 @@
-Quillbolt Hedgehog
-Monster
-EARTH
-Effect
-None
-Machine
-2
-800
-800
-0
-0
-None
-None
-If this card is in the Graveyard and you control a Tuner monster: You can Special Summon this card, but banish it when it leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Quillbolt Hedgehog</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in the Graveyard and you control a Tuner monster: You can Special Summon this card, but banish it when it leaves the field.</text>
+</card>

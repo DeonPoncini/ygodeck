@@ -1,14 +1,17 @@
-Emissary of Darkness Token
-Monster
-LIGHT
-Token
-None
-Fairy
-7
-?
-?
-0
-0
-None
-None
-You can use this card as an "Emissary of Darkness Token".※If you use this as a Token other than "Emissary of Darkness Token", apply that Token's Type/Attribute/Level/ATK/DEF to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Emissary of Darkness Token</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can use this card as an &quot;Emissary of Darkness Token&quot;.※If you use this as a Token other than &quot;Emissary of Darkness Token&quot;, apply that Token's Type/Attribute/Level/ATK/DEF to this card.</text>
+</card>

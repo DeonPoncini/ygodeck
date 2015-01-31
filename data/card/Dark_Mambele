@@ -1,14 +1,17 @@
-Dark Mambele
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Mambele</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.</text>
+</card>

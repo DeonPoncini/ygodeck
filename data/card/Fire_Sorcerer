@@ -1,14 +1,17 @@
-Fire Sorcerer
-Monster
-FIRE
-Effect
-None
-Spellcaster
-4
-1000
-1500
-0
-0
-None
-None
-FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Sorcerer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent's Life Points.</text>
+</card>

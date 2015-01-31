@@ -1,14 +1,17 @@
-Gem-Knight Ruby
-Monster
-EARTH
-Fusion
-Effect
-Pyro
-6
-2500
-1300
-0
-0
-None
-None
-"Gem-Knight Garnet" + 1 "Gem-Knight" monster Must first be Fusion Summoned with the above Fusion Material Monsters. Once per turn: You can Tribute 1 face-up "Gem-" monster; this card gains ATK equal to the Tributed monster's ATK on the field, until the End Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Ruby</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Pyro</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Gem-Knight Garnet&quot; + 1 &quot;Gem-Knight&quot; monster Must first be Fusion Summoned with the above Fusion Material Monsters. Once per turn: You can Tribute 1 face-up &quot;Gem-&quot; monster; this card gains ATK equal to the Tributed monster's ATK on the field, until the End Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.</text>
+</card>

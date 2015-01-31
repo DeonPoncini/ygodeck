@@ -1,14 +1,17 @@
-Hunter Dragon
-Monster
-DARK
-Normal
-None
-Dragon
-3
-1700
-100
-0
-0
-None
-None
-This dragon has taken down countless prey with its sharp fangs. It strikes very quickly, because if it does not strike first, it is vulnerable to a counter-attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Hunter Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>3</level>
+    <attack>1700</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This dragon has taken down countless prey with its sharp fangs. It strikes very quickly, because if it does not strike first, it is vulnerable to a counter-attack.</text>
+</card>

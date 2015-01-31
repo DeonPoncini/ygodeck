@@ -1,14 +1,17 @@
-Royal Guard
-Monster
-EARTH
-Normal
-None
-Machine
-6
-1900
-2200
-0
-0
-None
-None
-A mechanized soldier created to protect royalty.
+<?xml version="1.0" ?>
+<card>
+    <name>Royal Guard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mechanized soldier created to protect royalty.</text>
+</card>

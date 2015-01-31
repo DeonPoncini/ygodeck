@@ -1,14 +1,17 @@
-Elemental HERO Rampart Blaster
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-6
-2000
-2500
-0
-0
-None
-None
-"Elemental HERO Clayman" + "Elemental HERO Burstinatrix"Must be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack while in face-up Defense Position, but only if your opponent controls no monsters, and if it does, this card's ATK is halved during damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Rampart Blaster</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Clayman&quot; + &quot;Elemental HERO Burstinatrix&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack while in face-up Defense Position, but only if your opponent controls no monsters, and if it does, this card's ATK is halved during damage calculation only.</text>
+</card>

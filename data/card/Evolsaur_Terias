@@ -1,14 +1,17 @@
-Evolsaur Terias
-Monster
-FIRE
-Effect
-None
-Dinosaur
-6
-2400
-600
-0
-0
-None
-None
-When this card is Special Summoned by the effect of an "Evoltile" monster: This card loses 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Evolsaur Terias</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of an &quot;Evoltile&quot; monster: This card loses 500 ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-Noble Knight Brothers
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1200
-2400
-0
-0
-None
-None
-This card can only attack if you control exactly 3 "Noble Knight" monsters (and no other monsters). When this card is Normal Summoned: You can Special Summon up to 2 "Noble Knight" monsters from your hand, but cannot Special Summon monsters for the rest of this turn, except "Noble Knight" monsters. Once per turn: You can target 3 "Noble Knight" and/or "Noble Arms" cards in your Graveyard; shuffle all 3 into the Deck, then draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knight Brothers</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only attack if you control exactly 3 &quot;Noble Knight&quot; monsters (and no other monsters). When this card is Normal Summoned: You can Special Summon up to 2 &quot;Noble Knight&quot; monsters from your hand, but cannot Special Summon monsters for the rest of this turn, except &quot;Noble Knight&quot; monsters. Once per turn: You can target 3 &quot;Noble Knight&quot; and/or &quot;Noble Arms&quot; cards in your Graveyard; shuffle all 3 into the Deck, then draw 1 card.</text>
+</card>

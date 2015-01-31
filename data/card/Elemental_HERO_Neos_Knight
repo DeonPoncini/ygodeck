@@ -1,14 +1,17 @@
-Elemental HERO Neos Knight
-Monster
-LIGHT
-Fusion
-Effect
-Warrior
-7
-2500
-1000
-0
-0
-None
-None
-"Elemental HERO Neos" + 1 Warrior-Type monsterThis card cannot be Special Summoned except by Fusion Summon. This card gains ATK equal to half the ATK of the Warrior-Type Fusion Material Monster used to Fusion Summon this card, other than "Elemental HERO Neos". This card can attack twice during each Battle Phase. If this card attacks or is attacked, your opponent takes no Battle Damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Neos Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Neos&quot; + 1 Warrior-Type monsterThis card cannot be Special Summoned except by Fusion Summon. This card gains ATK equal to half the ATK of the Warrior-Type Fusion Material Monster used to Fusion Summon this card, other than &quot;Elemental HERO Neos&quot;. This card can attack twice during each Battle Phase. If this card attacks or is attacked, your opponent takes no Battle Damage.</text>
+</card>

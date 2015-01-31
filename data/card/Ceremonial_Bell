@@ -1,14 +1,17 @@
-Ceremonial Bell
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-3
-0
-1850
-0
-0
-None
-None
-As long as this card remains face-up on the field, both players must show their respective hands.
+<?xml version="1.0" ?>
+<card>
+    <name>Ceremonial Bell</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>1850</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on the field, both players must show their respective hands.</text>
+</card>

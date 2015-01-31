@@ -1,14 +1,17 @@
-Megirus Light
-Monster
-DARK
-Normal
-None
-Fiend
-3
-900
-600
-0
-0
-None
-None
-The fatal beams from the eyes of this monster result in grim destruction.
+<?xml version="1.0" ?>
+<card>
+    <name>Megirus Light</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The fatal beams from the eyes of this monster result in grim destruction.</text>
+</card>

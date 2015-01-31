@@ -1,14 +1,17 @@
-Stinging Swordsman
-Monster
-WIND
-Effect
-None
-Warrior
-1
-300
-600
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent: Return all face-up cards in your opponent's Spell & Trap Card Zones to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Stinging Swordsman</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent: Return all face-up cards in your opponent's Spell &amp; Trap Card Zones to the hand.</text>
+</card>

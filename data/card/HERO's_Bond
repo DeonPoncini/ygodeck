@@ -1,14 +1,17 @@
-HERO's Bond
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If there is a face-up "HERO" monster on the field: Special Summon 2 Level 4 or lower "Elemental HERO" monsters from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>HERO's Bond</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If there is a face-up &quot;HERO&quot; monster on the field: Special Summon 2 Level 4 or lower &quot;Elemental HERO&quot; monsters from your hand.</text>
+</card>

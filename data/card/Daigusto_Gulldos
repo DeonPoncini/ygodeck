@@ -1,14 +1,17 @@
-Daigusto Gulldos
-Monster
-WIND
-Synchro
-Effect
-Psychic
-5
-2200
-800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner "Gusto" monstersOnce per turn: You can shuffle 2 "Gusto" monsters from your Graveyard into the Main Deck to target 1 face-up monster your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Daigusto Gulldos</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner &quot;Gusto&quot; monstersOnce per turn: You can shuffle 2 &quot;Gusto&quot; monsters from your Graveyard into the Main Deck to target 1 face-up monster your opponent controls; destroy that target.</text>
+</card>

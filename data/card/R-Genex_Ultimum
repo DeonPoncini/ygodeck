@@ -1,14 +1,17 @@
-R-Genex Ultimum
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1800
-1400
-0
-0
-None
-None
-When this face-up card on the field is destroyed and sent to the Graveyard, you can select 2 "Genex" monsters from your Graveyard, and return them to the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>R-Genex Ultimum</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up card on the field is destroyed and sent to the Graveyard, you can select 2 &quot;Genex&quot; monsters from your Graveyard, and return them to the Deck.</text>
+</card>

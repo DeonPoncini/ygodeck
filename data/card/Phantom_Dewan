@@ -1,14 +1,17 @@
-Phantom Dewan
-Monster
-DARK
-Normal
-None
-Spellcaster
-2
-700
-600
-0
-0
-None
-None
-A sorcerer that can paralyze an enemy with a single curse.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom Dewan</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A sorcerer that can paralyze an enemy with a single curse.</text>
+</card>

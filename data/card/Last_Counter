@@ -1,14 +1,17 @@
-Last Counter
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When an attack is declared involving a "Battlin' Boxer" monster you control and an opponent's monster: Negate the attack, and if you do, send that monster you control to the Graveyard, then 1 "Battlin' Boxer" monster you control (in Attack Position, if you declared the attack) gains ATK equal to the original ATK of that opponent's monster, also proceed to damage calculation using those monsters. Then, you take damage equal to the amount of ATK gained from this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Last Counter</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When an attack is declared involving a &quot;Battlin' Boxer&quot; monster you control and an opponent's monster: Negate the attack, and if you do, send that monster you control to the Graveyard, then 1 &quot;Battlin' Boxer&quot; monster you control (in Attack Position, if you declared the attack) gains ATK equal to the original ATK of that opponent's monster, also proceed to damage calculation using those monsters. Then, you take damage equal to the amount of ATK gained from this effect.</text>
+</card>

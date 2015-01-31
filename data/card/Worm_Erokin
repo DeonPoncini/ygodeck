@@ -1,14 +1,17 @@
-Worm Erokin
-Monster
-LIGHT
-Effect
-None
-Reptile
-6
-2400
-1200
-0
-0
-None
-None
-This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type "Worm" monster on the field and change it into face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Erokin</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type &quot;Worm&quot; monster on the field and change it into face-down Defense Position.</text>
+</card>

@@ -1,14 +1,17 @@
-All-Out Attacks
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-All monsters that are Special Summoned are changed to face-up Attack Position and must attack, if able, during the turn they are Special Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>All-Out Attacks</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>All monsters that are Special Summoned are changed to face-up Attack Position and must attack, if able, during the turn they are Special Summoned.</text>
+</card>

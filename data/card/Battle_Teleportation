@@ -1,14 +1,17 @@
-Battle Teleportation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate if you control only 1 face-up Psychic-Type monster, and select that monster. It can attack your opponent directly this turn. At the end of the Battle Phase, give control of that monster to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Battle Teleportation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate if you control only 1 face-up Psychic-Type monster, and select that monster. It can attack your opponent directly this turn. At the end of the Battle Phase, give control of that monster to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Armored Starfish
-Monster
-WATER
-Normal
-None
-Aqua
-4
-850
-1400
-0
-0
-None
-None
-A bluish starfish with a solid hide capable of fending off attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Armored Starfish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>850</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A bluish starfish with a solid hide capable of fending off attacks.</text>
+</card>

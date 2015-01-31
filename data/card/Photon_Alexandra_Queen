@@ -1,14 +1,17 @@
-Photon Alexandra Queen
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-4
-2400
-1200
-0
-0
-None
-None
-2 Level 4 "Butterspy" monstersYou can detach 1 Xyz Material from this card; return all monsters on the field to the hand, then inflict 300 damage to each player for each card returned to their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Photon Alexandra Queen</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 &quot;Butterspy&quot; monstersYou can detach 1 Xyz Material from this card; return all monsters on the field to the hand, then inflict 300 damage to each player for each card returned to their hand.</text>
+</card>

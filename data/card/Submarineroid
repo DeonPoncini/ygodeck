@@ -1,14 +1,17 @@
-Submarineroid
-Monster
-WATER
-Effect
-None
-Machine
-4
-800
-1800
-0
-0
-None
-None
-This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card attacked or was attacked: You can change this card to Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Submarineroid</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card attacked or was attacked: You can change this card to Defense Position.</text>
+</card>

@@ -1,14 +1,17 @@
-Bio Plant
-Monster
-DARK
-Normal
-None
-Fiend
-3
-600
-1300
-0
-0
-None
-None
-A monster created from a major accident in an underground lab.
+<?xml version="1.0" ?>
+<card>
+    <name>Bio Plant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster created from a major accident in an underground lab.</text>
+</card>

@@ -1,14 +1,17 @@
-Maiden with Eyes of Blue
-Monster
-LIGHT
-Tuner
-None
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 "Blue-Eyes White Dragon" from your hand, Deck, or Graveyard. During either player's turn, when a card or effect is activated that targets this face-up card (except during the Damage Step): You can Special Summon 1 "Blue-Eyes White Dragon" from your hand, Deck, or Graveyard. You can only use 1 "Maiden with Eyes of Blue" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Maiden with Eyes of Blue</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 &quot;Blue-Eyes White Dragon&quot; from your hand, Deck, or Graveyard. During either player's turn, when a card or effect is activated that targets this face-up card (except during the Damage Step): You can Special Summon 1 &quot;Blue-Eyes White Dragon&quot; from your hand, Deck, or Graveyard. You can only use 1 &quot;Maiden with Eyes of Blue&quot; effect per turn, and only once that turn.</text>
+</card>

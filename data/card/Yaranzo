@@ -1,14 +1,17 @@
-Yaranzo
-Monster
-DARK
-Normal
-None
-Zombie
-4
-1300
-1500
-0
-0
-None
-None
-A treasure box containing a monster that attacks any unwary bandit.
+<?xml version="1.0" ?>
+<card>
+    <name>Yaranzo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A treasure box containing a monster that attacks any unwary bandit.</text>
+</card>

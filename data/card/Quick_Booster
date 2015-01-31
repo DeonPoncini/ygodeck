@@ -1,14 +1,17 @@
-Quick Booster
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 Quick-Play Spell Card in your Graveyard, except "Quick Booster"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your Graveyard: You can add 1 Quick-Play Spell Card from your Deck to your hand, except "Quick Booster".
+<?xml version="1.0" ?>
+<card>
+    <name>Quick Booster</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Quick-Play Spell Card in your Graveyard, except &quot;Quick Booster&quot;; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your Graveyard: You can add 1 Quick-Play Spell Card from your Deck to your hand, except &quot;Quick Booster&quot;.</text>
+</card>

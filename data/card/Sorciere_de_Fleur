@@ -1,14 +1,17 @@
-Sorciere de Fleur
-Monster
-DARK
-Effect
-None
-Spellcaster
-8
-2900
-0
-0
-0
-None
-None
-When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of "Sorciere de Fleur" can only be activated once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Sorciere de Fleur</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of &quot;Sorciere de Fleur&quot; can only be activated once per turn.</text>
+</card>

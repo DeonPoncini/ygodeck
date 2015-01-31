@@ -1,14 +1,17 @@
-Life Absorbing Machine
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Life Absorbing Machine</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.</text>
+</card>

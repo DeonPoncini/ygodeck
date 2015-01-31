@@ -1,14 +1,17 @@
-Jurrac Gallim
-Monster
-FIRE
-Tuner
-None
-Dinosaur
-2
-1200
-0
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Gallim</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>2</level>
+    <attack>1200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.</text>
+</card>

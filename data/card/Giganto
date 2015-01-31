@@ -1,14 +1,17 @@
-Giganto
-Monster
-DARK
-Normal
-None
-Machine
-5
-1700
-1800
-0
-0
-None
-None
-A massive steel ball that mows down anything in its path.
+<?xml version="1.0" ?>
+<card>
+    <name>Giganto</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A massive steel ball that mows down anything in its path.</text>
+</card>

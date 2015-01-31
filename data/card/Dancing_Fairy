@@ -1,14 +1,17 @@
-Dancing Fairy
-Monster
-WIND
-Effect
-None
-Fairy
-4
-1700
-1000
-0
-0
-None
-None
-As long as this card remains in face-up Defense Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.
+<?xml version="1.0" ?>
+<card>
+    <name>Dancing Fairy</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains in face-up Defense Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.</text>
+</card>

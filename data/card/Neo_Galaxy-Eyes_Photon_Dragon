@@ -1,14 +1,17 @@
-Neo Galaxy-Eyes Photon Dragon
-Monster
-LIGHT
-Xyz
-Effect
-Dragon
-8
-4500
-3000
-0
-0
-None
-None
-3 Level 8 monstersWhen this card is Xyz Summoned using "Galaxy-Eyes Photon Dragon" as any of its Materials: Negate the effects of all other face-up cards currently on the field. Once per turn: You can detach 1 Xyz Material from this card; detach all Xyz Materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo Galaxy-Eyes Photon Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>4500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 8 monstersWhen this card is Xyz Summoned using &quot;Galaxy-Eyes Photon Dragon&quot; as any of its Materials: Negate the effects of all other face-up cards currently on the field. Once per turn: You can detach 1 Xyz Material from this card; detach all Xyz Materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.</text>
+</card>

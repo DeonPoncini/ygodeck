@@ -1,14 +1,17 @@
-Bite Shoes
-Monster
-DARK
-Effect
-None
-Fiend
-2
-500
-300
-0
-0
-None
-None
-FLIP: Change the battle position of 1 face-up monster on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Bite Shoes</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Change the battle position of 1 face-up monster on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Soul Strike
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If your LP is 4000 or less, when an attack is declared involving a monster you control and an opponent's monster: Pay half your LP, then target 1 face-up monster you control; it gains ATK equal to the deficit between your current LP and 4000. You can only activate 1 "Soul Strike" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Soul Strike</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If your LP is 4000 or less, when an attack is declared involving a monster you control and an opponent's monster: Pay half your LP, then target 1 face-up monster you control; it gains ATK equal to the deficit between your current LP and 4000. You can only activate 1 &quot;Soul Strike&quot; per turn.</text>
+</card>

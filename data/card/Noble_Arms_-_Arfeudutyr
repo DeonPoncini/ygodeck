@@ -1,14 +1,17 @@
-Noble Arms - Arfeudutyr
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-You can only control 1 "Noble Arms - Arfeudutyr". Equip only to a Warrior-Type monster. Once per turn: You can target 1 Set card your opponent controls; the equipped monster loses exactly 500 ATK, and if it does, destroy that target. (This ATK loss remains even if this card leaves the field or the monster becomes unaffected by card effects.) If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type "Noble Knight" monster you control; equip this card to that target. You can only use this effect of "Noble Arms - Arfeudutyr" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Arms - Arfeudutyr</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>You can only control 1 &quot;Noble Arms - Arfeudutyr&quot;. Equip only to a Warrior-Type monster. Once per turn: You can target 1 Set card your opponent controls; the equipped monster loses exactly 500 ATK, and if it does, destroy that target. (This ATK loss remains even if this card leaves the field or the monster becomes unaffected by card effects.) If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type &quot;Noble Knight&quot; monster you control; equip this card to that target. You can only use this effect of &quot;Noble Arms - Arfeudutyr&quot; once per turn.</text>
+</card>

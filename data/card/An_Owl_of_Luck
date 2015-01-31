@@ -1,14 +1,17 @@
-An Owl of Luck
-Monster
-WIND
-Effect
-None
-Winged Beast
-2
-300
-500
-0
-0
-None
-None
-FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Field Spell Card to your hand, instead.
+<?xml version="1.0" ?>
+<card>
+    <name>An Owl of Luck</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If &quot;Necrovalley&quot; is on the field, you can add the selected Field Spell Card to your hand, instead.</text>
+</card>

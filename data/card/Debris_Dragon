@@ -1,14 +1,17 @@
-Debris Dragon
-Monster
-WIND
-Tuner
-Effect
-Dragon
-4
-1000
-2000
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 monster with 500 or less ATK in your Graveyard; Special Summon that target in Attack Position, but its effects are negated. Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Dragon-Type monster. The other Synchro Material(s) cannot be Level 4.
+<?xml version="1.0" ?>
+<card>
+    <name>Debris Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 monster with 500 or less ATK in your Graveyard; Special Summon that target in Attack Position, but its effects are negated. Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Dragon-Type monster. The other Synchro Material(s) cannot be Level 4.</text>
+</card>

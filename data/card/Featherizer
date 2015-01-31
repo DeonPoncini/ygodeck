@@ -1,14 +1,17 @@
-Featherizer
-Monster
-WIND
-Effect
-None
-Spellcaster
-2
-700
-1100
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can send 1 Gemini monster from your Deck to the Graveyard and draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Featherizer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can send 1 Gemini monster from your Deck to the Graveyard and draw 1 card.</text>
+</card>

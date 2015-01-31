@@ -1,14 +1,17 @@
-Gren, Tactician of Dark World
-Monster
-DARK
-Effect
-None
-Fiend
-2
-300
-500
-0
-0
-None
-None
-If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Gren, Tactician of Dark World</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.</text>
+</card>

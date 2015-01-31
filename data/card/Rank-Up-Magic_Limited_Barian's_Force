@@ -1,14 +1,17 @@
-Rank-Up-Magic Limited Barian's Force
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 Rank 4 Xyz Monster you control; Special Summon from your Extra Deck, 1 "Number C" monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to that target also become Xyz Materials on the Summoned monster.)
+<?xml version="1.0" ?>
+<card>
+    <name>Rank-Up-Magic Limited Barian's Force</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Rank 4 Xyz Monster you control; Special Summon from your Extra Deck, 1 &quot;Number C&quot; monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to that target also become Xyz Materials on the Summoned monster.)</text>
+</card>

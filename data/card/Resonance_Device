@@ -1,14 +1,17 @@
-Resonance Device
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 2 face-up monsters you control with the same Type and Attribute; change one of their Levels to the current Level of the other, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Resonance Device</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 2 face-up monsters you control with the same Type and Attribute; change one of their Levels to the current Level of the other, until the End Phase.</text>
+</card>

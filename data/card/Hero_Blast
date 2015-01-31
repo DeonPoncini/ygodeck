@@ -1,14 +1,17 @@
-Hero Blast
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 "Elemental HERO" Normal Monster in your Graveyard; add that target to your hand, then destroy 1 face-up monster your opponent controls with ATK less than or equal to the target's ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Hero Blast</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 &quot;Elemental HERO&quot; Normal Monster in your Graveyard; add that target to your hand, then if your opponent controls any monsters with ATK less than or equal to that target's ATK, destroy 1 of them.</text>
+</card>

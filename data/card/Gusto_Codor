@@ -1,14 +1,17 @@
-Gusto Codor
-Monster
-WIND
-Effect
-None
-Winged Beast
-3
-1000
-400
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 WIND Psychic-Type monster with 1500 or less DEF from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Gusto Codor</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 WIND Psychic-Type monster with 1500 or less DEF from your Deck.</text>
+</card>

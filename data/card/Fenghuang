@@ -1,14 +1,17 @@
-Fenghuang
-Monster
-FIRE
-Spirit
-None
-Winged Beast
-6
-2100
-1800
-0
-0
-None
-None
-Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Destroy all Set Spell/Trap Cards your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Fenghuang</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Destroy all Set Spell/Trap Cards your opponent controls.</text>
+</card>

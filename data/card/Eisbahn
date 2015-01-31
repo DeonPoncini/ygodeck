@@ -1,14 +1,17 @@
-Eisbahn
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When a monster with an Attribute other than WATER is Normal or Special Summoned (including face-down Summons), and you control a face-up WATER monster: That Summoned monster is changed to Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Eisbahn</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When a monster with an Attribute other than WATER is Normal or Special Summoned (including face-down Summons), and you control a face-up WATER monster: That Summoned monster is changed to Defense Position.</text>
+</card>

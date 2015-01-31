@@ -1,14 +1,17 @@
-Rare Fish
-Monster
-WATER
-Fusion
-None
-Fish
-4
-1500
-1200
-0
-0
-None
-None
-"Fusionist" + "Enchanting Mermaid"
+<?xml version="1.0" ?>
+<card>
+    <name>Rare Fish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Fusionist&quot; + &quot;Enchanting Mermaid&quot;</text>
+</card>

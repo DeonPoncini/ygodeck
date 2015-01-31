@@ -1,14 +1,17 @@
-Traptrix Trap Hole Nightmare
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a monster that was Special Summoned this turn activates its effect on your opponent's side of the field: Negate that effect, and if you do, destroy that card.
+<?xml version="1.0" ?>
+<card>
+    <name>Traptrix Trap Hole Nightmare</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a monster that was Special Summoned this turn activates its effect on your opponent's side of the field: Negate that effect, and if you do, destroy that card.</text>
+</card>

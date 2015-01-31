@@ -1,14 +1,17 @@
-Neo Aqua Madoor
-Monster
-WATER
-Normal
-None
-Spellcaster
-6
-1200
-3000
-0
-0
-None
-None
-The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo Aqua Madoor</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>1200</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.</text>
+</card>

@@ -1,14 +1,17 @@
-Dimension Gate
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate this card by targeting 1 monster you control; banish that target face-up. When an opponent's monster declares a direct attack: You can send this face-up card on the field to the Graveyard. If this card is sent to the Graveyard: You can Special Summon the monster banished by this card's effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Dimension Gate</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate this card by targeting 1 monster you control; banish that target face-up. When an opponent's monster declares a direct attack: You can send this face-up card on the field to the Graveyard. If this card is sent to the Graveyard: You can Special Summon the monster banished by this card's effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Shien's Squire
-Monster
-EARTH
-Tuner
-None
-Warrior
-1
-300
-700
-0
-0
-None
-None
-During damage calculation, in either player's turn, if a "Six Samurai" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shien's Squire</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During damage calculation, in either player's turn, if a &quot;Six Samurai&quot; monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Goblin Decoy Squad
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1000
-0
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent, you can draw 1 card. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Goblin Decoy Squad</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent, you can draw 1 card. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.</text>
+</card>

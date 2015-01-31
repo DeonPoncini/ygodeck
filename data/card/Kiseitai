@@ -1,14 +1,17 @@
-Kiseitai
-Monster
-DARK
-Effect
-None
-Fiend
-2
-300
-800
-0
-0
-None
-None
-When your opponent's monster attacks this card in face-down Defense Position, this card becomes an Equip Spell Card equipped to the attacking monster (No damage calculation is conducted). During each of your opponent's Standby Phases, increase your Life Points by half of the ATK of the monster equipped with this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Kiseitai</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent's monster attacks this card in face-down Defense Position, this card becomes an Equip Spell Card equipped to the attacking monster (No damage calculation is conducted). During each of your opponent's Standby Phases, increase your Life Points by half of the ATK of the monster equipped with this card.</text>
+</card>

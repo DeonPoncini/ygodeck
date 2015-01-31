@@ -1,14 +1,17 @@
-Two-Mouth Darkruler
-Monster
-EARTH
-Normal
-None
-Dinosaur
-3
-900
-700
-0
-0
-None
-None
-A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.
+<?xml version="1.0" ?>
+<card>
+    <name>Two-Mouth Darkruler</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.</text>
+</card>

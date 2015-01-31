@@ -1,14 +1,17 @@
-Maestroke the Symphony Djinn
-Monster
-DARK
-Xyz
-Effect
-Fiend
-4
-1800
-2300
-0
-0
-None
-None
-2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster your opponent controls; change it to face-down Defense Position. If a "Djinn" Xyz Monster you control would be destroyed, you can detach 1 Xyz Material from that monster instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Maestroke the Symphony Djinn</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster your opponent controls; change it to face-down Defense Position. If a &quot;Djinn&quot; Xyz Monster you control would be destroyed, you can detach 1 Xyz Material from that monster instead.</text>
+</card>

@@ -1,14 +1,17 @@
-Genex Furnace
-Monster
-FIRE
-Effect
-None
-Pyro
-5
-2000
-1300
-0
-0
-None
-None
-If you control a face-up "Genex Controller", you can Normal Summon this card without Tributing.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Furnace</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up &quot;Genex Controller&quot;, you can Normal Summon this card without Tributing.</text>
+</card>

@@ -1,14 +1,17 @@
-The Grave of Enkindling
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-You can only activate this card when a monster on your side of the field is destroyed as a result of battle and sent to the Graveyard. You and your opponent each select 1 monster from your respective Graveyards and Special Summon them in Defense Position. Neither monster Special Summoned by this card's effect can change its battle position while it is face-up on the field, except with a card effect.
+<?xml version="1.0" ?>
+<card>
+    <name>The Grave of Enkindling</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>You can only activate this card when a monster on your side of the field is destroyed as a result of battle and sent to the Graveyard. You and your opponent each select 1 monster from your respective Graveyards and Special Summon them in Defense Position. Neither monster Special Summoned by this card's effect can change its battle position while it is face-up on the field, except with a card effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Fortune Lady Earth
-Monster
-EARTH
-Effect
-None
-Spellcaster
-6
-?
-?
-0
-0
-None
-None
-This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Fortune Lady Earth</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.</text>
+</card>

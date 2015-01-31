@@ -1,14 +1,17 @@
-Desrook Archfiend
-Monster
-LIGHT
-Effect
-None
-Fiend
-3
-1100
-1800
-0
-0
-None
-None
-The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. When a "Terrorking Archfiend" on your side of the field is destroyed and sent to the Graveyard, you can send this card from your hand to the Graveyard to Special Summon the "Terrorking Archfiend".
+<?xml version="1.0" ?>
+<card>
+    <name>Desrook Archfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. When a &quot;Terrorking Archfiend&quot; on your side of the field is destroyed and sent to the Graveyard, you can send this card from your hand to the Graveyard to Special Summon the &quot;Terrorking Archfiend&quot;.</text>
+</card>

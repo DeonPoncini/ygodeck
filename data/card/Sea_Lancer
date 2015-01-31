@@ -1,14 +1,17 @@
-Sea Lancer
-Monster
-WATER
-Effect
-None
-Beast-Warrior
-5
-1300
-1000
-0
-0
-None
-None
-You can target any number of your banished Fish, Sea Serpent, and Aqua-Type monsters; equip them to this card. This effect can only be used once while this card is face-up on the field. If this face-up card on the field would be destroyed, you can destroy 1 of those cards, instead. This card gains 1000 ATK while equipped with a monster(s) by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Sea Lancer</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>5</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target any number of your banished Fish, Sea Serpent, and Aqua-Type monsters; equip them to this card. This effect can only be used once while this card is face-up on the field. If this face-up card on the field would be destroyed, you can destroy 1 of those cards, instead. This card gains 1000 ATK while equipped with a monster(s) by this effect.</text>
+</card>

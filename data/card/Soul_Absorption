@@ -1,14 +1,17 @@
-Soul Absorption
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time a card(s) is removed from play, increase your Life Points by 500 points for each card removed from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Soul Absorption</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time a card(s) is removed from play, increase your Life Points by 500 points for each card removed from play.</text>
+</card>

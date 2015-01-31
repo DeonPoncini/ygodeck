@@ -1,14 +1,17 @@
-Vylon Tesseract
-Monster
-LIGHT
-Union
-None
-Machine
-4
-800
-600
-0
-0
-None
-None
-Once per turn, you can either: Target 1 face-up "Vylon" monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, if the equipped monster destroys an opponent's monster by battle: You can target 1 Level 4 or lower "Vylon" monster in your Graveyard; Special Summon that target. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Tesseract</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can either: Target 1 face-up &quot;Vylon&quot; monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, if the equipped monster destroys an opponent's monster by battle: You can target 1 Level 4 or lower &quot;Vylon&quot; monster in your Graveyard; Special Summon that target. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)</text>
+</card>

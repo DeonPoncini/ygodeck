@@ -1,14 +1,17 @@
-Hayabusa Knight
-Monster
-EARTH
-Effect
-None
-Warrior
-3
-1000
-700
-0
-0
-None
-None
-This card can make a second attack during each Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Hayabusa Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can make a second attack during each Battle Phase.</text>
+</card>

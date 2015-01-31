@@ -1,14 +1,17 @@
-Harpie Lady
-Monster
-WIND
-Normal
-None
-Winged Beast
-4
-1300
-1400
-0
-0
-None
-None
-This human-shaped animal with wings is beautiful to watch but deadly in battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Harpie Lady</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This human-shaped animal with wings is beautiful to watch but deadly in battle.</text>
+</card>

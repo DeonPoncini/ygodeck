@@ -1,14 +1,17 @@
-Gishki Emilia
-Monster
-WATER
-Spirit
-None
-Spellcaster
-4
-1600
-800
-0
-0
-None
-None
-Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Negate all Trap Card effects on the field, until the End Phase. You must control another face-up "Gishki" monster to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Emilia</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Negate all Trap Card effects on the field, until the End Phase. You must control another face-up &quot;Gishki&quot; monster to activate and to resolve this effect.</text>
+</card>

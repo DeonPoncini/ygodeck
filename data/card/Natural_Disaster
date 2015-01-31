@@ -1,14 +1,17 @@
-Natural Disaster
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Inflict 500 damage to your opponent each time a card(s) they control is destroyed and sent to the Graveyard by the effect of a "Cloudian" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Natural Disaster</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Inflict 500 damage to your opponent each time a card(s) they control is destroyed and sent to the Graveyard by the effect of a &quot;Cloudian&quot; monster.</text>
+</card>

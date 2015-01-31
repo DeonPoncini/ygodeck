@@ -1,14 +1,17 @@
-Vanity's Fiend
-Monster
-DARK
-Effect
-None
-Fiend
-6
-2400
-1200
-0
-0
-None
-None
-Cannot be Special Summoned. Neither player can Special Summon monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Vanity's Fiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. Neither player can Special Summon monsters.</text>
+</card>

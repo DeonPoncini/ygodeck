@@ -1,14 +1,17 @@
-White Night Queen
-Monster
-LIGHT
-Effect
-None
-Fairy
-7
-2100
-800
-0
-0
-None
-None
-Cannot be Special Summoned. Once per turn: You can target 1 Set card; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>White Night Queen</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. Once per turn: You can target 1 Set card; destroy that target.</text>
+</card>

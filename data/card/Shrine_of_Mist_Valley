@@ -1,14 +1,17 @@
-Shrine of Mist Valley
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Once per turn, when a WIND monster(s) is destroyed by a card effect and sent to your Graveyard (except during the Damage Step): You can Special Summon 1 Level 3 or lower WIND monster from your hand or Deck. Its effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Shrine of Mist Valley</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when a WIND monster(s) is destroyed by a card effect and sent to your Graveyard (except during the Damage Step): You can Special Summon 1 Level 3 or lower WIND monster from your hand or Deck. Its effects are negated.</text>
+</card>

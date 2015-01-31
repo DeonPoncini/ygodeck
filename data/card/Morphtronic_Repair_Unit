@@ -1,14 +1,17 @@
-Morphtronic Repair Unit
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Send 1 "Morphtronic" monster from your hand to the Graveyard and select 1 "Morphtronic" monster in your Graveyard. Special Summon the selected monster and equip it with this card. The equipped monster cannot change its Battle Position. When this card is removed from the Field, destroy the equipped monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Repair Unit</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 &quot;Morphtronic&quot; monster from your hand to the Graveyard and select 1 &quot;Morphtronic&quot; monster in your Graveyard. Special Summon the selected monster and equip it with this card. The equipped monster cannot change its Battle Position. When this card is removed from the Field, destroy the equipped monster.</text>
+</card>

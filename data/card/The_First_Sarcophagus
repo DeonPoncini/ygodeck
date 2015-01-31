@@ -1,14 +1,17 @@
-The First Sarcophagus
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-During each of your opponent's End Phases, place 1 card face-up on your side of the field from your hand or Deck in this order: "The Second Sarcophagus", "The Third Sarcophagus". If 1 Sarcophagus card is removed from your side of the field, all of them on your side of the field are sent to the Graveyard. When you have all 3 Sarcophagus cards on your side of the field, send all Sarcophagus cards on your side of the field to the Graveyard to Special Summon 1 "Spirit of the Pharaoh" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>The First Sarcophagus</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>During each of your opponent's End Phases, place 1 card face-up on your side of the field from your hand or Deck in this order: &quot;The Second Sarcophagus&quot;, &quot;The Third Sarcophagus&quot;. If 1 Sarcophagus card is removed from your side of the field, all of them on your side of the field are sent to the Graveyard. When you have all 3 Sarcophagus cards on your side of the field, send all Sarcophagus cards on your side of the field to the Graveyard to Special Summon 1 &quot;Spirit of the Pharaoh&quot; from your hand or Deck.</text>
+</card>

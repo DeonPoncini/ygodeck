@@ -1,14 +1,17 @@
-Silver Wing
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Level 8 or higher Dragon-Type Synchro Monster. Twice per turn, it cannot be destroyed by battle. If it would be destroyed by a card effect, you can destroy this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Silver Wing</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Level 8 or higher Dragon-Type Synchro Monster. Twice per turn, it cannot be destroyed by battle. If it would be destroyed by a card effect, you can destroy this card instead.</text>
+</card>

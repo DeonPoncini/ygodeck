@@ -1,14 +1,17 @@
-Ghostrick Parade
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. Your opponent takes no damage. When an opponent's monster declares a direct attack: You can add 1 "Ghostrick" card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Parade</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. Your opponent takes no damage. When an opponent's monster declares a direct attack: You can add 1 &quot;Ghostrick&quot; card from your Deck to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Train Connection
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Must be equipped to an EARTH Machine-Type monster, by banishing 2 Level 10 or higher Machine-Type monsters from your Graveyard, and cannot be equipped by other ways. The equipped monster's ATK becomes double its original ATK, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. Other monsters you control cannot attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Train Connection</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Must be equipped to an EARTH Machine-Type monster, by banishing 2 Level 10 or higher Machine-Type monsters from your Graveyard, and cannot be equipped by other ways. The equipped monster's ATK becomes double its original ATK, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. Other monsters you control cannot attack.</text>
+</card>

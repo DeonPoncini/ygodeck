@@ -1,14 +1,17 @@
-Barrier Resonator
-Monster
-LIGHT
-Tuner
-Effect
-Fiend
-1
-300
-800
-0
-0
-None
-None
-During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.
+<?xml version="1.0" ?>
+<card>
+    <name>Barrier Resonator</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.</text>
+</card>

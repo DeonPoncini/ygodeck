@@ -1,14 +1,17 @@
-Fifth Hope
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 5 "Elemental HERO" cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).
+<?xml version="1.0" ?>
+<card>
+    <name>Fifth Hope</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 5 &quot;Elemental HERO&quot; cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).</text>
+</card>

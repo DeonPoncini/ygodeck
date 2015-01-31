@@ -1,14 +1,17 @@
-Maju Garzett
-Monster
-DARK
-Effect
-None
-Fiend
-7
-?
-0
-0
-0
-None
-None
-The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Maju Garzett</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.</text>
+</card>

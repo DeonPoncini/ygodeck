@@ -1,14 +1,17 @@
-Little D
-Monster
-EARTH
-Normal
-None
-Dinosaur
-3
-1100
-700
-0
-0
-None
-None
-Yo, this tyrannosaurus tot's got a terrible temper.
+<?xml version="1.0" ?>
+<card>
+    <name>Little D</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Yo, this tyrannosaurus tot's got a terrible temper.</text>
+</card>

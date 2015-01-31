@@ -1,14 +1,17 @@
-Nephe Shaddoll Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Activate this card by declaring 1 Attribute. Equip only to a "Shaddoll" monster, and it becomes that Attribute. During your Main Phase: You can Fusion Summon 1 "Shaddoll" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials, including the equipped monster. You can only use this effect of "Nephe Shaddoll Fusion" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Nephe Shaddoll Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Activate this card by declaring 1 Attribute. Equip only to a &quot;Shaddoll&quot; monster, and it becomes that Attribute. During your Main Phase: You can Fusion Summon 1 &quot;Shaddoll&quot; Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials, including the equipped monster. You can only use this effect of &quot;Nephe Shaddoll Fusion&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Superheavy Samurai Sword-999 "Kyukyukyu"
-Monster
-EARTH
-Effect
-None
-Machine
-3
-1000
-1800
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can change its battle position. If a "Superheavy Samurai" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Swordsman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can change its battle position. If a &quot;Superheavy Samurai&quot; monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.</text>
+</card>

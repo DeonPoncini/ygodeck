@@ -1,14 +1,17 @@
-Inzektor Exa-Stag
-Monster
-DARK
-Xyz
-Effect
-Insect
-5
-800
-800
-0
-0
-None
-None
-2 Level 5 Insect-Type monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls or in their Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster(s) equipped by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Inzektor Exa-Stag</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Insect</type>
+    <level>5</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 Insect-Type monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls or in their Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster(s) equipped by this effect.</text>
+</card>

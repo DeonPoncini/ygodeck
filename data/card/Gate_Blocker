@@ -1,14 +1,17 @@
-Gate Blocker
-Monster
-EARTH
-Effect
-None
-Rock
-4
-100
-2000
-0
-0
-None
-None
-Negate the effects of your opponent's Field Spell Cards. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control for card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Gate Blocker</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Negate the effects of your opponent's Field Spell Cards. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control for card effects.</text>
+</card>

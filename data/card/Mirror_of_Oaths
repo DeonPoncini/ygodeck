@@ -1,14 +1,17 @@
-Mirror of Oaths
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When your opponent Special Summons a monster(s) from their Main Deck: Destroy that monster(s), and if you do, draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Mirror of Oaths</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When your opponent Special Summons a monster(s) from their Main Deck: Destroy that monster(s), and if you do, draw 1 card.</text>
+</card>

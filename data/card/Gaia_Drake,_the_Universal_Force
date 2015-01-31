@@ -1,14 +1,17 @@
-Gaia Drake, the Universal Force
-Monster
-EARTH
-Fusion
-Effect
-Beast-Warrior
-10
-3500
-2800
-0
-0
-None
-None
-1 "Gaia Knight, the Force of Earth" + 1 non-Effect Synchro MonsterThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Gaia Drake, the Universal Force</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>10</level>
+    <attack>3500</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Gaia Knight, the Force of Earth&quot; + 1 non-Effect Synchro MonsterThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.</text>
+</card>

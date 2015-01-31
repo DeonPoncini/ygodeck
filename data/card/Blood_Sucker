@@ -1,14 +1,17 @@
-Blood Sucker
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1300
-1500
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent, send the top card of your opponent's Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Blood Sucker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent, send the top card of your opponent's Deck to the Graveyard.</text>
+</card>

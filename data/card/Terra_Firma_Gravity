@@ -1,14 +1,17 @@
-Terra Firma Gravity
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-During your opponent's Battle Phase, if you control "Elemental HERO Terra Firma": This turn, all Level 4 or lower monsters your opponent controls that can attack a face-up "Elemental HERO Terra Firma" you control must attack it, and cannot otherwise attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Terra Firma Gravity</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>During your opponent's Battle Phase, if you control &quot;Elemental HERO Terra Firma&quot;: This turn, all Level 4 or lower monsters your opponent controls that can attack a face-up &quot;Elemental HERO Terra Firma&quot; you control must attack it, and cannot otherwise attack.</text>
+</card>

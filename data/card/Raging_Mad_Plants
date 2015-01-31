@@ -1,14 +1,17 @@
-Raging Mad Plants
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-All Plant-Type monsters you currently control gain 300 ATK for each Plant-Type monster currently in your Graveyard, until the end of this turn. During the End Phase, destroy all Plant-Type monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Raging Mad Plants</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>All Plant-Type monsters you currently control gain 300 ATK for each Plant-Type monster currently in your Graveyard, until the end of this turn. During the End Phase, destroy all Plant-Type monsters you control.</text>
+</card>

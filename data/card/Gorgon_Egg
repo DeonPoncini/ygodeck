@@ -1,14 +1,17 @@
-Gorgon Egg
-Monster
-DARK
-Normal
-None
-Fiend
-3
-300
-1300
-0
-0
-None
-None
-The gorgon egg's massive eyes are said to reflect the fate of its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Gorgon Egg</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The gorgon egg's massive eyes are said to reflect the fate of its enemies.</text>
+</card>

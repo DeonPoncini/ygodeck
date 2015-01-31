@@ -1,14 +1,17 @@
-Prime Material Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-6
-2400
-2000
-0
-0
-None
-None
-Any effect that would inflict damage to a player increases their Life Points by the same amount, instead. During either player's turn, when a card or effect is activated that would destroy a monster(s) on the field: You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Prime Material Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Any effect that would inflict damage to a player increases their Life Points by the same amount, instead. During either player's turn, when a card or effect is activated that would destroy a monster(s) on the field: You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy it.</text>
+</card>

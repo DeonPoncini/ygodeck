@@ -1,14 +1,17 @@
-Wood Remains
-Monster
-DARK
-Normal
-None
-Zombie
-3
-1000
-900
-0
-0
-None
-None
-A living corpse of wood re-animated by the power of darkness.
+<?xml version="1.0" ?>
+<card>
+    <name>Wood Remains</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A living corpse of wood re-animated by the power of darkness.</text>
+</card>

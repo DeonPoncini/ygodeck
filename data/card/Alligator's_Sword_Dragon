@@ -1,14 +1,17 @@
-Alligator's Sword Dragon
-Monster
-WIND
-Fusion
-Effect
-Dragon
-5
-1700
-1500
-0
-0
-None
-None
-"Baby Dragon" + "Alligator's Sword"This card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.
+<?xml version="1.0" ?>
+<card>
+    <name>Alligator's Sword Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Baby Dragon&quot; + &quot;Alligator's Sword&quot;This card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.</text>
+</card>

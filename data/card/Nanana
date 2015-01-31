@@ -1,14 +1,17 @@
-Nanana
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 Level 7 or Rank 7 monster you control; it gains 700 ATK and DEF until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Nanana</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Level 7 or Rank 7 monster you control; it gains 700 ATK and DEF until the end of this turn.</text>
+</card>

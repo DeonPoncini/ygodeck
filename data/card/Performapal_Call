@@ -1,14 +1,17 @@
-Performapal Call
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an opponent's monster declares a direct attack: Target that attacking monster; negate the attack, and if you do, add up to 2 "Performapal" monsters from your Deck to your hand, whose total DEF is less than or equal to the ATK of the targeted monster. Until the end of your next turn after this card is activated, you cannot Special Summon monsters from the Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Call</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an opponent's monster declares a direct attack: Target that attacking monster; negate the attack, and if you do, add up to 2 &quot;Performapal&quot; monsters from your Deck to your hand, whose total DEF is less than or equal to the ATK of the targeted monster. Until the end of your next turn after this card is activated, you cannot Special Summon monsters from the Extra Deck.</text>
+</card>

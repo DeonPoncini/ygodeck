@@ -1,14 +1,17 @@
-Cosmic Dragon Zenith
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-All monsters your opponent controls must attack, if able. During either player's Main Phase or Battle Phase: You can send this face-up card from your Spell & Trap Zone to the Graveyard; immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using 1 or more "Yang Zing" monsters you control as Synchro Materials.
+<?xml version="1.0" ?>
+<card>
+    <name>Yang Zing Unleashed</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>All monsters your opponent controls must attack, if able. During either player's Main Phase or Battle Phase: You can send this face-up card from your Spell &amp; Trap Zone to the Graveyard; immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using 1 or more &quot;Yang Zing&quot; monsters you control as Synchro Materials.</text>
+</card>

@@ -1,14 +1,17 @@
-Worm Falco
-Monster
-LIGHT
-Effect
-None
-Reptile
-2
-500
-800
-0
-0
-None
-None
-FLIP: Change all face-up Reptile-Type "Worm" monsters you control to face-down Defense Position, except this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Falco</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Change all face-up Reptile-Type &quot;Worm&quot; monsters you control to face-down Defense Position, except this card.</text>
+</card>

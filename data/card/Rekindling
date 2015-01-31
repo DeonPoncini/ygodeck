@@ -1,14 +1,17 @@
-Rekindling
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Special Summon from your Graveyard as many FIRE monsters as possible with 200 DEF. During the End Phase, banish all monsters that were Special Summoned by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Rekindling</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon from your Graveyard as many FIRE monsters as possible with 200 DEF. During the End Phase, banish all monsters that were Special Summoned by this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Noble Knight Bedwyr
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1600
-1500
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can send 1 "Noble Arms" Equip Spell Card from your Deck to the Graveyard. During either player's turn: You can target 1 "Noble Arms" Equip Spell Card and 1 appropriate monster on the field; equip that Equip Spell Card to that appropriate monster. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knight Bedwyr</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can send 1 &quot;Noble Arms&quot; Equip Spell Card from your Deck to the Graveyard. During either player's turn: You can target 1 &quot;Noble Arms&quot; Equip Spell Card and 1 appropriate monster on the field; equip that Equip Spell Card to that appropriate monster. This effect can only be used once while this card is face-up on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Dharc the Dark Charmer
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-500
-1500
-0
-0
-None
-None
-FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Dharc the Dark Charmer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.</text>
+</card>

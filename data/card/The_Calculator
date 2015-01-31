@@ -1,14 +1,17 @@
-The Calculator
-Monster
-LIGHT
-Effect
-None
-Thunder
-2
-?
-0
-0
-0
-None
-None
-The ATK of this card is the combined Levels of all face-up monsters you control x 300.
+<?xml version="1.0" ?>
+<card>
+    <name>The Calculator</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The ATK of this card is the combined Levels of all face-up monsters you control x 300.</text>
+</card>

@@ -1,14 +1,17 @@
-Gishki Abyss
-Monster
-WATER
-Effect
-None
-Fish
-2
-800
-500
-0
-0
-None
-None
-When this card is Summoned: You can add 1 "Gishki" monster with 1000 or less DEF from your Deck to your hand, except "Gishki Abyss".
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Abyss</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned: You can add 1 &quot;Gishki&quot; monster with 1000 or less DEF from your Deck to your hand, except &quot;Gishki Abyss&quot;.</text>
+</card>

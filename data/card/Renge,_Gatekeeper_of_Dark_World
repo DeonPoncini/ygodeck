@@ -1,14 +1,17 @@
-Renge, Gatekeeper of Dark World
-Monster
-DARK
-Normal
-None
-Fiend
-4
-100
-2100
-0
-0
-None
-None
-His renowned athletic physique has made him famous with the populace of Dark World. They call him "Iron Wall Renge" because no one can break through his incredible defenses.
+<?xml version="1.0" ?>
+<card>
+    <name>Renge, Gatekeeper of Dark World</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>His renowned athletic physique has made him famous with the populace of Dark World. They call him &quot;Iron Wall Renge&quot; because no one can break through his incredible defenses.</text>
+</card>

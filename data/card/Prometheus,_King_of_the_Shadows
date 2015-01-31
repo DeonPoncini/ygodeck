@@ -1,14 +1,17 @@
-Prometheus, King of the Shadows
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1200
-800
-0
-0
-None
-None
-When you Normal Summon this card, remove from play any number of DARK monsters from your Graveyard. This card gains 400 ATK for each removed card, until the End Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Prometheus, King of the Shadows</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you Normal Summon this card, remove from play any number of DARK monsters from your Graveyard. This card gains 400 ATK for each removed card, until the End Phase of this turn.</text>
+</card>

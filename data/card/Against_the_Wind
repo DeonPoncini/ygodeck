@@ -1,14 +1,17 @@
-Against the Wind
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 "Blackwing" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Against the Wind</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 &quot;Blackwing&quot; monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.</text>
+</card>

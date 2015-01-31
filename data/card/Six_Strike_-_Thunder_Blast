@@ -1,14 +1,17 @@
-Six Strike - Thunder Blast
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Remove 1 Bushido Counter from your side of the field to activate 1 of these effects.● Target 1 monster your opponent controls; destroy that target.● Target 1 card your opponent controls; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Six Strike - Thunder Blast</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Remove 1 Bushido Counter from your side of the field to activate 1 of these effects.● Target 1 monster your opponent controls; destroy that target.● Target 1 card your opponent controls; return that target to the hand.</text>
+</card>

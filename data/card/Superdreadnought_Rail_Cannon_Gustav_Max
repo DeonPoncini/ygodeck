@@ -1,14 +1,17 @@
-Superdreadnought Rail Cannon Gustav Max
-Monster
-EARTH
-Xyz
-Effect
-Machine
-10
-3000
-3000
-0
-0
-None
-None
-2 Level 10 monstersOnce per turn: You can detach 1 Xyz Material from this card; inflict 2000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Superdreadnought Rail Cannon Gustav Max</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 10 monstersOnce per turn: You can detach 1 Xyz Material from this card; inflict 2000 damage to your opponent.</text>
+</card>

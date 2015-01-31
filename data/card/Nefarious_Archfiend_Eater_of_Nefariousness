@@ -1,14 +1,17 @@
-Nefarious Archfiend Eater of Nefariousness
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1500
-200
-0
-0
-None
-None
-You can only control 1 "Nefarious Archfiend Eater of Nefariousness". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). During your opponent's End Phase, if this card is in your Graveyard: You can target 1 face-up monster you control; destroy it, and if you do, Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Nefarious Archfiend Eater of Nefariousness</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only control 1 &quot;Nefarious Archfiend Eater of Nefariousness&quot;. If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). During your opponent's End Phase, if this card is in your Graveyard: You can target 1 face-up monster you control; destroy it, and if you do, Special Summon this card.</text>
+</card>

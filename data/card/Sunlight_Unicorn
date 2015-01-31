@@ -1,14 +1,17 @@
-Sunlight Unicorn
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1800
-1000
-0
-0
-None
-None
-Once per turn: You can excavate the top card of your Deck, and if it is an Equip Spell Card, add it to your hand. Otherwise, place it on the bottom of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Sunlight Unicorn</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can excavate the top card of your Deck, and if it is an Equip Spell Card, add it to your hand. Otherwise, place it on the bottom of your Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Hannibal Necromancer
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1400
-1800
-0
-0
-None
-None
-If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card, then target 1 face-up Trap Card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Hannibal Necromancer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card, then target 1 face-up Trap Card on the field; destroy that target.</text>
+</card>

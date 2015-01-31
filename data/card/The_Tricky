@@ -1,14 +1,17 @@
-The Tricky
-Monster
-WIND
-Effect
-None
-Spellcaster
-5
-2000
-1200
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by discarding 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>The Tricky</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by discarding 1 card.</text>
+</card>

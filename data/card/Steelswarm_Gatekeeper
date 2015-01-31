@@ -1,14 +1,17 @@
-Steelswarm Gatekeeper
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1500
-1900
-0
-0
-None
-None
-If a "Steelswarm" monster is Tribute Summoned face-up while this card is face-up on the field, you can Normal Summon or Set 1 monster in addition to your Normal Summon or Set that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Steelswarm Gatekeeper</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a &quot;Steelswarm&quot; monster is Tribute Summoned face-up while this card is face-up on the field, you can Normal Summon or Set 1 monster in addition to your Normal Summon or Set that turn.</text>
+</card>

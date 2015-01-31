@@ -1,14 +1,17 @@
-Unicycular
-Monster
-EARTH
-Normal
-None
-Machine
-1
-100
-100
-0
-0
-None
-None
-The third of the brothers, following Tricular and Bicular.
+<?xml version="1.0" ?>
+<card>
+    <name>Unicycular</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The third of the brothers, following Tricular and Bicular.</text>
+</card>

@@ -1,14 +1,17 @@
-Shien's Dojo
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time a "Six Samurai" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. You can send this card to the Graveyard; Special Summon 1 "Six Samurai" or "Shien" Effect Monster from your Main Deck, whose Level is less than or equal to the number of Bushido Counters on this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Shien's Dojo</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time a &quot;Six Samurai&quot; monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. You can send this card to the Graveyard; Special Summon 1 &quot;Six Samurai&quot; or &quot;Shien&quot; Effect Monster from your Main Deck, whose Level is less than or equal to the number of Bushido Counters on this card.</text>
+</card>

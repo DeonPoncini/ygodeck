@@ -1,14 +1,17 @@
-Masked Clown
-Monster
-DARK
-Normal
-None
-Warrior
-2
-500
-700
-0
-0
-None
-None
-This warrior's fatal dance is performed with a lethal sickle.
+<?xml version="1.0" ?>
+<card>
+    <name>Masked Clown</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This warrior's fatal dance is performed with a lethal sickle.</text>
+</card>

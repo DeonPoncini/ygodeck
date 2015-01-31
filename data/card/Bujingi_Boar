@@ -1,14 +1,17 @@
-Bujingi Boar
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1100
-1900
-0
-0
-None
-None
-If you control a "Bujin" monster: You can banish this card from your Graveyard, then target 1 face-up Attack Position monster your opponent controls; change it to face-up Defense Position, and if you do, its DEF becomes 0 until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujingi Boar</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Bujin&quot; monster: You can banish this card from your Graveyard, then target 1 face-up Attack Position monster your opponent controls; change it to face-up Defense Position, and if you do, its DEF becomes 0 until the end of this turn.</text>
+</card>

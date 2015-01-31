@@ -1,14 +1,17 @@
-Serpent Night Dragon
-Monster
-DARK
-Normal
-None
-Dragon
-7
-2350
-2400
-0
-0
-None
-None
-A dragon created from the soul of a wicked knight.
+<?xml version="1.0" ?>
+<card>
+    <name>Serpent Night Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2350</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dragon created from the soul of a wicked knight.</text>
+</card>

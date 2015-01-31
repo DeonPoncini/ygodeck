@@ -1,14 +1,17 @@
-Jar Turtle
-Monster
-WATER
-Effect
-None
-Reptile
-4
-200
-2100
-0
-0
-None
-None
-Each time "Jar of Greed" is activated, draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Jar Turtle</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>200</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time &quot;Jar of Greed&quot; is activated, draw 1 card.</text>
+</card>

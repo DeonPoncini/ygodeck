@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<card>
+    <name>D/D Proud Chevalier</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>700</defense>
+    <lpendulum>6</lpendulum>
+    <rpendulum>6</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ Once per turn: You can pay 500 LP, then target 1 face-up monster your opponent controls; it loses 500 ATK. Unless you have a &quot;D/D&quot; card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.
+
+ Monster Effect
+ When this card is Normal Summoned: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand.</text>
+</card>

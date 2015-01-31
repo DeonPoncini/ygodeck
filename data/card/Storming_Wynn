@@ -1,14 +1,17 @@
-Storming Wynn
-Monster
-WIND
-Effect
-None
-Spellcaster
-4
-800
-1500
-0
-0
-None
-None
-Once per turn, you can Tribute 1 WIND monster on your side of the field (except this card) to Special Summon 1 WIND monster from your hand. The monster Special Summoned by this effect is destroyed if "Storming Wynn" is removed from your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Storming Wynn</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can Tribute 1 WIND monster on your side of the field (except this card) to Special Summon 1 WIND monster from your hand. The monster Special Summoned by this effect is destroyed if &quot;Storming Wynn&quot; is removed from your side of the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Colosseum - Cage of the Gladiator Beasts
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Place 1 Counter on this card each time a monster is Special Summoned from either player's Deck. All "Gladiator Beast" monsters gain 100 ATK and DEF for each of these counters on this card. If this card would be destroyed by a card effect, you can discard 1 "Colosseum - Cage of the Gladiator Beasts" to prevent this card from being destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Colosseum - Cage of the Gladiator Beasts</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Place 1 Counter on this card each time a monster is Special Summoned from either player's Deck. All &quot;Gladiator Beast&quot; monsters gain 100 ATK and DEF for each of these counters on this card. If this card would be destroyed by a card effect, you can discard 1 &quot;Colosseum - Cage of the Gladiator Beasts&quot; to prevent this card from being destroyed.</text>
+</card>

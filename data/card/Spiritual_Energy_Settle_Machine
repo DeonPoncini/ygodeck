@@ -1,14 +1,17 @@
-Spiritual Energy Settle Machine
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-As long as this card remains face-up on the field, all Spirit monsters remain face-up on the field and do not return to their owners' hand during the End Phase even if they are Normal Summoned or flipped face-up. Discard 1 card from your hand to the Graveyard during each of your End Phases. If you do not, destroy this card. When this card is removed from the field, all face-up Spirit monsters return to the owners' hands.
+<?xml version="1.0" ?>
+<card>
+    <name>Spiritual Energy Settle Machine</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on the field, all Spirit monsters remain face-up on the field and do not return to their owners' hand during the End Phase even if they are Normal Summoned or flipped face-up. Discard 1 card from your hand to the Graveyard during each of your End Phases. If you do not, destroy this card. When this card is removed from the field, all face-up Spirit monsters return to the owners' hands.</text>
+</card>

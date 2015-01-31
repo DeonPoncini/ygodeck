@@ -1,14 +1,17 @@
-Senet Switch
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn, during your Main Phase, you can move 1 monster on your side of the field to an adjacent unoccupied Monster Card Zone.
+<?xml version="1.0" ?>
+<card>
+    <name>Senet Switch</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, you can move 1 monster on your side of the field to an adjacent unoccupied Monster Card Zone.</text>
+</card>

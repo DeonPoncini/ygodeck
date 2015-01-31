@@ -1,14 +1,17 @@
-Bixi, Cosmic Dragon of Water
-Monster
-WATER
-Effect
-None
-Wyrm
-2
-0
-2000
-0
-0
-None
-None
-When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 "Yang Zing" monster from your Deck in Attack Position, except "Bixi, Water of the Yang Zing". You can only use this effect of "Bixi, Water of the Yang Zing" once per turn. Once per turn, during your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only "Yang Zing" monsters you control (this is a Quick Effect). A Synchro Monster that used this card as a Synchro Material is unaffected by Trap effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Bixi, Water of the Yang Zing</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Wyrm</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 &quot;Yang Zing&quot; monster from your Deck in Attack Position, except &quot;Bixi, Water of the Yang Zing&quot;. You can only use this effect of &quot;Bixi, Water of the Yang Zing&quot; once per turn. Once per turn, during your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only &quot;Yang Zing&quot; monsters you control (this is a Quick Effect). A Synchro Monster that used this card as a Synchro Material is unaffected by Trap effects.</text>
+</card>

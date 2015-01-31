@@ -1,14 +1,17 @@
-Dragon Manipulator
-Monster
-EARTH
-Effect
-None
-Warrior
-3
-700
-800
-0
-0
-None
-None
-FLIP: Take control of 1 face-up Dragon-Type monster on your opponent's side of the field until the end of the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Manipulator</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Take control of 1 face-up Dragon-Type monster on your opponent's side of the field until the end of the End Phase.</text>
+</card>

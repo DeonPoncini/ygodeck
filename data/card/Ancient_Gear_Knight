@@ -1,14 +1,17 @@
-Ancient Gear Knight
-Monster
-EARTH
-Gemini
-Effect
-Machine
-4
-1800
-500
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Gear Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step.</text>
+</card>

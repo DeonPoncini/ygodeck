@@ -1,14 +1,17 @@
-The Big Saturn
-Monster
-DARK
-Effect
-None
-Machine
-8
-2800
-2200
-0
-0
-None
-None
-Cannot be Special Summoned from the hand or Deck. Once per turn: You can discard 1 card and pay 1000 Life Points; this card gains 1000 ATK until the End Phase. When this card in your possession is destroyed by your opponent's card effect and sent to your Graveyard: Both players take damage equal to this card's ATK in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>The Big Saturn</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned from the hand or Deck. Once per turn: You can discard 1 card and pay 1000 Life Points; this card gains 1000 ATK until the End Phase. When this card in your possession is destroyed by your opponent's card effect and sent to your Graveyard: Both players take damage equal to this card's ATK in the Graveyard.</text>
+</card>

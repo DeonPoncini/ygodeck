@@ -1,14 +1,17 @@
-Celestia, Lightsworn Angel
-Monster
-LIGHT
-Effect
-None
-Fairy
-5
-2300
-200
-0
-0
-None
-None
-When you Tribute Summon this card by Tributing a "Lightsworn" monster: You can send the top 4 cards of your Deck to the Graveyard, then target up to 2 cards your opponent controls; destroy those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Celestia, Lightsworn Angel</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you Tribute Summon this card by Tributing a &quot;Lightsworn&quot; monster: You can send the top 4 cards of your Deck to the Graveyard, then target up to 2 cards your opponent controls; destroy those targets.</text>
+</card>

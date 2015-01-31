@@ -1,14 +1,17 @@
-Shining Elf
-Monster
-WIND
-Xyz
-Effect
-Spellcaster
-2
-1600
-1000
-0
-0
-None
-None
-2 Level 2 monstersWhen your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can detach 1 Xyz Material from this card; that monster(s) loses 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Shining Elf</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 2 monstersWhen your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can detach 1 Xyz Material from this card; that monster(s) loses 500 ATK.</text>
+</card>

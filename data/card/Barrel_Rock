@@ -1,14 +1,17 @@
-Barrel Rock
-Monster
-EARTH
-Normal
-None
-Rock
-4
-1000
-1300
-0
-0
-None
-None
-Shouldering a pair of machine guns, this monster is unstoppable.
+<?xml version="1.0" ?>
+<card>
+    <name>Barrel Rock</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Shouldering a pair of machine guns, this monster is unstoppable.</text>
+</card>

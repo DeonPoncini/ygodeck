@@ -1,14 +1,17 @@
-Chronomaly Colossal Head
-Monster
-EARTH
-Effect
-None
-Rock
-4
-800
-1600
-0
-0
-None
-None
-You can banish this card from your Graveyard to target 1 Level 3 or higher Attack Position monster on the field; change it to face-up or face-down Defense Position. The effect of "Chronomaly Colossal Head" can only be used once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Chronomaly Colossal Head</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can banish this card from your Graveyard to target 1 Level 3 or higher Attack Position monster on the field; change it to face-up or face-down Defense Position. The effect of &quot;Chronomaly Colossal Head&quot; can only be used once per turn.</text>
+</card>

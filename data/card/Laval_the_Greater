@@ -1,14 +1,17 @@
-Laval the Greater
-Monster
-FIRE
-Synchro
-Effect
-Warrior
-6
-2400
-800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner FIRE monstersWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. If this card would be destroyed by a card effect, you can banish 1 "Laval" monster from your Graveyard instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval the Greater</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner FIRE monstersWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. If this card would be destroyed by a card effect, you can banish 1 &quot;Laval&quot; monster from your Graveyard instead.</text>
+</card>

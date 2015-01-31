@@ -1,14 +1,17 @@
-Playful Possum
-Monster
-EARTH
-Effect
-None
-Beast
-2
-800
-600
-0
-0
-None
-None
-During your Main Phase: You can destroy this face-up card on the field. Your opponent must control a monster with a higher ATK than this card for you to activate and to resolve this effect. During your Standby Phase, if this card was destroyed by this effect: You can Special Summon this card from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Playful Possum</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can destroy this face-up card on the field. Your opponent must control a monster with a higher ATK than this card for you to activate and to resolve this effect. During your Standby Phase, if this card was destroyed by this effect: You can Special Summon this card from the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Gishki Mollusk
-Monster
-WATER
-Effect
-None
-Aqua
-4
-1700
-900
-0
-0
-None
-None
-When this card is sent to the Graveyard by a card effect: Look at the top 3 cards of your Deck, then return them all to the top or to the bottom of the Deck, in any order.
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Mollusk</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard by a card effect: Look at the top 3 cards of your Deck, then return them all to the top or to the bottom of the Deck, in any order.</text>
+</card>

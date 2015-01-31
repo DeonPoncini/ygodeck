@@ -1,14 +1,17 @@
-Neo-Spacian Twinkle Moss
-Monster
-LIGHT
-Fusion
-Effect
-Plant
-4
-500
-1100
-0
-0
-None
-None
-This card's name is also treated as "Neo-Spacian Glow Moss". This card cannot be Special Summoned except with "NEX". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: ● Monster: End the Battle Phase. ● Spell: You can change this card's attack to a direct attack. ● Trap: This monster is changed to Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo-Spacian Twinkle Moss</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>500</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's name is also treated as &quot;Neo-Spacian Glow Moss&quot;. This card cannot be Special Summoned except with &quot;NEX&quot;. When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: ● Monster: End the Battle Phase. ● Spell: You can change this card's attack to a direct attack. ● Trap: This monster is changed to Defense Position.</text>
+</card>

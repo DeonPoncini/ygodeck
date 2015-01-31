@@ -1,14 +1,17 @@
-Charm of Shabti
-Monster
-EARTH
-Effect
-None
-Rock
-1
-100
-100
-0
-0
-None
-None
-During either player's turn: You can discard this card; until the End Phase, "Gravekeeper's" monsters you control cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Charm of Shabti</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can discard this card; until the End Phase, &quot;Gravekeeper's&quot; monsters you control cannot be destroyed by battle.</text>
+</card>

@@ -1,14 +1,17 @@
-Inzektor Ant
-Monster
-DARK
-Effect
-None
-Insect
-3
-200
-600
-0
-0
-None
-None
-Once per turn: You can equip 1 "Inzektor" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 3, also it gains ATK and DEF equal to this card's ATK and DEF. If the equipped monster would be destroyed, you can destroy this Equip Card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Inzektor Ant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can equip 1 &quot;Inzektor&quot; monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 3, also it gains ATK and DEF equal to this card's ATK and DEF. If the equipped monster would be destroyed, you can destroy this Equip Card instead.</text>
+</card>

@@ -1,14 +1,17 @@
-Rebound
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When your opponent activates a Spell Card, Trap Card, or monster effect that returns a card(s) from the field to the hand: Negate that effect, and if you do, send 1 card from your opponent's hand (at random) or from their side of the field to the Graveyard. When this Set card is destroyed by your opponent's card effect and sent to the Graveyard: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Rebound</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When your opponent activates a Spell Card, Trap Card, or monster effect that returns a card(s) from the field to the hand: Negate that effect, and if you do, send 1 card from your opponent's hand (at random) or from their side of the field to the Graveyard. When this Set card is destroyed by your opponent's card effect and sent to the Graveyard: Draw 1 card.</text>
+</card>

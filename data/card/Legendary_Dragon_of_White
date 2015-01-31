@@ -1,14 +1,17 @@
-Legendary Dragon of White
-Monster
-LIGHT
-Xyz
-Effect
-Dragon
-8
-3000
-2500
-0
-0
-None
-None
-3 Level 8 monstersMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their Life Points to 0, while it has an Xyz Material attached that was originally Dragon-Type, you win the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Dragon of White</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 8 monstersMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their Life Points to 0, while it has an Xyz Material attached that was originally Dragon-Type, you win the Match.</text>
+</card>

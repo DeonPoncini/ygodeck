@@ -1,14 +1,17 @@
-Archfiend Mirror
-Monster
-DARK
-Normal
-None
-Fiend
-2
-700
-600
-0
-0
-None
-None
-A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Mirror</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.</text>
+</card>

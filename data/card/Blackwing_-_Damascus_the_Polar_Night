@@ -1,14 +1,17 @@
-Blackwing - Damascus the Polar Night
-Monster
-DARK
-Effect
-None
-Winged Beast
-3
-1300
-700
-0
-0
-None
-None
-During either player's turn: You can discard this card to target 1 "Blackwing" monster you control; it gains 500 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Damascus the Polar Night</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can discard this card to target 1 &quot;Blackwing&quot; monster you control; it gains 500 ATK until the End Phase.</text>
+</card>

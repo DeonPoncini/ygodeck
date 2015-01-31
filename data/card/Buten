@@ -1,14 +1,17 @@
-Buten
-Monster
-LIGHT
-Tuner
-None
-Fairy
-1
-200
-300
-0
-0
-None
-None
-During your Main Phase: You can banish this card from the Graveyard to target 1 face-up Level 4 or lower LIGHT Fairy-Type monster you control; it is treated as a Tuner monster while face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Buten</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can banish this card from the Graveyard to target 1 face-up Level 4 or lower LIGHT Fairy-Type monster you control; it is treated as a Tuner monster while face-up on the field.</text>
+</card>

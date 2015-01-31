@@ -1,14 +1,17 @@
-Drop Off
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.
+<?xml version="1.0" ?>
+<card>
+    <name>Drop Off</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.</text>
+</card>

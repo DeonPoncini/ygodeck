@@ -1,14 +1,17 @@
-Octoberser
-Monster
-WATER
-Normal
-None
-Aqua
-5
-1600
-1400
-0
-0
-None
-None
-With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.
+<?xml version="1.0" ?>
+<card>
+    <name>Octoberser</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.</text>
+</card>

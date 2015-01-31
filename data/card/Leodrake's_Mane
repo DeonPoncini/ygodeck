@@ -1,14 +1,17 @@
-Leodrake's Mane
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 face-up "Naturia" monster you control. Its ATK becomes 3000, and its effects are negated, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Leodrake's Mane</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 face-up &quot;Naturia&quot; monster you control. Its ATK becomes 3000, and its effects are negated, until the End Phase.</text>
+</card>

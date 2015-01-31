@@ -1,14 +1,17 @@
-Wightmare
-Monster
-DARK
-Effect
-None
-Zombie
-1
-300
-200
-0
-0
-None
-None
-While it is in the Graveyard, this card's name is treated as "Skull Servant". You can discard this card to activate 1 of the following effects: ● Select 1 of your removed from play "Skull Servant" or "Wightmare", and return it to your Graveyard. ● Select 1 of your removed from play "The Lady in Wight" or "King of the Skull Servants", and Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Wightmare</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While it is in the Graveyard, this card's name is treated as &quot;Skull Servant&quot;. You can discard this card to activate 1 of the following effects: ● Select 1 of your removed from play &quot;Skull Servant&quot; or &quot;Wightmare&quot;, and return it to your Graveyard. ● Select 1 of your removed from play &quot;The Lady in Wight&quot; or &quot;King of the Skull Servants&quot;, and Special Summon it.</text>
+</card>

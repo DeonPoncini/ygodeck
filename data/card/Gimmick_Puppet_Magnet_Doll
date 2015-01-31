@@ -1,14 +1,17 @@
-Gimmick Puppet Magnet Doll
-Monster
-DARK
-Effect
-None
-Machine
-8
-1000
-1000
-0
-0
-None
-None
-If your opponent controls a monster, and all monsters you control are "Gimmick Puppet" monsters (min. 1), you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Gimmick Puppet Magnet Doll</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster, and all monsters you control are &quot;Gimmick Puppet&quot; monsters (min. 1), you can Special Summon this card (from your hand).</text>
+</card>

@@ -1,14 +1,17 @@
-Lavalval Dragon
-Monster
-FIRE
-Synchro
-Effect
-Dragon
-5
-2000
-1100
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner FIRE monsters You can shuffle 2 "Laval" monsters from your Graveyard into your Main Deck to target 1 card your opponent controls; return it to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Lavalval Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner FIRE monsters You can shuffle 2 &quot;Laval&quot; monsters from your Graveyard into your Main Deck to target 1 card your opponent controls; return it to the hand.</text>
+</card>

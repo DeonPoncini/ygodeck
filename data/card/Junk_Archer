@@ -1,14 +1,17 @@
-Junk Archer
-Monster
-EARTH
-Synchro
-Effect
-Warrior
-7
-2300
-2000
-0
-0
-None
-None
-"Junk Synchron" + 1 or more non-Tuner monstersOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent's side of the field, in the same battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Junk Archer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Junk Synchron&quot; + 1 or more non-Tuner monstersOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent's side of the field, in the same battle position.</text>
+</card>

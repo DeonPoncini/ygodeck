@@ -1,14 +1,17 @@
-Amazoness Archers
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when your opponent declares an attack while you control an "Amazoness" monster. All monsters your opponent controls are changed to face-up Attack Position (Flip Effects are not activated), and lose 500 ATK as long as they remain face-up on the field. Your opponent must attack with all of their monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Archers</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when your opponent declares an attack while you control an &quot;Amazoness&quot; monster. All monsters your opponent controls are changed to face-up Attack Position (Flip Effects are not activated), and lose 500 ATK as long as they remain face-up on the field. Your opponent must attack with all of their monsters.</text>
+</card>

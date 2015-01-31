@@ -1,14 +1,17 @@
-Raidraptor - Readiness
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-This turn, "Raidraptor" monsters you control cannot be destroyed by battle. If you have a "Raidraptor" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Raidraptor - Readiness</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>This turn, &quot;Raidraptor&quot; monsters you control cannot be destroyed by battle. If you have a &quot;Raidraptor&quot; monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-First of the Dragons
-Monster
-DARK
-Fusion
-Effect
-Dragon
-9
-2700
-2000
-0
-0
-None
-None
-2 Normal MonstersMust be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 "First of the Dragons". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.
+<?xml version="1.0" ?>
+<card>
+    <name>First of the Dragons</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>9</level>
+    <attack>2700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Normal MonstersMust be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 &quot;First of the Dragons&quot;. This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.</text>
+</card>

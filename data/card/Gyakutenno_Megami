@@ -1,14 +1,17 @@
-Gyakutenno Megami
-Monster
-LIGHT
-Normal
-None
-Fairy
-6
-1800
-2000
-0
-0
-None
-None
-This fairy uses her mystical power to protect the weak and provide spiritual support.
+<?xml version="1.0" ?>
+<card>
+    <name>Gyakutenno Megami</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This fairy uses her mystical power to protect the weak and provide spiritual support.</text>
+</card>

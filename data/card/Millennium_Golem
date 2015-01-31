@@ -1,14 +1,17 @@
-Millennium Golem
-Monster
-EARTH
-Normal
-None
-Rock
-6
-2000
-2200
-0
-0
-None
-None
-For nearly a millennium, this golem has served as guardian of an ancient treasure trove.
+<?xml version="1.0" ?>
+<card>
+    <name>Millennium Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>For nearly a millennium, this golem has served as guardian of an ancient treasure trove.</text>
+</card>

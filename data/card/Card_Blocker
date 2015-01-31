@@ -1,14 +1,17 @@
-Card Blocker
-Monster
-EARTH
-Effect
-None
-Warrior
-3
-400
-400
-0
-0
-None
-None
-When this card is Summoned: Change it to Defense Position. When a face-up monster you control is targeted for an attack: You can change the target to this card. When this card is targeted for an attack: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; this card gains 500 DEF for each card sent, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Card Blocker</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned: Change it to Defense Position. When a face-up monster you control is targeted for an attack: You can change the target to this card. When this card is targeted for an attack: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; this card gains 500 DEF for each card sent, until the End Phase.</text>
+</card>

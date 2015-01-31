@@ -1,14 +1,17 @@
-Resonance Insect
-Monster
-EARTH
-Effect
-None
-Insect
-4
-1000
-700
-0
-0
-None
-None
-If this card is sent from the field to the Graveyard: You can add 1 Level 5 or higher Insect-Type monster from your Deck to your hand. If this card is banished: You can send 1 Insect-Type monster from your Deck to the Graveyard, except "Resonance Insect".
+<?xml version="1.0" ?>
+<card>
+    <name>Resonance Insect</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent from the field to the Graveyard: You can add 1 Level 5 or higher Insect-Type monster from your Deck to your hand. If this card is banished: You can send 1 Insect-Type monster from your Deck to the Graveyard, except &quot;Resonance Insect&quot;.</text>
+</card>

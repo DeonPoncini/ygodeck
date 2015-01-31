@@ -1,14 +1,17 @@
-Ally of Justice Rudra
-Monster
-DARK
-Effect
-None
-Machine
-5
-1900
-1200
-0
-0
-None
-None
-If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Rudra</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.</text>
+</card>

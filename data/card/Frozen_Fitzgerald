@@ -1,14 +1,17 @@
-Frozen Fitzgerald
-Monster
-WATER
-Synchro
-Effect
-Fiend
-5
-2500
-2500
-0
-0
-None
-None
-1 DARK Tuner + 1 non-Tuner Beast-Type monsterIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When this card is destroyed by battle and sent to the Graveyard, while you control no monsters, you can discard 1 card to Special Summon this card from the Graveyard in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Frozen Fitzgerald</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 1 non-Tuner Beast-Type monsterIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When this card is destroyed by battle and sent to the Graveyard, while you control no monsters, you can discard 1 card to Special Summon this card from the Graveyard in face-up Defense Position.</text>
+</card>

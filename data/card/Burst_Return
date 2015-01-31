@@ -1,14 +1,17 @@
-Burst Return
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a face-up "Elemental HERO Burstinatrix": Return all face-up "Elemental HERO" monsters on the field to the hand, except "Elemental HERO Burstinatrix".
+<?xml version="1.0" ?>
+<card>
+    <name>Burst Return</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up &quot;Elemental HERO Burstinatrix&quot;: Return all face-up &quot;Elemental HERO&quot; monsters on the field to the hand, except &quot;Elemental HERO Burstinatrix&quot;.</text>
+</card>

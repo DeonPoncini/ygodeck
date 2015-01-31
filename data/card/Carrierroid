@@ -1,14 +1,17 @@
-Carrierroid
-Monster
-WATER
-Effect
-None
-Machine
-4
-1000
-800
-0
-0
-None
-None
-When an opponent activates a card's effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.
+<?xml version="1.0" ?>
+<card>
+    <name>Carrierroid</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an opponent activates a card's effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.</text>
+</card>

@@ -1,14 +1,17 @@
-Photon Stream of Destruction
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-If you control a "Galaxy-Eyes" monster: Target 1 card on the field; banish that target. If you do not control "Galaxy-Eyes Photon Dragon", you can only activate this card during your turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Photon Stream of Destruction</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Galaxy-Eyes&quot; monster: Target 1 card on the field; banish that target. If you do not control &quot;Galaxy-Eyes Photon Dragon&quot;, you can only activate this card during your turn.</text>
+</card>

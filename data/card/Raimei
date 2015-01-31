@@ -1,14 +1,17 @@
-Raimei
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Decrease your opponent's Life Points by 300 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Raimei</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Decrease your opponent's Life Points by 300 points.</text>
+</card>

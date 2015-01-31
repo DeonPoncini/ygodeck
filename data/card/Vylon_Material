@@ -1,14 +1,17 @@
-Vylon Material
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Vylon" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 "Vylon" Spell Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Material</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Vylon&quot; monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 &quot;Vylon&quot; Spell Card from your Deck to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Light Effigy
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1500
-0
-0
-0
-None
-None
-If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes.
+<?xml version="1.0" ?>
+<card>
+    <name>Light Effigy</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes.</text>
+</card>

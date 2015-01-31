@@ -1,14 +1,17 @@
-Noble Knight Drystan
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1800
-800
-0
-0
-None
-None
-While you control another "Noble Knight" monster, your opponent cannot target your monsters with less than 1800 ATK, except this card, for attacks or with card effects. If a "Noble Arms" Equip Spell Card is equipped to this card: Target 1 face-up card on the field; destroy that target. You can only use this effect of "Noble Knight Drystan" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knight Drystan</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control another &quot;Noble Knight&quot; monster, your opponent cannot target your monsters with less than 1800 ATK, except this card, for attacks or with card effects. If a &quot;Noble Arms&quot; Equip Spell Card is equipped to this card: Target 1 face-up card on the field; destroy that target. You can only use this effect of &quot;Noble Knight Drystan&quot; once per turn.</text>
+</card>

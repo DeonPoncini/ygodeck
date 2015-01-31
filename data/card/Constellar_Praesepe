@@ -1,14 +1,17 @@
-Constellar Praesepe
-Monster
-LIGHT
-Xyz
-Effect
-Machine
-4
-2400
-800
-0
-0
-None
-None
-2 Level 4 "Constellar" monstersOnce per turn, during the Damage Step of either player's turn, when a "Constellar" monster you control is attacking or being attacked: You can detach 1 Xyz Material from this card; that monster gains 1000 ATK, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Praesepe</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>2400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 &quot;Constellar&quot; monstersOnce per turn, during the Damage Step of either player's turn, when a &quot;Constellar&quot; monster you control is attacking or being attacked: You can detach 1 Xyz Material from this card; that monster gains 1000 ATK, until the End Phase.</text>
+</card>

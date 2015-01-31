@@ -1,14 +1,17 @@
-Laval Coatl
-Monster
-FIRE
-Tuner
-None
-Pyro
-2
-1300
-700
-0
-0
-None
-None
-If you have 3 or more "Laval" monsters with different names in your Graveyard, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Coatl</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>1300</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you have 3 or more &quot;Laval&quot; monsters with different names in your Graveyard, you can Special Summon this card (from your hand).</text>
+</card>

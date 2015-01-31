@@ -1,14 +1,17 @@
-Ribbon of Rebirth
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-During the End Phase, if the equipped monster was destroyed by battle and sent to the Graveyard this turn: Special Summon it from the Graveyard to your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Ribbon of Rebirth</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>During the End Phase, if the equipped monster was destroyed by battle and sent to the Graveyard this turn: Special Summon it from the Graveyard to your side of the field.</text>
+</card>

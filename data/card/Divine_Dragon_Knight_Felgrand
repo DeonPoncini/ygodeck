@@ -1,14 +1,17 @@
-Divine Dragon Knight Felgrand
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-8
-2800
-1800
-0
-0
-None
-None
-2 Level 8 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; this turn, its effects are negated, but it is unaffected by other card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Divine Dragon Knight Felgrand</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 8 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; this turn, its effects are negated, but it is unaffected by other card effects.</text>
+</card>

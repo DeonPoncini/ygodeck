@@ -1,14 +1,17 @@
-Empress of Prophecy
-Monster
-LIGHT
-Xyz
-Effect
-Spellcaster
-5
-2000
-1700
-0
-0
-None
-None
-2 Level 5 Spellcaster-Type monstersThis card gains 300 ATK for each Xyz Material attached to a monster you control. Once per turn: You can detach 1 Xyz Material from this card; shuffle your Deck, then excavate the top 5 cards of your Deck, destroy monsters on the field up to the number of "Spellbook" cards excavated, also, after that, place the excavated cards on the top of the Deck in any order.
+<?xml version="1.0" ?>
+<card>
+    <name>Empress of Prophecy</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 Spellcaster-Type monstersThis card gains 300 ATK for each Xyz Material attached to a monster you control. Once per turn: You can detach 1 Xyz Material from this card; shuffle your Deck, then excavate the top 5 cards of your Deck, destroy monsters on the field up to the number of &quot;Spellbook&quot; cards excavated, also, after that, place the excavated cards on the top of the Deck in any order.</text>
+</card>

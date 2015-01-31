@@ -1,14 +1,17 @@
-Synchro Change
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Remove from play 1 face-up Synchro Monster you control. Special Summon 1 Synchro Monster from your Extra Deck whose Level is the same as the removed monster's. Its effect(s) is negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Synchro Change</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Remove from play 1 face-up Synchro Monster you control. Special Summon 1 Synchro Monster from your Extra Deck whose Level is the same as the removed monster's. Its effect(s) is negated.</text>
+</card>

@@ -1,14 +1,17 @@
-Montage Dragon
-Monster
-EARTH
-Effect
-None
-Dragon
-8
-?
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original Levels of the sent monsters x 300.
+<?xml version="1.0" ?>
+<card>
+    <name>Montage Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original Levels of the sent monsters x 300.</text>
+</card>

@@ -1,14 +1,17 @@
-1st Movement Solo
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control no monsters: Special Summon 1 Level 4 or lower "Melodious" monster from your hand or Deck. You can only activate 1 "1st Movement Solo" per turn. You cannot Special Summon monsters during the turn you activate this card, except "Melodious" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>1st Movement Solo</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control no monsters: Special Summon 1 Level 4 or lower &quot;Melodious&quot; monster from your hand or Deck. You can only activate 1 &quot;1st Movement Solo&quot; per turn. You cannot Special Summon monsters during the turn you activate this card, except &quot;Melodious&quot; monsters.</text>
+</card>

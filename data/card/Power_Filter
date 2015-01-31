@@ -1,14 +1,17 @@
-Power Filter
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Neither player can Special Summon monsters with 1000 or less ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Power Filter</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Neither player can Special Summon monsters with 1000 or less ATK.</text>
+</card>

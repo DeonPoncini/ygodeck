@@ -1,14 +1,17 @@
-Darkness/Trap C
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate only by the effect of "Darkness/Trap B". When you activate this card, you can banish 1 card your opponent controls. Each time another "Darkness" Continuous Trap Card is activated, you can banish 1 card your opponent controls.-I activate "Darkness 1"!-
+<?xml version="1.0" ?>
+<card>
+    <name>Darkness/Trap C</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate only by the effect of &quot;Darkness/Trap B&quot;. When you activate this card, you can banish 1 card your opponent controls. Each time another &quot;Darkness&quot; Continuous Trap Card is activated, you can banish 1 card your opponent controls.-I activate &quot;Darkness 1&quot;!-</text>
+</card>

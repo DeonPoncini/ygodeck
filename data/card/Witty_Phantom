@@ -1,14 +1,17 @@
-Witty Phantom
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1400
-1300
-0
-0
-None
-None
-Dressed in a night-black tuxedo, this creature presides over the darkness.
+<?xml version="1.0" ?>
+<card>
+    <name>Witty Phantom</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Dressed in a night-black tuxedo, this creature presides over the darkness.</text>
+</card>

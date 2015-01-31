@@ -1,14 +1,17 @@
-Seiyaryu
-Monster
-LIGHT
-Normal
-None
-Dragon
-7
-2500
-2300
-0
-0
-None
-None
-A mystical dragon that burns away the unworthy with its mystic flames.
+<?xml version="1.0" ?>
+<card>
+    <name>Seiyaryu</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mystical dragon that burns away the unworthy with its mystic flames.</text>
+</card>

@@ -1,14 +1,17 @@
-Talaya, Princess of Cherry Blossoms
-Monster
-WATER
-Effect
-None
-Plant
-8
-2800
-1200
-0
-0
-None
-None
-This card gains 100 ATK for each Plant-Type monster you control. Other Plant-Type monsters on the field cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Talaya, Princess of Cherry Blossoms</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 100 ATK for each Plant-Type monster you control. Other Plant-Type monsters on the field cannot be destroyed by card effects.</text>
+</card>

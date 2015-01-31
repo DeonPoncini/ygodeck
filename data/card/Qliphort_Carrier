@@ -1,18 +1,21 @@
-Qliphort Carrier
-Monster
-EARTH
-Pendulum
-Effect
-Machine
-6
-2400
-1000
-1
-1
-None
-None
-Pendulum Effect
- You cannot Special Summon monsters, except "Qli" monsters. This effect cannot be negated. All "Qli" monsters you control gain 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Qliphort Carrier</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>1</lpendulum>
+    <rpendulum>1</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Special Summon monsters, except &quot;Qli&quot; monsters. This effect cannot be negated. All &quot;Qli&quot; monsters you control gain 300 ATK.
 
  Monster Effect
- You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Tributed: You can target 1 monster on the field; return it to the hand.
+ You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Tributed: You can target 1 monster on the field; return it to the hand.</text>
+</card>

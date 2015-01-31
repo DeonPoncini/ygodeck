@@ -1,14 +1,17 @@
-Armored Lizard
-Monster
-EARTH
-Normal
-None
-Reptile
-4
-1500
-1200
-0
-0
-None
-None
-A lizard with a very tough hide and a vicious bite.
+<?xml version="1.0" ?>
+<card>
+    <name>Armored Lizard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A lizard with a very tough hide and a vicious bite.</text>
+</card>

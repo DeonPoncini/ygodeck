@@ -1,14 +1,17 @@
-Iris, the Earth Mother
-Monster
-LIGHT
-Effect
-None
-Fairy
-6
-2400
-1200
-0
-0
-None
-None
-After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.
+<?xml version="1.0" ?>
+<card>
+    <name>Iris, the Earth Mother</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.</text>
+</card>

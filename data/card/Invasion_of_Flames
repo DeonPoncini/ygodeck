@@ -1,14 +1,17 @@
-Invasion of Flames
-Monster
-FIRE
-Effect
-None
-Pyro
-3
-1300
-1200
-0
-0
-None
-None
-When this card is Normal Summoned successfully, no Trap Cards can be activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Invasion of Flames</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned successfully, no Trap Cards can be activated.</text>
+</card>

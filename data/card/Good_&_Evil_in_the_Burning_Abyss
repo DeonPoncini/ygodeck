@@ -1,14 +1,17 @@
-Good & Evil in the Burning Abyss
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card is used to Ritual Summon "Malacoda, Netherlord of the Burning Abyss". You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard and send 1 "Burning Abyss" monster from your hand to the Graveyard; add 1 "Burning Abyss" card from your Deck to your hand. You can only use this effect of "Good & Evil of the Burning Abyss" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Good &amp; Evil in the Burning Abyss</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card is used to Ritual Summon &quot;Malacoda, Netherlord of the Burning Abyss&quot;. You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard and send 1 &quot;Burning Abyss&quot; monster from your hand to the Graveyard; add 1 &quot;Burning Abyss&quot; card from your Deck to your hand. You can only use this effect of &quot;Good &amp; Evil of the Burning Abyss&quot; once per turn.</text>
+</card>

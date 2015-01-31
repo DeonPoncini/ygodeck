@@ -1,14 +1,17 @@
-Archfiend Heiress
-Monster
-DARK
-Effect
-None
-Fiend
-3
-1000
-0
-0
-0
-None
-None
-If this card is sent to the Graveyard because of a card effect or being destroyed by battle: You can add 1 "Archfiend" card from your Deck to your hand, except "Archfiend Heiress". You can only use the effect of "Archfiend Heiress" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Heiress</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard because of a card effect or being destroyed by battle: You can add 1 &quot;Archfiend&quot; card from your Deck to your hand, except &quot;Archfiend Heiress&quot;. You can only use the effect of &quot;Archfiend Heiress&quot; once per turn.</text>
+</card>

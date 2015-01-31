@@ -1,14 +1,17 @@
-Green Turtle Summoner
-Monster
-WATER
-Flip
-Effect
-Spellcaster
-3
-400
-1500
-0
-0
-None
-None
-FLIP: Target 1 monster your opponent controls; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Green Turtle Summoner</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 monster your opponent controls; destroy it.</text>
+</card>

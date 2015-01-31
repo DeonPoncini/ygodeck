@@ -1,14 +1,17 @@
-Broww, Huntsman of Dark World
-Monster
-DARK
-Effect
-None
-Fiend
-3
-1400
-800
-0
-0
-None
-None
-If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Broww, Huntsman of Dark World</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.</text>
+</card>

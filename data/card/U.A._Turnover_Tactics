@@ -1,14 +1,17 @@
-U.A. Turnover Tactics
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-If you control 2 or more "U.A." monsters with different names: Shuffle as many monsters on the field as possible into the Deck, then Special Summon "U.A." monsters from your Deck that have different names from each other, up to the number of cards shuffled into your Main Deck, but those monsters cannot attack this turn. Then your opponent can Special Summon monsters from their Deck, up to the number of cards shuffled into their Main Deck. You can only activate 1 "U.A. Turnover Tactics" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>U.A. Turnover Tactics</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>If you control 2 or more &quot;U.A.&quot; monsters with different names: Shuffle as many monsters on the field as possible into the Deck, then Special Summon &quot;U.A.&quot; monsters from your Deck that have different names from each other, up to the number of cards shuffled into your Main Deck, but those monsters cannot attack this turn. Then your opponent can Special Summon monsters from their Deck, up to the number of cards shuffled into their Main Deck. You can only activate 1 &quot;U.A. Turnover Tactics&quot; per turn.</text>
+</card>

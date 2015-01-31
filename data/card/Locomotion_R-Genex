@@ -1,14 +1,17 @@
-Locomotion R-Genex
-Monster
-DARK
-Synchro
-Effect
-Machine
-9
-2500
-2000
-0
-0
-None
-None
-1 "Genex" Tuner + 1 or more non-Tuner DARK monstersWhen this card is Synchro Summoned, take control of the face-up monster your opponent controls with the highest Level. (If it's a tie, you get to choose.)
+<?xml version="1.0" ?>
+<card>
+    <name>Locomotion R-Genex</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Genex&quot; Tuner + 1 or more non-Tuner DARK monstersWhen this card is Synchro Summoned, take control of the face-up monster your opponent controls with the highest Level. (If it's a tie, you get to choose.)</text>
+</card>

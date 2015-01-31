@@ -1,14 +1,17 @@
-Trakodon
-Monster
-EARTH
-Normal
-None
-Dinosaur
-3
-1300
-800
-0
-0
-None
-None
-A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.
+<?xml version="1.0" ?>
+<card>
+    <name>Trakodon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.</text>
+</card>

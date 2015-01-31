@@ -1,14 +1,17 @@
-Gorgonic Golem
-Monster
-DARK
-Effect
-None
-Rock
-3
-1200
-600
-0
-0
-None
-None
-If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect's activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Gorgonic Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect's activation.</text>
+</card>

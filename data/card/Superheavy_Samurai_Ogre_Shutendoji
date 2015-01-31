@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Ogre Shutendoji</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Machine-Type Tuner + 1 or more non-Tuner &quot;Superheavy Samurai&quot; monstersThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. When this card is Synchro Summoned, and you have no Spell/Trap Cards in your Graveyard: You can destroy all Spell and Trap Cards your opponent controls.</text>
+</card>

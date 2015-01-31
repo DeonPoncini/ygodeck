@@ -1,14 +1,17 @@
-Fabled Gallabas
-Monster
-LIGHT
-Effect
-None
-Fiend
-4
-1500
-800
-0
-0
-None
-None
-You can discard 1 card to the Graveyard to select and destroy 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Gallabas</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard 1 card to the Graveyard to select and destroy 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK.</text>
+</card>

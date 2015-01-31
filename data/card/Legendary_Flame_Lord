@@ -1,14 +1,17 @@
-Legendary Flame Lord
-Monster
-FIRE
-Ritual
-Effect
-Spellcaster
-7
-2400
-2000
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "Incandescent Ordeal". You must also Tribute monsters whose total Levels equals 7 or more from the field or your hand. Each time you or your opponent activates 1 Spell Card, put 1 Spell Counter on this card. Remove 3 Spell Counters from this card to destroy all monsters on the field except this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Flame Lord</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;Incandescent Ordeal&quot;. You must also Tribute monsters whose total Levels equals 7 or more from the field or your hand. Each time you or your opponent activates 1 Spell Card, put 1 Spell Counter on this card. Remove 3 Spell Counters from this card to destroy all monsters on the field except this card.</text>
+</card>

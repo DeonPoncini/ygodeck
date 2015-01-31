@@ -1,14 +1,17 @@
-Emblem of the Awakening
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card is used to Ritual Summon "Cú Chulainn the Awakened". You must also Tribute monsters whose total Levels equal 4 or more from the field or your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Emblem of the Awakening</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card is used to Ritual Summon &quot;Cú Chulainn the Awakened&quot;. You must also Tribute monsters whose total Levels equal 4 or more from the field or your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Sauropod Brachion
-Monster
-EARTH
-Effect
-None
-Dinosaur
-8
-1500
-3000
-0
-0
-None
-None
-Cannot be Special Summoned from the Deck. You can Tribute Summon (but not Set) this card by Tributing 1 Dinosaur-Type monster. Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Change all other monsters to face-down Defense Position. If your opponent attacks this card, any battle damage they take is doubled.
+<?xml version="1.0" ?>
+<card>
+    <name>Sauropod Brachion</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>8</level>
+    <attack>1500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned from the Deck. You can Tribute Summon (but not Set) this card by Tributing 1 Dinosaur-Type monster. Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Change all other monsters to face-down Defense Position. If your opponent attacks this card, any battle damage they take is doubled.</text>
+</card>

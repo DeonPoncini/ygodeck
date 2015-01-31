@@ -1,14 +1,17 @@
-Djinn Disserere of Rituals
-Monster
-DARK
-Effect
-None
-Fiend
-1
-200
-200
-0
-0
-None
-None
-When you Ritual Summon a Ritual Monster, you can remove from play this card from your Graveyard as 1 of the monsters required for the Ritual Summon. The monster Ritual Summoned using this card is not affected by Trap Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Djinn Disserere of Rituals</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you Ritual Summon a Ritual Monster, you can remove from play this card from your Graveyard as 1 of the monsters required for the Ritual Summon. The monster Ritual Summoned using this card is not affected by Trap Cards.</text>
+</card>

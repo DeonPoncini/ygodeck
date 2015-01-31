@@ -1,14 +1,17 @@
-Amazoness Fighter
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1500
-1300
-0
-0
-None
-None
-You take no battle damage from attacks involving this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You take no battle damage from attacks involving this card.</text>
+</card>

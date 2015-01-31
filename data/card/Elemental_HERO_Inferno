@@ -1,14 +1,17 @@
-Elemental HERO Inferno
-Monster
-FIRE
-Fusion
-Effect
-Pyro
-8
-2300
-1600
-0
-0
-None
-None
-"Elemental HERO Heat" + "Elemental HERO Lady Heat"Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card battles a WATER monster, this card gains 1000 ATK during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Inferno</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Pyro</type>
+    <level>8</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Heat&quot; + &quot;Elemental HERO Lady Heat&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card battles a WATER monster, this card gains 1000 ATK during the Damage Step only.</text>
+</card>

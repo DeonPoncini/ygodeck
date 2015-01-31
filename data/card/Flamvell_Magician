@@ -1,14 +1,17 @@
-Flamvell Magician
-Monster
-FIRE
-Tuner
-None
-Spellcaster
-4
-1400
-200
-0
-0
-None
-None
-While you control an "Ally of Justice" monster(s), this card gains 400 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Flamvell Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control an &quot;Ally of Justice&quot; monster(s), this card gains 400 ATK.</text>
+</card>

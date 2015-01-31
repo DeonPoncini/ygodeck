@@ -1,14 +1,17 @@
-Beast Rising
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Once per turn, you can remove from play 1 face-up Beast-Type or Beast-Warrior-Type monster you control to select 1 other face-up Beast-Type or Beast-Warrior-Type monster you control. The selected monster gains the original ATK of the monster removed from play for this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Beast Rising</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Once per turn, you can remove from play 1 face-up Beast-Type or Beast-Warrior-Type monster you control to select 1 other face-up Beast-Type or Beast-Warrior-Type monster you control. The selected monster gains the original ATK of the monster removed from play for this effect.</text>
+</card>

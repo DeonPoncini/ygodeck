@@ -1,14 +1,17 @@
-That Which Feeds on Life
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1200
-1000
-0
-0
-None
-None
-A monster that feeds on the energy of other creatures.
+<?xml version="1.0" ?>
+<card>
+    <name>That Which Feeds on Life</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster that feeds on the energy of other creatures.</text>
+</card>

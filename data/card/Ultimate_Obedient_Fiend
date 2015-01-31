@@ -1,14 +1,17 @@
-Ultimate Obedient Fiend
-Monster
-FIRE
-Effect
-None
-Fiend
-10
-3500
-3000
-0
-0
-None
-None
-This card can only attack if this card is the only card on your side of the field and if you also have no cards in your hand. Negate the effects of Effect Monsters destroyed by this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Ultimate Obedient Fiend</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>3500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only attack if this card is the only card on your side of the field and if you also have no cards in your hand. Negate the effects of Effect Monsters destroyed by this card.</text>
+</card>

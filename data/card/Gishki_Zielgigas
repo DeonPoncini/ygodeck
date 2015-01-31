@@ -1,14 +1,17 @@
-Gishki Zielgigas
-Monster
-WATER
-Ritual
-Effect
-Aqua
-10
-3200
-0
-0
-0
-None
-None
-You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can pay 1000 Life Points; draw 1 card, and if you do, reveal it, then, if it was a "Gishki" monster, shuffle 1 card from the field into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Zielgigas</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>10</level>
+    <attack>3200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Gishki&quot; Ritual Spell Card. Once per turn: You can pay 1000 Life Points; draw 1 card, and if you do, reveal it, then, if it was a &quot;Gishki&quot; monster, shuffle 1 card from the field into the Deck.</text>
+</card>

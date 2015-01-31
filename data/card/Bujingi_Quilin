@@ -1,14 +1,17 @@
-Bujingi Quilin
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1600
-900
-0
-0
-None
-None
-If you control a Beast-Warrior-Type "Bujin" monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of "Bujingi Quilin" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujingi Quilin</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a Beast-Warrior-Type &quot;Bujin&quot; monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of &quot;Bujingi Quilin&quot; once per turn.</text>
+</card>

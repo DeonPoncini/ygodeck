@@ -1,14 +1,17 @@
-Spirit Burner
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Once per turn, you can change the battle position of the equipped monster to Defense Position. When the equipped monster is returned from the field to the hand and this card is sent to the Graveyard, inflict 600 damage to your opponent. If this card is in the Graveyard, you can add it to your hand instead of conducting a normal draw during your Draw Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit Burner</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can change the battle position of the equipped monster to Defense Position. When the equipped monster is returned from the field to the hand and this card is sent to the Graveyard, inflict 600 damage to your opponent. If this card is in the Graveyard, you can add it to your hand instead of conducting a normal draw during your Draw Phase.</text>
+</card>

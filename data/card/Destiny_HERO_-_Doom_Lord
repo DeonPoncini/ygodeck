@@ -1,14 +1,17 @@
-Destiny HERO - Doom Lord
-Monster
-DARK
-Effect
-None
-Warrior
-3
-600
-800
-0
-0
-None
-None
-Once per turn: You can target 1 monster your opponent controls; banish that target. You cannot declare an attack the turn you activate this effect. You must control this face-up Attack Position card to activate and to resolve this effect. The banished monster returns to the opponent's side of the field, in the same battle position, during your 2nd Standby Phase after activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Doom Lord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 monster your opponent controls; banish that target. You cannot declare an attack the turn you activate this effect. You must control this face-up Attack Position card to activate and to resolve this effect. The banished monster returns to the opponent's side of the field, in the same battle position, during your 2nd Standby Phase after activation.</text>
+</card>

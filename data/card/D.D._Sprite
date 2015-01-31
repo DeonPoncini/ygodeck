@@ -1,14 +1,17 @@
-D.D. Sprite
-Monster
-LIGHT
-Tuner
-None
-Fairy
-1
-0
-100
-0
-0
-None
-None
-You can Special Summon this card from your hand by removing from play 1 face-up monster you control. If you do, return the removed from play monster to the field during the next Standby Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Sprite</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card from your hand by removing from play 1 face-up monster you control. If you do, return the removed from play monster to the field during the next Standby Phase.</text>
+</card>

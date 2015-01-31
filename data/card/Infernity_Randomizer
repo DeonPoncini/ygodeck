@@ -1,14 +1,17 @@
-Infernity Randomizer
-Monster
-DARK
-Effect
-None
-Warrior
-1
-900
-0
-0
-0
-None
-None
-Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster × 200. For a Spell or Trap Card, you take 500 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Infernity Randomizer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>900</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster × 200. For a Spell or Trap Card, you take 500 damage.</text>
+</card>

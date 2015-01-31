@@ -1,14 +1,17 @@
-Don Zaloog
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1400
-1500
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Discard 1 random card from their hand.● Send the top 2 cards of their Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Don Zaloog</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Discard 1 random card from their hand.● Send the top 2 cards of their Deck to the Graveyard.</text>
+</card>

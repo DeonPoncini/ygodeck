@@ -1,14 +1,17 @@
-Dark World Grimoire
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During your End Phase, if you discard a monster(s) to the Graveyard because you had more cards than your hand size limit: You can target 1 of those monsters; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark World Grimoire</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During your End Phase, if you discard a monster(s) to the Graveyard because you had more cards than your hand size limit: You can target 1 of those monsters; Special Summon that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Lumina, Lightsworn Summoner
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-3
-1000
-1000
-0
-0
-None
-None
-Once per turn: You can discard 1 card, then target 1 Level 4 or lower "Lightsworn" monster in your Graveyard; Special Summon that target. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Lumina, Lightsworn Summoner</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can discard 1 card, then target 1 Level 4 or lower &quot;Lightsworn&quot; monster in your Graveyard; Special Summon that target. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.</text>
+</card>

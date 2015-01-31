@@ -1,14 +1,17 @@
-Elephun
-Monster
-EARTH
-Tuner
-None
-Beast
-2
-500
-300
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can select 1 of your Level 3 or lower Beast-Type, Beast-Warrior-Type or Winged Beast-Type monsters that is removed from play, and add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Elephun</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can select 1 of your Level 3 or lower Beast-Type, Beast-Warrior-Type or Winged Beast-Type monsters that is removed from play, and add it to your hand.</text>
+</card>

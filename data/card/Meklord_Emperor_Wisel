@@ -1,14 +1,17 @@
-Meklord Emperor Wisel
-Monster
-DARK
-Effect
-None
-Machine
-1
-2500
-2500
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. Once per turn, during either player's turn, when your opponent activates a Spell Card: You can negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Meklord Emperor Wisel</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>2500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. Once per turn, during either player's turn, when your opponent activates a Spell Card: You can negate the activation, and if you do, destroy it.</text>
+</card>

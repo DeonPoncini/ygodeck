@@ -1,14 +1,17 @@
-Card of Sacrifice
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Draw 2 cards, if the combined ATK of all your face-up Attack Position monsters (minimum 2) is less than the ATK of your opponent's face-up monster with the lowest ATK. You cannot Summon or change Battle Position the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Card of Sacrifice</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Draw 2 cards, if the combined ATK of all your face-up Attack Position monsters (minimum 2) is less than the ATK of your opponent's face-up monster with the lowest ATK. You cannot Summon or change Battle Position the turn you activate this card.</text>
+</card>

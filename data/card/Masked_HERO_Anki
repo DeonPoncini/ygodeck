@@ -1,14 +1,17 @@
-Masked HERO Anki
-Monster
-DARK
-Fusion
-Effect
-Warrior
-8
-2800
-1200
-0
-0
-None
-None
-Must be Special Summoned with "Mask Change" and cannot be Special Summoned by other ways. This card can attack your opponent directly, but when it does so using this effect, any battle damage it inflicts to your opponent is halved. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 "Change" Quick-Play Spell Card from your Deck to your hand. You can only use this effect of "Masked HERO Anki" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Masked HERO Anki</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Must be Special Summoned with &quot;Mask Change&quot; and cannot be Special Summoned by other ways. This card can attack your opponent directly, but when it does so using this effect, any battle damage it inflicts to your opponent is halved. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 &quot;Change&quot; Quick-Play Spell Card from your Deck to your hand. You can only use this effect of &quot;Masked HERO Anki&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-T.G. Warwolf
-Monster
-DARK
-Effect
-None
-Beast-Warrior
-3
-1200
-0
-0
-0
-None
-None
-When a Level 4 or lower monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 "T.G." monster from your Deck to your hand, except "T.G. Warwolf".
+<?xml version="1.0" ?>
+<card>
+    <name>T.G. Warwolf</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a Level 4 or lower monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 &quot;T.G.&quot; monster from your Deck to your hand, except &quot;T.G. Warwolf&quot;.</text>
+</card>

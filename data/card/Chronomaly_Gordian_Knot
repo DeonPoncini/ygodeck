@@ -1,14 +1,17 @@
-Chronomaly Gordian Knot
-Monster
-EARTH
-Effect
-None
-Rock
-3
-300
-900
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 "Chronomaly" monster from your hand, and if you do, this card's Level becomes the current Level of that Special Summoned monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Chronomaly Gordian Knot</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 &quot;Chronomaly&quot; monster from your hand, and if you do, this card's Level becomes the current Level of that Special Summoned monster.</text>
+</card>

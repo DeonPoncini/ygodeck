@@ -1,14 +1,17 @@
-Destiny HERO - Disk Commander
-Monster
-DARK
-Effect
-None
-Warrior
-1
-300
-300
-0
-0
-None
-None
-When this card is Special Summoned from the Graveyard: Draw 2 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Disk Commander</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned from the Graveyard: Draw 2 cards.</text>
+</card>

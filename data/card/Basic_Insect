@@ -1,14 +1,17 @@
-Basic Insect
-Monster
-EARTH
-Normal
-None
-Insect
-2
-500
-700
-0
-0
-None
-None
-Usually found traveling in swarms, this creature's ideal environment is the forest.
+<?xml version="1.0" ?>
+<card>
+    <name>Basic Insect</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Usually found traveling in swarms, this creature's ideal environment is the forest.</text>
+</card>

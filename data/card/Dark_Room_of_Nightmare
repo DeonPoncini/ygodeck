@@ -1,14 +1,17 @@
-Dark Room of Nightmare
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time your opponent takes damage from a card effect, except "Dark Room of Nightmare", inflict 300 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Room of Nightmare</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time your opponent takes damage from a card effect, except &quot;Dark Room of Nightmare&quot;, inflict 300 damage to your opponent.</text>
+</card>

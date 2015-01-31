@@ -1,14 +1,17 @@
-By Order of the Emperor
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-You can choose to negate the activation of an Effect Monster's effect that activates when a monster is Normal Summoned (including itself). If you do, that Effect Monster's controller draws 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>By Order of the Emperor</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>You can choose to negate the activation of an Effect Monster's effect that activates when a monster is Normal Summoned (including itself). If you do, that Effect Monster's controller draws 1 card.</text>
+</card>

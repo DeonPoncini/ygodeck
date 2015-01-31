@@ -1,14 +1,17 @@
-Gem-Elephant
-Monster
-EARTH
-Effect
-None
-Rock
-3
-400
-1900
-0
-0
-None
-None
-During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card attacked or was attacked: You can send 1 Normal Monster from your hand to the Graveyard; this card gains 1000 DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Elephant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card attacked or was attacked: You can send 1 Normal Monster from your hand to the Graveyard; this card gains 1000 DEF.</text>
+</card>

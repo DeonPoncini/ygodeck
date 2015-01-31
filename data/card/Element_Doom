@@ -1,14 +1,17 @@
-Element Doom
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1500
-1200
-0
-0
-None
-None
-This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.
+<?xml version="1.0" ?>
+<card>
+    <name>Element Doom</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.</text>
+</card>

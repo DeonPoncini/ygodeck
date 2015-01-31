@@ -1,14 +1,17 @@
-Crystal Abundance
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 4 "Crystal Beast" cards from your Spell & Trap Card Zone to the Graveyard; send all cards on the field to the Graveyard, then Special Summon as many "Crystal Beast" monsters as possible from your Graveyard, up to the number of cards your opponent controlled that were sent to the Graveyard by this card's effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Abundance</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 4 &quot;Crystal Beast&quot; cards from your Spell &amp; Trap Card Zone to the Graveyard; send all cards on the field to the Graveyard, then Special Summon as many &quot;Crystal Beast&quot; monsters as possible from your Graveyard, up to the number of cards your opponent controlled that were sent to the Graveyard by this card's effect.</text>
+</card>

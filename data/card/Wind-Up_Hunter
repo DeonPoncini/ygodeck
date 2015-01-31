@@ -1,14 +1,17 @@
-Wind-Up Hunter
-Monster
-DARK
-Effect
-None
-Beast-Warrior
-3
-1600
-500
-0
-0
-None
-None
-You can Tribute 1 face-up "Wind-Up" monster, except "Wind-Up Hunter"; send 1 random card from your opponent's hand to the Graveyard. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Hunter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 face-up &quot;Wind-Up&quot; monster, except &quot;Wind-Up Hunter&quot;; send 1 random card from your opponent's hand to the Graveyard. This effect can only be used once while this card is face-up on the field.</text>
+</card>

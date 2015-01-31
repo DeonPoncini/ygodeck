@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Planetellarknight Ptolemaios</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>550</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 or more Level 4 monstersDuring either player's turn: You can detach 3 Xyz Materials from this card; Special Summon from your Extra Deck, 1 monster that is 1 Rank higher than this card, except a &quot;Number&quot; monster, by using this card as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to this card also become Xyz Materials on the Summoned monster.) You can detach 7 Xyz Materials from this card; skip your opponent's next turn. During each End Phase: You can attach 1 &quot;Stellarknight&quot; card from your Extra Deck to this card as an Xyz Material.</text>
+</card>

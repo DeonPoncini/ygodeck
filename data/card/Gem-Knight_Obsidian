@@ -1,14 +1,17 @@
-Gem-Knight Obsidian
-Monster
-EARTH
-Effect
-None
-Rock
-3
-1500
-1200
-0
-0
-None
-None
-If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Obsidian</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.</text>
+</card>

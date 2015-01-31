@@ -1,14 +1,17 @@
-Number 57: Tri-Head Dust Dragon
-Monster
-FIRE
-Xyz
-Effect
-Dragon
-4
-100
-2600
-0
-0
-None
-None
-3 Level 4 monstersWhen this card is Special Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to that monster's current ATK. If your opponent controls more cards than you do: You can detach 1 Xyz Material from this card, then choose 1 unused Monster Card Zone or Spell & Trap Card Zone; while this face-up card is on the field, that Card Zone cannot be used.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 57: Tri-Head Dust Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersWhen this card is Special Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to that monster's current ATK. If your opponent controls more cards than you do: You can detach 1 Xyz Material from this card, then choose 1 unused Monster Card Zone or Spell &amp; Trap Card Zone; while this face-up card is on the field, that Card Zone cannot be used.</text>
+</card>

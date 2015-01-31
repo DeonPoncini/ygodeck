@@ -1,14 +1,17 @@
-Cybernetic Fusion Support
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Pay half your LP; once during this turn, if you would Fusion Summon a Machine-Type Fusion Monster, you can banish Fusion Material Monsters listed on that Fusion Monster from your side of the field, hand, and/or Graveyard, and use them as Fusion Materials. You can only activate 1 "Cybernetic Fusion Support" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Cybernetic Fusion Support</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Pay half your LP; once during this turn, if you would Fusion Summon a Machine-Type Fusion Monster, you can banish Fusion Material Monsters listed on that Fusion Monster from your side of the field, hand, and/or Graveyard, and use them as Fusion Materials. You can only activate 1 &quot;Cybernetic Fusion Support&quot; per turn.</text>
+</card>

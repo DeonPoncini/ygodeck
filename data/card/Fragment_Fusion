@@ -1,14 +1,17 @@
-Fragment Fusion
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Banish from your Graveyard the Fusion Material Monsters that are listed on a "Gem-Knight" Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) Destroy it during the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Fragment Fusion</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Banish from your Graveyard the Fusion Material Monsters that are listed on a &quot;Gem-Knight&quot; Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) Destroy it during the End Phase.</text>
+</card>

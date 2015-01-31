@@ -1,14 +1,17 @@
-Cloudcastle
-Monster
-WIND
-Synchro
-Effect
-Machine
-9
-0
-3000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can target 1 Level 9 monster in your Graveyard; Special Summon that target. Level 8 or lower monsters cannot attack the turn they are Normal or Special Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Cloudcastle</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can target 1 Level 9 monster in your Graveyard; Special Summon that target. Level 8 or lower monsters cannot attack the turn they are Normal or Special Summoned.</text>
+</card>

@@ -1,14 +1,17 @@
-Spiritual Wind Art - Miyabi
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Tribute 1 WIND monster to select 1 card your opponent controls. Place that card on the bottom of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Spiritual Wind Art - Miyabi</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Tribute 1 WIND monster to select 1 card your opponent controls. Place that card on the bottom of the Deck.</text>
+</card>

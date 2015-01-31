@@ -1,14 +1,17 @@
-Madolche Ticket
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When a "Madolche" card(s) is returned from your side of the field or Graveyard to your hand or Main Deck by a card effect: Add 1 "Madolche" monster from your Deck to your hand. If you control a face-up Fairy-Type "Madolche" monster, you can Special Summon the monster from your Deck in face-up Attack Position instead of adding it to your hand. You can only use the effect of "Madolche Ticket" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Madolche Ticket</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Madolche&quot; card(s) is returned from your side of the field or Graveyard to your hand or Main Deck by a card effect: Add 1 &quot;Madolche&quot; monster from your Deck to your hand. If you control a face-up Fairy-Type &quot;Madolche&quot; monster, you can Special Summon the monster from your Deck in face-up Attack Position instead of adding it to your hand. You can only use the effect of &quot;Madolche Ticket&quot; once per turn.</text>
+</card>

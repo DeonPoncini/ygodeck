@@ -1,14 +1,17 @@
-Oracle of the Sun
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-5
-1000
-2000
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When this card on the field is destroyed and sent to the Graveyard: You can add 1 "Fire Ant Ascator" or "Supay" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Oracle of the Sun</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When this card on the field is destroyed and sent to the Graveyard: You can add 1 &quot;Fire Ant Ascator&quot; or &quot;Supay&quot; from your Deck to your hand.</text>
+</card>

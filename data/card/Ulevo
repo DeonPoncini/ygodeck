@@ -1,14 +1,17 @@
-Ulevo
-Monster
-EARTH
-Effect
-None
-Winged Beast
-10
-3000
-2500
-0
-0
-None
-None
-This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Winged Beast-Type monsters on your side of the field as Tributes. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Ulevo</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Winged Beast-Type monsters on your side of the field as Tributes. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.</text>
+</card>

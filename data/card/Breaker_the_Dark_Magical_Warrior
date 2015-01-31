@@ -1,14 +1,17 @@
-Breaker the Dark Magical Warrior
-Monster
-DARK
-Effect
-None
-Spellcaster
-6
-1600
-1000
-0
-0
-None
-None
-If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. This card gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy it. You can only use this effect of "Breaker the Dark Magical Warrior" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Breaker the Dark Magical Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. This card gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy it. You can only use this effect of &quot;Breaker the Dark Magical Warrior&quot; once per turn.</text>
+</card>

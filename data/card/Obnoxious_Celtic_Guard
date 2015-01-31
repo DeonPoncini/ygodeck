@@ -1,14 +1,17 @@
-Obnoxious Celtic Guard
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1400
-1200
-0
-0
-None
-None
-This card cannot be destroyed by battle with a monster that has 1900 or more ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Obnoxious Celtic Guard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle with a monster that has 1900 or more ATK.</text>
+</card>

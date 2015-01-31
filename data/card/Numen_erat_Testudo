@@ -1,14 +1,17 @@
-Numen erat Testudo
-Monster
-WATER
-Effect
-None
-Aqua
-5
-1800
-0
-0
-0
-None
-None
-Neither player can Special Summon monsters with 1800 or less ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Numen erat Testudo</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Neither player can Special Summon monsters with 1800 or less ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-King of Yamimakai
-Monster
-DARK
-Normal
-None
-Fiend
-5
-2000
-1530
-0
-0
-None
-None
-Wields the power of darkness to destroy its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>King of Yamimakai</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1530</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Wields the power of darkness to destroy its enemies.</text>
+</card>

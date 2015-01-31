@@ -1,14 +1,17 @@
-Unbreakable Spirit
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control only 1 face-up monster: Target that monster; until the end of this turn, it gains ATK equal to the ATK of the monster your opponent currently controls with the lowest ATK (your choice, if tied).
+<?xml version="1.0" ?>
+<card>
+    <name>Unbreakable Spirit</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control only 1 face-up monster: Target that monster; until the end of this turn, it gains ATK equal to the ATK of the monster your opponent currently controls with the lowest ATK (your choice, if tied).</text>
+</card>

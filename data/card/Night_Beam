@@ -1,14 +1,17 @@
-Night Beam
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 Set Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Night Beam</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Set Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.</text>
+</card>

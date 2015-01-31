@@ -1,14 +1,17 @@
-Maiden of the Moonlight
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-4
-1500
-1300
-0
-0
-None
-None
-A sorcerer blessed by lunar light with powers far beyond mortal comprehension.
+<?xml version="1.0" ?>
+<card>
+    <name>Maiden of the Moonlight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A sorcerer blessed by lunar light with powers far beyond mortal comprehension.</text>
+</card>

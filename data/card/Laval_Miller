@@ -1,14 +1,17 @@
-Laval Miller
-Monster
-FIRE
-Effect
-None
-Pyro
-3
-300
-400
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can send 2 "Laval" monsters from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Miller</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can send 2 &quot;Laval&quot; monsters from your Deck to the Graveyard.</text>
+</card>

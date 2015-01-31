@@ -1,14 +1,17 @@
-Lightning Conger
-Monster
-WATER
-Normal
-None
-Thunder
-3
-350
-750
-0
-0
-None
-None
-This massive eel generates huge charges of electricity and unleashes them as thunderbolts.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightning Conger</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>350</attack>
+    <defense>750</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This massive eel generates huge charges of electricity and unleashes them as thunderbolts.</text>
+</card>

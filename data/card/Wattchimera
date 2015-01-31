@@ -1,14 +1,17 @@
-Wattchimera
-Monster
-LIGHT
-Synchro
-Effect
-Thunder
-6
-1400
-1200
-0
-0
-None
-None
-1 "Watt" Tuner + 1 or more non-Tuner Thunder-Type monstersThis card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, place 1 random card from your opponent's hand on top of their Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Wattchimera</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Thunder</type>
+    <level>6</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Watt&quot; Tuner + 1 or more non-Tuner Thunder-Type monstersThis card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, place 1 random card from your opponent's hand on top of their Deck.</text>
+</card>

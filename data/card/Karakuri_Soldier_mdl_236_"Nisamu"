@@ -1,14 +1,17 @@
-Karakuri Soldier mdl 236 "Nisamu"
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1400
-200
-0
-0
-None
-None
-This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower "Karakuri" monster from your Deck in face-up Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Soldier mdl 236 &quot;Nisamu&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower &quot;Karakuri&quot; monster from your Deck in face-up Attack Position.</text>
+</card>

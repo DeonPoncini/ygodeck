@@ -1,14 +1,17 @@
-Ma'at
-Monster
-LIGHT
-Effect
-None
-Fairy
-10
-?
-?
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 LIGHT Dragon-Type monster and 1 LIGHT Fairy-Type monster you control to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can declare 3 card names; excavate the top 3 cards of your Deck, add any of them that you named to your hand, also send the remaining cards to the Graveyard. This card's ATK and DEF each become equal to the number of cards added to your hand by this effect × 1000.
+<?xml version="1.0" ?>
+<card>
+    <name>Ma'at</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>10</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 LIGHT Dragon-Type monster and 1 LIGHT Fairy-Type monster you control to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can declare 3 card names; excavate the top 3 cards of your Deck, add any of them that you named to your hand, also send the remaining cards to the Graveyard. This card's ATK and DEF each become equal to the number of cards added to your hand by this effect × 1000.</text>
+</card>

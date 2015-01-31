@@ -1,14 +1,17 @@
-Des Wombat
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1600
-300
-0
-0
-None
-None
-Any damage to you from a card effect becomes 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Des Wombat</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Any damage to you from a card effect becomes 0.</text>
+</card>

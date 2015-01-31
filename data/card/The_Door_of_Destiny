@@ -1,14 +1,17 @@
-The Door of Destiny
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When an opponent's monster declares a direct attack: Negate the attack, then Special Summon this card as an Effect Monster (Fiend-Type/LIGHT/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.) During each of your Standby Phases, if Summoned this way: You can banish any number of "Utopia" monsters with different names from your Graveyard; inflict 500 damage to your opponent for each monster banished by this effect, and if you do, this card gains ATK equal to the damage inflicted.
+<?xml version="1.0" ?>
+<card>
+    <name>The Door of Destiny</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When an opponent's monster declares a direct attack: Negate the attack, then Special Summon this card as an Effect Monster (Fiend-Type/LIGHT/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.) During each of your Standby Phases, if Summoned this way: You can banish any number of &quot;Utopia&quot; monsters with different names from your Graveyard; inflict 500 damage to your opponent for each monster banished by this effect, and if you do, this card gains ATK equal to the damage inflicted.</text>
+</card>

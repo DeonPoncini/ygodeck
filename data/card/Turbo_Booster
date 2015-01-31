@@ -1,14 +1,17 @@
-Turbo Booster
-Monster
-EARTH
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-If you have Normal Summoned a monster this turn, you can Special Summon this card from your hand. You can Tribute this card to destroy 1 monster your opponent controls that battled one of your monsters this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Turbo Booster</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you have Normal Summoned a monster this turn, you can Special Summon this card from your hand. You can Tribute this card to destroy 1 monster your opponent controls that battled one of your monsters this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-De-Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 face-up Fusion Monster on the field; shuffle that target into the Extra Deck, then, if all the Fusion Material Monsters that were used for its Fusion Summon are in your Graveyard, you can Special Summon all of them.
+<?xml version="1.0" ?>
+<card>
+    <name>De-Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 face-up Fusion Monster on the field; shuffle that target into the Extra Deck, then, if all the Fusion Material Monsters that were used for its Fusion Summon are in your Graveyard, you can Special Summon all of them.</text>
+</card>

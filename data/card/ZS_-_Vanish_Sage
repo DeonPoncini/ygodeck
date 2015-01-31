@@ -1,14 +1,17 @@
-ZS - Vanish Sage
-Monster
-LIGHT
-Effect
-None
-Warrior
-1
-500
-100
-0
-0
-None
-None
-If you control a "Utopia" monster: You can draw 1 card. If a monster(s) you control is banished during the Battle Phase (except during the Damage Step): You can banish this card from the field, then target 1 of those banished monsters; Special Summon that target, and if you do, banish 1 monster your opponent controls that has 3000 or less ATK. You can only use 1 "ZS - Vanish Sage" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>ZS - Vanish Sage</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>500</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Utopia&quot; monster: You can draw 1 card. If a monster(s) you control is banished during the Battle Phase (except during the Damage Step): You can banish this card from the field, then target 1 of those banished monsters; Special Summon that target, and if you do, banish 1 monster your opponent controls that has 3000 or less ATK. You can only use 1 &quot;ZS - Vanish Sage&quot; effect per turn, and only once that turn.</text>
+</card>

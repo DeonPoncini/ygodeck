@@ -1,14 +1,17 @@
-Painful Choice
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 5 cards from your Deck and reveal them to your opponent. Your opponent selects 1 card among them. Add that card to your hand and discard the other cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Painful Choice</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 5 cards from your Deck and reveal them to your opponent. Your opponent selects 1 card among them. Add that card to your hand and discard the other cards.</text>
+</card>

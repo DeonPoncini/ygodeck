@@ -1,14 +1,17 @@
-Worm Warlord
-Monster
-LIGHT
-Effect
-None
-Reptile
-6
-2350
-1800
-0
-0
-None
-None
-This card cannot be Special Summoned. Negate the effects of Effect Monsters destroyed by battle with this card. If this card destroys an opponent's monster by battle, it can attack once again in a row.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Warlord</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>6</level>
+    <attack>2350</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. Negate the effects of Effect Monsters destroyed by battle with this card. If this card destroys an opponent's monster by battle, it can attack once again in a row.</text>
+</card>

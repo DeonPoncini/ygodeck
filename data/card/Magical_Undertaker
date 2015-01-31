@@ -1,14 +1,17 @@
-Magical Undertaker
-Monster
-DARK
-Flip
-Effect
-Spellcaster
-2
-400
-400
-0
-0
-None
-None
-FLIP: You can target 1 Level 4 or lower Spellcaster-Type monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Undertaker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can target 1 Level 4 or lower Spellcaster-Type monster in your Graveyard; Special Summon that target.</text>
+</card>

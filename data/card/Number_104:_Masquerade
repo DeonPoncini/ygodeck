@@ -1,14 +1,17 @@
-Number 104: Masquerade
-Monster
-LIGHT
-Xyz
-Effect
-Spellcaster
-4
-2700
-1200
-0
-0
-None
-None
-3 Level 4 monstersDuring either player's Battle Phase, when an opponent's monster effect is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, inflict 800 damage to your opponent. Once per turn: You can send the top card of your opponent's Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 104: Masquerade</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>2700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersDuring either player's Battle Phase, when an opponent's monster effect is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, inflict 800 damage to your opponent. Once per turn: You can send the top card of your opponent's Deck to the Graveyard.</text>
+</card>

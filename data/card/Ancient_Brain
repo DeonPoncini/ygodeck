@@ -1,14 +1,17 @@
-Ancient Brain
-Monster
-DARK
-Normal
-None
-Fiend
-3
-1000
-700
-0
-0
-None
-None
-A fallen fairy that is powerful in the dark.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Brain</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fallen fairy that is powerful in the dark.</text>
+</card>

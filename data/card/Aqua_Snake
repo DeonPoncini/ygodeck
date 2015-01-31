@@ -1,14 +1,17 @@
-Aqua Snake
-Monster
-WATER
-Normal
-None
-Aqua
-3
-1050
-900
-0
-0
-None
-None
-This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.
+<?xml version="1.0" ?>
+<card>
+    <name>Aqua Snake</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1050</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.</text>
+</card>

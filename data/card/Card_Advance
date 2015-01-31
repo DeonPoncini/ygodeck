@@ -1,14 +1,17 @@
-Card Advance
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order. You can Tribute Summon 1 monster in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.)
+<?xml version="1.0" ?>
+<card>
+    <name>Card Advance</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order. You can Tribute Summon 1 monster in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.)</text>
+</card>

@@ -1,14 +1,17 @@
-Number 10: Illumiknight
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-4
-2400
-2400
-0
-0
-None
-None
-3 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card; send 1 card from your hand to the Graveyard, and if you do, draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 10: Illumiknight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2400</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card; send 1 card from your hand to the Graveyard, and if you do, draw 1 card.</text>
+</card>

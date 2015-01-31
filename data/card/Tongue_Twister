@@ -1,14 +1,17 @@
-Tongue Twister
-Monster
-DARK
-Effect
-None
-Fiend
-6
-400
-300
-0
-0
-None
-None
-If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Tongue Twister</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.</text>
+</card>

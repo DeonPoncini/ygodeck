@@ -1,14 +1,17 @@
-Wind-Up Carrier Zenmaity
-Monster
-WATER
-Xyz
-Effect
-Machine
-3
-1500
-1500
-0
-0
-None
-None
-2 Level 3 monstersOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 "Wind-Up" monster from your hand or Deck. When a face-up "Wind-Up" monster on the field is destroyed and sent to your Graveyard (except during the Damage Step): You can detach 1 Xyz Material from this card to target that monster; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Carrier Zenmaity</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 monstersOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 &quot;Wind-Up&quot; monster from your hand or Deck. When a face-up &quot;Wind-Up&quot; monster on the field is destroyed and sent to your Graveyard (except during the Damage Step): You can detach 1 Xyz Material from this card to target that monster; return that target to the hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Maharaghi
-Monster
-EARTH
-Spirit
-None
-Rock
-4
-1200
-1700
-0
-0
-None
-None
-This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. If this card is Normal Summoned or flipped face-up, look at 1 card on the top of your Deck during your next Draw Phase (before you draw), and return the card to the top or the bottom of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Maharaghi</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. If this card is Normal Summoned or flipped face-up, look at 1 card on the top of your Deck during your next Draw Phase (before you draw), and return the card to the top or the bottom of your Deck.</text>
+</card>

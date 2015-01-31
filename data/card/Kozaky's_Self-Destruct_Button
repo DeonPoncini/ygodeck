@@ -1,14 +1,17 @@
-Kozaky's Self-Destruct Button
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Inflict 1000 damage to the player who destroyed this Set card.
+<?xml version="1.0" ?>
+<card>
+    <name>Kozaky's Self-Destruct Button</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Inflict 1000 damage to the player who destroyed this Set card.</text>
+</card>

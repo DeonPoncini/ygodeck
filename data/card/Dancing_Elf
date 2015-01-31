@@ -1,14 +1,17 @@
-Dancing Elf
-Monster
-WIND
-Normal
-None
-Fairy
-1
-300
-200
-0
-0
-None
-None
-An elf that dances across the sky with wings of razor-sharp blades.
+<?xml version="1.0" ?>
+<card>
+    <name>Dancing Elf</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An elf that dances across the sky with wings of razor-sharp blades.</text>
+</card>

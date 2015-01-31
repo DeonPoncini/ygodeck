@@ -1,14 +1,17 @@
-Resonant Destruction
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time a "Resonator" monster(s) is sent to the Graveyard as a Synchro Material: Target 1 card your opponent controls; destroy that target. Destroy this card during your 2nd End Phase after activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Resonant Destruction</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time a &quot;Resonator&quot; monster(s) is sent to the Graveyard as a Synchro Material: Target 1 card your opponent controls; destroy that target. Destroy this card during your 2nd End Phase after activation.</text>
+</card>

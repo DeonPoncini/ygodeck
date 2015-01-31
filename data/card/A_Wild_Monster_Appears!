@@ -1,14 +1,17 @@
-A Wild Monster Appears!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If your opponent controls a monster and you control no monsters: Special Summon from your hand, 1 monster with an original Level of 10 or lower that cannot be Normal Summoned/Set, ignoring its Summoning conditions. It is unaffected by the effects of your cards, except for its own effects and this card's, also shuffle it into the Deck during your opponent's next End Phase. For the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters, and your opponent takes no damage.
+<?xml version="1.0" ?>
+<card>
+    <name>A Wild Monster Appears!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters: Special Summon from your hand, 1 monster with an original Level of 10 or lower that cannot be Normal Summoned/Set, ignoring its Summoning conditions. It is unaffected by the effects of your cards, except for its own effects and this card's, also shuffle it into the Deck during your opponent's next End Phase. For the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters, and your opponent takes no damage.</text>
+</card>

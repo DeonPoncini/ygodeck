@@ -1,14 +1,17 @@
-Phalanx Pike
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.
+<?xml version="1.0" ?>
+<card>
+    <name>Phalanx Pike</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.</text>
+</card>

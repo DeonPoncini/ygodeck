@@ -1,14 +1,17 @@
-Burst Rebirth
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Pay 2000 Life Points, then target 1 monster in your Graveyard; Special Summon that target in face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Burst Rebirth</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Pay 2000 Life Points, then target 1 monster in your Graveyard; Special Summon that target in face-down Defense Position.</text>
+</card>

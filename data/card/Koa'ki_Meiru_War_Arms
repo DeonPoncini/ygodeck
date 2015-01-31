@@ -1,14 +1,17 @@
-Koa'ki Meiru War Arms
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1400
-1200
-0
-0
-None
-None
-During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. Once per turn: You can target 1 Level 3 or lower Warrior-Type monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the combined ATK of the monsters equipped to it by this effect. If this card would be destroyed by battle, destroy all monsters equipped to it by this effect instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru War Arms</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases, destroy this card unless you send 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. Once per turn: You can target 1 Level 3 or lower Warrior-Type monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the combined ATK of the monsters equipped to it by this effect. If this card would be destroyed by battle, destroy all monsters equipped to it by this effect instead.</text>
+</card>

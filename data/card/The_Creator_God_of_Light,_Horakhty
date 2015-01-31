@@ -1,14 +1,17 @@
-The Creator God of Light, Horakhty
-Monster
-DIVINE
-Effect
-None
-Creator God
-12
-?
-?
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters whose original names are "Slifer the Sky Dragon", "Obelisk the Tormentor", and "The Winged Dragon of Ra", and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. The player that Special Summons this card wins the Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>The Creator God of Light, Horakhty</name>
+    <cardType>Monster</cardType>
+    <attribute>DIVINE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Creator God</type>
+    <level>12</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters whose original names are &quot;Slifer the Sky Dragon&quot;, &quot;Obelisk the Tormentor&quot;, and &quot;The Winged Dragon of Ra&quot;, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. The player that Special Summons this card wins the Duel.</text>
+</card>

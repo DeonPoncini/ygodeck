@@ -1,14 +1,17 @@
-Fire Lake of the Burning Abyss
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Send 2 face-up "Burning Abyss" monsters you control to the Graveyard, then target up to 3 cards on the field; destroy those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Lake of the Burning Abyss</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Send 2 face-up &quot;Burning Abyss&quot; monsters you control to the Graveyard, then target up to 3 cards on the field; destroy those targets.</text>
+</card>

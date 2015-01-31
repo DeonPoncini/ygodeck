@@ -1,14 +1,17 @@
-Gravity Axe - Grarl
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravity Axe - Grarl</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.</text>
+</card>

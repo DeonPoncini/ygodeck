@@ -1,14 +1,17 @@
-Gagaga Samurai
-Monster
-EARTH
-Xyz
-Effect
-Warrior
-4
-1900
-1600
-0
-0
-None
-None
-2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 "Gagaga" monster you control; this turn, that target can make a second attack during each Battle Phase. When another monster is targeted for an attack: You can change this card to Defense Position, then change the attack target to this card, and you proceed to damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Gagaga Samurai</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 &quot;Gagaga&quot; monster you control; this turn, that target can make a second attack during each Battle Phase. When another monster is targeted for an attack: You can change this card to Defense Position, then change the attack target to this card, and you proceed to damage calculation.</text>
+</card>

@@ -1,14 +1,17 @@
-Mono Synchron
-Monster
-DARK
-Tuner
-Effect
-Machine
-1
-0
-0
-0
-0
-None
-None
-When using this card as Synchro Material, the other Synchro Material(s) must be Level 4 or lower Warrior or Machine-Type monsters, and they are treated as Level 1.
+<?xml version="1.0" ?>
+<card>
+    <name>Mono Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When using this card as Synchro Material, the other Synchro Material(s) must be Level 4 or lower Warrior or Machine-Type monsters, and they are treated as Level 1.</text>
+</card>

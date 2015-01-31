@@ -1,14 +1,17 @@
-Hydro Genex
-Monster
-WATER
-Synchro
-Effect
-Machine
-6
-2300
-1800
-0
-0
-None
-None
-"Genex Controller" + 1 or more non-Tuner WATER monstersWhen this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Hydro Genex</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Genex Controller&quot; + 1 or more non-Tuner WATER monstersWhen this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.</text>
+</card>

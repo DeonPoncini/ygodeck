@@ -1,14 +1,17 @@
-Needle Burrower
-Monster
-DARK
-Effect
-None
-Machine
-5
-1700
-1700
-0
-0
-None
-None
-When this card destroys a monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the Level of the destroyed monster x 500 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Needle Burrower</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys a monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the Level of the destroyed monster x 500 points.</text>
+</card>

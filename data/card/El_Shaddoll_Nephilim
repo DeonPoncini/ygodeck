@@ -1,14 +1,17 @@
-El Shaddoll Nephilim
-Monster
-LIGHT
-Fusion
-Effect
-Fairy
-8
-2800
-2500
-0
-0
-None
-None
-1 "Shaddoll" monster + 1 LIGHT monsterMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 "Shaddoll" card from your Deck to the Graveyard. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the Graveyard: You can target 1 "Shaddoll" Spell/Trap Card in your Graveyard; add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>El Shaddoll Construct</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Shaddoll&quot; monster + 1 LIGHT monsterMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 &quot;Shaddoll&quot; card from your Deck to the Graveyard. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the Graveyard: You can target 1 &quot;Shaddoll&quot; Spell/Trap Card in your Graveyard; add it to your hand.</text>
+</card>

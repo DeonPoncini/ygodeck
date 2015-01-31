@@ -1,14 +1,17 @@
-Infernity Doom Dragon
-Monster
-DARK
-Synchro
-Effect
-Dragon
-8
-3000
-2400
-0
-0
-None
-None
-1 DARK Tuner + 1 or more non-Tuner monstersOnce per turn, if you have no cards in your hand, you can select 1 monster your opponent controls. Destroy that monster and inflict damage to your opponent equal to half its ATK. This card cannot attack the same turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Infernity Doom Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 1 or more non-Tuner monstersOnce per turn, if you have no cards in your hand, you can select 1 monster your opponent controls. Destroy that monster and inflict damage to your opponent equal to half its ATK. This card cannot attack the same turn you activate this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Next to be Lost
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Select 1 face-up monster you control. Send 1 card from your Deck to the Graveyard with the same name as the selected card.
+<?xml version="1.0" ?>
+<card>
+    <name>Next to be Lost</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Select 1 face-up monster you control. Send 1 card from your Deck to the Graveyard with the same name as the selected card.</text>
+</card>

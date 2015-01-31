@@ -1,14 +1,17 @@
-Rush Warrior
-Monster
-WIND
-Effect
-None
-Warrior
-2
-300
-1200
-0
-0
-None
-None
-During damage calculation (in either player's turn), if a "Warrior" Synchro Monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; double your battling monster's ATK during that damage calculation only. You can banish this card from your Graveyard, then target 1 "Synchron" monster in your Graveyard; add it to your hand. You can only use each effect of "Rush Warrior" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Rush Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During damage calculation (in either player's turn), if a &quot;Warrior&quot; Synchro Monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; double your battling monster's ATK during that damage calculation only. You can banish this card from your Graveyard, then target 1 &quot;Synchron&quot; monster in your Graveyard; add it to your hand. You can only use each effect of &quot;Rush Warrior&quot; once per turn.</text>
+</card>

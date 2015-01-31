@@ -1,14 +1,17 @@
-Psychic Kappa
-Monster
-WATER
-Normal
-None
-Aqua
-2
-400
-1000
-0
-0
-None
-None
-An amphibian with a myriad of powers to shield it from enemy attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Psychic Kappa</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An amphibian with a myriad of powers to shield it from enemy attacks.</text>
+</card>

@@ -1,14 +1,17 @@
-Metamorphosis
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Tribute 1 monster. Special Summon 1 Fusion Monster from your Fusion Deck with the same Level as the Tributed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Metamorphosis</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 monster. Special Summon 1 Fusion Monster from your Fusion Deck with the same Level as the Tributed monster.</text>
+</card>

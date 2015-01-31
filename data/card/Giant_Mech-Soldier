@@ -1,14 +1,17 @@
-Giant Mech-Soldier
-Monster
-EARTH
-Normal
-None
-Machine
-6
-1750
-1900
-0
-0
-None
-None
-This monster swings an earth-shaking axe that cannot be blocked by a common sword.
+<?xml version="1.0" ?>
+<card>
+    <name>Giant Mech-Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1750</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster swings an earth-shaking axe that cannot be blocked by a common sword.</text>
+</card>

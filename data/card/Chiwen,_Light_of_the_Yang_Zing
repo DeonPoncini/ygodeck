@@ -1,14 +1,17 @@
-Chiwen, Light of the Yang Zing
-Monster
-LIGHT
-Tuner
-Effect
-Wyrm
-1
-0
-0
-0
-0
-None
-None
-When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 "Yang Zing" monster from your Deck, except "Chiwen, Light of the Yang Zing". When a "Yang Zing" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard, while this card is in the Graveyard: You can Special Summon this card, and if you do, banish it when it leaves the field. You can only use 1 "Chiwen, Light of the Yang Zing" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Chiwen, Light of the Yang Zing</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Wyrm</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 &quot;Yang Zing&quot; monster from your Deck, except &quot;Chiwen, Light of the Yang Zing&quot;. When a &quot;Yang Zing&quot; monster(s) you control is destroyed by battle or card effect and sent to the Graveyard, while this card is in the Graveyard: You can Special Summon this card, and if you do, banish it when it leaves the field. You can only use 1 &quot;Chiwen, Light of the Yang Zing&quot; effect per turn, and only once that turn.</text>
+</card>

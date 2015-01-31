@@ -1,14 +1,17 @@
-Eccentric Boy
-Monster
-WIND
-Tuner
-None
-Spellcaster
-3
-800
-200
-0
-0
-None
-None
-When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effects, its effect(s) is negated, and is removed from play when removed from the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Eccentric Boy</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effects, its effect(s) is negated, and is removed from play when removed from the field.</text>
+</card>

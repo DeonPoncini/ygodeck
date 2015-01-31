@@ -1,14 +1,17 @@
-Dark City
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-When a "Destiny HERO" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark City</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Destiny HERO&quot; monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.</text>
+</card>

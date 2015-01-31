@@ -1,14 +1,17 @@
-Assault Armor
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Warrior-Type monster that is the only monster you control. It gains 300 ATK. During your Main Phase 1, you can send this equipped card to the Graveyard to allow the equipped monster to attack twice during each Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Assault Armor</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Warrior-Type monster that is the only monster you control. It gains 300 ATK. During your Main Phase 1, you can send this equipped card to the Graveyard to allow the equipped monster to attack twice during each Battle Phase this turn.</text>
+</card>

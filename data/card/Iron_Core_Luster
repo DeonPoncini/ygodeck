@@ -1,14 +1,17 @@
-Iron Core Luster
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Reveal 1 "Iron Core of Koa'ki Meiru" in your hand. Negate the activation of your opponent's Spell or Trap Card and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Iron Core Luster</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Reveal 1 &quot;Iron Core of Koa'ki Meiru&quot; in your hand. Negate the activation of your opponent's Spell or Trap Card and destroy it.</text>
+</card>

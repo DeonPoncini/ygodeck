@@ -1,14 +1,17 @@
-Magical Citadel of Endymion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from your side of the field, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Citadel of Endymion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from your side of the field, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.</text>
+</card>

@@ -1,14 +1,17 @@
-Splendid Venus
-Monster
-LIGHT
-Effect
-None
-Fairy
-8
-2800
-2400
-0
-0
-None
-None
-All non-Fairy-Type monsters lose 500 ATK and DEF. The activation and effects of Spell/Trap Cards you control cannot be negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Splendid Venus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All non-Fairy-Type monsters lose 500 ATK and DEF. The activation and effects of Spell/Trap Cards you control cannot be negated.</text>
+</card>

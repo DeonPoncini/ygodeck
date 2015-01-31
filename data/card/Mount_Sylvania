@@ -1,14 +1,17 @@
-Mount Sylvania
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-You can send 1 Plant-Type monster from your hand or face-up from your side of the field to the Graveyard; choose 1 "Sylvan" card from your Deck and place it on top of the Deck. You can only use this effect of "Mount Sylvania" once per turn. Once per turn, during your opponent's End Phase: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on either the top or bottom of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Mount Sylvania</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>You can send 1 Plant-Type monster from your hand or face-up from your side of the field to the Graveyard; choose 1 &quot;Sylvan&quot; card from your Deck and place it on top of the Deck. You can only use this effect of &quot;Mount Sylvania&quot; once per turn. Once per turn, during your opponent's End Phase: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on either the top or bottom of your Deck.</text>
+</card>

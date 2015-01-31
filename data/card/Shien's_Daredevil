@@ -1,14 +1,17 @@
-Shien's Daredevil
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1600
-1000
-0
-0
-None
-None
-When this card is Normal Summoned: Place 1 Bushido Counter on it (max. 1). This card gains 300 ATK while it has a Bushido Counter on it. Once per turn: You can target 1 face-up card on the field that you can place a Bushido Counter on; remove 1 Bushido Counter from this card, then place it on that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Shien's Daredevil</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: Place 1 Bushido Counter on it (max. 1). This card gains 300 ATK while it has a Bushido Counter on it. Once per turn: You can target 1 face-up card on the field that you can place a Bushido Counter on; remove 1 Bushido Counter from this card, then place it on that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Advanced Heraldry Art
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 2 "Heraldic Beast" monsters in your Graveyard; Special Summon both those targets. Immediately after this card resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.
+<?xml version="1.0" ?>
+<card>
+    <name>Advanced Heraldry Art</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 2 &quot;Heraldic Beast&quot; monsters in your Graveyard; Special Summon both those targets. Immediately after this card resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.</text>
+</card>

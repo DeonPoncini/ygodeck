@@ -1,14 +1,17 @@
-Otherworld - The "A" Zone
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-If your opponent's monster battles with an "Alien" monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Otherworld - The &quot;A&quot; Zone</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent's monster battles with an &quot;Alien&quot; monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.</text>
+</card>

@@ -1,14 +1,17 @@
-Night's End Sorcerer
-Monster
-DARK
-Tuner
-None
-Spellcaster
-2
-1300
-400
-0
-0
-None
-None
-When this card is Special Summoned, you can remove from play up to 2 cards from your opponent's Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Night's End Sorcerer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>1300</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned, you can remove from play up to 2 cards from your opponent's Graveyard.</text>
+</card>

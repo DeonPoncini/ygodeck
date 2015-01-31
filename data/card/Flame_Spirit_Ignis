@@ -1,14 +1,17 @@
-Flame Spirit Ignis
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1500
-1200
-0
-0
-None
-None
-You can Tribute 1 face-up FIRE monster to inflict 100 damage to your opponent for each FIRE monster in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Spirit Ignis</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 face-up FIRE monster to inflict 100 damage to your opponent for each FIRE monster in your Graveyard.</text>
+</card>

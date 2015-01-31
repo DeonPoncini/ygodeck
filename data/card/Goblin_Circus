@@ -1,14 +1,17 @@
-Goblin Circus
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During each of your End Phases: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.
+<?xml version="1.0" ?>
+<card>
+    <name>Goblin Circus</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.</text>
+</card>

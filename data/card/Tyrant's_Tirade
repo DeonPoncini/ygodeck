@@ -1,14 +1,17 @@
-Tyrant's Tirade
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Tyrant's Tirade</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.</text>
+</card>

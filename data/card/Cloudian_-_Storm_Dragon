@@ -1,14 +1,17 @@
-Cloudian - Storm Dragon
-Monster
-WATER
-Effect
-None
-Fairy
-4
-1000
-0
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 "Cloudian" monster from your Graveyard. This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. Once per turn, you can place 1 Fog Counter on 1 monster on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Cloudian - Storm Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 &quot;Cloudian&quot; monster from your Graveyard. This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. Once per turn, you can place 1 Fog Counter on 1 monster on the field.</text>
+</card>

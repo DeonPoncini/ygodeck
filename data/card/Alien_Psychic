@@ -1,14 +1,17 @@
-Alien Psychic
-Monster
-DARK
-Effect
-None
-Reptile
-1
-200
-100
-0
-0
-None
-None
-This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Alien Psychic</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.</text>
+</card>

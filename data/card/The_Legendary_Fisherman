@@ -1,14 +1,17 @@
-The Legendary Fisherman
-Monster
-WATER
-Effect
-None
-Warrior
-5
-1850
-1600
-0
-0
-None
-None
-While "Umi" is on the field, this card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.
+<?xml version="1.0" ?>
+<card>
+    <name>The Legendary Fisherman</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1850</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While &quot;Umi&quot; is on the field, this card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.</text>
+</card>

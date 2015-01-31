@@ -1,14 +1,17 @@
-Utopia Buster
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a "Utopia" monster: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Utopia Buster</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Utopia&quot; monster: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.</text>
+</card>

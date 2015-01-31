@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Schuberta the Melodious Maestra</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 &quot;Melodious&quot; monstersDuring either player's turn: You can target up to 3 cards in any Graveyard(s); banish them, and if you do, this card gains 200 ATK for each card banished by this effect. This effect can only be used once while this card is face-up on the field.</text>
+</card>

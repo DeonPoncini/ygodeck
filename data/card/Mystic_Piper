@@ -1,14 +1,17 @@
-Mystic Piper
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-You can Tribute this card to draw and reveal 1 card. If that card is a Level 1 Monster Card, draw 1 more card. The effect of "Mystic Piper" can only be activated once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystic Piper</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card to draw and reveal 1 card. If that card is a Level 1 Monster Card, draw 1 more card. The effect of &quot;Mystic Piper&quot; can only be activated once per turn.</text>
+</card>

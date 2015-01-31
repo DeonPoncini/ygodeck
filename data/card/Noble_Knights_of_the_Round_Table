@@ -1,14 +1,17 @@
-Noble Knights of the Round Table
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-During your End Phase: You can activate each of these effects up to once per turn, depending on the total number of "Noble Knight" cards with different names in your Graveyard and/or you control;● 3 or more: Send 1 "Noble Knight" card from your Deck to the Graveyard.● 6 or more: Special Summon 1 "Noble Knight" monster from your hand, then you can equip 1 "Noble Arms" Equip Spell Card from your hand to that monster.● 9 or more: Target 1 "Noble Knight" monster in your Graveyard; add that target to your hand.● 12: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knights of the Round Table</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>During your End Phase: You can activate each of these effects up to once per turn, depending on the total number of &quot;Noble Knight&quot; cards with different names in your Graveyard and/or you control;● 3 or more: Send 1 &quot;Noble Knight&quot; card from your Deck to the Graveyard.● 6 or more: Special Summon 1 &quot;Noble Knight&quot; monster from your hand, then you can equip 1 &quot;Noble Arms&quot; Equip Spell Card from your hand to that monster.● 9 or more: Target 1 &quot;Noble Knight&quot; monster in your Graveyard; add that target to your hand.● 12: Draw 1 card.</text>
+</card>

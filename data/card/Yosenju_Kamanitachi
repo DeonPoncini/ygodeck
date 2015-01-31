@@ -1,14 +1,17 @@
-Yosenju Kamanitachi
-Monster
-WIND
-Effect
-None
-Beast-Warrior
-4
-1800
-200
-0
-0
-None
-None
-If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 "Yosenju" monster from your hand, except "Yosenju Kamanitachi". This card can attack your opponent directly, but when it does so using this effect, any battle damage it inflicts to your opponent is halved. During the End Phase, if this card was Normal Summoned this turn: Return it to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Yosenju Kamanitachi</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 &quot;Yosenju&quot; monster from your hand, except &quot;Yosenju Kamanitachi&quot;. This card can attack your opponent directly, but when it does so using this effect, any battle damage it inflicts to your opponent is halved. During the End Phase, if this card was Normal Summoned this turn: Return it to the hand.</text>
+</card>

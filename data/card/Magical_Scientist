@@ -1,14 +1,17 @@
-Magical Scientist
-Monster
-DARK
-Effect
-None
-Spellcaster
-1
-300
-300
-0
-0
-None
-None
-Pay 1000 Life Points to Special Summon 1 Level 6 or lower Fusion Monster from your Fusion Deck in face-up Attack or Defense Position. That Fusion Monster cannot attack your opponent's Life Points directly, and is returned to your Fusion Deck at the end of the turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Scientist</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pay 1000 Life Points to Special Summon 1 Level 6 or lower Fusion Monster from your Fusion Deck in face-up Attack or Defense Position. That Fusion Monster cannot attack your opponent's Life Points directly, and is returned to your Fusion Deck at the end of the turn.</text>
+</card>

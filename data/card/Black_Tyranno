@@ -1,14 +1,17 @@
-Black Tyranno
-Monster
-EARTH
-Effect
-None
-Dinosaur
-7
-2600
-1800
-0
-0
-None
-None
-If the only cards your opponent controls are Defense Position monsters, this card can attack your opponent directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Tyranno</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If the only cards your opponent controls are Defense Position monsters, this card can attack your opponent directly.</text>
+</card>

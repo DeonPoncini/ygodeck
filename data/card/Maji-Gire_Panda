@@ -1,14 +1,17 @@
-Maji-Gire Panda
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1000
-800
-0
-0
-None
-None
-Each time a Beast-Type monster(s) on the field is destroyed, this card gains 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Maji-Gire Panda</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time a Beast-Type monster(s) on the field is destroyed, this card gains 500 ATK.</text>
+</card>

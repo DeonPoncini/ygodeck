@@ -1,14 +1,17 @@
-Holograh
-Monster
-EARTH
-Normal
-None
-Machine
-3
-1100
-700
-0
-0
-None
-None
-This machine generates illusions that leave an enemy wide open to attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Holograh</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This machine generates illusions that leave an enemy wide open to attacks.</text>
+</card>

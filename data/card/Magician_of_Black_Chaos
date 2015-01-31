@@ -1,14 +1,17 @@
-Magician of Black Chaos
-Monster
-DARK
-Ritual
-None
-Spellcaster
-8
-2800
-2600
-0
-0
-None
-None
-You can Ritual Summon this card with "Black Magic Ritual".
+<?xml version="1.0" ?>
+<card>
+    <name>Magician of Black Chaos</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Black Magic Ritual&quot;.</text>
+</card>

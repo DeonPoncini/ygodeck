@@ -1,14 +1,17 @@
-Chronomaly Technology
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 "Chronomaly" monster in your Graveyard; banish it, then look at the top 2 cards of your Deck, add 1 of them to your hand, and send the other to the Graveyard. You can only activate 1 "Chronomaly Technology" per turn. You cannot Special Summon any monsters the turn you activate this card, except "Chronomaly" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Chronomaly Technology</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Chronomaly&quot; monster in your Graveyard; banish it, then look at the top 2 cards of your Deck, add 1 of them to your hand, and send the other to the Graveyard. You can only activate 1 &quot;Chronomaly Technology&quot; per turn. You cannot Special Summon any monsters the turn you activate this card, except &quot;Chronomaly&quot; monsters.</text>
+</card>

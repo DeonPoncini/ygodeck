@@ -1,18 +1,21 @@
-DDD Leonidas the Rebellious Lord
-Monster
-DARK
-Pendulum
-Effect
-Fiend
-7
-2600
-1200
-3
-3
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>DDD Leonidas the Rebellious Lord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1200</defense>
+    <lpendulum>3</lpendulum>
+    <rpendulum>3</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  When you take damage from a card effect (except during the Damage Step): You can destroy this card, and if you do, any effect that would inflict damage increases LP by the same amount instead for the rest of this turn.
 
  Monster Effect
- When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took. Any effect damage you take becomes 0.
+ When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took. Any effect damage you take becomes 0.</text>
+</card>

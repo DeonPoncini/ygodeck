@@ -1,14 +1,17 @@
-Clock Resonator
-Monster
-EARTH
-Tuner
-Effect
-Fiend
-3
-1200
-600
-0
-0
-None
-None
-Once per turn, this face-up Defense Position card cannot be destroyed by battle or by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Clock Resonator</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, this face-up Defense Position card cannot be destroyed by battle or by card effects.</text>
+</card>

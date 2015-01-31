@@ -1,14 +1,17 @@
-Gigastone Omega
-Monster
-EARTH
-Effect
-None
-Rock
-5
-1000
-2300
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 EARTH monsters from your Graveyard. When this face-up card you control is sent to the Graveyard by a card effect, destroy all Spell and Trap Cards your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Gigastone Omega</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 EARTH monsters from your Graveyard. When this face-up card you control is sent to the Graveyard by a card effect, destroy all Spell and Trap Cards your opponent controls.</text>
+</card>

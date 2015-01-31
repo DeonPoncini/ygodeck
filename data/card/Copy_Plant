@@ -1,14 +1,17 @@
-Copy Plant
-Monster
-WIND
-Tuner
-None
-Plant
-1
-0
-0
-0
-0
-None
-None
-Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Copy Plant</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.</text>
+</card>

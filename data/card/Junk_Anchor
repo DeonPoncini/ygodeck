@@ -1,14 +1,17 @@
-Junk Anchor
-Monster
-EARTH
-Tuner
-Effect
-Warrior
-2
-0
-0
-0
-0
-None
-None
-For a Synchro Summon, you can substitute this card for any 1 "Synchron" Tuner monster. Once per turn: You can discard 1 card, then target 1 "Junk" non-Tuner monster in your Graveyard; Special Summon it. Immediately after this effect resolves, Synchro Summon 1 monster that lists a "Synchron" monster as a Tuner using only this card and that target. Synchro Material Monsters used for this Synchro Summon are banished.
+<?xml version="1.0" ?>
+<card>
+    <name>Junk Anchor</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>For a Synchro Summon, you can substitute this card for any 1 &quot;Synchron&quot; Tuner monster. Once per turn: You can discard 1 card, then target 1 &quot;Junk&quot; non-Tuner monster in your Graveyard; Special Summon it. Immediately after this effect resolves, Synchro Summon 1 monster that lists a &quot;Synchron&quot; monster as a Tuner using only this card and that target. Synchro Material Monsters used for this Synchro Summon are banished.</text>
+</card>

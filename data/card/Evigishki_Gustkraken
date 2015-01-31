@@ -1,14 +1,17 @@
-Evigishki Gustkraken
-Monster
-WATER
-Ritual
-Effect
-Aqua
-6
-2400
-1000
-0
-0
-None
-None
-You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card is Ritual Summoned: Look at up to 2 random cards in your opponent's hand, then shuffle 1 of them into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Evigishki Gustkraken</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Gishki&quot; Ritual Spell Card. When this card is Ritual Summoned: Look at up to 2 random cards in your opponent's hand, then shuffle 1 of them into the Deck.</text>
+</card>

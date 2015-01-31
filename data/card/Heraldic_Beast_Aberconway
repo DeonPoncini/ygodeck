@@ -1,14 +1,17 @@
-Heraldic Beast Aberconway
-Monster
-WIND
-Effect
-None
-Dragon
-4
-1800
-900
-0
-0
-None
-None
-If this card is in the Graveyard: You can banish another "Heraldic Beast Aberconway" from your Graveyard to target 1 "Heraldic Beast" monster in your Graveyard; add that target to your hand. You can only use the effect of "Heraldic Beast Aberconway" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Heraldic Beast Aberconway</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in the Graveyard: You can banish another &quot;Heraldic Beast Aberconway&quot; from your Graveyard to target 1 &quot;Heraldic Beast&quot; monster in your Graveyard; add that target to your hand. You can only use the effect of &quot;Heraldic Beast Aberconway&quot; once per turn.</text>
+</card>

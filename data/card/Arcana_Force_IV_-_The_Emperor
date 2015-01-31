@@ -1,14 +1,17 @@
-Arcana Force IV - The Emperor
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1400
-1400
-0
-0
-None
-None
-When this card is Summoned, toss a coin: ● Heads: All "Arcana Force" monsters you control gain 500 ATK. ● Tails: All "Arcana Force" monsters you control lose 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcana Force IV - The Emperor</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, toss a coin: ● Heads: All &quot;Arcana Force&quot; monsters you control gain 500 ATK. ● Tails: All &quot;Arcana Force&quot; monsters you control lose 500 ATK.</text>
+</card>

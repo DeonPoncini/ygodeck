@@ -1,14 +1,17 @@
-Geargiano
-Monster
-EARTH
-Effect
-None
-Machine
-3
-500
-1000
-0
-0
-None
-None
-You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Geargiano</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.</text>
+</card>

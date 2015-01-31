@@ -1,14 +1,17 @@
-B. Skull Dragon
-Monster
-DARK
-Fusion
-None
-Dragon
-9
-3200
-2500
-0
-0
-None
-None
-"Summoned Skull" + "Red-Eyes B. Dragon"(This card is always treated as an "Archfiend" card.)
+<?xml version="1.0" ?>
+<card>
+    <name>B. Skull Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>9</level>
+    <attack>3200</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Summoned Skull&quot; + &quot;Red-Eyes B. Dragon&quot;(This card is always treated as an &quot;Archfiend&quot; card.)</text>
+</card>

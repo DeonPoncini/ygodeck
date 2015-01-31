@@ -1,14 +1,17 @@
-Reese the Ice Mistress
-Monster
-WATER
-Tuner
-None
-Sea Serpent
-2
-800
-800
-0
-0
-None
-None
-This card cannot be destroyed by battle with a Level 4 or higher monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Reese the Ice Mistress</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle with a Level 4 or higher monster.</text>
+</card>

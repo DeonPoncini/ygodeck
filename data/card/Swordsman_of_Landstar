@@ -1,14 +1,17 @@
-Swordsman of Landstar
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-500
-1200
-0
-0
-None
-None
-An amateur with a sword, this fairy warrior relies on its mysterious powers.
+<?xml version="1.0" ?>
+<card>
+    <name>Swordsman of Landstar</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An amateur with a sword, this fairy warrior relies on its mysterious powers.</text>
+</card>

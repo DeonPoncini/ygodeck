@@ -1,14 +1,17 @@
-Neo-Spacian Aqua Dolphin
-Monster
-WATER
-Effect
-None
-Warrior
-3
-600
-800
-0
-0
-None
-None
-Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 Monster Card in it. If you control a monster with ATK greater than or equal to the ATK of the chosen card, destroy the chosen card and inflict 500 damage to your opponent. Otherwise, take 500 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo-Spacian Aqua Dolphin</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 Monster Card in it. If you control a monster with ATK greater than or equal to the ATK of the chosen card, destroy the chosen card and inflict 500 damage to your opponent. Otherwise, take 500 damage.</text>
+</card>

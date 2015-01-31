@@ -1,14 +1,17 @@
-Cherry Inmato
-Monster
-DARK
-Tuner
-None
-Plant
-2
-700
-400
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can Special Summon up to 2 "Inmato" monsters from your Deck. The monster(s) Special Summoned by this effect cannot be used as Synchro Material Monsters this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Cherry Inmato</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can Special Summon up to 2 &quot;Inmato&quot; monsters from your Deck. The monster(s) Special Summoned by this effect cannot be used as Synchro Material Monsters this turn.</text>
+</card>

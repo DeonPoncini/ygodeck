@@ -1,14 +1,17 @@
-Electromagnetic Shield
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Level 3 or lower face-up Defense Position Thunder-Type monsters you control cannot be destroyed by battle. Destroy this card if you control a face-up Attack Position monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Electromagnetic Shield</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Level 3 or lower face-up Defense Position Thunder-Type monsters you control cannot be destroyed by battle. Destroy this card if you control a face-up Attack Position monster.</text>
+</card>

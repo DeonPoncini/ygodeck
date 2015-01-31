@@ -1,14 +1,17 @@
-Gravekeeper's Recruiter
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-1200
-1500
-0
-0
-None
-None
-When this card you control is sent to your Graveyard: Add 1 "Gravekeeper's" monster with 1500 or less DEF from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Recruiter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is sent to your Graveyard: Add 1 &quot;Gravekeeper's&quot; monster with 1500 or less DEF from your Deck to your hand.</text>
+</card>

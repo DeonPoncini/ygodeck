@@ -1,14 +1,17 @@
-Twin-Headed Fire Dragon
-Monster
-FIRE
-Normal
-None
-Pyro
-6
-2200
-1700
-0
-0
-None
-None
-Two dragons fused as one from the effects of the Big Bang.
+<?xml version="1.0" ?>
+<card>
+    <name>Twin-Headed Fire Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Two dragons fused as one from the effects of the Big Bang.</text>
+</card>

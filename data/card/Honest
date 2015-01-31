@@ -1,14 +1,17 @@
-Honest
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1100
-1900
-0
-0
-None
-None
-During your Main Phase: You can return this face-up card from the field to the hand. During either player's Damage Step, when a LIGHT monster you control battles: You can send this card from your hand to the Graveyard; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Honest</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can return this face-up card from the field to the hand. During either player's Damage Step, when a LIGHT monster you control battles: You can send this card from your hand to the Graveyard; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.</text>
+</card>

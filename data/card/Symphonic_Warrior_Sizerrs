@@ -1,14 +1,17 @@
-Symphonic Warrior Sizerrs
-Monster
-WIND
-Flip
-Effect
-Machine
-4
-1200
-1900
-0
-0
-None
-None
-FLIP: You can add 1 "Symphonic Warrior" monster from your Deck to your hand, except "Symphonic Warrior Sizerrs".Once per turn: You can target 1 "Symphonic Warrior" monster you control or in your Graveyard, except "Symphonic Warrior Sizerrs"; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects. You can banish this card from your Graveyard, then target 1 of your banished "Symphonic Warrior" monsters, except "Symphonic Warrior Sizerrs"; Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Symphonic Warrior Sizerrs</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can add 1 &quot;Symphonic Warrior&quot; monster from your Deck to your hand, except &quot;Symphonic Warrior Sizerrs&quot;.Once per turn: You can target 1 &quot;Symphonic Warrior&quot; monster you control or in your Graveyard, except &quot;Symphonic Warrior Sizerrs&quot;; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects. You can banish this card from your Graveyard, then target 1 of your banished &quot;Symphonic Warrior&quot; monsters, except &quot;Symphonic Warrior Sizerrs&quot;; Special Summon it.</text>
+</card>

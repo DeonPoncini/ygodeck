@@ -1,14 +1,17 @@
-Aurkus, Lightsworn Druid
-Monster
-LIGHT
-Effect
-None
-Beast-Warrior
-3
-1200
-1800
-0
-0
-None
-None
-Neither player can target "Lightsworn" monsters (anywhere) with card effects. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Aurkus, Lightsworn Druid</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Neither player can target &quot;Lightsworn&quot; monsters (anywhere) with card effects. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.</text>
+</card>

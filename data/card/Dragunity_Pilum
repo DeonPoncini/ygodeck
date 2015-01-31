@@ -1,14 +1,17 @@
-Dragunity Pilum
-Monster
-WIND
-Tuner
-None
-Dragon
-3
-1400
-1000
-0
-0
-None
-None
-When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type "Dragunity" monster from your hand and equip this card to it as an Equip Card. If this card is equipped as an Equip Card to a monster, the equipped monster can attack your opponent directly. If it attacks using this effect, the Battle Damage it inflicts to your opponent is halved.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Pilum</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type &quot;Dragunity&quot; monster from your hand and equip this card to it as an Equip Card. If this card is equipped as an Equip Card to a monster, the equipped monster can attack your opponent directly. If it attacks using this effect, the Battle Damage it inflicts to your opponent is halved.</text>
+</card>

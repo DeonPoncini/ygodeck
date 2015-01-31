@@ -1,14 +1,17 @@
-Saqlifice
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Qli" monster. It gains 300 ATK and cannot be destroyed by battle. The equipped monster can be treated as 2 Tributes for the Tribute Summon of a "Qli" monster. If this card is sent from the field to the Graveyard: You can add 1 "Qli" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Saqlifice</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Qli&quot; monster. It gains 300 ATK and cannot be destroyed by battle. The equipped monster can be treated as 2 Tributes for the Tribute Summon of a &quot;Qli&quot; monster. If this card is sent from the field to the Graveyard: You can add 1 &quot;Qli&quot; monster from your Deck to your hand.</text>
+</card>

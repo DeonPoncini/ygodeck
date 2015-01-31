@@ -1,14 +1,17 @@
-Dark Blade the Dragon Knight
-Monster
-DARK
-Fusion
-Effect
-Warrior
-6
-2200
-1500
-0
-0
-None
-None
-"Dark Blade" + "Pitch-Dark Dragon"Each time this card inflicts Battle Damage to your opponent, you can select up to 3 Monster Cards from your opponent's Graveyard and remove them from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Blade the Dragon Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Dark Blade&quot; + &quot;Pitch-Dark Dragon&quot;Each time this card inflicts Battle Damage to your opponent, you can select up to 3 Monster Cards from your opponent's Graveyard and remove them from play.</text>
+</card>

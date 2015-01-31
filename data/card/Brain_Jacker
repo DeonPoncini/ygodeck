@@ -1,14 +1,17 @@
-Brain Jacker
-Monster
-DARK
-Effect
-None
-Fiend
-2
-200
-900
-0
-0
-None
-None
-FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.
+<?xml version="1.0" ?>
+<card>
+    <name>Brain Jacker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.</text>
+</card>

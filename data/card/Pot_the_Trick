@@ -1,14 +1,17 @@
-Pot the Trick
-Monster
-EARTH
-Normal
-None
-Rock
-2
-400
-400
-0
-0
-None
-None
-A not-so-powerful servant, he is an errand boy of a master sorcerer.
+<?xml version="1.0" ?>
+<card>
+    <name>Pot the Trick</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A not-so-powerful servant, he is an errand boy of a master sorcerer.</text>
+</card>

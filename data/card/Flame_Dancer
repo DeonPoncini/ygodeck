@@ -1,14 +1,17 @@
-Flame Dancer
-Monster
-FIRE
-Normal
-None
-Pyro
-2
-550
-450
-0
-0
-None
-None
-This monster moves while swinging its burning rope.
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Dancer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>550</attack>
+    <defense>450</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster moves while swinging its burning rope.</text>
+</card>

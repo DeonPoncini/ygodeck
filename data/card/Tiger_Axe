@@ -1,14 +1,17 @@
-Tiger Axe
-Monster
-EARTH
-Normal
-None
-Beast-Warrior
-4
-1300
-1100
-0
-0
-None
-None
-A fast and powerful axe-wielding beast-warrior.
+<?xml version="1.0" ?>
+<card>
+    <name>Tiger Axe</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fast and powerful axe-wielding beast-warrior.</text>
+</card>

@@ -1,14 +1,17 @@
-Grass Phantom
-Monster
-WATER
-Effect
-None
-Plant
-3
-1000
-1000
-0
-0
-None
-None
-This card gains 500 ATK for each "Grass Phantom" in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Grass Phantom</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 500 ATK for each &quot;Grass Phantom&quot; in your Graveyard.</text>
+</card>

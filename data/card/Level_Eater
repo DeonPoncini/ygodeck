@@ -1,14 +1,17 @@
-Level Eater
-Monster
-DARK
-Effect
-None
-Insect
-1
-600
-0
-0
-0
-None
-None
-If this card is in the Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card from the Graveyard. This face-up card on the field cannot be Tributed, except for a Tribute Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Level Eater</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>1</level>
+    <attack>600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in the Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card from the Graveyard. This face-up card on the field cannot be Tributed, except for a Tribute Summon.</text>
+</card>

@@ -1,14 +1,17 @@
-Quill Pen of Gulldos
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 2 WIND monsters in your Graveyard and 1 card on the field; shuffle both of those first 2 targets into your Deck and return the other to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Quill Pen of Gulldos</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 2 WIND monsters in your Graveyard and 1 card on the field; shuffle both of those first 2 targets into your Deck and return the other to the hand.</text>
+</card>

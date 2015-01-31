@@ -1,14 +1,17 @@
-Delta Tri
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1200
-1000
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle, select and activate 1 of these effects: ● Select 1 appropriate Union monster in your Graveyard and equip it to this card. ● Select 1 face-up LIGHT Machine-Type monster you control, and return it to the Deck. Then draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Delta Tri</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle, select and activate 1 of these effects: ● Select 1 appropriate Union monster in your Graveyard and equip it to this card. ● Select 1 face-up LIGHT Machine-Type monster you control, and return it to the Deck. Then draw 1 card.</text>
+</card>

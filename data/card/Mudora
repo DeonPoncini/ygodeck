@@ -1,14 +1,17 @@
-Mudora
-Monster
-EARTH
-Effect
-None
-Fairy
-4
-1500
-1800
-0
-0
-None
-None
-This card gains 200 ATK for each Fairy-Type monster in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Mudora</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 200 ATK for each Fairy-Type monster in your Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Outer God Azathoth
-Monster
-DARK
-Xyz
-Effect
-Fiend
-5
-2400
-0
-0
-0
-None
-None
-3 Level 5 monstersYou can also Xyz Summon this card by using an "Outer God" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Cannot be used as an Xyz Material for an Xyz Summon. After you Xyz Summon this card, your opponent cannot activate monster effects for the rest of this turn. If this card has a Fusion, Synchro, and Xyz Monster as Xyz Materials: You can detach 1 Xyz Material from this card; destroy all cards your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Outer God Azathoth</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 5 monstersYou can also Xyz Summon this card by using an &quot;Outer God&quot; Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Cannot be used as an Xyz Material for an Xyz Summon. After you Xyz Summon this card, your opponent cannot activate monster effects for the rest of this turn. If this card has a Fusion, Synchro, and Xyz Monster as Xyz Materials: You can detach 1 Xyz Material from this card; destroy all cards your opponent controls.</text>
+</card>

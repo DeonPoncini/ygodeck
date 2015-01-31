@@ -1,14 +1,17 @@
-Bowganian
-Monster
-DARK
-Effect
-None
-Machine
-3
-1300
-1000
-0
-0
-None
-None
-During each of your Standby Phases: Inflict 600 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Bowganian</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your Standby Phases: Inflict 600 damage to your opponent.</text>
+</card>

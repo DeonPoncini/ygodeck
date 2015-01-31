@@ -1,14 +1,17 @@
-Herald of Orange Light
-Monster
-LIGHT
-Tuner
-Effect
-Fairy
-2
-300
-500
-0
-0
-None
-None
-During either player's turn, when an effect of an opponent's monster is activated: You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Herald of Orange Light</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when an effect of an opponent's monster is activated: You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.</text>
+</card>

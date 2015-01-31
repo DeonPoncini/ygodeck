@@ -1,14 +1,17 @@
-Ally of Justice Catastor
-Monster
-DARK
-Synchro
-Effect
-Machine
-5
-2200
-1200
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersAt the start of the Damage Step, if this card battles a non-DARK monster: Destroy that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Catastor</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersAt the start of the Damage Step, if this card battles a non-DARK monster: Destroy that monster.</text>
+</card>

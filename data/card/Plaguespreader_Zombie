@@ -1,14 +1,17 @@
-Plaguespreader Zombie
-Monster
-DARK
-Tuner
-None
-Zombie
-2
-400
-200
-0
-0
-None
-None
-You can place 1 card from your hand on the top of the Deck; Special Summon this card from your Graveyard. If Summoned this way, banish this card when it leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Plaguespreader Zombie</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can place 1 card from your hand on the top of the Deck; Special Summon this card from your Graveyard. If Summoned this way, banish this card when it leaves the field.</text>
+</card>

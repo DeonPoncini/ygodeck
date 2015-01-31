@@ -1,14 +1,17 @@
-Crimson Sunbird
-Monster
-FIRE
-Fusion
-None
-Winged Beast
-6
-2300
-1800
-0
-0
-None
-None
-"Faith Bird" + "Skull Red Bird"
+<?xml version="1.0" ?>
+<card>
+    <name>Crimson Sunbird</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Faith Bird&quot; + &quot;Skull Red Bird&quot;</text>
+</card>

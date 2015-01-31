@@ -1,14 +1,17 @@
-Skystarray
-Monster
-WIND
-Effect
-None
-Sea Serpent
-3
-600
-300
-0
-0
-None
-None
-This card can attack your opponent directly. At the end of the Battle Phase, if this card attacked directly: Banish this card until your next Standby Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Skystarray</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack your opponent directly. At the end of the Battle Phase, if this card attacked directly: Banish this card until your next Standby Phase.</text>
+</card>

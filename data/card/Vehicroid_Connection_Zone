@@ -1,14 +1,17 @@
-Vehicroid Connection Zone
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send to the Graveyard, from your side of the field or your hand, Fusion Material Monsters that are listed on a "Vehicroid" Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.) The Fusion Monster Special Summoned by this card cannot be destroyed by the effects of Spells, Traps, and Effect Monsters, and its effects cannot be negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Vehicroid Connection Zone</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send to the Graveyard, from your side of the field or your hand, Fusion Material Monsters that are listed on a &quot;Vehicroid&quot; Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.) The Fusion Monster Special Summoned by this card cannot be destroyed by the effects of Spells, Traps, and Effect Monsters, and its effects cannot be negated.</text>
+</card>

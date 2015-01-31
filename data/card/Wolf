@@ -1,14 +1,17 @@
-Wolf
-Monster
-EARTH
-Normal
-None
-Beast
-3
-1200
-800
-0
-0
-None
-None
-Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffing at my socks!
+<?xml version="1.0" ?>
+<card>
+    <name>Wolf</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffing at my socks!</text>
+</card>

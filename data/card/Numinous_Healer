@@ -1,14 +1,17 @@
-Numinous Healer
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-You can activate this card when you take damage to your Life Points. Increase your Life Points by 1000 points. In addition, increase your Life Points by 500 points per card if there are additional "Numinous Healer" cards in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Numinous Healer</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>You can activate this card when you take damage to your Life Points. Increase your Life Points by 1000 points. In addition, increase your Life Points by 500 points per card if there are additional &quot;Numinous Healer&quot; cards in the Graveyard.</text>
+</card>

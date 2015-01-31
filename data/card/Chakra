@@ -1,14 +1,17 @@
-Chakra
-Monster
-DARK
-Ritual
-None
-Fiend
-7
-2450
-2000
-0
-0
-None
-None
-You can Ritual Summon this card with "Resurrection of Chakra".
+<?xml version="1.0" ?>
+<card>
+    <name>Chakra</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2450</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Resurrection of Chakra&quot;.</text>
+</card>

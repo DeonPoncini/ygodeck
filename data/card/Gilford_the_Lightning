@@ -1,14 +1,17 @@
-Gilford the Lightning
-Monster
-LIGHT
-Effect
-None
-Warrior
-8
-2800
-1400
-0
-0
-None
-None
-You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If you do: Destroy all monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Gilford the Lightning</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If you do: Destroy all monsters your opponent controls.</text>
+</card>

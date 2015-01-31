@@ -1,14 +1,17 @@
-Gadget Driver
-Monster
-EARTH
-Effect
-None
-Machine
-1
-200
-200
-0
-0
-None
-None
-You can send this card from your hand to the Graveyard and select any number of face-up "Morphtronic" monsters you control. Change the battle position of the selected monster(s). This effect can be activated during either player's turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gadget Driver</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send this card from your hand to the Graveyard and select any number of face-up &quot;Morphtronic&quot; monsters you control. Change the battle position of the selected monster(s). This effect can be activated during either player's turn.</text>
+</card>

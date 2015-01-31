@@ -1,14 +1,17 @@
-Skullbird
-Monster
-WIND
-Fusion
-None
-Winged Beast
-6
-1900
-1700
-0
-0
-None
-None
-"Takuhee" + "Temple of Skulls"
+<?xml version="1.0" ?>
+<card>
+    <name>Skullbird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Takuhee&quot; + &quot;Temple of Skulls&quot;</text>
+</card>

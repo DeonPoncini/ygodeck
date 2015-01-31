@@ -1,14 +1,17 @@
-Aitsu
-Monster
-FIRE
-Normal
-None
-Fairy
-5
-100
-100
-0
-0
-None
-None
-He seems to be very unreliable, but he might have incredible potential.
+<?xml version="1.0" ?>
+<card>
+    <name>Aitsu</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>He seems to be very unreliable, but he might have incredible potential.</text>
+</card>

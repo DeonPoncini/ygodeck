@@ -1,14 +1,17 @@
-Power Giant
-Monster
-EARTH
-Effect
-None
-Rock
-6
-2200
-0
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by sending 1 Level 4 or lower monster from your hand to the Graveyard. If you do, decrease this card's Level by the Level of that monster. If this card attacks or is attacked, until the end of the Damage Step any effect damage you take becomes 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Power Giant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by sending 1 Level 4 or lower monster from your hand to the Graveyard. If you do, decrease this card's Level by the Level of that monster. If this card attacks or is attacked, until the end of the Damage Step any effect damage you take becomes 0.</text>
+</card>

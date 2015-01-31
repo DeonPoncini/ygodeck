@@ -1,14 +1,17 @@
-Gottoms' Second Call
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control an "X-Saber" Synchro Monster: You can target 2 "X-Saber" monsters in your Graveyard; Special Summon both targets, ignoring their Summoning conditions, but change their ATK to 0, also destroy them during the End Phase of this turn. You can only activate 1 "Gottoms' Second Call" per turn. You cannot conduct your Battle Phase the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Gottoms' Second Call</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control an &quot;X-Saber&quot; Synchro Monster: You can target 2 &quot;X-Saber&quot; monsters in your Graveyard; Special Summon both targets, ignoring their Summoning conditions, but change their ATK to 0, also destroy them during the End Phase of this turn. You can only activate 1 &quot;Gottoms' Second Call&quot; per turn. You cannot conduct your Battle Phase the turn you activate this card.</text>
+</card>

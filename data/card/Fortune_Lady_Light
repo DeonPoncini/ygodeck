@@ -1,14 +1,17 @@
-Fortune Lady Light
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-1
-?
-?
-0
-0
-None
-None
-This card's ATK and DEF are equal to its Level x 200. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is removed from the field by a card effect, you can Special Summon 1 "Fortune Lady" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Fortune Lady Light</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's ATK and DEF are equal to its Level x 200. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is removed from the field by a card effect, you can Special Summon 1 &quot;Fortune Lady&quot; monster from your Deck.</text>
+</card>

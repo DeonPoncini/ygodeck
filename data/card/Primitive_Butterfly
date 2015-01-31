@@ -1,14 +1,17 @@
-Primitive Butterfly
-Monster
-WIND
-Effect
-None
-Insect
-5
-1200
-900
-0
-0
-None
-None
-If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can increase the Levels of all Insect-Type monsters you currently control by 1.
+<?xml version="1.0" ?>
+<card>
+    <name>Primitive Butterfly</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>5</level>
+    <attack>1200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can increase the Levels of all Insect-Type monsters you currently control by 1.</text>
+</card>

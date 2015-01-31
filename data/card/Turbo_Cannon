@@ -1,14 +1,17 @@
-Turbo Cannon
-Monster
-FIRE
-Synchro
-Effect
-Machine
-3
-0
-0
-0
-0
-None
-None
-"Turbo Rocket" + 1 or more non-Tuner monstersOnce per turn, you can destroy 1 face-up monster on the field, and inflict damage to its controller equal to half of its ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Turbo Cannon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Turbo Rocket&quot; + 1 or more non-Tuner monstersOnce per turn, you can destroy 1 face-up monster on the field, and inflict damage to its controller equal to half of its ATK.</text>
+</card>

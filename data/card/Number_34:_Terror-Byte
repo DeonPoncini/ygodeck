@@ -1,14 +1,17 @@
-Number 34: Terror-Byte
-Monster
-DARK
-Xyz
-Effect
-Machine
-3
-0
-2900
-0
-0
-None
-None
-3 Level 3 monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 Level 4 or lower Attack Position monster your opponent controls; gain control of it until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 34: Terror-Byte</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>2900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 3 monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 Level 4 or lower Attack Position monster your opponent controls; gain control of it until the End Phase.</text>
+</card>

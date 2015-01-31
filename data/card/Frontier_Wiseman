@@ -1,14 +1,17 @@
-Frontier Wiseman
-Monster
-EARTH
-Effect
-None
-Spellcaster
-3
-1600
-800
-0
-0
-None
-None
-Negate any Spell effects that target a Warrior-Type monster you control, and if you do, destroy that card.
+<?xml version="1.0" ?>
+<card>
+    <name>Frontier Wiseman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Negate any Spell effects that target a Warrior-Type monster you control, and if you do, destroy that card.</text>
+</card>

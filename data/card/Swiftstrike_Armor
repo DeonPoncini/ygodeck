@@ -1,14 +1,17 @@
-Swiftstrike Armor
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-During your Draw Phase, each time you draw a "Six Samurai" Monster Card(s): You can reveal it; Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Swiftstrike Armor</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>During your Draw Phase, each time you draw a &quot;Six Samurai&quot; Monster Card(s): You can reveal it; Special Summon it.</text>
+</card>

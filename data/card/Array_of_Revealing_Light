@@ -1,14 +1,17 @@
-Array of Revealing Light
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Declare 1 Type of monster. Any monster of the declared Type cannot declare an attack during the turn it is Normal Summoned, Flip Summoned, or Special Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Array of Revealing Light</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Declare 1 Type of monster. Any monster of the declared Type cannot declare an attack during the turn it is Normal Summoned, Flip Summoned, or Special Summoned.</text>
+</card>

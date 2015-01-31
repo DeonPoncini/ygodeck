@@ -1,14 +1,17 @@
-A Wingbeat of Giant Dragon
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Return 1 Level 5 or higher Dragon-Type monster you control to the hand, and if you do, destroy all Spell and Trap Cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>A Wingbeat of Giant Dragon</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Return 1 Level 5 or higher Dragon-Type monster you control to the hand, and if you do, destroy all Spell and Trap Cards on the field.</text>
+</card>

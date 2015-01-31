@@ -1,14 +1,17 @@
-Gishki Ariel
-Monster
-WATER
-Effect
-None
-Spellcaster
-4
-1000
-1800
-0
-0
-None
-None
-FLIP: You can add 1 "Gishki" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Ariel</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can add 1 &quot;Gishki&quot; monster from your Deck to your hand.</text>
+</card>

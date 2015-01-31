@@ -1,14 +1,17 @@
-Blackwing - Gust the Backblast
-Monster
-DARK
-Effect
-None
-Winged Beast
-2
-900
-1400
-0
-0
-None
-None
-If you control no cards, you can Special Summon this card (from your hand). If your opponent's monster attacks a "Blackwing" monster you control, the attacking monster loses 300 ATK during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Gust the Backblast</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control no cards, you can Special Summon this card (from your hand). If your opponent's monster attacks a &quot;Blackwing&quot; monster you control, the attacking monster loses 300 ATK during the Damage Step only.</text>
+</card>

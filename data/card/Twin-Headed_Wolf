@@ -1,14 +1,17 @@
-Twin-Headed Wolf
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1500
-1000
-0
-0
-None
-None
-When there is another face-up Fiend-Type monster on your side of the field, negate the effect of Flip Effect Monsters destroyed by this card as a result of battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Twin-Headed Wolf</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When there is another face-up Fiend-Type monster on your side of the field, negate the effect of Flip Effect Monsters destroyed by this card as a result of battle.</text>
+</card>

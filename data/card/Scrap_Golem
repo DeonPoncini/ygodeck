@@ -1,14 +1,17 @@
-Scrap Golem
-Monster
-EARTH
-Effect
-None
-Rock
-5
-2300
-1400
-0
-0
-None
-None
-Once per turn, you can select 1 Level 4 or lower "Scrap" monster in your Graveyard and Special Summon it to either player's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can select 1 Level 4 or lower &quot;Scrap&quot; monster in your Graveyard and Special Summon it to either player's side of the field.</text>
+</card>

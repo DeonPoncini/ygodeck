@@ -1,14 +1,17 @@
-Explosive Urchin
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate only when your opponent activates a Trap Card. During your Standby Phase: Inflict 1000 damage to your opponent. Your opponent must control a face-up Trap Card for you to activate and resolve this effect. During your 3rd End Phase after activation, send this card to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Explosive Urchin</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate only when your opponent activates a Trap Card. During your Standby Phase: Inflict 1000 damage to your opponent. Your opponent must control a face-up Trap Card for you to activate and resolve this effect. During your 3rd End Phase after activation, send this card to the Graveyard.</text>
+</card>

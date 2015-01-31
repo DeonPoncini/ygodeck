@@ -1,14 +1,17 @@
-Turu-Purun
-Monster
-WATER
-Normal
-None
-Aqua
-2
-450
-500
-0
-0
-None
-None
-A strange, one-eyed monster that can fell an enemy with a single stab of its spear.
+<?xml version="1.0" ?>
+<card>
+    <name>Turu-Purun</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>450</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A strange, one-eyed monster that can fell an enemy with a single stab of its spear.</text>
+</card>

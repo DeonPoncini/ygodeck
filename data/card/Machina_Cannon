@@ -1,14 +1,17 @@
-Machina Cannon
-Monster
-EARTH
-Effect
-None
-Machine
-8
-0
-2200
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by sending one or more Machine-Type monsters from your hand to the Graveyard. This card gains 800 ATK for each card sent to the Graveyard for this Special Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Machina Cannon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>0</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by sending one or more Machine-Type monsters from your hand to the Graveyard. This card gains 800 ATK for each card sent to the Graveyard for this Special Summon.</text>
+</card>

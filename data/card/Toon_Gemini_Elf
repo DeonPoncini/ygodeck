@@ -1,14 +1,17 @@
-Toon Gemini Elf
-Monster
-EARTH
-Toon
-Effect
-Spellcaster
-4
-1900
-900
-0
-0
-None
-None
-This card cannot attack the turn it is Summoned. If "Toon World" on the field is destroyed, destroy this card. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Toon Gemini Elf</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Toon</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot attack the turn it is Summoned. If &quot;Toon World&quot; on the field is destroyed, destroy this card. While you control &quot;Toon World&quot; and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.</text>
+</card>

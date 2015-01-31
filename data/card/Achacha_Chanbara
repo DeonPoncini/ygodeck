@@ -1,14 +1,17 @@
-Achacha Chanbara
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-1400
-400
-0
-0
-None
-None
-During either player's turn, when a card or effect is activated that will inflict damage when it resolves: You can Special Summon this card from your hand, and if you do, inflict 400 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Achacha Chanbara</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when a card or effect is activated that will inflict damage when it resolves: You can Special Summon this card from your hand, and if you do, inflict 400 damage to your opponent.</text>
+</card>

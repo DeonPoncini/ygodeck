@@ -1,14 +1,17 @@
-Onomatopia
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each time a "Utopia" monster(s) is Special Summoned to your side of the field, place 1 Feel the Flow Counter on this card. Monsters you control gain 200 ATK and DEF for each Feel the Flow Counter on this card. Once per turn: You can remove 2 Feel the Flow Counters from this card; Special Summon 1 "Zubaba", "Gagaga", "Gogogo", or "Dododo" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Onomatopia</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each time a &quot;Utopia&quot; monster(s) is Special Summoned to your side of the field, place 1 Feel the Flow Counter on this card. Monsters you control gain 200 ATK and DEF for each Feel the Flow Counter on this card. Once per turn: You can remove 2 Feel the Flow Counters from this card; Special Summon 1 &quot;Zubaba&quot;, &quot;Gagaga&quot;, &quot;Gogogo&quot;, or &quot;Dododo&quot; monster from your Deck.</text>
+</card>

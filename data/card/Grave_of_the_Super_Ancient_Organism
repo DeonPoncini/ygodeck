@@ -1,14 +1,17 @@
-Grave of the Super Ancient Organism
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-All face-up Level 6 or higher Special Summoned monsters on the field cannot declare an attack or activate their effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Grave of the Super Ancient Organism</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>All face-up Level 6 or higher Special Summoned monsters on the field cannot declare an attack or activate their effects.</text>
+</card>

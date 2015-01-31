@@ -1,14 +1,17 @@
-Theinen the Great Sphinx
-Monster
-LIGHT
-Effect
-None
-Beast
-10
-3500
-3000
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by paying 500 Life Points when both "Andro Sphinx" and "Sphinx Teleia" on your side of the field are destroyed at the same time; then you can Special Summon this monster from your hand or Deck. When this card is Special Summoned successfully, pay 500 Life Points to increase the ATK of this card by 3000 points until the end of the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Theinen the Great Sphinx</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>10</level>
+    <attack>3500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by paying 500 Life Points when both &quot;Andro Sphinx&quot; and &quot;Sphinx Teleia&quot; on your side of the field are destroyed at the same time; then you can Special Summon this monster from your hand or Deck. When this card is Special Summoned successfully, pay 500 Life Points to increase the ATK of this card by 3000 points until the end of the End Phase.</text>
+</card>

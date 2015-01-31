@@ -1,14 +1,17 @@
-D - Spirit
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Special Summon 1 Level 4 or lower "Destiny HERO" monster from your hand. You must not control any face-up "Destiny HERO" monsters to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>D - Spirit</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon 1 Level 4 or lower &quot;Destiny HERO&quot; monster from your hand. You must not control any face-up &quot;Destiny HERO&quot; monsters to activate and to resolve this effect.</text>
+</card>

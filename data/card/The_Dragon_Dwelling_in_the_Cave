@@ -1,14 +1,17 @@
-The Dragon Dwelling in the Cave
-Monster
-WIND
-Normal
-None
-Dragon
-4
-1300
-2000
-0
-0
-None
-None
-A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.
+<?xml version="1.0" ?>
+<card>
+    <name>The Dragon Dwelling in the Cave</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.</text>
+</card>

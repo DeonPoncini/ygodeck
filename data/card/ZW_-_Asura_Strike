@@ -1,14 +1,17 @@
-ZW - Asura Strike
-Monster
-FIRE
-Effect
-None
-Fairy
-4
-1000
-1000
-0
-0
-None
-None
-You can target 1 "Utopia" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1000 ATK. While this card is equipped to a monster, that monster can attack all monsters your opponent controls once each. You can only control 1 "ZW - Asura Strike".
+<?xml version="1.0" ?>
+<card>
+    <name>ZW - Asura Strike</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 &quot;Utopia&quot; monster you control; equip this monster from your hand or your side of the field to that target. It gains 1000 ATK. While this card is equipped to a monster, that monster can attack all monsters your opponent controls once each. You can only control 1 &quot;ZW - Asura Strike&quot;.</text>
+</card>

@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Buffalo
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-4
-1700
-1000
-0
-0
-None
-None
-If this card is in your Graveyard: You can send a total of 2 "Fire Fist" / "Fire Formation" cards from your hand and/or face-up on your side of the field to the Graveyard; Special Summon this card from your Graveyard. You can only use the effect of "Brotherhood of the Fire Fist - Buffalo" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Buffalo</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in your Graveyard: You can send a total of 2 &quot;Fire Fist&quot; / &quot;Fire Formation&quot; cards from your hand and/or face-up on your side of the field to the Graveyard; Special Summon this card from your Graveyard. You can only use the effect of &quot;Brotherhood of the Fire Fist - Buffalo&quot; once per turn.</text>
+</card>

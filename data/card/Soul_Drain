@@ -1,14 +1,17 @@
-Soul Drain
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate by paying 1000 Life Points. Monsters that are banished, as well as monsters in the Graveyard, cannot activate their effects (that start a Chain).
+<?xml version="1.0" ?>
+<card>
+    <name>Soul Drain</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate by paying 1000 Life Points. Monsters that are banished, as well as monsters in the Graveyard, cannot activate their effects (that start a Chain).</text>
+</card>

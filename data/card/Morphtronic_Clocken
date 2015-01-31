@@ -1,14 +1,17 @@
-Morphtronic Clocken
-Monster
-EARTH
-Effect
-None
-Machine
-2
-600
-1100
-0
-0
-None
-None
-● While in Attack Position: This card gains 500 ATK for each Morph Counter on it. ● While in Defense Position: Once per turn, you can place 1 Morph Counter on this card. You can Tribute this card to inflict 1000 damage to your opponent for each Morph Counter on it.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Clocken</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>● While in Attack Position: This card gains 500 ATK for each Morph Counter on it. ● While in Defense Position: Once per turn, you can place 1 Morph Counter on this card. You can Tribute this card to inflict 1000 damage to your opponent for each Morph Counter on it.</text>
+</card>

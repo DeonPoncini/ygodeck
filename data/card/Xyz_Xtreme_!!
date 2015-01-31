@@ -1,14 +1,17 @@
-Xyz Xtreme !!
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an Xyz Monster you control is destroyed by battle: Pay 1000 Life Points; you reveal 1 Xyz Monster from the Extra Deck with a Rank less than or equal to that destroyed monster's, and so can your opponent (simultaneously). The player who revealed the monster with lower ATK takes damage equal to the difference between the revealed monsters' ATK's. If the opponent doesn't reveal a monster, inflict damage to your opponent equal to the ATK of your revealed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Xtreme !!</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an Xyz Monster you control is destroyed by battle: Pay 1000 Life Points; you reveal 1 Xyz Monster from the Extra Deck with a Rank less than or equal to that destroyed monster's, and so can your opponent (simultaneously). The player who revealed the monster with lower ATK takes damage equal to the difference between the revealed monsters' ATK's. If the opponent doesn't reveal a monster, inflict damage to your opponent equal to the ATK of your revealed monster.</text>
+</card>

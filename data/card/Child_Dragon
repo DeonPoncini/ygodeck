@@ -1,14 +1,17 @@
-Child Dragon
-Monster
-WATER
-Synchro
-None
-Wyrm
-3
-1700
-500
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen using this Synchro Summoned card as a Synchro Material, you can use 1 monster in your hand as a Synchro Material. This card is unaffected by other monster effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Child Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Wyrm</type>
+    <level>3</level>
+    <attack>1700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen using this Synchro Summoned card as a Synchro Material, you can use 1 monster in your hand as a Synchro Material. This card is unaffected by other monster effects.</text>
+</card>

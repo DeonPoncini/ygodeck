@@ -1,14 +1,17 @@
-Snow Dragon
-Monster
-WATER
-Effect
-None
-Dragon
-4
-1400
-900
-0
-0
-None
-None
-When this card is destroyed by battle or by a card effect and sent to the Graveyard: Place 1 Ice Counter on each face-up monster on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Snow Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle or by a card effect and sent to the Graveyard: Place 1 Ice Counter on each face-up monster on the field.</text>
+</card>

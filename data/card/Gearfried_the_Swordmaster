@@ -1,14 +1,17 @@
-Gearfried the Swordmaster
-Monster
-LIGHT
-Effect
-None
-Warrior
-7
-2600
-2200
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by "Release Restraint" and cannot be Special Summoned by other ways. When an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Gearfried the Swordmaster</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by &quot;Release Restraint&quot; and cannot be Special Summoned by other ways. When an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.</text>
+</card>

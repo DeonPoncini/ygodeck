@@ -1,14 +1,17 @@
-Number 19: Freezadon
-Monster
-WATER
-Xyz
-Effect
-Dinosaur
-5
-2000
-2500
-0
-0
-None
-None
-2 Level 5 monstersOnce per turn, if an Xyz Monster you control would activate an effect by detaching an Xyz Material(s), you can detach 1 Xyz Material from this card instead of 1 of those Xyz Materials.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 19: Freezadon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dinosaur</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 monstersOnce per turn, if an Xyz Monster you control would activate an effect by detaching an Xyz Material(s), you can detach 1 Xyz Material from this card instead of 1 of those Xyz Materials.</text>
+</card>

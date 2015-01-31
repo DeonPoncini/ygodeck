@@ -1,14 +1,17 @@
-Vulcan the Divine
-Monster
-FIRE
-Synchro
-Effect
-Beast-Warrior
-6
-2000
-1600
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: Target 1 face-up card you control and 1 face-up card your opponent controls; return those targets to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as those returned to the hand by this effect. You can only use this effect of "Vulcan the Divine" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Vulcan the Divine</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: Target 1 face-up card you control and 1 face-up card your opponent controls; return those targets to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as those returned to the hand by this effect. You can only use this effect of &quot;Vulcan the Divine&quot; once per turn.</text>
+</card>

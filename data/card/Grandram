@@ -1,14 +1,17 @@
-Grandram
-Monster
-EARTH
-Effect
-None
-Rock
-4
-0
-1400
-0
-0
-None
-None
-If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand) in face-up Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Grandram</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand) in face-up Attack Position.</text>
+</card>

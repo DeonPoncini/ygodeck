@@ -1,14 +1,17 @@
-Soul-Absorbing Bone Tower
-Monster
-DARK
-Effect
-None
-Zombie
-3
-400
-1500
-0
-0
-None
-None
-If you control another Zombie-Type monster, your opponent cannot target this card for attacks. Each time a Zombie-Type monster(s) is Special Summoned : Send the top 2 cards of your opponent's Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Soul-Absorbing Bone Tower</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control another Zombie-Type monster, your opponent cannot target this card for attacks. Each time a Zombie-Type monster(s) is Special Summoned : Send the top 2 cards of your opponent's Deck to the Graveyard.</text>
+</card>

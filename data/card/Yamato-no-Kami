@@ -1,14 +1,17 @@
-Yamato-no-Kami
-Monster
-DARK
-Spirit
-None
-Warrior
-6
-2200
-1200
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 Spirit monster from your Graveyard. This card returns to its owner's hand during the End Phase of the turn it is Special Summoned. If this card destroys an opponent's monster by battle, you can destroy 1 Spell or Trap Card your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Yamato-no-Kami</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 Spirit monster from your Graveyard. This card returns to its owner's hand during the End Phase of the turn it is Special Summoned. If this card destroys an opponent's monster by battle, you can destroy 1 Spell or Trap Card your opponent controls.</text>
+</card>

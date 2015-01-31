@@ -1,14 +1,17 @@
-Desert Protector
-Monster
-EARTH
-Effect
-None
-Insect
-4
-800
-1000
-0
-0
-None
-None
-This card gains 300 DEF for each Spell and Trap Card on the field. If an Insect-Type monster you control would be destroyed, you can destroy this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Desert Protector</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 300 DEF for each Spell and Trap Card on the field. If an Insect-Type monster you control would be destroyed, you can destroy this card instead.</text>
+</card>

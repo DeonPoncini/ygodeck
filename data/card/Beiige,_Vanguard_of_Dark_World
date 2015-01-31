@@ -1,14 +1,17 @@
-Beiige, Vanguard of Dark World
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1600
-1300
-0
-0
-None
-None
-If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Beiige, Vanguard of Dark World</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.</text>
+</card>

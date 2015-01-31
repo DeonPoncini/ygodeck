@@ -1,14 +1,17 @@
-Mist Valley Watcher
-Monster
-WIND
-Normal
-None
-Spellcaster
-4
-1500
-1900
-0
-0
-None
-None
-Descendant of a family that has served as Mist Valley watchmen over the generations. Never missed a single thing that happened in the valley, no matter how minute.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Watcher</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Descendant of a family that has served as Mist Valley watchmen over the generations. Never missed a single thing that happened in the valley, no matter how minute.</text>
+</card>

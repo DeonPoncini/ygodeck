@@ -1,14 +1,17 @@
-Dark Catapulter
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1000
-1500
-0
-0
-None
-None
-During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. You can remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that many Spell or Trap Card(s) on the field. Then remove all counter(s) from this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Catapulter</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. You can remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that many Spell or Trap Card(s) on the field. Then remove all counter(s) from this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Ayers Rock Sunrise
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 Beast-Type monster in your Graveyard; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast-Type monster currently in your Graveyard, until the end of this turn. You can only activate 1 "Ayers Rock Sunrise" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ayers Rock Sunrise</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Beast-Type monster in your Graveyard; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast-Type monster currently in your Graveyard, until the end of this turn. You can only activate 1 &quot;Ayers Rock Sunrise&quot; per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Garvas
-Monster
-EARTH
-Normal
-None
-Beast
-6
-2000
-1700
-0
-0
-None
-None
-A wicked beast that resembles a winged lion.
+<?xml version="1.0" ?>
+<card>
+    <name>Garvas</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked beast that resembles a winged lion.</text>
+</card>

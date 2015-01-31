@@ -1,14 +1,17 @@
-Number 39: Utopia Roots
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-1
-500
-100
-0
-0
-None
-None
-2 Level 1 monstersWhen any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack, and if you negated an Xyz Monster's attack, this card gains ATK equal to that monster's Rank x 500.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 39: Utopia Roots</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>1</level>
+    <attack>500</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 1 monstersWhen any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack, and if you negated an Xyz Monster's attack, this card gains ATK equal to that monster's Rank x 500.</text>
+</card>

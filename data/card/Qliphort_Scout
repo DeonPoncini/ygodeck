@@ -1,18 +1,21 @@
-Qliphort Scout
-Monster
-EARTH
-Pendulum
-None
-Machine
-5
-1000
-2800
-9
-9
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Qliphort Scout</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>2800</defense>
+    <lpendulum>9</lpendulum>
+    <rpendulum>9</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  You cannot Special Summon monsters, except ‟Qli” monsters. This effect cannot be negated. Once per turn: You can pay 800 LP; add 1 ‟Qli” card from your Deck to your hand, except ‟Qliphort Scout”.
 
  Monster Effect
- Booting in Replica Mode…An error has occurred when executing C:\sophia\zefra.exeUnknown publisher.Allow C:\tierra\qliphort.exe ? <Y/N>…[Y]Booting in Autonomy Mode…
+ Booting in Replica Mode…An error has occurred when executing C:\sophia\zefra.exeUnknown publisher.Allow C:\tierra\qliphort.exe ? &lt;Y/N&gt;…[Y]Booting in Autonomy Mode…</text>
+</card>

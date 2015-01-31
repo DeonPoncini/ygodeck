@@ -1,14 +1,17 @@
-Lightray Grepher
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1700
-1600
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher LIGHT monster. Once per turn: You can discard 1 LIGHT monster; banish 1 LIGHT monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightray Grepher</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher LIGHT monster. Once per turn: You can discard 1 LIGHT monster; banish 1 LIGHT monster from your Deck.</text>
+</card>

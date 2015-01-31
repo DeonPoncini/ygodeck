@@ -1,14 +1,17 @@
-Sword of Deep-Seated
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-A Monster Card equipped with this card increases its ATK and DEF by 500 points. When this card is sent to the Graveyard, place it on top of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Sword of Deep-Seated</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>A Monster Card equipped with this card increases its ATK and DEF by 500 points. When this card is sent to the Graveyard, place it on top of your Deck.</text>
+</card>

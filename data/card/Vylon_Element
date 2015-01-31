@@ -1,14 +1,17 @@
-Vylon Element
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When any face-up "Vylon" Equip Card(s) you control are destroyed (except during the Damage Step): You can Special Summon an equal or lower number of "Vylon" Tuner monsters from your Deck. They cannot be used as Synchro Material Monsters, except for the Synchro Summon of a "Vylon" Synchro Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Element</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When any face-up &quot;Vylon&quot; Equip Card(s) you control are destroyed (except during the Damage Step): You can Special Summon an equal or lower number of &quot;Vylon&quot; Tuner monsters from your Deck. They cannot be used as Synchro Material Monsters, except for the Synchro Summon of a &quot;Vylon&quot; Synchro Monster.</text>
+</card>

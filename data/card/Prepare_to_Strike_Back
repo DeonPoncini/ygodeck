@@ -1,14 +1,17 @@
-Prepare to Strike Back
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each time your opponent declares an attack on a face-up Defense Position monster, toss a coin and call it. If you call it right, change the targeted face-up Defense Position monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the difference between the ATK of the attacking monster, and DEF of the attacked monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Prepare to Strike Back</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each time your opponent declares an attack on a face-up Defense Position monster, toss a coin and call it. If you call it right, change the targeted face-up Defense Position monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the difference between the ATK of the attacking monster, and DEF of the attacked monster.</text>
+</card>

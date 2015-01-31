@@ -1,14 +1,17 @@
-Marine Beast
-Monster
-WATER
-Fusion
-None
-Fish
-5
-1700
-1600
-0
-0
-None
-None
-"Water Magician" + "Behegon"
+<?xml version="1.0" ?>
+<card>
+    <name>Marine Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Water Magician&quot; + &quot;Behegon&quot;</text>
+</card>

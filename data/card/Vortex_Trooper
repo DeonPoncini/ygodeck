@@ -1,14 +1,17 @@
-Vortex Trooper
-Monster
-WIND
-Effect
-None
-Aqua
-3
-0
-600
-0
-0
-None
-None
-When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. When this card is destroyed: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Vortex Trooper</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. When this card is destroyed: Draw 1 card.</text>
+</card>

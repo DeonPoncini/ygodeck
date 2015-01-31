@@ -1,14 +1,17 @@
-Blackwing - Silverwind the Ascendant
-Monster
-DARK
-Synchro
-Effect
-Winged Beast
-8
-2800
-2000
-0
-0
-None
-None
-1 "Blackwing" Tuner + 2 or more non-Tuner monstersWhen this card is Synchro Summoned: You can target up to 2 face-up monsters on the field with DEF lower than this card's ATK; destroy those targets. You cannot conduct your Battle Phase the turn you activate this effect. During each of your opponent's turns, the first "Blackwing" monster you control that would be destroyed by battle, is not destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Silverwind the Ascendant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Blackwing&quot; Tuner + 2 or more non-Tuner monstersWhen this card is Synchro Summoned: You can target up to 2 face-up monsters on the field with DEF lower than this card's ATK; destroy those targets. You cannot conduct your Battle Phase the turn you activate this effect. During each of your opponent's turns, the first &quot;Blackwing&quot; monster you control that would be destroyed by battle, is not destroyed.</text>
+</card>

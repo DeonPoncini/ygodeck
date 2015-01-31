@@ -1,14 +1,17 @@
-Ojama Red
-Monster
-LIGHT
-Effect
-None
-Beast
-2
-0
-1000
-0
-0
-None
-None
-When this card is Normal Summoned, you can Special Summon up to 4 "Ojama" monsters from your hand in Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ojama Red</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can Special Summon up to 4 &quot;Ojama&quot; monsters from your hand in Attack Position.</text>
+</card>

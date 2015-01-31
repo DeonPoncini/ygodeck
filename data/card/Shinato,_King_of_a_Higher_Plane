@@ -1,14 +1,17 @@
-Shinato, King of a Higher Plane
-Monster
-LIGHT
-Ritual
-Effect
-Fairy
-8
-3300
-3000
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "Shinato's Ark". You must also Tribute monsters whose total Level equal 8 or more from the field or your hand. When this card destroys a Defense Position monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the original ATK of the destroyed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Shinato, King of a Higher Plane</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>3300</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;Shinato's Ark&quot;. You must also Tribute monsters whose total Level equal 8 or more from the field or your hand. When this card destroys a Defense Position monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the original ATK of the destroyed monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Crazy Fish
-Monster
-WATER
-Normal
-None
-Fish
-4
-1600
-1200
-0
-0
-None
-None
-A flying fish that attacks with its pointed head.
+<?xml version="1.0" ?>
+<card>
+    <name>Crazy Fish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A flying fish that attacks with its pointed head.</text>
+</card>

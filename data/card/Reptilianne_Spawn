@@ -1,14 +1,17 @@
-Reptilianne Spawn
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Remove from play 1 "Reptilianne" monster from your Graveyard. Special Summon 2 "Reptilianne Tokens" (Reptile-Type/EARTH/Level 1/ATK 0/DEF 0) to your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Reptilianne Spawn</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Remove from play 1 &quot;Reptilianne&quot; monster from your Graveyard. Special Summon 2 &quot;Reptilianne Tokens&quot; (Reptile-Type/EARTH/Level 1/ATK 0/DEF 0) to your side of the field.</text>
+</card>

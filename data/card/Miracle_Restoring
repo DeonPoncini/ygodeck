@@ -1,14 +1,17 @@
-Miracle Restoring
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Remove 2 Spell Counters from your side of the field, then target 1 "Dark Magician" or "Buster Blader" in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Miracle Restoring</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Remove 2 Spell Counters from your side of the field, then target 1 &quot;Dark Magician&quot; or &quot;Buster Blader&quot; in your Graveyard; Special Summon that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Sacred Sword of Seven Stars
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 "Sacred Sword of Seven Stars" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Sacred Sword of Seven Stars</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 &quot;Sacred Sword of Seven Stars&quot; per turn.</text>
+</card>

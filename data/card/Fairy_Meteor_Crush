@@ -1,14 +1,17 @@
-Fairy Meteor Crush
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Fairy Meteor Crush</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

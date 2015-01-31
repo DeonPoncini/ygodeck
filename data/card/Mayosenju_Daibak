@@ -1,18 +1,21 @@
-Mayosenju Daibak
-Monster
-WIND
-Pendulum
-Effect
-Beast
-10
-3000
-300
-7
-7
-None
-None
-Pendulum Effect
- When a "Yosenju" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Mayosenju Daibak</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>300</defense>
+    <lpendulum>7</lpendulum>
+    <rpendulum>7</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ When a &quot;Yosenju&quot; monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.
 
  Monster Effect
- Cannot be Special Summoned, except by Pendulum Summon. This card's Pendulum Summon cannot be negated. If this card is Normal or Special Summoned: You can target 1 or 2 cards on the field; return them to the hand. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.
+ Cannot be Special Summoned, except by Pendulum Summon. This card's Pendulum Summon cannot be negated. If this card is Normal or Special Summoned: You can target up to 2 cards on the field; return them to the hand. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.</text>
+</card>

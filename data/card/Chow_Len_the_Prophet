@@ -1,14 +1,17 @@
-Chow Len the Prophet
-Monster
-FIRE
-Effect
-None
-Spellcaster
-4
-1800
-200
-0
-0
-None
-None
-Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent's Spell & Trap Card Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Chow Len the Prophet</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent's Spell &amp; Trap Card Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Despair from the Dark
-Monster
-DARK
-Effect
-None
-Zombie
-8
-2800
-3000
-0
-0
-None
-None
-When this card is sent from your hand or Deck to your Graveyard by an opponent's card effect: Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Despair from the Dark</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent from your hand or Deck to your Graveyard by an opponent's card effect: Special Summon this card.</text>
+</card>

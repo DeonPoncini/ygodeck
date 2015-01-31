@@ -1,14 +1,17 @@
-Thunder Kid
-Monster
-WIND
-Normal
-None
-Thunder
-2
-700
-600
-0
-0
-None
-None
-This monster stores electricity within his body, and can unleash it with catastrophic power.
+<?xml version="1.0" ?>
+<card>
+    <name>Thunder Kid</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster stores electricity within his body, and can unleash it with catastrophic power.</text>
+</card>

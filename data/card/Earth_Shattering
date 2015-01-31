@@ -1,14 +1,17 @@
-Earth Shattering
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-If a card(s) is sent from your Deck or your opponent's Deck to the Graveyard: Target 1 card in either Graveyard; shuffle that target into the Deck, also neither player can send cards from their Deck to the Graveyard for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Earth Shattering</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>If a card(s) is sent from your Deck or your opponent's Deck to the Graveyard: Target 1 card in either Graveyard; shuffle that target into the Deck, also neither player can send cards from their Deck to the Graveyard for the rest of this turn.</text>
+</card>

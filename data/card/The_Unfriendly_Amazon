@@ -1,14 +1,17 @@
-The Unfriendly Amazon
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-2000
-1000
-0
-0
-None
-None
-Tribute 1 of your monsters on the field (excluding this monster) during each of your Standby Phases. If you do not, this card is destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>The Unfriendly Amazon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 of your monsters on the field (excluding this monster) during each of your Standby Phases. If you do not, this card is destroyed.</text>
+</card>

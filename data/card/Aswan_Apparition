@@ -1,14 +1,17 @@
-Aswan Apparition
-Monster
-DARK
-Effect
-None
-Fiend
-3
-500
-500
-0
-0
-None
-None
-If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Aswan Apparition</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck.</text>
+</card>

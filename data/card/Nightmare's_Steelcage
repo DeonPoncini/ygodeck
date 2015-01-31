@@ -1,14 +1,17 @@
-Nightmare's Steelcage
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-This card remains on the field for 2 of your opponent's turns. While this card is face-up on the field, no monsters can attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Nightmare's Steelcage</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>This card remains on the field for 2 of your opponent's turns. While this card is face-up on the field, no monsters can attack.</text>
+</card>

@@ -1,14 +1,17 @@
-The Sanctuary in the Sky
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Battle Damage to the controller of a Fairy-Type monster from a battle involving that Fairy-Type monster becomes 0.
+<?xml version="1.0" ?>
+<card>
+    <name>The Sanctuary in the Sky</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Battle Damage to the controller of a Fairy-Type monster from a battle involving that Fairy-Type monster becomes 0.</text>
+</card>

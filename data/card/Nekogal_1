@@ -1,14 +1,17 @@
-Nekogal 1
-Monster
-EARTH
-Normal
-None
-Beast
-3
-1100
-900
-0
-0
-None
-None
-A pussycat-fairy. Contrary to her lovely beauty, she claws on her enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Nekogal #1</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A pussycat-fairy. Contrary to her lovely beauty, she claws on her enemies.</text>
+</card>

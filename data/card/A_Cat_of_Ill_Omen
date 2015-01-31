@@ -1,14 +1,17 @@
-A Cat of Ill Omen
-Monster
-DARK
-Effect
-None
-Beast
-2
-500
-300
-0
-0
-None
-None
-FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected card to your hand instead.
+<?xml version="1.0" ?>
+<card>
+    <name>A Cat of Ill Omen</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If &quot;Necrovalley&quot; is on the field, you can add the selected card to your hand instead.</text>
+</card>

@@ -1,14 +1,17 @@
-Fire King Avatar Garunix
-Monster
-FIRE
-Effect
-None
-Winged Beast
-3
-700
-1700
-0
-0
-None
-None
-If a face-up "Fire King" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can Special Summon 1 "Fire King Avatar" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire King Avatar Garunix</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a face-up &quot;Fire King&quot; monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can Special Summon 1 &quot;Fire King Avatar&quot; monster from your Deck.</text>
+</card>

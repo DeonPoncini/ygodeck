@@ -1,14 +1,17 @@
-Dragged Down into the Grave
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Both players reveal their hands, discard 1 card from their opponent's hand to the Graveyard, then draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragged Down into the Grave</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Both players reveal their hands, discard 1 card from their opponent's hand to the Graveyard, then draw 1 card.</text>
+</card>

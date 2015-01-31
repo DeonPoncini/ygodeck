@@ -1,14 +1,17 @@
-Ray & Temperature
-Monster
-LIGHT
-Normal
-None
-Fairy
-3
-1000
-1000
-0
-0
-None
-None
-The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.
+<?xml version="1.0" ?>
+<card>
+    <name>Ray &amp; Temperature</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.</text>
+</card>

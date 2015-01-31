@@ -1,14 +1,17 @@
-Shapesnatch
-Monster
-DARK
-Normal
-None
-Machine
-5
-1200
-1700
-0
-0
-None
-None
-A bow tie with horrible power, it attacks an opponent by controlling others.
+<?xml version="1.0" ?>
+<card>
+    <name>Shapesnatch</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1200</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A bow tie with horrible power, it attacks an opponent by controlling others.</text>
+</card>

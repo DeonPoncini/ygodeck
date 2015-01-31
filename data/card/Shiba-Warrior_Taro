@@ -1,14 +1,17 @@
-Shiba-Warrior Taro
-Monster
-EARTH
-Tuner
-None
-Beast-Warrior
-2
-800
-600
-0
-0
-None
-None
-This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Shiba-Warrior Taro</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner's hand.</text>
+</card>

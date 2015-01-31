@@ -1,14 +1,17 @@
-Chain Thrasher
-Monster
-WIND
-Effect
-None
-Warrior
-4
-1000
-600
-0
-0
-None
-None
-This card can attack 1 additional time during the same Battle Phase for each "Chain Thrasher" in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Chain Thrasher</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack 1 additional time during the same Battle Phase for each &quot;Chain Thrasher&quot; in your Graveyard.</text>
+</card>

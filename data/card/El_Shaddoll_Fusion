@@ -1,14 +1,17 @@
-El Shaddoll Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Fusion Summon 1 "Shaddoll" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. You can only activate 1 "El Shaddoll Fusion" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>El Shaddoll Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Fusion Summon 1 &quot;Shaddoll&quot; Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. You can only activate 1 &quot;El Shaddoll Fusion&quot; per turn.</text>
+</card>

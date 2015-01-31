@@ -1,14 +1,17 @@
-Lord of Zemia
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1300
-1000
-0
-0
-None
-None
-A wicked entity that manipulates enemies towards a path of destruction.
+<?xml version="1.0" ?>
+<card>
+    <name>Lord of Zemia</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked entity that manipulates enemies towards a path of destruction.</text>
+</card>

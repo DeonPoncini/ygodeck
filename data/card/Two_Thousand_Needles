@@ -1,14 +1,17 @@
-Two Thousand Needles
-Monster
-EARTH
-Effect
-None
-Beast
-5
-2000
-1800
-0
-0
-None
-None
-When this Defense Position card is attacked and the ATK of the attacking monster is lower than the DEF of this card, destroy the attacking monster at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Two Thousand Needles</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this Defense Position card is attacked and the ATK of the attacking monster is lower than the DEF of this card, destroy the attacking monster at the end of the Damage Step.</text>
+</card>

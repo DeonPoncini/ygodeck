@@ -1,14 +1,17 @@
-Fairy King Albverdich
-Monster
-EARTH
-Xyz
-Effect
-Plant
-4
-2300
-1400
-0
-0
-None
-None
-2 Level 4 EARTH monstersOnce per turn: You can detach 1 Xyz Material from this card; all non-EARTH monsters currently on the field lose 500 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Fairy King Albverdich</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>2300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 EARTH monstersOnce per turn: You can detach 1 Xyz Material from this card; all non-EARTH monsters currently on the field lose 500 ATK and DEF.</text>
+</card>

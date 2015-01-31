@@ -1,14 +1,17 @@
-Temple of Skulls
-Monster
-DARK
-Normal
-None
-Zombie
-4
-900
-1300
-0
-0
-None
-None
-A mysterious temple of skulls and bones that pulls in unsuspecting enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Temple of Skulls</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>900</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mysterious temple of skulls and bones that pulls in unsuspecting enemies.</text>
+</card>

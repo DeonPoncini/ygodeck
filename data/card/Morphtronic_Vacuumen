@@ -1,14 +1,17 @@
-Morphtronic Vacuumen
-Monster
-WIND
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-● While in Attack Position: Once per turn, you can send 1 card equipped to this card to the Graveyard to inflict 500 damage to your opponent.  ● While in Defense Position: Once per turn, you can equip 1 face-up Attack Position monster your opponent controls to this card. (You can only equip 1 monster at a time to this card.)
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Vacuumen</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>● While in Attack Position: Once per turn, you can send 1 card equipped to this card to the Graveyard to inflict 500 damage to your opponent.  ● While in Defense Position: Once per turn, you can equip 1 face-up Attack Position monster your opponent controls to this card. (You can only equip 1 monster at a time to this card.)</text>
+</card>

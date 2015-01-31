@@ -1,14 +1,17 @@
-Shadow of the Six Samurai - Shien
-Monster
-EARTH
-Xyz
-Effect
-Warrior
-4
-2500
-400
-0
-0
-None
-None
-2 Level 4 "Six Samurai" monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card to target 1 face-up "Six Samurai" monster you control with less than 2000 ATK; its original ATK becomes 2000 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Shadow of the Six Samurai - Shien</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 &quot;Six Samurai&quot; monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card to target 1 face-up &quot;Six Samurai&quot; monster you control with less than 2000 ATK; its original ATK becomes 2000 until the End Phase.</text>
+</card>

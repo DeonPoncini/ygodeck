@@ -1,14 +1,17 @@
-Magical Exemplar
-Monster
-EARTH
-Effect
-None
-Spellcaster
-4
-1700
-1400
-0
-0
-None
-None
-Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell Card resolves. Once per turn: You can remove any number of Spell Counters from this card; Special Summon 1 Spellcaster-Type monster from your hand or Graveyard whose Level is equal to the number of Spell Counters you removed.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Exemplar</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell Card resolves. Once per turn: You can remove any number of Spell Counters from this card; Special Summon 1 Spellcaster-Type monster from your hand or Graveyard whose Level is equal to the number of Spell Counters you removed.</text>
+</card>

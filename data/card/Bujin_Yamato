@@ -1,14 +1,17 @@
-Bujin Yamato
-Monster
-LIGHT
-Effect
-None
-Beast-Warrior
-4
-1800
-200
-0
-0
-None
-None
-Once per turn, during your End Phase: You can add 1 "Bujin" monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 "Bujin Yamato".
+<?xml version="1.0" ?>
+<card>
+    <name>Bujin Yamato</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your End Phase: You can add 1 &quot;Bujin&quot; monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 &quot;Bujin Yamato&quot;.</text>
+</card>

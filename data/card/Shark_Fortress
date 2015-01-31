@@ -1,14 +1,17 @@
-Shark Fortress
-Monster
-DARK
-Xyz
-Effect
-Fish
-5
-2400
-1800
-0
-0
-None
-None
-2 Level 5 monstersYour opponent cannot target monsters for attacks, except this one. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster you control; it can make a second attack during each Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shark Fortress</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fish</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 monstersYour opponent cannot target monsters for attacks, except this one. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster you control; it can make a second attack during each Battle Phase this turn.</text>
+</card>

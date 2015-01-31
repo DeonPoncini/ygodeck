@@ -1,14 +1,17 @@
-Battlin' Boxer Sparrer
-Monster
-FIRE
-Effect
-None
-Warrior
-4
-1200
-1400
-0
-0
-None
-None
-If you control a "Battlin' Boxer" monster, you can Special Summon this card (from your hand). If you do, you cannot conduct your Battle Phase for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Battlin' Boxer Sparrer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Battlin' Boxer&quot; monster, you can Special Summon this card (from your hand). If you do, you cannot conduct your Battle Phase for the rest of this turn.</text>
+</card>

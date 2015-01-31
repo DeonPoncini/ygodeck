@@ -1,14 +1,17 @@
-Girochin Kuwagata
-Monster
-WIND
-Normal
-None
-Insect
-4
-1700
-1000
-0
-0
-None
-None
-Despite its small size, this monster has powerful jaws that can rip metal to shreds.
+<?xml version="1.0" ?>
+<card>
+    <name>Girochin Kuwagata</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Despite its small size, this monster has powerful jaws that can rip metal to shreds.</text>
+</card>

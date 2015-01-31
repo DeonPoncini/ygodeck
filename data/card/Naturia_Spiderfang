@@ -1,14 +1,17 @@
-Naturia Spiderfang
-Monster
-EARTH
-Effect
-None
-Insect
-4
-2100
-400
-0
-0
-None
-None
-This card can only declare an attack during a turn that your opponent activates the effect of a Spell, Trap or Effect Monster Card.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Spiderfang</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only declare an attack during a turn that your opponent activates the effect of a Spell, Trap or Effect Monster Card.</text>
+</card>

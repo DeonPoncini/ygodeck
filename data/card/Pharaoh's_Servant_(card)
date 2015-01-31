@@ -1,14 +1,17 @@
-Pharaoh's Servant (card)
-Monster
-DARK
-Normal
-None
-Zombie
-2
-900
-0
-0
-0
-None
-None
-An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.
+<?xml version="1.0" ?>
+<card>
+    <name>Pharaoh's Servant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.</text>
+</card>

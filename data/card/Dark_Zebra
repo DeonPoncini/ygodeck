@@ -1,14 +1,17 @@
-Dark Zebra
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1800
-400
-0
-0
-None
-None
-If this is the only Monster Card in your control during your Standby Phase, it is changed to Defense Position. You cannot change the position of this card during the same turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Zebra</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this is the only Monster Card in your control during your Standby Phase, it is changed to Defense Position. You cannot change the position of this card during the same turn.</text>
+</card>

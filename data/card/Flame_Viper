@@ -1,14 +1,17 @@
-Flame Viper
-Monster
-EARTH
-Normal
-None
-Pyro
-2
-400
-450
-0
-0
-None
-None
-A fire-breathing snake whose speed makes it a difficult target.
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Viper</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>450</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fire-breathing snake whose speed makes it a difficult target.</text>
+</card>

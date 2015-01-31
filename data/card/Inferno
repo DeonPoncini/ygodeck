@@ -1,14 +1,17 @@
-Inferno
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1100
-1900
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing 1 FIRE monster in your Graveyard from play. When this card destroys your opponent's monster and sends it to the Graveyard as a result of battle, inflict 1500 points of damage to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Inferno</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing 1 FIRE monster in your Graveyard from play. When this card destroys your opponent's monster and sends it to the Graveyard as a result of battle, inflict 1500 points of damage to your opponent's Life Points.</text>
+</card>

@@ -1,14 +1,17 @@
-Cameraclops
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1400
-1600
-0
-0
-None
-None
-If this card attacks a face-up monster on the field, at the start of the Damage Step: Destroy that monster. Its DEF must be higher than this card's ATK to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Cameraclops</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks a face-up monster on the field, at the start of the Damage Step: Destroy that monster. Its DEF must be higher than this card's ATK to activate and to resolve this effect.</text>
+</card>

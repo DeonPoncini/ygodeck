@@ -1,14 +1,17 @@
-Ill Witch
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-5
-1600
-1500
-0
-0
-None
-None
-This monster blasts enemies with unexpected bursts of wind.
+<?xml version="1.0" ?>
+<card>
+    <name>Ill Witch</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster blasts enemies with unexpected bursts of wind.</text>
+</card>

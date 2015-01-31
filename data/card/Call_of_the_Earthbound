@@ -1,14 +1,17 @@
-Call of the Earthbound
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when an opponent's monster declares an attack. You select the target of the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Call of the Earthbound</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when an opponent's monster declares an attack. You select the target of the attack.</text>
+</card>

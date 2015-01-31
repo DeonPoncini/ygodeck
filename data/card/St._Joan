@@ -1,14 +1,17 @@
-St. Joan
-Monster
-LIGHT
-Fusion
-None
-Fairy
-7
-2800
-2000
-0
-0
-None
-None
-"The Forgiving Maiden" + "Marie the Fallen One"
+<?xml version="1.0" ?>
+<card>
+    <name>St. Joan</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;The Forgiving Maiden&quot; + &quot;Marie the Fallen One&quot;</text>
+</card>

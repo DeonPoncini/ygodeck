@@ -1,14 +1,17 @@
-Unicorn Beacon
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 removed from play Level 5 or lower Beast-Type or Winged Beast-Type monster. Remove from play 1 card in your hand and Special Summon the selected monster in Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Unicorn Beacon</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 removed from play Level 5 or lower Beast-Type or Winged Beast-Type monster. Remove from play 1 card in your hand and Special Summon the selected monster in Attack Position.</text>
+</card>

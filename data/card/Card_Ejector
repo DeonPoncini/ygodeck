@@ -1,14 +1,17 @@
-Card Ejector
-Monster
-EARTH
-Effect
-None
-Spellcaster
-3
-400
-400
-0
-0
-None
-None
-Once per turn: You can target 1 card in your opponent's Graveyard; banish that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Card Ejector</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 card in your opponent's Graveyard; banish that target.</text>
+</card>

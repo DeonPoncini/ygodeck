@@ -1,14 +1,17 @@
-Elemental Mistress Doriado
-Monster
-LIGHT
-Ritual
-Effect
-Spellcaster
-3
-1200
-1400
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "Doriado's Blessing". The Attribute of this card is also treated as WIND, WATER, FIRE, and EARTH while it is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental Mistress Doriado</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;Doriado's Blessing&quot;. The Attribute of this card is also treated as WIND, WATER, FIRE, and EARTH while it is face-up on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Orient Dragon
-Monster
-WIND
-Synchro
-Effect
-Dragon
-6
-2300
-1000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Orient Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.</text>
+</card>

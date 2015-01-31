@@ -1,14 +1,17 @@
-Mystical Capture Chain
-Monster
-LIGHT
-Normal
-None
-Fairy
-2
-700
-700
-0
-0
-None
-None
-A mystical chain that binds enemies, rendering them immobile.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystical Capture Chain</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mystical chain that binds enemies, rendering them immobile.</text>
+</card>

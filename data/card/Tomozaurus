@@ -1,14 +1,17 @@
-Tomozaurus
-Monster
-EARTH
-Normal
-None
-Dinosaur
-2
-500
-400
-0
-0
-None
-None
-Small but vicious, this monster even attacks its own kind.
+<?xml version="1.0" ?>
+<card>
+    <name>Tomozaurus</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Small but vicious, this monster even attacks its own kind.</text>
+</card>

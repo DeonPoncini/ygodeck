@@ -1,14 +1,17 @@
-Gravity Collapse
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Activate by sending 1 face-up Synchro Monster you control to the Graveyard when your opponent Summons a monster. Negate the Summon and destroy that card. Your opponent cannot Summon a monster until the End Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravity Collapse</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Activate by sending 1 face-up Synchro Monster you control to the Graveyard when your opponent Summons a monster. Negate the Summon and destroy that card. Your opponent cannot Summon a monster until the End Phase of this turn.</text>
+</card>

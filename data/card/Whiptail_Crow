@@ -1,14 +1,17 @@
-Whiptail Crow
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1650
-1600
-0
-0
-None
-None
-Attacks from the skies with a whip-like tail.
+<?xml version="1.0" ?>
+<card>
+    <name>Whiptail Crow</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1650</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Attacks from the skies with a whip-like tail.</text>
+</card>

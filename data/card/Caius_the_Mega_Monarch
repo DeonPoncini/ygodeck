@@ -1,14 +1,17 @@
-Caius the Mega Monarch
-Monster
-DARK
-Effect
-None
-Fiend
-8
-2800
-1000
-0
-0
-None
-None
-You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 card on the field; banish it, and if you do, inflict 1000 damage to your opponent, then, if it is a DARK Monster Card, banish all cards with that name from the hand, Main Deck, Extra Deck, and Graveyard of the player who controlled it. If this card was Tribute Summoned by Tributing a DARK monster, add this additional effect.● You can target 2 cards, instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Caius the Mega Monarch</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 card on the field; banish it, and if you do, inflict 1000 damage to your opponent, then, if it is a DARK Monster Card, banish all cards with that name from the hand, Main Deck, Extra Deck, and Graveyard of the player who controlled it. If this card was Tribute Summoned by Tributing a DARK monster, add this additional effect.● You can target 2 cards, instead.</text>
+</card>

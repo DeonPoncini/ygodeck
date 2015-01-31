@@ -1,14 +1,17 @@
-Fluffal Bear
-Monster
-EARTH
-Effect
-None
-Fairy
-3
-1200
-800
-0
-0
-None
-None
-You can send this card from your hand to the Graveyard; Set 1 "Toy Vendor" directly from your Deck to your Spell & Trap Zone. You can Tribute this card, then target 1 "Polymerization" in your Graveyard; add it to your hand. You can only use 1 "Fluffal Bear" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fluffal Bear</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send this card from your hand to the Graveyard; Set 1 &quot;Toy Vendor&quot; directly from your Deck to your Spell &amp; Trap Zone. You can Tribute this card, then target 1 &quot;Polymerization&quot; in your Graveyard; add it to your hand. You can only use 1 &quot;Fluffal Bear&quot; effect per turn, and only once that turn.</text>
+</card>

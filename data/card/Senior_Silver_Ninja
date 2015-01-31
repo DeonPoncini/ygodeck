@@ -1,14 +1,17 @@
-Senior Silver Ninja
-Monster
-EARTH
-Effect
-None
-Warrior
-6
-2300
-2200
-0
-0
-None
-None
-When this card is flipped face-up: You can Special Summon any number of "Ninja" monsters, except "Senior Silver Ninja", from your hand and/or Graveyard in face-down Defense Position. There can only be 1 face-up "Senior Silver Ninja" on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Senior Silver Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is flipped face-up: You can Special Summon any number of &quot;Ninja&quot; monsters, except &quot;Senior Silver Ninja&quot;, from your hand and/or Graveyard in face-down Defense Position. There can only be 1 face-up &quot;Senior Silver Ninja&quot; on the field.</text>
+</card>

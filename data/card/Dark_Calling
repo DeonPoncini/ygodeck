@@ -1,14 +1,17 @@
-Dark Calling
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Banish, from your hand or your Graveyard, the Fusion Material Monsters listed on a Fusion Monster Card that can only be Special Summoned with "Dark Fusion", then Special Summon that monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon with "Dark Fusion".)
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Calling</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Banish, from your hand or your Graveyard, the Fusion Material Monsters listed on a Fusion Monster Card that can only be Special Summoned with &quot;Dark Fusion&quot;, then Special Summon that monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon with &quot;Dark Fusion&quot;.)</text>
+</card>

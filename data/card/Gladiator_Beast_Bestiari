@@ -1,14 +1,17 @@
-Gladiator Beast Bestiari
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1500
-800
-0
-0
-None
-None
-When this card is Special Summoned by the effect of a "Gladiator Beast" monster: Target 1 Spell/Trap Card; destroy that target. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Bestiari".
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Bestiari</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster: Target 1 Spell/Trap Card; destroy that target. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 &quot;Gladiator Beast&quot; monster from your Deck, except &quot;Gladiator Beast Bestiari&quot;.</text>
+</card>

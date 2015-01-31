@@ -1,14 +1,17 @@
-Shaddoll Beast
-Monster
-DARK
-Flip
-Effect
-Spellcaster
-5
-2200
-1700
-0
-0
-None
-None
-FLIP: You can draw 2 cards, then discard 1 card.If this card is sent to the Graveyard by a card effect: You can draw 1 card. You can only use 1 "Shaddoll Beast" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shaddoll Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can draw 2 cards, then discard 1 card.If this card is sent to the Graveyard by a card effect: You can draw 1 card. You can only use 1 &quot;Shaddoll Beast&quot; effect per turn, and only once that turn.</text>
+</card>

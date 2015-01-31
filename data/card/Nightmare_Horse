@@ -1,14 +1,17 @@
-Nightmare Horse
-Monster
-DARK
-Effect
-None
-Zombie
-2
-500
-400
-0
-0
-None
-None
-This card can attack your opponent's Life Points directly even if there is a monster on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Nightmare Horse</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack your opponent's Life Points directly even if there is a monster on your opponent's side of the field.</text>
+</card>

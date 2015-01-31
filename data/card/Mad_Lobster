@@ -1,14 +1,17 @@
-Mad Lobster
-Monster
-WATER
-Normal
-None
-Aqua
-3
-1700
-1000
-0
-0
-None
-None
-A gourmet food renowned by the Dark World upper crust. It has sensational flavor.
+<?xml version="1.0" ?>
+<card>
+    <name>Mad Lobster</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A gourmet food renowned by the Dark World upper crust. It has sensational flavor.</text>
+</card>

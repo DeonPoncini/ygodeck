@@ -1,14 +1,17 @@
-Big Insect
-Monster
-EARTH
-Normal
-None
-Insect
-4
-1200
-1500
-0
-0
-None
-None
-A giant ant that dwells in the jungle, it is powerful whether attacking or defending.
+<?xml version="1.0" ?>
+<card>
+    <name>Big Insect</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A giant ant that dwells in the jungle, it is powerful whether attacking or defending.</text>
+</card>

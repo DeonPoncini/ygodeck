@@ -1,14 +1,17 @@
-Dynatherium
-Monster
-WIND
-Effect
-None
-Beast
-4
-1600
-600
-0
-0
-None
-None
-You can Special Summon this card (from your hand). You can only Special Summon "Dynatherium" once per turn this way. When Summoned this way: Your opponent can target 1 Level 4 monster in either player's Graveyard; they Special Summon that target to their side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Dynatherium</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand). You can only Special Summon &quot;Dynatherium&quot; once per turn this way. When Summoned this way: Your opponent can target 1 Level 4 monster in either player's Graveyard; they Special Summon that target to their side of the field.</text>
+</card>

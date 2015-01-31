@@ -1,14 +1,17 @@
-Summon Reactor・SK
-Monster
-DARK
-Effect
-None
-Machine
-5
-2000
-1400
-0
-0
-None
-None
-The first time a monster(s) is Summoned to your opponent's side of the field each turn, inflict 800 damage to your opponent. During the Battle Phase of the turn this effect is activated, you can negate the attack of 1 monster your opponent controls. You can send 1 face-up "Trap Reactor・Y FI", 1 face-up "Spell Reactor・RE" and this face-up card you control to the Graveyard to Special Summon 1 "Flying Fortress SKY FIRE" from your hand, Deck, or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Summon Reactor・SK</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The first time a monster(s) is Summoned to your opponent's side of the field each turn, inflict 800 damage to your opponent. During the Battle Phase of the turn this effect is activated, you can negate the attack of 1 monster your opponent controls. You can send 1 face-up &quot;Trap Reactor・Y FI&quot;, 1 face-up &quot;Spell Reactor・RE&quot; and this face-up card you control to the Graveyard to Special Summon 1 &quot;Flying Fortress SKY FIRE&quot; from your hand, Deck, or Graveyard.</text>
+</card>

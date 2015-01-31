@@ -1,14 +1,17 @@
-Helping Robo for Combat
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1600
-0
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Helping Robo for Combat</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck.</text>
+</card>

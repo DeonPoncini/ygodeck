@@ -1,14 +1,17 @@
-Firewall
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When your opponent declares a direct attack, you can negate that monster's attack by removing from play 1 Pyro-Type monster in your Graveyard. Pay 500 Life Points during each of your Standby Phases. If you do not, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Firewall</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When your opponent declares a direct attack, you can negate that monster's attack by removing from play 1 Pyro-Type monster in your Graveyard. Pay 500 Life Points during each of your Standby Phases. If you do not, destroy this card.</text>
+</card>

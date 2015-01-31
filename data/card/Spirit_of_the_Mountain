@@ -1,14 +1,17 @@
-Spirit of the Mountain
-Monster
-EARTH
-Normal
-None
-Spellcaster
-5
-1300
-1800
-0
-0
-None
-None
-An elderly magician that raises mountains with his flute.
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit of the Mountain</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An elderly magician that raises mountains with his flute.</text>
+</card>

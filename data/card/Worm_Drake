@@ -1,14 +1,17 @@
-Worm Drake
-Monster
-EARTH
-Normal
-None
-Reptile
-4
-1400
-1500
-0
-0
-None
-None
-Once this monster wraps itself around a victim, there is no escape.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Drake</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once this monster wraps itself around a victim, there is no escape.</text>
+</card>

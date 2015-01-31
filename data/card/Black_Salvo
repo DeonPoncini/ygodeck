@@ -1,14 +1,17 @@
-Black Salvo
-Monster
-DARK
-Tuner
-Effect
-Machine
-3
-100
-1100
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Salvo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>100</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.</text>
+</card>

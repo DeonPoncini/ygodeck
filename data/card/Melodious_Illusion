@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Melodious Illusion</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 &quot;Melodious&quot; monster you control; this turn, that target is unaffected by the effects of your opponent's Spell/Trap Cards, also it can make a second attack during each Battle Phase.</text>
+</card>

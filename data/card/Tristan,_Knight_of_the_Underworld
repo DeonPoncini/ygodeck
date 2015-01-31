@@ -1,14 +1,17 @@
-Tristan, Knight of the Underworld
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1800
-0
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 Zombie-Type monster with 0 DEF in your Graveyard; add it to your hand. While you control another Zombie-Type monster, this card gains 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Tristan, Knight of the Underworld</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 Zombie-Type monster with 0 DEF in your Graveyard; add it to your hand. While you control another Zombie-Type monster, this card gains 300 ATK.</text>
+</card>

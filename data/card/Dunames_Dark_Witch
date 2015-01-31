@@ -1,14 +1,17 @@
-Dunames Dark Witch
-Monster
-LIGHT
-Normal
-None
-Fairy
-4
-1800
-1050
-0
-0
-None
-None
-Even when all odds are against this brave fairy, she will press onwards in battle and never retreat.
+<?xml version="1.0" ?>
+<card>
+    <name>Dunames Dark Witch</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1050</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Even when all odds are against this brave fairy, she will press onwards in battle and never retreat.</text>
+</card>

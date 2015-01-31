@@ -1,14 +1,17 @@
-Majestic Mech - Ohka
-Monster
-LIGHT
-Effect
-None
-Fairy
-6
-2400
-1400
-0
-0
-None
-None
-You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Majestic Mech - Ohka</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.</text>
+</card>

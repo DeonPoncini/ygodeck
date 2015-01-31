@@ -1,14 +1,17 @@
-Rinyan, Lightsworn Rogue
-Monster
-LIGHT
-Flip
-Effect
-Beast
-2
-100
-100
-0
-0
-None
-None
-FLIP: Target 1 "Lightsworn" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Rinyan, Lightsworn Rogue</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 &quot;Lightsworn&quot; monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.</text>
+</card>

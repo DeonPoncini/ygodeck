@@ -1,14 +1,17 @@
-Legendary Knight Timaeus
-Monster
-LIGHT
-Effect
-None
-Warrior
-8
-2800
-1800
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned with "Legend of Heart", and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 face-up Spell/Trap Card on the field; banish that target. When this card is targeted for an attack: You can target 1 Spell Card in your Graveyard; Set that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Knight Timaeus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned with &quot;Legend of Heart&quot;, and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 face-up Spell/Trap Card on the field; banish that target. When this card is targeted for an attack: You can target 1 Spell Card in your Graveyard; Set that target.</text>
+</card>

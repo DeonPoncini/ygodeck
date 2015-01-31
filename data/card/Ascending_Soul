@@ -1,14 +1,17 @@
-Ascending Soul
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn, when a Ritual Monster is Ritual Summoned, you can select and add to your hand 1 monster in your Graveyard that was Tributed for the Ritual Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Ascending Soul</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when a Ritual Monster is Ritual Summoned, you can select and add to your hand 1 monster in your Graveyard that was Tributed for the Ritual Summon.</text>
+</card>

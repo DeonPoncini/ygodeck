@@ -1,14 +1,17 @@
-Bujingi Wolf
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1100
-2000
-0
-0
-None
-None
-Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujingi Wolf</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.</text>
+</card>

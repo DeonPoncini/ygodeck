@@ -1,14 +1,17 @@
-Rocket Arrow Express
-Monster
-EARTH
-Effect
-None
-Machine
-10
-5000
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling no cards, and cannot be Special Summoned by other ways. You cannot conduct your Battle Phase the turn you Special Summon this card. You cannot activate cards or effects, or Set any cards. During each of your Standby Phases, destroy this card unless you send your entire hand to the Graveyard (min.1).
+<?xml version="1.0" ?>
+<card>
+    <name>Rocket Arrow Express</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>5000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling no cards, and cannot be Special Summoned by other ways. You cannot conduct your Battle Phase the turn you Special Summon this card. You cannot activate cards or effects, or Set any cards. During each of your Standby Phases, destroy this card unless you send your entire hand to the Graveyard (min.1).</text>
+</card>

@@ -1,14 +1,17 @@
-Elemental HERO Grand Neos
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-7
-2500
-2000
-0
-0
-None
-None
-"Elemental HERO Neos" + "Neo-Spacian Grand Mole"Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) Once per turn: You can target 1 monster your opponent controls; return that target to the hand. During the End Phase: Shuffle this card into the Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Grand Neos</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Neos&quot; + &quot;Neo-Spacian Grand Mole&quot;Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use &quot;Polymerization&quot;.) Once per turn: You can target 1 monster your opponent controls; return that target to the hand. During the End Phase: Shuffle this card into the Extra Deck.</text>
+</card>

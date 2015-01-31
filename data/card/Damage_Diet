@@ -1,14 +1,17 @@
-Damage Diet
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Halve all damage you take this turn. You can banish this card from your Graveyard; halve all effect damage you take this turn. (You cannot halve the same damage twice with this effect.)
+<?xml version="1.0" ?>
+<card>
+    <name>Damage Diet</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Halve all damage you take this turn. You can banish this card from your Graveyard; halve all effect damage you take this turn. (You cannot halve the same damage twice with this effect.)</text>
+</card>

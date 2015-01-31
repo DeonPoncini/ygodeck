@@ -1,14 +1,17 @@
-Revoke Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Discard 1 "Polymerization" to the Graveyard. Send 1 Fusion Monster from your Extra Deck to your Graveyard and Special Summon 1 monster from your hand that is listed as a Fusion Material Monster on that card. The Special Summoned monster is sent to the Graveyard during the End Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Revoke Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Discard 1 &quot;Polymerization&quot; to the Graveyard. Send 1 Fusion Monster from your Extra Deck to your Graveyard and Special Summon 1 monster from your hand that is listed as a Fusion Material Monster on that card. The Special Summoned monster is sent to the Graveyard during the End Phase of this turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Phantom Bounzer
-Monster
-DARK
-Effect
-None
-Warrior
-6
-2400
-1200
-0
-0
-None
-None
-If this card on the field is destroyed and sent to the Graveyard: You can add 2 "Bounzer" cards from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom Bounzer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card on the field is destroyed and sent to the Graveyard: You can add 2 &quot;Bounzer&quot; cards from your Deck to your hand.</text>
+</card>

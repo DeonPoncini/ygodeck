@@ -1,14 +1,17 @@
-Dragunity Arma Mystletainn
-Monster
-WIND
-Effect
-None
-Dragon
-6
-2100
-1500
-0
-0
-None
-None
-You can Special Summon this card from your hand by sending 1 face-up "Dragunity" monster you control to the Graveyard. When this card is Normal or Special Summoned from the hand, you can select 1 Dragon-Type "Dragunity" monster in your Graveyard, and equip it to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Arma Mystletainn</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card from your hand by sending 1 face-up &quot;Dragunity&quot; monster you control to the Graveyard. When this card is Normal or Special Summoned from the hand, you can select 1 Dragon-Type &quot;Dragunity&quot; monster in your Graveyard, and equip it to this card.</text>
+</card>

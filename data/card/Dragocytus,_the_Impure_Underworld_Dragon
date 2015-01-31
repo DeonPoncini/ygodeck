@@ -1,14 +1,17 @@
-Dragocytus, the Impure Underworld Dragon
-Monster
-DARK
-Synchro
-Effect
-Dragon
-10
-4000
-2000
-0
-0
-None
-None
-1 DARK Tuner + 1 Dragon-Type non-Tuner monsterCannot be destroyed by battle. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can activate this  effect; this card can make a second attack on an opponent's monster in a row. During each of your Standby Phases: You can target 1 monster your opponent controls; its ATK becomes half its current ATK, and if it does, inflict damage to your opponent equal to the lost ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragocytus, the Impure Underworld Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 1 Dragon-Type non-Tuner monsterCannot be destroyed by battle. When this attacking card destroys an opponent's monster by battle and sends it to the Graveyard: You can activate this  effect; this card can make a second attack on an opponent's monster in a row. During each of your Standby Phases: You can target 1 monster your opponent controls; its ATK becomes half its current ATK, and if it does, inflict damage to your opponent equal to the lost ATK.</text>
+</card>

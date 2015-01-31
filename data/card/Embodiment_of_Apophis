@@ -1,14 +1,17 @@
-Embodiment of Apophis
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-During either player's Main Phase: Special Summon this card as a Normal Monster (Reptile-Type/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap Card.)
+<?xml version="1.0" ?>
+<card>
+    <name>Embodiment of Apophis</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>During either player's Main Phase: Special Summon this card as a Normal Monster (Reptile-Type/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap Card.)</text>
+</card>

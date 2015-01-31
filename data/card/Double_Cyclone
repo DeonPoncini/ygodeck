@@ -1,14 +1,17 @@
-Double Cyclone
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Select 1 Spell/Trap Card you control and 1 Spell/Trap Card your opponent controls. Destroy the selected card(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Double Cyclone</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 Spell/Trap Card you control and 1 Spell/Trap Card your opponent controls. Destroy the selected card(s).</text>
+</card>

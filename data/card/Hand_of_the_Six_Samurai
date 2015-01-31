@@ -1,14 +1,17 @@
-Hand of the Six Samurai
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-1600
-1000
-0
-0
-None
-None
-If you control another face-up "Six Samurai" monster: You can Tribute 1 "Six Samurai" monster to target 1 monster on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Hand of the Six Samurai</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control another face-up &quot;Six Samurai&quot; monster: You can Tribute 1 &quot;Six Samurai&quot; monster to target 1 monster on the field; destroy that target.</text>
+</card>

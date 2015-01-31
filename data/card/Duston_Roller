@@ -1,14 +1,17 @@
-Duston Roller
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 monster on the field; this turn, it cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. If this Set card you control is destroyed by your opponent's card effect and sent to your Graveyard: You can add 1 "Duston" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Duston Roller</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 monster on the field; this turn, it cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. If this Set card you control is destroyed by your opponent's card effect and sent to your Graveyard: You can add 1 &quot;Duston&quot; monster from your Deck to your hand.</text>
+</card>

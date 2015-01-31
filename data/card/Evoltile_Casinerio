@@ -1,14 +1,17 @@
-Evoltile Casinerio
-Monster
-FIRE
-Effect
-None
-Reptile
-3
-1600
-400
-0
-0
-None
-None
-At the end of the Battle Phase, if this card destroyed an opponent's monster by battle: You can Tribute this card; Special Summon 2 Level 6 or lower FIRE Dinosaur-Type monsters with the same name from your Deck. Their effects are negated and they are banished during the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Evoltile Casinerio</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>At the end of the Battle Phase, if this card destroyed an opponent's monster by battle: You can Tribute this card; Special Summon 2 Level 6 or lower FIRE Dinosaur-Type monsters with the same name from your Deck. Their effects are negated and they are banished during the End Phase.</text>
+</card>

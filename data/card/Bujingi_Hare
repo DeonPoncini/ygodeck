@@ -1,14 +1,17 @@
-Bujingi Hare
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1700
-500
-0
-0
-None
-None
-During either player's turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type "Bujin" monster you control; once during this turn, it cannot be destroyed by battle or card effects. You can only use the effect of "Bujingi Hare" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujingi Hare</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type &quot;Bujin&quot; monster you control; once during this turn, it cannot be destroyed by battle or card effects. You can only use the effect of &quot;Bujingi Hare&quot; once per turn.</text>
+</card>

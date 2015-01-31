@@ -1,14 +1,17 @@
-Dedication through Light and Darkness
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Tribute 1 "Dark Magician"; Special Summon 1 "Dark Magician of Chaos" from your hand, Deck, or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dedication through Light and Darkness</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 &quot;Dark Magician&quot;; Special Summon 1 &quot;Dark Magician of Chaos&quot; from your hand, Deck, or Graveyard.</text>
+</card>

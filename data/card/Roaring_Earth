@@ -1,14 +1,17 @@
-Roaring Earth
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-If a Beast-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If you inflict battle damage to your oppponent with this effect: Target 1 face-up monster your opponent controls; that target loses 500 ATK and DEF. (This remains even if this card leaves the field.)
+<?xml version="1.0" ?>
+<card>
+    <name>Roaring Earth</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>If a Beast-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If you inflict battle damage to your oppponent with this effect: Target 1 face-up monster your opponent controls; that target loses 500 ATK and DEF. (This remains even if this card leaves the field.)</text>
+</card>

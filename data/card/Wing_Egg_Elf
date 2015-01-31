@@ -1,14 +1,17 @@
-Wing Egg Elf
-Monster
-LIGHT
-Normal
-None
-Fairy
-3
-500
-1300
-0
-0
-None
-None
-This fairy in an eggshell uses massive wings to blow back almost any projectile attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Wing Egg Elf</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This fairy in an eggshell uses massive wings to blow back almost any projectile attack.</text>
+</card>

@@ -1,14 +1,17 @@
-Searing Fire Wall
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Banish any number of "Laval" monsters from your Graveyard; Special Summon an equal number of "Laval Tokens" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Searing Fire Wall</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Banish any number of &quot;Laval&quot; monsters from your Graveyard; Special Summon an equal number of &quot;Laval Tokens&quot; (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.</text>
+</card>

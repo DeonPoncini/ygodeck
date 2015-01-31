@@ -1,14 +1,17 @@
-Elder of the Ritual Beast Tamers
-Monster
-WIND
-Effect
-None
-Psychic
-2
-200
-1000
-0
-0
-None
-None
-After you Normal Summon this card, you can Normal Summon 1 "Ritual Beast" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only Special Summon "Elder of the Ritual Beast Tamers" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Elder of the Ritual Beast Tamers</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After you Normal Summon this card, you can Normal Summon 1 &quot;Ritual Beast&quot; monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only Special Summon &quot;Elder of the Ritual Beast Tamers&quot; once per turn.</text>
+</card>

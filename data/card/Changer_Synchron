@@ -1,14 +1,17 @@
-Changer Synchron
-Monster
-DARK
-Tuner
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-If this card is sent to the Graveyard for a Synchro Summon, select 1 monster your opponent controls and change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Changer Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard for a Synchro Summon, select 1 monster your opponent controls and change its battle position.</text>
+</card>

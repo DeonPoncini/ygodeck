@@ -1,14 +1,17 @@
-Skuna, the Leonine Rakan
-Monster
-DARK
-Effect
-None
-Beast-Warrior
-8
-2600
-2000
-0
-0
-None
-None
-This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Beast-Warrior-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Skuna, the Leonine Rakan</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Beast-Warrior-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.</text>
+</card>

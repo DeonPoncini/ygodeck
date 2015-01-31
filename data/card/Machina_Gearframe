@@ -1,14 +1,17 @@
-Machina Gearframe
-Monster
-EARTH
-Union
-None
-Machine
-4
-1800
-0
-0
-0
-None
-None
-When this card is Normal Summoned: You can add 1 "Machina" monster from your Deck to your hand, except "Machina Gearframe". Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Machina Gearframe</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can add 1 &quot;Machina&quot; monster from your Deck to your hand, except &quot;Machina Gearframe&quot;. Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)</text>
+</card>

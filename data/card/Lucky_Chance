@@ -1,14 +1,17 @@
-Lucky Chance
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When an Effect Monster's effect that requires only 1 coin toss is activated, call Heads or Tails. If you call it right, draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Lucky Chance</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When an Effect Monster's effect that requires only 1 coin toss is activated, call Heads or Tails. If you call it right, draw 1 card.</text>
+</card>

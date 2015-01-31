@@ -1,14 +1,17 @@
-Science Soldier
-Monster
-DARK
-Normal
-None
-Warrior
-3
-800
-800
-0
-0
-None
-None
-Soldiers equipped with state-of-the-art weaponry to face unknown creatures.
+<?xml version="1.0" ?>
+<card>
+    <name>Science Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Soldiers equipped with state-of-the-art weaponry to face unknown creatures.</text>
+</card>

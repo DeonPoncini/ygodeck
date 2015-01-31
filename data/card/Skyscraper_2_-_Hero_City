@@ -1,14 +1,17 @@
-Skyscraper 2 - Hero City
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Once per turn, during your Main Phase, if you control this card: You can target 1 "Elemental HERO" monster in your Graveyard that was destroyed by battle; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Skyscraper 2 - Hero City</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, if you control this card: You can target 1 &quot;Elemental HERO&quot; monster in your Graveyard that was destroyed by battle; Special Summon that target.</text>
+</card>

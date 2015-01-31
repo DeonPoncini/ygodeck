@@ -1,14 +1,17 @@
-Morinphen
-Monster
-DARK
-Normal
-None
-Fiend
-5
-1550
-1300
-0
-0
-None
-None
-A strange fiend with long arms and razor-sharp talons.
+<?xml version="1.0" ?>
+<card>
+    <name>Morinphen</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1550</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A strange fiend with long arms and razor-sharp talons.</text>
+</card>

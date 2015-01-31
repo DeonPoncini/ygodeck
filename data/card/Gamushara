@@ -1,14 +1,17 @@
-Gamushara
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Defense Position monster you control is targeted for an attack: Change that Defense Position monster to face-up Attack Position. Then, if the attacking monster is destroyed by that battle and sent to the Graveyard: Inflict damage to your opponent equal to that monster's original ATK in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Gamushara</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Defense Position monster you control is targeted for an attack: Change that Defense Position monster to face-up Attack Position. Then, if the attacking monster is destroyed by that battle and sent to the Graveyard: Inflict damage to your opponent equal to that monster's original ATK in the Graveyard.</text>
+</card>

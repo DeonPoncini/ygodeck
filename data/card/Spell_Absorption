@@ -1,14 +1,17 @@
-Spell Absorption
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time a Spell Card is activated, gain 500 Life Points immediately after it resolves.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Absorption</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time a Spell Card is activated, gain 500 Life Points immediately after it resolves.</text>
+</card>

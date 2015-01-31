@@ -1,14 +1,17 @@
-Kachi Kochi Dragon
-Monster
-EARTH
-Xyz
-Effect
-Dragon
-4
-2100
-1300
-0
-0
-None
-None
-2 Level 4 monstersOnce per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; it can attack once again in a row.
+<?xml version="1.0" ?>
+<card>
+    <name>Kachi Kochi Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersOnce per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; it can attack once again in a row.</text>
+</card>

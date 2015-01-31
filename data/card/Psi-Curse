@@ -1,14 +1,17 @@
-Psi-Curse
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Target the opponent's monster; destroy that target, and if you do, inflict damage to your opponent equal to the Level of your destroyed Psychic-Type monster × 300.
+<?xml version="1.0" ?>
+<card>
+    <name>Psi-Curse</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Target the opponent's monster; destroy that target, and if you do, inflict damage to your opponent equal to the Level of your destroyed Psychic-Type monster × 300.</text>
+</card>

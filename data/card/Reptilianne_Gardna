@@ -1,14 +1,17 @@
-Reptilianne Gardna
-Monster
-WATER
-Effect
-None
-Reptile
-4
-0
-2000
-0
-0
-None
-None
-When this card you control is destroyed and sent to the Graveyard, add 1 "Reptilianne" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Reptilianne Gardna</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed and sent to the Graveyard, add 1 &quot;Reptilianne&quot; monster from your Deck to your hand.</text>
+</card>

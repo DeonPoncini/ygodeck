@@ -1,14 +1,17 @@
-Battlin' Boxer Veil
-Monster
-FIRE
-Effect
-None
-Warrior
-4
-0
-1800
-0
-0
-None
-None
-When you take battle damage: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.
+<?xml version="1.0" ?>
+<card>
+    <name>Battlin' Boxer Veil</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you take battle damage: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.</text>
+</card>

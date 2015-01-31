@@ -1,14 +1,17 @@
-Ghostrick Night
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-While a "Ghostrick" monster is on the field, your opponent cannot Flip Summon. When this card in your possession is destroyed by your opponent's card and sent to the Graveyard: Your opponent cannot declare attacks for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Night</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>While a &quot;Ghostrick&quot; monster is on the field, your opponent cannot Flip Summon. When this card in your possession is destroyed by your opponent's card and sent to the Graveyard: Your opponent cannot declare attacks for the rest of this turn.</text>
+</card>

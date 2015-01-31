@@ -1,14 +1,17 @@
-Mad Dog of Darkness
-Monster
-DARK
-Normal
-None
-Beast
-4
-1900
-1400
-0
-0
-None
-None
-He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness.
+<?xml version="1.0" ?>
+<card>
+    <name>Mad Dog of Darkness</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness.</text>
+</card>

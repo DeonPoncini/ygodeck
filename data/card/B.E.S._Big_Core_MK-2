@@ -1,14 +1,17 @@
-B.E.S. Big Core MK-2
-Monster
-FIRE
-Effect
-None
-Machine
-6
-2400
-1100
-0
-0
-None
-None
-If you control no monsters, you can Normal Summon this card without Tributing. When this card is Special Summoned, place 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>B.E.S. Big Core MK-2</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control no monsters, you can Normal Summon this card without Tributing. When this card is Special Summoned, place 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it.</text>
+</card>

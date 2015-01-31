@@ -1,14 +1,17 @@
-Dark Burning Attack
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a "Dark Magician Girl" monster: Destroy all face-up monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Burning Attack</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Dark Magician Girl&quot; monster: Destroy all face-up monsters your opponent controls.</text>
+</card>

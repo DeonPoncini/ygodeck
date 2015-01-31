@@ -1,14 +1,17 @@
-Soul Charge
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target any number of monsters in your Graveyard; Special Summon them, and if you do, you lose 1000 Life Points for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 "Soul Charge" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Soul Charge</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target any number of monsters in your Graveyard; Special Summon them, and if you do, you lose 1000 Life Points for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 &quot;Soul Charge&quot; per turn.</text>
+</card>

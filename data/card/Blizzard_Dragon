@@ -1,14 +1,17 @@
-Blizzard Dragon
-Monster
-WATER
-Effect
-None
-Dragon
-4
-1800
-1000
-0
-0
-None
-None
-Once per turn: You can target 1 monster your opponent controls; it cannot change its battle position or declare an attack until the end of your opponent's next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Blizzard Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 monster your opponent controls; it cannot change its battle position or declare an attack until the end of your opponent's next turn.</text>
+</card>

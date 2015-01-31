@@ -1,14 +1,17 @@
-Coach Soldier Wolfbark
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-4
-1600
-1200
-0
-0
-None
-None
-You can target 1 Level 4 FIRE Beast-Warrior-Type monster in your Graveyard; Special Summon it in face-up Defense Position. Its effects are negated. You can only use the effect of "Coach Soldier Wolfbark" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Coach Soldier Wolfbark</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 Level 4 FIRE Beast-Warrior-Type monster in your Graveyard; Special Summon it in face-up Defense Position. Its effects are negated. You can only use the effect of &quot;Coach Soldier Wolfbark&quot; once per turn.</text>
+</card>

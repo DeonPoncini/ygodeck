@@ -1,14 +1,17 @@
-Airknight Parshath
-Monster
-LIGHT
-Effect
-None
-Fairy
-5
-1900
-1400
-0
-0
-None
-None
-If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card inflicts battle damage to your opponent: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Airknight Parshath</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card inflicts battle damage to your opponent: Draw 1 card.</text>
+</card>

@@ -1,14 +1,17 @@
-Aqua Madoor
-Monster
-WATER
-Normal
-None
-Spellcaster
-4
-1200
-2000
-0
-0
-None
-None
-A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.
+<?xml version="1.0" ?>
+<card>
+    <name>Aqua Madoor</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.</text>
+</card>

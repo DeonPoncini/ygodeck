@@ -1,14 +1,17 @@
-Genex Ally Birdman
-Monster
-DARK
-Tuner
-None
-Machine
-3
-1400
-400
-0
-0
-None
-None
-You can return 1 face-up monster you control to the hand to Special Summon this card from your hand, and this card gains 500 ATK if it was a WIND monster you returned. If this card is Special Summoned this way, remove it from play when it is removed from the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Ally Birdman</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can return 1 face-up monster you control to the hand to Special Summon this card from your hand, and this card gains 500 ATK if it was a WIND monster you returned. If this card is Special Summoned this way, remove it from play when it is removed from the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Blue-Eyes Toon Dragon
-Monster
-LIGHT
-Toon
-None
-Dragon
-8
-3000
-2500
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a face-up "Toon World". Must first be Special Summoned (from your hand) by Tributing the same number of monsters required for a Tribute Summon (normally 2). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If "Toon World" on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Blue-Eyes Toon Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Toon</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a face-up &quot;Toon World&quot;. Must first be Special Summoned (from your hand) by Tributing the same number of monsters required for a Tribute Summon (normally 2). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If &quot;Toon World&quot; on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.</text>
+</card>

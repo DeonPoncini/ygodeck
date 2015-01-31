@@ -1,14 +1,17 @@
-Gren Maju Da Eiza
-Monster
-FIRE
-Effect
-None
-Fiend
-3
-?
-?
-0
-0
-None
-None
-This card's ATK and DEF are each equal to the number of your removed from play cards x 400.
+<?xml version="1.0" ?>
+<card>
+    <name>Gren Maju Da Eiza</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card's ATK and DEF are each equal to the number of your removed from play cards x 400.</text>
+</card>

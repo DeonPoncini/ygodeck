@@ -1,14 +1,17 @@
-Doomsday Horror
-Monster
-DARK
-Effect
-None
-Fiend
-4
-?
-?
-0
-0
-None
-None
-The ATK and DEF of this card are each equal to the number of removed from play DARK monsters x 300. When this card is destroyed and sent to the Graveyard, return all removed from play DARK monsters to their owners' Graveyards.
+<?xml version="1.0" ?>
+<card>
+    <name>Doomsday Horror</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The ATK and DEF of this card are each equal to the number of removed from play DARK monsters x 300. When this card is destroyed and sent to the Graveyard, return all removed from play DARK monsters to their owners' Graveyards.</text>
+</card>

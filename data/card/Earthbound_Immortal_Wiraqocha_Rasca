@@ -1,14 +1,17 @@
-Earthbound Immortal Wiraqocha Rasca
-Monster
-DARK
-Effect
-None
-Winged Beast
-10
-100
-100
-0
-0
-None
-None
-There can only be 1 "Earthbound Immortal" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. If this card is Normal Summoned: Target up to 3 cards you control, except this card; shuffle those targets into your Deck, then discard as many random cards from your opponent's hand as possible, but not more than the number of returned cards, and if you do, this card gains 1000 ATK for each card discarded by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Earthbound Immortal Wiraqocha Rasca</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>10</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>There can only be 1 &quot;Earthbound Immortal&quot; monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. If this card is Normal Summoned: Target up to 3 cards you control, except this card; shuffle those targets into your Deck, then discard as many random cards from your opponent's hand as possible, but not more than the number of returned cards, and if you do, this card gains 1000 ATK for each card discarded by this effect.</text>
+</card>

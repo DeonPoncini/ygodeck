@@ -1,14 +1,17 @@
-Fairy Archer
-Monster
-LIGHT
-Effect
-None
-Fairy
-3
-1400
-600
-0
-0
-None
-None
-During your Main Phase, you can inflict 400 damage to your opponent for each face-up LIGHT monster you control. This card cannot attack during the same turn you activate this effect. Only one "Fairy Archer" can have its effect activated per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fairy Archer</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase, you can inflict 400 damage to your opponent for each face-up LIGHT monster you control. This card cannot attack during the same turn you activate this effect. Only one &quot;Fairy Archer&quot; can have its effect activated per turn.</text>
+</card>

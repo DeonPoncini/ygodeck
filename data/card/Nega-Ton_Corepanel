@@ -1,14 +1,17 @@
-Nega-Ton Corepanel
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Activate only if you control a face-up "Koa'ki Meiru" monster and have "Iron Core of Koa'ki Meiru" in your Graveyard. Negate the activation of an Effect Monster's effect, and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Nega-Ton Corepanel</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Activate only if you control a face-up &quot;Koa'ki Meiru&quot; monster and have &quot;Iron Core of Koa'ki Meiru&quot; in your Graveyard. Negate the activation of an Effect Monster's effect, and destroy it.</text>
+</card>

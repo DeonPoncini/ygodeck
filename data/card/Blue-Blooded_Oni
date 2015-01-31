@@ -1,14 +1,17 @@
-Blue-Blooded Oni
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1000
-1700
-0
-0
-None
-None
-When this card is Normal or Flip Summoned: It is changed to Defense Position. Once per turn: You can detach 1 Xyz Material you control to target 1 Level 4 Zombie-Type monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Blue-Blooded Oni</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Flip Summoned: It is changed to Defense Position. Once per turn: You can detach 1 Xyz Material you control to target 1 Level 4 Zombie-Type monster in your Graveyard; Special Summon that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Gradius' Option
-Monster
-LIGHT
-Effect
-None
-Machine
-1
-?
-?
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by selecting 1 face-up "Gradius" on your side of the field. The ATK and DEF of this card becomes the same as the ATK and DEF of the selected "Gradius". If the selected "Gradius" is removed from the field, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Gradius' Option</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by selecting 1 face-up &quot;Gradius&quot; on your side of the field. The ATK and DEF of this card becomes the same as the ATK and DEF of the selected &quot;Gradius&quot;. If the selected &quot;Gradius&quot; is removed from the field, destroy this card.</text>
+</card>

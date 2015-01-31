@@ -1,14 +1,17 @@
-Criosphinx
-Monster
-EARTH
-Effect
-None
-Rock
-6
-1200
-2400
-0
-0
-None
-None
-When a monster is returned from the field to the owner's hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Criosphinx</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>6</level>
+    <attack>1200</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a monster is returned from the field to the owner's hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Blackwing - Kogarashi the Wanderer
-Monster
-DARK
-Tuner
-Effect
-Winged Beast
-6
-2300
-1600
-0
-0
-None
-None
-When a face-up "Blackwing" monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. When a monster is Synchro Summoned using this card as a Synchro Material, the opponent of this card's owner cannot activate cards or effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Kogarashi the Wanderer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a face-up &quot;Blackwing&quot; monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. When a monster is Synchro Summoned using this card as a Synchro Material, the opponent of this card's owner cannot activate cards or effects.</text>
+</card>

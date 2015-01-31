@@ -1,14 +1,17 @@
-Bujintei Susanowo
-Monster
-LIGHT
-Xyz
-Effect
-Beast-Warrior
-4
-2400
-1600
-0
-0
-None
-None
-2 Level 4 "Bujin" monstersThis card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 "Bujin" monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 "Bujintei Susanowo".
+<?xml version="1.0" ?>
+<card>
+    <name>Bujintei Susanowo</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 &quot;Bujin&quot; monstersThis card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 &quot;Bujin&quot; monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 &quot;Bujintei Susanowo&quot;.</text>
+</card>

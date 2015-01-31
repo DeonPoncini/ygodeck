@@ -1,14 +1,17 @@
-T.A.D.P.O.L.E.
-Monster
-WATER
-Effect
-None
-Aqua
-1
-0
-0
-0
-0
-None
-None
-When this card you control is destroyed by battle and sent to your Graveyard, you can add any "T.A.D.P.O.L.E."(s) from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>T.A.D.P.O.L.E.</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed by battle and sent to your Graveyard, you can add any &quot;T.A.D.P.O.L.E.&quot;(s) from your Deck to your hand.</text>
+</card>

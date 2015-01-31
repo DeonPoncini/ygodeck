@@ -1,14 +1,17 @@
-Instant Neo Space
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Fusion Monster that lists "Elemental HERO Neos" as a Fusion Material Monster. It does not have to activate its effect during the End Phase to shuffle itself into the Extra Deck. If the equipped monster leaves the field: You can Special Summon 1 "Elemental HERO Neos" from your hand, Deck, or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Instant Neo Space</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Fusion Monster that lists &quot;Elemental HERO Neos&quot; as a Fusion Material Monster. It does not have to activate its effect during the End Phase to shuffle itself into the Extra Deck. If the equipped monster leaves the field: You can Special Summon 1 &quot;Elemental HERO Neos&quot; from your hand, Deck, or Graveyard.</text>
+</card>

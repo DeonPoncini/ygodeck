@@ -1,14 +1,17 @@
-Torapart
-Monster
-DARK
-Tuner
-None
-Warrior
-2
-600
-600
-0
-0
-None
-None
-This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Warrior-Type Synchro Monster. If the Synchro Monster that used this card as a Synchro Material Monster attacks, your opponent cannot activate Trap Cards until the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Torapart</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Warrior-Type Synchro Monster. If the Synchro Monster that used this card as a Synchro Material Monster attacks, your opponent cannot activate Trap Cards until the end of the Damage Step.</text>
+</card>

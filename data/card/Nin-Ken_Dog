@@ -1,14 +1,17 @@
-Nin-Ken Dog
-Monster
-WIND
-Normal
-None
-Beast-Warrior
-4
-1800
-1000
-0
-0
-None
-None
-A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.
+<?xml version="1.0" ?>
+<card>
+    <name>Nin-Ken Dog</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.</text>
+</card>

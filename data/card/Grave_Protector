@@ -1,14 +1,17 @@
-Grave Protector
-Monster
-DARK
-Effect
-None
-Fiend
-4
-0
-2000
-0
-0
-None
-None
-Any monster destroyed by battle is shuffled into the Deck instead of going to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Grave Protector</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Any monster destroyed by battle is shuffled into the Deck instead of going to the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Ritual Beast Ulti-Gaiapelio
-Monster
-LIGHT
-Fusion
-Effect
-Psychic
-10
-3200
-2100
-0
-0
-None
-None
-1 "Ritual Beast Ulti-" monster + 1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monsterMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use "Polymerization".) If Summoned this way, during either player's turn, when a Spell Card, Trap Card, or monster effect is activated: You can banish 1 "Ritual Beast" card from your hand; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Ritual Beast Ulti-Gaiapelio</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>10</level>
+    <attack>3200</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Ritual Beast Ulti-&quot; monster + 1 &quot;Ritual Beast Tamer&quot; monster + 1 &quot;Spiritual Beast&quot; monsterMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use &quot;Polymerization&quot;.) If Summoned this way, during either player's turn, when a Spell Card, Trap Card, or monster effect is activated: You can banish 1 &quot;Ritual Beast&quot; card from your hand; negate the activation, and if you do, destroy it.</text>
+</card>

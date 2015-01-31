@@ -1,14 +1,17 @@
-Guarded Treasure
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Activate this card by discarding 5 cards; draw 2 cards. While this card is on the field, draw 2 cards instead of 1 for your normal draw during your Draw Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Guarded Treasure</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Activate this card by discarding 5 cards; draw 2 cards. While this card is on the field, draw 2 cards instead of 1 for your normal draw during your Draw Phase.</text>
+</card>

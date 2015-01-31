@@ -1,14 +1,17 @@
-Darklord Superbia
-Monster
-DARK
-Effect
-None
-Fairy
-8
-2900
-2400
-0
-0
-None
-None
-When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except "Darklord Superbia"; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Darklord Superbia</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except &quot;Darklord Superbia&quot;; Special Summon that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Over the Rainbow
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-If a monster under your control with "Rainbow Dragon" or "Rainbow Dark Dragon" as its original name activated its effect this turn: Special Summon any number of "Crystal Beast" monsters with different names from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Over the Rainbow</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>If a monster under your control with &quot;Rainbow Dragon&quot; or &quot;Rainbow Dark Dragon&quot; as its original name activated its effect this turn: Special Summon any number of &quot;Crystal Beast&quot; monsters with different names from your Deck.</text>
+</card>

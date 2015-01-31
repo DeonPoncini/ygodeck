@@ -1,14 +1,17 @@
-Wonder Garage
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When this face-down card is sent to the Graveyard, you can Special Summon 1 Level 4 or lower Machine-Type "roid" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Wonder Garage</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When this face-down card is sent to the Graveyard, you can Special Summon 1 Level 4 or lower Machine-Type &quot;roid&quot; monster from your hand.</text>
+</card>

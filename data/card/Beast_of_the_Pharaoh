@@ -1,14 +1,17 @@
-Beast of the Pharaoh
-Monster
-EARTH
-Effect
-None
-Zombie
-3
-400
-600
-0
-0
-None
-None
-If this card is sent to the Graveyard for a Synchro Summon, you can Special Summon 1 Level 4 or lower Zombie-Type monster from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Beast of the Pharaoh</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard for a Synchro Summon, you can Special Summon 1 Level 4 or lower Zombie-Type monster from your Graveyard.</text>
+</card>

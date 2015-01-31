@@ -1,14 +1,17 @@
-Raiden, Hand of the Lightsworn
-Monster
-LIGHT
-Tuner
-None
-Warrior
-4
-1700
-1000
-0
-0
-None
-None
-During your Main Phase: You can send the top 2 cards of your Deck to the Graveyard, then if any "Lightsworn" monsters were sent to the Graveyard by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of "Raiden, Hand of the Lightsworn" once per turn. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Raiden, Hand of the Lightsworn</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can send the top 2 cards of your Deck to the Graveyard, then if any &quot;Lightsworn&quot; monsters were sent to the Graveyard by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of &quot;Raiden, Hand of the Lightsworn&quot; once per turn. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.</text>
+</card>

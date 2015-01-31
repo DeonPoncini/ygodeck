@@ -1,14 +1,17 @@
-Isolde, Belle of the Underworld
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1000
-0
-0
-0
-None
-None
-Cannot be Special Summoned, except by its own effect. If you control a "Tristan, Knight of the Underworld", you can Special Summon this card (from your hand). You can target up to 2 Zombie-Type monsters you control that have Levels, then declare a Level from 5 to 8; they become that Level until the end of this turn, but you cannot Special Summon monsters for the rest of this turn, except Zombie-Type monsters. You can only use this effect of "Isolde, Belle of the Underworld" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Isolde, Belle of the Underworld</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned, except by its own effect. If you control a &quot;Tristan, Knight of the Underworld&quot;, you can Special Summon this card (from your hand). You can target up to 2 Zombie-Type monsters you control that have Levels, then declare a Level from 5 to 8; they become that Level until the end of this turn, but you cannot Special Summon monsters for the rest of this turn, except Zombie-Type monsters. You can only use this effect of &quot;Isolde, Belle of the Underworld&quot; once per turn.</text>
+</card>

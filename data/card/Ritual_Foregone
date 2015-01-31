@@ -1,14 +1,17 @@
-Ritual Foregone
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Pay 1000 Life Points. Special Summon 1 Ritual Monster from your hand. The Ritual Monster Special Summoned by this effect cannot attack, and is destroyed during the End Phase. Only 1 "Ritual Foregone" can be activated per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ritual Foregone</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Pay 1000 Life Points. Special Summon 1 Ritual Monster from your hand. The Ritual Monster Special Summoned by this effect cannot attack, and is destroyed during the End Phase. Only 1 &quot;Ritual Foregone&quot; can be activated per turn.</text>
+</card>

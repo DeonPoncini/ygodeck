@@ -1,14 +1,17 @@
-Ninja Grandmaster Hanzo
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1800
-1000
-0
-0
-None
-None
-When this card is Normal Summoned: You can add 1 "Ninjitsu Art" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 "Ninja" monster from your Deck to your hand, except "Ninja Grandmaster Hanzo".
+<?xml version="1.0" ?>
+<card>
+    <name>Ninja Grandmaster Hanzo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can add 1 &quot;Ninjitsu Art&quot; card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 &quot;Ninja&quot; monster from your Deck to your hand, except &quot;Ninja Grandmaster Hanzo&quot;.</text>
+</card>

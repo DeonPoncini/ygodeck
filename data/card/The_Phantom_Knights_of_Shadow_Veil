@@ -1,14 +1,17 @@
-The Phantom Knights of Shadow Veil
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 face-up monster you control; it gains 300 ATK and DEF. When an opponent's monster declares a direct attack while this card is in your Graveyard: Special Summon this card in Defense Position as a Normal Monster (Warrior-Type/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap Card.) If Summoned this way, banish this card when it leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>The Phantom Knights of Shadow Veil</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 face-up monster you control; it gains 300 ATK and DEF. When an opponent's monster declares a direct attack while this card is in your Graveyard: Special Summon this card in Defense Position as a Normal Monster (Warrior-Type/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap Card.) If Summoned this way, banish this card when it leaves the field.</text>
+</card>

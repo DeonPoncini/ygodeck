@@ -1,14 +1,17 @@
-Metaphized Armed Dragon
-Monster
-LIGHT
-Normal
-None
-Wyrm
-7
-2800
-1000
-0
-0
-None
-None
-Usually visible despite its phantom existence.
+<?xml version="1.0" ?>
+<card>
+    <name>Metaphys Armed Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Wyrm</type>
+    <level>7</level>
+    <attack>2800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Usually visible despite its phantom existence.</text>
+</card>

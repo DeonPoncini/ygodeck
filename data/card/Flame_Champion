@@ -1,14 +1,17 @@
-Flame Champion
-Monster
-FIRE
-Normal
-None
-Pyro
-5
-1900
-1300
-0
-0
-None
-None
-A warrior protected by a flaming shield that nullifies any attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Champion</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A warrior protected by a flaming shield that nullifies any attack.</text>
+</card>

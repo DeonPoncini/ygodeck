@@ -1,14 +1,17 @@
-Swarm of Scarabs
-Monster
-DARK
-Effect
-None
-Insect
-3
-500
-1000
-0
-0
-None
-None
-Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Swarm of Scarabs</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.</text>
+</card>

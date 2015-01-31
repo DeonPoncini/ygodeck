@@ -1,14 +1,17 @@
-Dark Strike Fighter
-Monster
-DARK
-Synchro
-Effect
-Machine
-7
-2600
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersDuring your Main Phase 1: You can Tribute 1 monster; inflict damage to your opponent equal to the Tributed monster's Level on the field x 200. You can only use this effect of "Dark Strike Fighter" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Strike Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersDuring your Main Phase 1: You can Tribute 1 monster; inflict damage to your opponent equal to the Tributed monster's Level on the field x 200. You can only use this effect of &quot;Dark Strike Fighter&quot; once per turn.</text>
+</card>

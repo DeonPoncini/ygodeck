@@ -1,14 +1,17 @@
-Ljosalf of the Nordic Alfar
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-4
-1400
-1200
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 face-up monster you control, except this card; Special Summon 1 "Nordic" monster from your hand with a Level less than or equal to that face-up monster's Level.
+<?xml version="1.0" ?>
+<card>
+    <name>Ljosalf of the Nordic Alfar</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 face-up monster you control, except this card; Special Summon 1 &quot;Nordic&quot; monster from your hand with a Level less than or equal to that face-up monster's Level.</text>
+</card>

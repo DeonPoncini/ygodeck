@@ -1,14 +1,17 @@
-Gem-Knight Citrine
-Monster
-EARTH
-Fusion
-Effect
-Pyro
-7
-2200
-1950
-0
-0
-None
-None
-1 "Gem-Knight" monster + 1 Pyro-Type monster Must first be Fusion Summoned. If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Citrine</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Pyro</type>
+    <level>7</level>
+    <attack>2200</attack>
+    <defense>1950</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Gem-Knight&quot; monster + 1 Pyro-Type monster Must first be Fusion Summoned. If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.</text>
+</card>

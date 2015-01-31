@@ -1,14 +1,17 @@
-Heat Wave
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-This card can only be activated at the start of Main Phase 1. Neither player can Normal or Special Summon an Effect Monster, until your next Draw Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Heat Wave</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be activated at the start of Main Phase 1. Neither player can Normal or Special Summon an Effect Monster, until your next Draw Phase.</text>
+</card>

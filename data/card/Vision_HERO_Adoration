@@ -1,14 +1,17 @@
-Vision HERO Adoration
-Monster
-DARK
-Fusion
-Effect
-Warrior
-8
-2800
-2100
-0
-0
-None
-None
-2 "HERO" monsters  Once per turn: You can target 1 face-up monster your opponent controls and 1 face-up "HERO" monster you control, except this card; the opponent's targeted monster loses ATK and DEF equal to the ATK of your targeted monster, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Vision HERO Adoration</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 &quot;HERO&quot; monsters  Once per turn: You can target 1 face-up monster your opponent controls and 1 face-up &quot;HERO&quot; monster you control, except this card; the opponent's targeted monster loses ATK and DEF equal to the ATK of your targeted monster, until the End Phase.</text>
+</card>

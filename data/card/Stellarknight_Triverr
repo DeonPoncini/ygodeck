@@ -1,14 +1,17 @@
-Stellarknight Triverr
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-4
-2100
-2500
-0
-0
-None
-None
-3 Level 4 "tellarknight" monsters.During the turn you Xyz Summon this card, you cannot Special Summon monsters, except "tellarknight" monsters. If this card is Xyz Summoned: Return all other cards on the field to the hand. Once per turn: You can detach 1 Xyz Material from this card; send 1 random card from your opponent's hand to the Graveyard. If this card with Xyz Material is sent to the Graveyard: You can target 1 "tellarknight" monster in your Graveyard; Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Stellarknight Triverr</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 &quot;tellarknight&quot; monsters.During the turn you Xyz Summon this card, you cannot Special Summon monsters, except &quot;tellarknight&quot; monsters. If this card is Xyz Summoned: Return all other cards on the field to the hand. Once per turn: You can detach 1 Xyz Material from this card; send 1 random card from your opponent's hand to the Graveyard. If this card with Xyz Material is sent to the Graveyard: You can target 1 &quot;tellarknight&quot; monster in your Graveyard; Special Summon it.</text>
+</card>

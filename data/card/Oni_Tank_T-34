@@ -1,14 +1,17 @@
-Oni Tank T-34
-Monster
-EARTH
-Normal
-None
-Machine
-4
-1400
-1700
-0
-0
-None
-None
-An armored tank possessed by a fiend that will pursue enemies until they're crushed.
+<?xml version="1.0" ?>
+<card>
+    <name>Oni Tank T-34</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An armored tank possessed by a fiend that will pursue enemies until they're crushed.</text>
+</card>

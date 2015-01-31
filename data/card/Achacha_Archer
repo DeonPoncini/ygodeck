@@ -1,14 +1,17 @@
-Achacha Archer
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-1200
-600
-0
-0
-None
-None
-When this card is Normal or Flip Summoned: Inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Achacha Archer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Flip Summoned: Inflict 500 damage to your opponent.</text>
+</card>

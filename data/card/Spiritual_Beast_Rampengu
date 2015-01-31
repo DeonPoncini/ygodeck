@@ -1,14 +1,17 @@
-Spiritual Beast Rampengu
-Monster
-WIND
-Effect
-None
-Beast
-4
-1600
-400
-0
-0
-None
-None
-Once per turn: You can banish 1 "Ritual Beast" monster from your Extra Deck and send 1 "Ritual Beast" monster with the same Type as that monster from your Deck to the Graveyard. You can only Special Summon "Spiritual Beast Rampengu(s)" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Spiritual Beast Rampengu</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1600  </attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can banish 1 &quot;Ritual Beast&quot; monster from your Extra Deck and send 1 &quot;Ritual Beast&quot; monster with the same Type as that monster from your Deck to the Graveyard. You can only Special Summon &quot;Spiritual Beast Rampengu(s)&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Alchemist of Black Spells
-Monster
-WIND
-Effect
-None
-Spellcaster
-4
-1200
-1800
-0
-0
-None
-None
-Once per turn, you can change this face-up Attack Position card you control to face-up Defense Position and place 1 Spell Counter on a face-up card you control that you can place a Spell Counter on.
+<?xml version="1.0" ?>
+<card>
+    <name>Alchemist of Black Spells</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can change this face-up Attack Position card you control to face-up Defense Position and place 1 Spell Counter on a face-up card you control that you can place a Spell Counter on.</text>
+</card>

@@ -1,14 +1,17 @@
-Flamvell Commando
-Monster
-FIRE
-Effect
-None
-Pyro
-6
-2200
-200
-0
-0
-None
-None
-This card cannot be Special Summoned. This card can only be Normal Summoned by Tributing 1 "Flamvell" monster you control. Once per turn, you can remove from play 1 monster in your Graveyard with 200 DEF to inflict damage to your opponent equal to that monster's ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Flamvell Commando</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card can only be Normal Summoned by Tributing 1 &quot;Flamvell&quot; monster you control. Once per turn, you can remove from play 1 monster in your Graveyard with 200 DEF to inflict damage to your opponent equal to that monster's ATK.</text>
+</card>

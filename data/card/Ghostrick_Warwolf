@@ -1,14 +1,17 @@
-Ghostrick Warwolf
-Monster
-DARK
-Effect
-None
-Zombie
-3
-1400
-1500
-0
-0
-None
-None
-Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: Inflict 100 damage to your opponent for each Set card on the field. You can only use this effect of "Ghostrick Warwolf" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Warwolf</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned, unless you control a &quot;Ghostrick&quot; monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: Inflict 100 damage to your opponent for each Set card on the field. You can only use this effect of &quot;Ghostrick Warwolf&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Chaos Trap Hole
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When a LIGHT or DARK monster would be Summoned: Pay 2000 Life Points, negate the Summon, and if you do, banish it.
+<?xml version="1.0" ?>
+<card>
+    <name>Chaos Trap Hole</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When a LIGHT or DARK monster would be Summoned: Pay 2000 Life Points, negate the Summon, and if you do, banish it.</text>
+</card>

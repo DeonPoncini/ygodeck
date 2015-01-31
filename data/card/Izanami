@@ -1,14 +1,17 @@
-Izanami
-Monster
-WATER
-Spirit
-None
-Fairy
-4
-1100
-1800
-0
-0
-None
-None
-This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card is Normal Summoned or flipped face-up, you can discard 1 card to add 1 Spirit monster from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Izanami</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card is Normal Summoned or flipped face-up, you can discard 1 card to add 1 Spirit monster from your Graveyard to your hand.</text>
+</card>

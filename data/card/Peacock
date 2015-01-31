@@ -1,14 +1,17 @@
-Peacock
-Monster
-WIND
-Normal
-None
-Winged Beast
-5
-1700
-1500
-0
-0
-None
-None
-A large peacock that launches its feathers in a lethal attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Peacock</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A large peacock that launches its feathers in a lethal attack.</text>
+</card>

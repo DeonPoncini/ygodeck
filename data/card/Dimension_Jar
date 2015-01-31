@@ -1,14 +1,17 @@
-Dimension Jar
-Monster
-DARK
-Effect
-None
-Machine
-2
-200
-200
-0
-0
-None
-None
-FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dimension Jar</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.</text>
+</card>

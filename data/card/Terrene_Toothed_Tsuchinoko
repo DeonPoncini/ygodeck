@@ -1,14 +1,17 @@
-Terrene Toothed Tsuchinoko
-Monster
-EARTH
-Effect
-None
-Reptile
-3
-1600
-500
-0
-0
-None
-None
-When this card is Special Summoned: Change all other Special Summoned monsters on the field to face-down Defense Position. You can only use the effect of "Terrene Toothed Tsuchinoko" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Terrene Toothed Tsuchinoko</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned: Change all other Special Summoned monsters on the field to face-down Defense Position. You can only use the effect of &quot;Terrene Toothed Tsuchinoko&quot; once per turn.</text>
+</card>

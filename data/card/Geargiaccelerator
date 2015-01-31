@@ -1,14 +1,17 @@
-Geargiaccelerator
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1400
-800
-0
-0
-None
-None
-If you control a "Geargia" monster, you can Special Summon this card (from your hand) in Defense Position. When this card is sent from the field to the Graveyard: You can target 1 "Geargia" monster in your Graveyard, except "Geargiaccelerator"; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Geargiaccelerator</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Geargia&quot; monster, you can Special Summon this card (from your hand) in Defense Position. When this card is sent from the field to the Graveyard: You can target 1 &quot;Geargia&quot; monster in your Graveyard, except &quot;Geargiaccelerator&quot;; add that target to your hand.</text>
+</card>

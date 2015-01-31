@@ -1,14 +1,17 @@
-Aether, the Empowering Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-6
-2300
-1600
-0
-0
-None
-None
-When this card is Pendulum Summoned: You can target 1 card on the field; return it to the hand. You can only use this effect of "Aether, the Empowering Dragon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Aether, the Empowering Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Pendulum Summoned: You can target 1 card on the field; return it to the hand. You can only use this effect of &quot;Aether, the Empowering Dragon&quot; once per turn.</text>
+</card>

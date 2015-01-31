@@ -1,14 +1,17 @@
-Kurivolt
-Monster
-LIGHT
-Effect
-None
-Thunder
-1
-300
-200
-0
-0
-None
-None
-You can target 1 face-up Xyz Monster that has Xyz Material; detach 1 Xyz Material from it, and if you do, Special Summon 1 "Kurivolt" from your Deck. This card cannot be used as a Synchro Material Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Kurivolt</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 face-up Xyz Monster that has Xyz Material; detach 1 Xyz Material from it, and if you do, Special Summon 1 &quot;Kurivolt&quot; from your Deck. This card cannot be used as a Synchro Material Monster.</text>
+</card>

@@ -1,14 +1,17 @@
-That Wacky Magic!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Banish all Spell Cards from your Graveyard; destroy all face-up monsters your opponent controls with DEF less than or equal to the number of Spell Cards you banished × 300.
+<?xml version="1.0" ?>
+<card>
+    <name>That Wacky Magic!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Banish all Spell Cards from your Graveyard; destroy all face-up monsters your opponent controls with DEF less than or equal to the number of Spell Cards you banished × 300.</text>
+</card>

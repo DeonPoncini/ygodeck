@@ -1,14 +1,17 @@
-Prideful Roar
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-During damage calculation, if your monster battles an opponent's monster with a higher ATK: Pay Life Points equal to the difference in ATK; your monster gains ATK equal to that difference +300, during damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Prideful Roar</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>During damage calculation, if your monster battles an opponent's monster with a higher ATK: Pay Life Points equal to the difference in ATK; your monster gains ATK equal to that difference +300, during damage calculation only.</text>
+</card>

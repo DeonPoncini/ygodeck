@@ -1,14 +1,17 @@
-Big Belly Knight
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1000
-1600
-0
-0
-None
-None
-If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect: You can Special Summon 1 Level 3 or lower monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Big Belly Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect: You can Special Summon 1 Level 3 or lower monster from your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Valkyrion the Magna Warrior
-Monster
-EARTH
-Effect
-None
-Rock
-8
-3500
-3850
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 "Alpha The Magnet Warrior", "Beta The Magnet Warrior", and "Gamma The Magnet Warrior" from your hand and/or your side of the field. You can Tribute this card to target 1 "Alpha The Magnet Warrior", "Beta The Magnet Warrior", and "Gamma The Magnet Warrior" in your Graveyard; Special Summon those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Valkyrion the Magna Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>8</level>
+    <attack>3500</attack>
+    <defense>3850</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 &quot;Alpha The Magnet Warrior&quot;, &quot;Beta The Magnet Warrior&quot;, and &quot;Gamma The Magnet Warrior&quot; from your hand and/or your side of the field. You can Tribute this card to target 1 &quot;Alpha The Magnet Warrior&quot;, &quot;Beta The Magnet Warrior&quot;, and &quot;Gamma The Magnet Warrior&quot; in your Graveyard; Special Summon those targets.</text>
+</card>

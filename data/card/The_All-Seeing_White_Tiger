@@ -1,14 +1,17 @@
-The All-Seeing White Tiger
-Monster
-WIND
-Normal
-None
-Beast
-3
-1300
-500
-0
-0
-None
-None
-A proud ruler of the jungle that some fear and others respect.
+<?xml version="1.0" ?>
+<card>
+    <name>The All-Seeing White Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A proud ruler of the jungle that some fear and others respect.</text>
+</card>

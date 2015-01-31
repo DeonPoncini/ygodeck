@@ -1,14 +1,17 @@
-March Towards Ragnarok
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 "Aesir" monster you control; until the end of this turn, its effects are negated, also that face-up monster is unaffected by the effects of other Spell/Trap Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>March Towards Ragnarok</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Aesir&quot; monster you control; until the end of this turn, its effects are negated, also that face-up monster is unaffected by the effects of other Spell/Trap Cards.</text>
+</card>

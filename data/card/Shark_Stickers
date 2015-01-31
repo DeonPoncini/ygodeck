@@ -1,14 +1,17 @@
-Shark Stickers
-Monster
-WATER
-Effect
-None
-Fish
-3
-200
-1000
-0
-0
-None
-None
-When a Fish, Sea Serpent, or Aqua-Type monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Shark Stickers</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a Fish, Sea Serpent, or Aqua-Type monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.</text>
+</card>

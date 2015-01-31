@@ -1,14 +1,17 @@
-Stardust Flash
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 "Stardust" monster in your Graveyard; Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Stardust Flash</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 &quot;Stardust&quot; monster in your Graveyard; Special Summon it.</text>
+</card>

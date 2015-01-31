@@ -1,14 +1,17 @@
-Scarred Warrior
-Monster
-EARTH
-Synchro
-Effect
-Warrior
-5
-2100
-1000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersYour opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Scarred Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersYour opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.</text>
+</card>

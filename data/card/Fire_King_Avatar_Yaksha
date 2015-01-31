@@ -1,14 +1,17 @@
-Fire King Avatar Yaksha
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-4
-1800
-200
-0
-0
-None
-None
-If a face-up "Fire King" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the Graveyard: You can destroy 1 card in your hand or that you control. You can only use this effect of "Fire King Avatar Yaksha" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire King Avatar Yaksha</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a face-up &quot;Fire King&quot; monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the Graveyard: You can destroy 1 card in your hand or that you control. You can only use this effect of &quot;Fire King Avatar Yaksha&quot; once per turn.</text>
+</card>

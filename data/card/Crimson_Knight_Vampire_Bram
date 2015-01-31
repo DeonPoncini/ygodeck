@@ -1,14 +1,17 @@
-Crimson Knight Vampire Bram
-Monster
-DARK
-Xyz
-Effect
-Zombie
-5
-2500
-0
-0
-0
-None
-None
-2 Level 5 Zombie-Type monstersYou can detach 1 Xyz Material from this card, then target 1 monster in your opponent's Graveyard; Special Summon that target to your side of the field, but if you do, only that monster can attack for the rest of this turn. You can only use this effect of "Crimson Knight Vampire Bram" once per turn. During the Standby Phase of the next turn after this card you controlled was destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Special Summon it from the Graveyard in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Crimson Knight Vampire Bram</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 Zombie-Type monstersYou can detach 1 Xyz Material from this card, then target 1 monster in your opponent's Graveyard; Special Summon that target to your side of the field, but if you do, only that monster can attack for the rest of this turn. You can only use this effect of &quot;Crimson Knight Vampire Bram&quot; once per turn. During the Standby Phase of the next turn after this card you controlled was destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Special Summon it from the Graveyard in face-up Defense Position.</text>
+</card>

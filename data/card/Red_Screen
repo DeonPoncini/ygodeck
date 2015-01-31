@@ -1,14 +1,17 @@
-Red Screen
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Your opponent's monsters cannot declare attacks. During each of your End Phases, you must pay 1000 LP (this is not optional), or this card is destroyed. You can target 1 Level 1 Tuner monster in your Graveyard; destroy this card, and if you do, Special Summon that target. "Red Dragon Archfiend" must be on the field to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Red Screen</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Your opponent's monsters cannot declare attacks. During each of your End Phases, you must pay 1000 LP (this is not optional), or this card is destroyed. You can target 1 Level 1 Tuner monster in your Graveyard; destroy this card, and if you do, Special Summon that target. &quot;Red Dragon Archfiend&quot; must be on the field to activate and to resolve this effect.</text>
+</card>

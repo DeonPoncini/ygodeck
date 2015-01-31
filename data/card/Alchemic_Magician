@@ -1,14 +1,17 @@
-Alchemic Magician
-Monster
-DARK
-Xyz
-Effect
-Spellcaster
-4
-1500
-1500
-0
-0
-None
-None
-3 Level 4 Spellcaster-Type monstersThis card gains 200 ATK for each Spell Card in your Graveyard. Once per turn, during your End Phase: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard; choose 1 Spell Card from your Deck, then Set it in your Spell & Trap Card Zone.
+<?xml version="1.0" ?>
+<card>
+    <name>Alchemic Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 Spellcaster-Type monstersThis card gains 200 ATK for each Spell Card in your Graveyard. Once per turn, during your End Phase: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard; choose 1 Spell Card from your Deck, then Set it in your Spell &amp; Trap Card Zone.</text>
+</card>

@@ -1,14 +1,17 @@
-Meotoko
-Monster
-EARTH
-Normal
-None
-Beast
-2
-700
-600
-0
-0
-None
-None
-Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!
+<?xml version="1.0" ?>
+<card>
+    <name>Meotoko</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!</text>
+</card>

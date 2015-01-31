@@ -1,14 +1,17 @@
-Berserk Dragon
-Monster
-DARK
-Effect
-None
-Zombie
-8
-3500
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned with "A Deal with Dark Ruler" and cannot be Special Summoned by other ways. This card can attack all monsters your opponent controls once each. During each of your End Phases, this card loses 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Berserk Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>8</level>
+    <attack>3500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned with &quot;A Deal with Dark Ruler&quot; and cannot be Special Summoned by other ways. This card can attack all monsters your opponent controls once each. During each of your End Phases, this card loses 500 ATK.</text>
+</card>

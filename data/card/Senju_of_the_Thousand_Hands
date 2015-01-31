@@ -1,14 +1,17 @@
-Senju of the Thousand Hands
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1400
-1000
-0
-0
-None
-None
-When this card is Normal Summoned or Flip Summoned, you can add 1 Ritual Monster Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Senju of the Thousand Hands</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned or Flip Summoned, you can add 1 Ritual Monster Card from your Deck to your hand.</text>
+</card>

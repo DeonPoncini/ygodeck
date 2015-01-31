@@ -1,14 +1,17 @@
-The Dark Creator
-Monster
-DARK
-Effect
-None
-Thunder
-8
-2300
-3000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 DARK monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>The Dark Creator</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>8</level>
+    <attack>2300</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 DARK monster in your Graveyard; Special Summon that target.</text>
+</card>

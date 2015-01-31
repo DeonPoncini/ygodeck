@@ -1,14 +1,17 @@
-Backs to the Wall
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Pay Life Points so that you only have 100 left. Special Summon as many "Six Samurai" monsters from your Graveyard as possible. You cannot Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Backs to the Wall</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Pay Life Points so that you only have 100 left. Special Summon as many &quot;Six Samurai&quot; monsters from your Graveyard as possible. You cannot Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster on the field.</text>
+</card>

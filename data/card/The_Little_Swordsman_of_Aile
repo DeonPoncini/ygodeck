@@ -1,14 +1,17 @@
-The Little Swordsman of Aile
-Monster
-WATER
-Effect
-None
-Warrior
-3
-800
-1300
-0
-0
-None
-None
-Offer 1 monster on your side of the field as a Tribute to increase this monster's ATK by 700 points until the end of the turn.
+<?xml version="1.0" ?>
+<card>
+    <name>The Little Swordsman of Aile</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Offer 1 monster on your side of the field as a Tribute to increase this monster's ATK by 700 points until the end of the turn.</text>
+</card>

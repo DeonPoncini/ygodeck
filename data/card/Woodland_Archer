@@ -1,14 +1,17 @@
-Woodland Archer
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-3
-1400
-1300
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by having 2 or more Normal Monsters in your Graveyard. You can Tribute this card to add 1 Gemini monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Woodland Archer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by having 2 or more Normal Monsters in your Graveyard. You can Tribute this card to add 1 Gemini monster from your Deck to your hand.</text>
+</card>

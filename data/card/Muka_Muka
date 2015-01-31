@@ -1,14 +1,17 @@
-Muka Muka
-Monster
-EARTH
-Effect
-None
-Rock
-2
-600
-300
-0
-0
-None
-None
-This card gains 300 ATK and DEF for each card in your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Muka Muka</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 300 ATK and DEF for each card in your hand.</text>
+</card>

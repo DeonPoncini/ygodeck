@@ -1,14 +1,17 @@
-Baby Tiragon
-Monster
-EARTH
-Xyz
-Effect
-Dragon
-1
-900
-900
-0
-0
-None
-None
-3 Level 1 monstersDuring your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Level 1 monster you control; it can attack your opponent directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Baby Tiragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>1</level>
+    <attack>900</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 1 monstersDuring your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Level 1 monster you control; it can attack your opponent directly.</text>
+</card>

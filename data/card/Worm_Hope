@@ -1,14 +1,17 @@
-Worm Hope
-Monster
-LIGHT
-Effect
-None
-Reptile
-1
-800
-1500
-0
-0
-None
-None
-FLIP: When this card is flipped face-up by an opponent's monster's attack, draw 1 card.When this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Hope</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>1</level>
+    <attack>800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: When this card is flipped face-up by an opponent's monster's attack, draw 1 card.When this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.</text>
+</card>

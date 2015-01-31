@@ -1,14 +1,17 @@
-Wind-Up Kitten
-Monster
-EARTH
-Effect
-None
-Beast
-2
-800
-500
-0
-0
-None
-None
-You can target 1 monster your opponent controls; return that target to the hand. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Kitten</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 monster your opponent controls; return that target to the hand. This effect can only be used once while this card is face-up on the field.</text>
+</card>

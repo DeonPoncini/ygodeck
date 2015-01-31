@@ -1,14 +1,17 @@
-Ooguchi
-Monster
-WATER
-Effect
-None
-Aqua
-1
-300
-250
-0
-0
-None
-None
-This monster may attack your opponent's Life Points directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Ooguchi</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster may attack your opponent's Life Points directly.</text>
+</card>

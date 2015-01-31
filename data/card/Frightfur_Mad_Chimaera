@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Frightfur Mad Chimaera</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Unknown effect</text>
+</card>

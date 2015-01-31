@@ -1,14 +1,17 @@
-Dragon Treasure
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Increase the ATK and DEF of a Dragon-Type monster equipped with this card by 300 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Treasure</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Increase the ATK and DEF of a Dragon-Type monster equipped with this card by 300 points.</text>
+</card>

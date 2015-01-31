@@ -1,14 +1,17 @@
-Dark Flare Knight
-Monster
-DARK
-Fusion
-Effect
-Warrior
-6
-2200
-800
-0
-0
-None
-None
-"Dark Magician" + "Flame Swordsman"You take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 "Mirage Knight" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Flare Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Dark Magician&quot; + &quot;Flame Swordsman&quot;You take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 &quot;Mirage Knight&quot; from your hand or Deck.</text>
+</card>

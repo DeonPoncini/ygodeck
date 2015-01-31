@@ -1,14 +1,17 @@
-Job-Change Mirror
-Monster
-DARK
-Normal
-None
-Fiend
-3
-800
-1300
-0
-0
-None
-None
-A wicked mirror that blocks off the damaging effects of an attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Job-Change Mirror</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked mirror that blocks off the damaging effects of an attack.</text>
+</card>

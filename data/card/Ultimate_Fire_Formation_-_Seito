@@ -1,14 +1,17 @@
-Ultimate Fire Formation - Seito
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Banish 7 "Fire Formation" Spell/Trap Cards from your Graveyard; Special Summon as many "Fire Fist" monsters as possible from your Graveyard, then you can Set "Fire Formation" Spell/Trap Cards directly from your Deck, except "Ultimate Fire Formation - Seito", up to the number of monsters Special Summoned by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Ultimate Fire Formation - Seito</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Banish 7 &quot;Fire Formation&quot; Spell/Trap Cards from your Graveyard; Special Summon as many &quot;Fire Fist&quot; monsters as possible from your Graveyard, then you can Set &quot;Fire Formation&quot; Spell/Trap Cards directly from your Deck, except &quot;Ultimate Fire Formation - Seito&quot;, up to the number of monsters Special Summoned by this effect.</text>
+</card>

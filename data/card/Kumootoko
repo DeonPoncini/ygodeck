@@ -1,14 +1,17 @@
-Kumootoko
-Monster
-EARTH
-Normal
-None
-Insect
-3
-700
-1400
-0
-0
-None
-None
-A massive, intelligent spider that traps enemies with webbing.
+<?xml version="1.0" ?>
+<card>
+    <name>Kumootoko</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A massive, intelligent spider that traps enemies with webbing.</text>
+</card>

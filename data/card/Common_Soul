@@ -1,14 +1,17 @@
-Common Soul
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Select 1 face-up monster on the field. Special Summon 1 "Neo-Spacian" monster from your hand to the same side of the field as the selected monster. The selected monster gains ATK equal to the ATK of the monster that was Special Summoned by this effect. When this card is removed from the field, return the Special Summoned monster to its owner's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Common Soul</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 face-up monster on the field. Special Summon 1 &quot;Neo-Spacian&quot; monster from your hand to the same side of the field as the selected monster. The selected monster gains ATK equal to the ATK of the monster that was Special Summoned by this effect. When this card is removed from the field, return the Special Summoned monster to its owner's hand.</text>
+</card>

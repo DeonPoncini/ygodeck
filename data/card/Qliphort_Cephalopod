@@ -1,18 +1,21 @@
-Qliphort Cephalopod
-Monster
-EARTH
-Pendulum
-Effect
-Machine
-7
-2800
-1000
-9
-9
-None
-None
-Pendulum Effect
- You can only Special Summon "Qli" monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Qliphort Cephalopod</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2800</attack>
+    <defense>1000</defense>
+    <lpendulum>9</lpendulum>
+    <rpendulum>9</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You can only Special Summon &quot;Qli&quot; monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.
 
  Monster Effect
- You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. When this card is Tribute Summoned by Tributing a "Qli" monster(s): You can activate this effect; if your opponent has more monsters in their Graveyard than you do, you gain LP equal to the difference x 300, and if you do, inflict the same amount of damage to your opponent.
+ You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. When this card is Tribute Summoned by Tributing a &quot;Qli&quot; monster(s): You can activate this effect; if your opponent has more monsters in their Graveyard than you do, you gain LP equal to the difference x 300, and if you do, inflict the same amount of damage to your opponent.</text>
+</card>

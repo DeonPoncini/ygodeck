@@ -1,14 +1,17 @@
-Yang Zing Creation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Once per turn, if a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 "Yang Zing" monster from your Deck. You cannot Special Summon monsters from the Extra Deck, except Synchro Monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Yang Zing Creation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Once per turn, if a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 &quot;Yang Zing&quot; monster from your Deck. You cannot Special Summon monsters from the Extra Deck, except Synchro Monsters.</text>
+</card>

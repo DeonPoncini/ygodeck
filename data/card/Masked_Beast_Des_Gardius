@@ -1,14 +1,17 @@
-Masked Beast Des Gardius
-Monster
-DARK
-Effect
-None
-Fiend
-8
-3300
-2500
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 monsters, including at least 1 "Grand Tiki Elder" or "Melchid the Four-Face Beast". When this card is sent from the field to the Graveyard, equip 1 "The Mask of Remnants" from your Deck to 1 monster on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Masked Beast Des Gardius</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>3300</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 monsters, including at least 1 &quot;Grand Tiki Elder&quot; or &quot;Melchid the Four-Face Beast&quot;. When this card is sent from the field to the Graveyard, equip 1 &quot;The Mask of Remnants&quot; from your Deck to 1 monster on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Hieracosphinx
-Monster
-EARTH
-Effect
-None
-Rock
-6
-2400
-1200
-0
-0
-None
-None
-Your opponent cannot select a face-down Defense Position monster as an attack target.
+<?xml version="1.0" ?>
+<card>
+    <name>Hieracosphinx</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot select a face-down Defense Position monster as an attack target.</text>
+</card>

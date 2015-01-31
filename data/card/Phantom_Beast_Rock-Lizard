@@ -1,14 +1,17 @@
-Phantom Beast Rock-Lizard
-Monster
-DARK
-Effect
-None
-Beast-Warrior
-7
-2200
-2000
-0
-0
-None
-None
-If you're Tributing a "Phantom Beast" monster or "Gazelle the King of Mythical Beasts", this card can be Normal Summoned with 1 Tribute. When this card destroys a monster by battle, inflict 500 damage to your opponent. When this card is destroyed and sent to the Graveyard by an opponent's card effect, inflict 2000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom Beast Rock-Lizard</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>7</level>
+    <attack>2200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you're Tributing a &quot;Phantom Beast&quot; monster or &quot;Gazelle the King of Mythical Beasts&quot;, this card can be Normal Summoned with 1 Tribute. When this card destroys a monster by battle, inflict 500 damage to your opponent. When this card is destroyed and sent to the Graveyard by an opponent's card effect, inflict 2000 damage to your opponent.</text>
+</card>

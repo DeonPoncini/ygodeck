@@ -1,14 +1,17 @@
-The Masked Beast
-Monster
-DARK
-Ritual
-None
-Fiend
-8
-3200
-1800
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "Curse of the Masked Beast".
+<?xml version="1.0" ?>
+<card>
+    <name>The Masked Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>3200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;Curse of the Masked Beast&quot;.</text>
+</card>

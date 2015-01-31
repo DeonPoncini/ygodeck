@@ -1,14 +1,17 @@
-Kagemusha of the Six Samurai
-Monster
-EARTH
-Tuner
-None
-Warrior
-2
-400
-1800
-0
-0
-None
-None
-During either player's turn, when exactly 1 face-up "Six Samurai" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Kagemusha of the Six Samurai</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when exactly 1 face-up &quot;Six Samurai&quot; monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.</text>
+</card>

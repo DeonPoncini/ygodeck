@@ -1,14 +1,17 @@
-Kuriboh Token
-Monster
-DARK
-Token
-None
-Fiend
-1
-300
-200
-0
-0
-None
-None
-This card can be used as any "Kuriboh Token".※If you use this as a Token other than "Kuriboh Token", apply that Token's Type/Attribute/Level/ATK/DEF to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Kuriboh Token</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used as any &quot;Kuriboh Token&quot;.※If you use this as a Token other than &quot;Kuriboh Token&quot;, apply that Token's Type/Attribute/Level/ATK/DEF to this card.</text>
+</card>

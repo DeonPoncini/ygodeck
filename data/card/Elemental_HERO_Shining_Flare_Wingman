@@ -1,14 +1,17 @@
-Elemental HERO Shining Flare Wingman
-Monster
-LIGHT
-Fusion
-Effect
-Warrior
-8
-2500
-2100
-0
-0
-None
-None
-"Elemental HERO Flame Wingman" + "Elemental HERO Sparkman"Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each "Elemental HERO" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Shining Flare Wingman</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Flame Wingman&quot; + &quot;Elemental HERO Sparkman&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each &quot;Elemental HERO&quot; card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.</text>
+</card>

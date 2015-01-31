@@ -1,14 +1,17 @@
-Big Piece Golem
-Monster
-EARTH
-Effect
-None
-Rock
-5
-2100
-0
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributes.
+<?xml version="1.0" ?>
+<card>
+    <name>Big Piece Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributes.</text>
+</card>

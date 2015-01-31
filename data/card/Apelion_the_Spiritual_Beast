@@ -1,14 +1,17 @@
-Apelion the Spiritual Beast
-Monster
-WIND
-Effect
-None
-Pyro
-4
-1800
-200
-0
-0
-None
-None
-Once per turn, during either player's turn: You can banish 1 "Ritual Beast" card from your Graveyard; this turn, all "Ritual Beast" monsters you control gain 500 ATK and DEF. You can only Special Summon 1 "Apelion the Spiritual Beast" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Apelion the Spiritual Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during either player's turn: You can banish 1 &quot;Ritual Beast&quot; card from your Graveyard; this turn, all &quot;Ritual Beast&quot; monsters you control gain 500 ATK and DEF. You can only Special Summon 1 &quot;Apelion the Spiritual Beast&quot; per turn.</text>
+</card>

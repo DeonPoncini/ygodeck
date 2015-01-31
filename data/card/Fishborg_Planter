@@ -1,14 +1,17 @@
-Fishborg Planter
-Monster
-WATER
-Effect
-None
-Fish
-2
-200
-200
-0
-0
-None
-None
-Once, while this card is in the Graveyard: You can send the top card of your Deck to the Graveyard, then, if it is a WATER monster, Special Summon this card from the Graveyard. You can only use the effect of "Fishborg Planter" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fishborg Planter</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once, while this card is in the Graveyard: You can send the top card of your Deck to the Graveyard, then, if it is a WATER monster, Special Summon this card from the Graveyard. You can only use the effect of &quot;Fishborg Planter&quot; once per turn.</text>
+</card>

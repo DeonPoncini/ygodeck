@@ -1,14 +1,17 @@
-Blue-Eyes Shining Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-10
-3000
-2500
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Blue-Eyes Ultimate Dragon" you control. This card gains 300 ATK for each Dragon-Type monster in your Graveyard. You can negate the effects of Spells, Traps, and Effect Monsters that target this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Blue-Eyes Shining Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 &quot;Blue-Eyes Ultimate Dragon&quot; you control. This card gains 300 ATK for each Dragon-Type monster in your Graveyard. You can negate the effects of Spells, Traps, and Effect Monsters that target this card.</text>
+</card>

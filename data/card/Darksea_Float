@@ -1,14 +1,17 @@
-Darksea Float
-Monster
-DARK
-Effect
-None
-Machine
-1
-0
-300
-0
-0
-None
-None
-When this card on the field is destroyed by a card effect and sent to the Graveyard, the owner of this card draws 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Darksea Float</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card on the field is destroyed by a card effect and sent to the Graveyard, the owner of this card draws 1 card.</text>
+</card>

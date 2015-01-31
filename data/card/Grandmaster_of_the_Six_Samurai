@@ -1,14 +1,17 @@
-Grandmaster of the Six Samurai
-Monster
-EARTH
-Effect
-None
-Warrior
-5
-2100
-800
-0
-0
-None
-None
-You can only control 1 face-up "Grandmaster of the Six Samurai". If you control a face-up "Six Samurai" monster, you can Special Summon this card (from your hand). When this card is destroyed by your opponent's card effect: Target 1 "Six Samurai" monster in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Grandmaster of the Six Samurai</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only control 1 face-up &quot;Grandmaster of the Six Samurai&quot;. If you control a face-up &quot;Six Samurai&quot; monster, you can Special Summon this card (from your hand). When this card is destroyed by your opponent's card effect: Target 1 &quot;Six Samurai&quot; monster in your Graveyard; add that target to your hand.</text>
+</card>

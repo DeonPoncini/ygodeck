@@ -1,14 +1,17 @@
-Koa'ki Meiru Prototype
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1800
-1800
-0
-0
-None
-None
-If a face-up "Koa'ki Meiru" monster(s) on the field would be destroyed during the End Phase, you can destroy this card instead. When a face-up "Koa'ki Meiru" monster(s) on the field is destroyed during the End Phase, you can Special Summon 1 "Koa'ki Meiru Token" (Rock-Type/EARTH/Level 4/ATK 1800/DEF 1800).
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Prototype</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a face-up &quot;Koa'ki Meiru&quot; monster(s) on the field would be destroyed during the End Phase, you can destroy this card instead. When a face-up &quot;Koa'ki Meiru&quot; monster(s) on the field is destroyed during the End Phase, you can Special Summon 1 &quot;Koa'ki Meiru Token&quot; (Rock-Type/EARTH/Level 4/ATK 1800/DEF 1800).</text>
+</card>

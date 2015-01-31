@@ -1,14 +1,17 @@
-Arma Knight
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1000
-1200
-0
-0
-None
-None
-An ammonite warrior that has protected the seas throughout history.
+<?xml version="1.0" ?>
+<card>
+    <name>Arma Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An ammonite warrior that has protected the seas throughout history.</text>
+</card>

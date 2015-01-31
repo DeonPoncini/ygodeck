@@ -1,14 +1,17 @@
-Dice Armadillo
-Monster
-EARTH
-Normal
-None
-Machine
-5
-1650
-1800
-0
-0
-None
-None
-An armadillo monster that rolls up to form a dice-like shape.
+<?xml version="1.0" ?>
+<card>
+    <name>Dice Armadillo</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1650</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An armadillo monster that rolls up to form a dice-like shape.</text>
+</card>

@@ -1,14 +1,17 @@
-Happy Lover
-Monster
-LIGHT
-Normal
-None
-Fairy
-2
-800
-500
-0
-0
-None
-None
-Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.
+<?xml version="1.0" ?>
+<card>
+    <name>Happy Lover</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.</text>
+</card>

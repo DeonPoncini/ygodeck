@@ -1,14 +1,17 @@
-Jackpot 7
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-When this card is activated: Shuffle this card from the field into the Deck. When this card in your possession is sent to the Graveyard by an opponent's card effect: Banish this card. If 3 of your "Jackpot 7" are currently banished, and were all banished by this effect, you win the Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Jackpot 7</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>When this card is activated: Shuffle this card from the field into the Deck. When this card in your possession is sent to the Graveyard by an opponent's card effect: Banish this card. If 3 of your &quot;Jackpot 7&quot; are currently banished, and were all banished by this effect, you win the Duel.</text>
+</card>

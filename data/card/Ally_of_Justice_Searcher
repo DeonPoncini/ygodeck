@@ -1,14 +1,17 @@
-Ally of Justice Searcher
-Monster
-DARK
-Effect
-None
-Machine
-3
-1400
-100
-0
-0
-None
-None
-Once per turn, you can discard 1 card to select 1 face-down Defense Position monster your opponent controls and change it to face-up Attack Position. Flip Effects are not activated at this time.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Searcher</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can discard 1 card to select 1 face-down Defense Position monster your opponent controls and change it to face-up Attack Position. Flip Effects are not activated at this time.</text>
+</card>

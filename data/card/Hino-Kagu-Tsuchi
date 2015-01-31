@@ -1,14 +1,17 @@
-Hino-Kagu-Tsuchi
-Monster
-FIRE
-Spirit
-None
-Pyro
-8
-2800
-2900
-0
-0
-None
-None
-This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. If this card inflicts Battle Damage to your opponent, they discard all cards in their hand during the next Draw Phase, before they draw.
+<?xml version="1.0" ?>
+<card>
+    <name>Hino-Kagu-Tsuchi</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. If this card inflicts Battle Damage to your opponent, they discard all cards in their hand during the next Draw Phase, before they draw.</text>
+</card>

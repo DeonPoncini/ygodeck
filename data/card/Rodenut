@@ -1,14 +1,17 @@
-Rodenut
-Monster
-EARTH
-Effect
-None
-Beast
-1
-100
-100
-0
-0
-None
-None
-Each time your opponent Special Summons a monster(s), place 1 Nut Counter on this card. You can remove 1 Nut Counter from this card to target 1 monster your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Rodenut</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time your opponent Special Summons a monster(s), place 1 Nut Counter on this card. You can remove 1 Nut Counter from this card to target 1 monster your opponent controls; destroy that target.</text>
+</card>

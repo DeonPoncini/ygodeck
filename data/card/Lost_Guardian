@@ -1,14 +1,17 @@
-Lost Guardian
-Monster
-EARTH
-Effect
-None
-Rock
-4
-100
-?
-0
-0
-None
-None
-The original DEF of this card equals the number of your banished Rock-Type monsters × 700.
+<?xml version="1.0" ?>
+<card>
+    <name>Lost Guardian</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The original DEF of this card equals the number of your banished Rock-Type monsters × 700.</text>
+</card>

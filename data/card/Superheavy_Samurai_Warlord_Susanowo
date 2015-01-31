@@ -1,14 +1,17 @@
-Superheavy Samurai Warlord Susanowo
-Monster
-EARTH
-Synchro
-Effect
-Machine
-10
-2400
-3800
-0
-0
-None
-None
-1 Machine-Type Tuner + 1 or more non-Tuner "Superheavy Samurai" monstersThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player's turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card in your opponent's Graveyard; Set it to your side of the field, but banish it when it leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Warlord Susanowo</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>2400</attack>
+    <defense>3800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Machine-Type Tuner + 1 or more non-Tuner &quot;Superheavy Samurai&quot; monstersThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player's turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card in your opponent's Graveyard; Set it to your side of the field, but banish it when it leaves the field.</text>
+</card>

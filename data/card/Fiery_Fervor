@@ -1,14 +1,17 @@
-Fiery Fervor
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 face-up monster you control; equip this card to that target. If your opponent controls a monster with ATK higher than that same monster's original ATK, the ATK of the equipped monster becomes double the equipped monster's original ATK, during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiery Fervor</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 face-up monster you control; equip this card to that target. If your opponent controls a monster with ATK higher than that same monster's original ATK, the ATK of the equipped monster becomes double the equipped monster's original ATK, during the Damage Step only.</text>
+</card>

@@ -1,14 +1,17 @@
-Vennominon the King of Poisonous Snakes
-Monster
-DARK
-Effect
-None
-Reptile
-8
-0
-0
-0
-0
-None
-None
-Cannot be Special Summoned by another Effect Monster's effect. This card is unaffected by "Venom Swamp". This card gains 500 ATK for each Reptile-Type monster in your Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other Reptile-Type monster from your Graveyard; Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Vennominon the King of Poisonous Snakes</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>8</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned by another Effect Monster's effect. This card is unaffected by &quot;Venom Swamp&quot;. This card gains 500 ATK for each Reptile-Type monster in your Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other Reptile-Type monster from your Graveyard; Special Summon this card.</text>
+</card>

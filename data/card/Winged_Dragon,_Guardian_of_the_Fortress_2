@@ -1,14 +1,17 @@
-Winged Dragon, Guardian of the Fortress 2
-Monster
-WIND
-Normal
-None
-Winged Beast
-4
-1200
-1000
-0
-0
-None
-None
-This monster's wings are capable of generating tornadoes.
+<?xml version="1.0" ?>
+<card>
+    <name>Winged Dragon, Guardian of the Fortress #2</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster's wings are capable of generating tornadoes.</text>
+</card>

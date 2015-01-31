@@ -1,14 +1,17 @@
-Rocket Warrior
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1500
-1300
-0
-0
-None
-None
-During your Battle Phase, this card cannot be destroyed by battle, also you take no battle damage from attacks involving this card. If this card attacks a monster, after damage calculation: That attack target loses 500 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Rocket Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Battle Phase, this card cannot be destroyed by battle, also you take no battle damage from attacks involving this card. If this card attacks a monster, after damage calculation: That attack target loses 500 ATK until the End Phase.</text>
+</card>

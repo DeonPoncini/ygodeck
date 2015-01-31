@@ -1,14 +1,17 @@
-Evilswarm Golem
-Monster
-DARK
-Effect
-None
-Rock
-5
-2150
-1250
-0
-0
-None
-None
-Once per turn: You can target 1 Level 5 or higher non-DARK monster on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>2150</attack>
+    <defense>1250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 Level 5 or higher non-DARK monster on the field; destroy that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Kaiser Dragon
-Monster
-LIGHT
-Fusion
-None
-Dragon
-7
-2300
-2000
-0
-0
-None
-None
-"Winged Dragon, Guardian of the Fortress #1" + "Fairy Dragon"
+<?xml version="1.0" ?>
+<card>
+    <name>Kaiser Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Winged Dragon, Guardian of the Fortress #1&quot; + &quot;Fairy Dragon&quot;</text>
+</card>

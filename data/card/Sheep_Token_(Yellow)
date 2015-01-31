@@ -1,14 +1,17 @@
-Sheep Token (Yellow)
-Monster
-EARTH
-Token
-None
-Beast
-1
-0
-0
-0
-0
-None
-None
-This card can be used as any Token.
+<?xml version="1.0" ?>
+<card>
+    <name>Sheep Token</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used as any Token.</text>
+</card>

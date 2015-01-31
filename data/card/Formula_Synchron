@@ -1,14 +1,17 @@
-Formula Synchron
-Monster
-LIGHT
-Synchro
-None
-Machine
-2
-200
-1500
-0
-0
-None
-None
-1 Tuner + 1 non-Tuner monsterWhen this card is Synchro Summoned: You can draw 1 card. During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).
+<?xml version="1.0" ?>
+<card>
+    <name>Formula Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 non-Tuner monsterWhen this card is Synchro Summoned: You can draw 1 card. During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).</text>
+</card>

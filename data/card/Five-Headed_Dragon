@@ -1,14 +1,17 @@
-Five-Headed Dragon
-Monster
-DARK
-Fusion
-Effect
-Dragon
-12
-5000
-5000
-0
-0
-None
-None
-5 Dragon-Type monstersMust be Fusion Summoned, and cannot be Special Summoned by other ways. This card cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Five-Headed Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>12</level>
+    <attack>5000</attack>
+    <defense>5000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>5 Dragon-Type monstersMust be Fusion Summoned, and cannot be Special Summoned by other ways. This card cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.</text>
+</card>

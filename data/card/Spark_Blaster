@@ -1,14 +1,17 @@
-Spark Blaster
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to "Elemental HERO Sparkman". During your Main Phase: You can target 1 face-up monster; change the battle position of that target. After you use this effect 3 times, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Spark Blaster</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to &quot;Elemental HERO Sparkman&quot;. During your Main Phase: You can target 1 face-up monster; change the battle position of that target. After you use this effect 3 times, destroy this card.</text>
+</card>

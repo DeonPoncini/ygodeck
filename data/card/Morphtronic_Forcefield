@@ -1,14 +1,17 @@
-Morphtronic Forcefield
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Negate the activation of a Spell or Trap Card that would destroy a face-up "Morphtronic" monster you control and destroy it. Add 1 "Morphtronic" card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Forcefield</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Negate the activation of a Spell or Trap Card that would destroy a face-up &quot;Morphtronic&quot; monster you control and destroy it. Add 1 &quot;Morphtronic&quot; card from your Deck to your hand.</text>
+</card>

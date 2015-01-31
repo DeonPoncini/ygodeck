@@ -1,14 +1,17 @@
-High Priestess of Prophecy
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-7
-2500
-2100
-0
-0
-None
-None
-You can reveal 3 "Spellbook" Spell Cards in your hand; Special Summon this card from your hand. Once per turn: You can banish 1 "Spellbook" Spell Card from your hand or Graveyard, then target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>High Priestess of Prophecy</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can reveal 3 &quot;Spellbook&quot; Spell Cards in your hand; Special Summon this card from your hand. Once per turn: You can banish 1 &quot;Spellbook&quot; Spell Card from your hand or Graveyard, then target 1 card on the field; destroy that target.</text>
+</card>

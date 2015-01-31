@@ -1,14 +1,17 @@
-Scrap Orthros
-Monster
-EARTH
-Tuner
-None
-Beast
-4
-1700
-1100
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card can only be Special Summoned by controlling a face-up "Scrap" monster. When Special Summoned this way, select 1 face-up "Scrap" monster you control, and destroy it. If this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard, you can select 1 "Scrap" monster in your Graveyard, except "Scrap Orthros", and add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Orthros</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card can only be Special Summoned by controlling a face-up &quot;Scrap&quot; monster. When Special Summoned this way, select 1 face-up &quot;Scrap&quot; monster you control, and destroy it. If this card is destroyed by the effect of a &quot;Scrap&quot; card and sent to the Graveyard, you can select 1 &quot;Scrap&quot; monster in your Graveyard, except &quot;Scrap Orthros&quot;, and add it to your hand.</text>
+</card>

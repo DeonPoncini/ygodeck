@@ -1,14 +1,17 @@
-Fabled Miztoji
-Monster
-LIGHT
-Tuner
-None
-Fiend
-2
-400
-200
-0
-0
-None
-None
-You can send this card from your hand to the Graveyard to select 1 face-up "Fabled" monster you control. The selected monster is treated as a Tuner monster while face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Miztoji</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send this card from your hand to the Graveyard to select 1 face-up &quot;Fabled&quot; monster you control. The selected monster is treated as a Tuner monster while face-up on the field.</text>
+</card>

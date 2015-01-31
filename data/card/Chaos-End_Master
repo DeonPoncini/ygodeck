@@ -1,14 +1,17 @@
-Chaos-End Master
-Monster
-LIGHT
-Tuner
-None
-Warrior
-3
-1500
-1000
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 Level 5 or higher monster with 1600 ATK or less from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Chaos-End Master</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 Level 5 or higher monster with 1600 ATK or less from your Deck.</text>
+</card>

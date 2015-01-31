@@ -1,14 +1,17 @@
-Trident Warrior
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1800
-1200
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 Level 3 monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Trident Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 Level 3 monster from your hand.</text>
+</card>

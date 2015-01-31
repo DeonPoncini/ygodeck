@@ -1,14 +1,17 @@
-Lifeforce Harmonizer
-Monster
-WIND
-Effect
-None
-Psychic
-2
-800
-400
-0
-0
-None
-None
-When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Lifeforce Harmonizer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.</text>
+</card>

@@ -1,14 +1,17 @@
-Armaill
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-700
-1300
-0
-0
-None
-None
-A strange warrior who manipulates three deadly blades with both hands and his tail.
+<?xml version="1.0" ?>
+<card>
+    <name>Armaill</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A strange warrior who manipulates three deadly blades with both hands and his tail.</text>
+</card>

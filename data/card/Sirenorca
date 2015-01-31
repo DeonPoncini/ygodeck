@@ -1,14 +1,17 @@
-Sirenorca
-Monster
-WATER
-Effect
-None
-Winged Beast
-5
-2200
-1000
-0
-0
-None
-None
-If you control both Fish and Winged Beast-Type monsters, you can Special Summon this card (from your hand). When you do: You can declare a Level from 3 to 5; the Levels of all monsters you currently control become the declared Level. If you activate this effect, monsters you control cannot activate their effects for the rest of this turn, except WATER monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Sirenorca</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control both Fish and Winged Beast-Type monsters, you can Special Summon this card (from your hand). When you do: You can declare a Level from 3 to 5; the Levels of all monsters you currently control become the declared Level. If you activate this effect, monsters you control cannot activate their effects for the rest of this turn, except WATER monsters.</text>
+</card>

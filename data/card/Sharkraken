@@ -1,14 +1,17 @@
-Sharkraken
-Monster
-WATER
-Effect
-None
-Fish
-6
-2400
-2100
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by Tributing 1 WATER monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Sharkraken</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by Tributing 1 WATER monster.</text>
+</card>

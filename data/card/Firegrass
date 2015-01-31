@@ -1,14 +1,17 @@
-Firegrass
-Monster
-EARTH
-Normal
-None
-Plant
-2
-700
-600
-0
-0
-None
-None
-A fire-breathing plant found growing near volcanoes.
+<?xml version="1.0" ?>
+<card>
+    <name>Firegrass</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fire-breathing plant found growing near volcanoes.</text>
+</card>

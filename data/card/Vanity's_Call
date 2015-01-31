@@ -1,14 +1,17 @@
-Vanity's Call
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Activate only as Chain Link 4 or higher. Pay half your Life Points. Negate the activation and effects of all other cards in the same Chain and destroy them.
+<?xml version="1.0" ?>
+<card>
+    <name>Vanity's Call</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Activate only as Chain Link 4 or higher. Pay half your Life Points. Negate the activation and effects of all other cards in the same Chain and destroy them.</text>
+</card>

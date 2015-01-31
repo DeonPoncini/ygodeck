@@ -1,14 +1,17 @@
-Ninjitsu Art of Shadow Sealing
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Tribute 1 "Ninja" monster to target 1 monster your opponent controls; banish that target. While that card is banished, its Monster Card Zone cannot be used. When this face-up card leaves the field: Return the card banished by this effect to the same Monster Card Zone, in the same battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ninjitsu Art of Shadow Sealing</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Tribute 1 &quot;Ninja&quot; monster to target 1 monster your opponent controls; banish that target. While that card is banished, its Monster Card Zone cannot be used. When this face-up card leaves the field: Return the card banished by this effect to the same Monster Card Zone, in the same battle position.</text>
+</card>

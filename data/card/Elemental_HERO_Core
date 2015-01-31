@@ -1,14 +1,17 @@
-Elemental HERO Core
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-9
-2700
-2200
-0
-0
-None
-None
-3 "Elemental HERO" monstersMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn, when this card is targeted for an attack: You can make this card's ATK become double its current ATK until the end of the Damage Step. At the end of the Battle Phase, if this card attacked or was attacked: You can target 1 monster on the field; destroy it. When this card is destroyed by battle or card effect: You can target 1 Level 8 or lower "Elemental HERO" Fusion Monster in your Graveyard; Special Summon it, ignoring its Summoning conditions.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Core</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>9</level>
+    <attack>2700</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 &quot;Elemental HERO&quot; monstersMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn, when this card is targeted for an attack: You can make this card's ATK become double its current ATK until the end of the Damage Step. At the end of the Battle Phase, if this card attacked or was attacked: You can target 1 monster on the field; destroy it. When this card is destroyed by battle or card effect: You can target 1 Level 8 or lower &quot;Elemental HERO&quot; Fusion Monster in your Graveyard; Special Summon it, ignoring its Summoning conditions.</text>
+</card>

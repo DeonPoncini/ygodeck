@@ -1,14 +1,17 @@
-Spy C "Curry"
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-1200
-1300
-0
-0
-None
-None
-If this card is Normal Summoned: Look at 1 random card in your opponent's Extra Deck, and if it has 2000 or more ATK, this card gains 1000 ATK. If it has less than 2000 ATK, you gain LP equal to that monster's ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Spy-C-Spy</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned: Look at 1 random card in your opponent's Extra Deck, and if it has 2000 or more ATK, this card gains 1000 ATK. If it has less than 2000 ATK, you gain LP equal to that monster's ATK.</text>
+</card>

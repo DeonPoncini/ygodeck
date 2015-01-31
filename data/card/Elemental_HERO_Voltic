@@ -1,14 +1,17 @@
-Elemental HERO Voltic
-Monster
-LIGHT
-Effect
-None
-Thunder
-4
-1000
-1500
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent: You can target 1 of your banished "Elemental HERO" monsters; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Voltic</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts battle damage to your opponent: You can target 1 of your banished &quot;Elemental HERO&quot; monsters; Special Summon that target.</text>
+</card>

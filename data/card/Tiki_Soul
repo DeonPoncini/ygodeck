@@ -1,14 +1,17 @@
-Tiki Soul
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Special Summon this card as an Effect Monster (Rock-Type/LIGHT/Level 4/ATK 1000/DEF 1800). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card you control that is a monster would be destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can Set it in the Spell & Trap Card Zone instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Tiki Soul</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Special Summon this card as an Effect Monster (Rock-Type/LIGHT/Level 4/ATK 1000/DEF 1800). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card you control that is a monster would be destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can Set it in the Spell &amp; Trap Card Zone instead.</text>
+</card>

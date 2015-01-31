@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Sword Saint of the Nekroz - Sephira Saber</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>1</lpendulum>
+    <rpendulum>1</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Pendulum Summon monsters, except &quot;Nekroz&quot; or &quot;Sephira&quot; monsters. This effect cannot be negated.
+
+ Monster Effect
+ You can Tribute this card from your hand or face-up from your side of the field; Tribute monsters from your hand or field, then Ritual Summon 1 &quot;Nekroz&quot; Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters. You can only use this effect of &quot;Sword Saint of the Nekroz - Sephira Saber&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Instant Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Pay 1000 Life Points; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) It cannot attack, and is destroyed during the End Phase. You can only activate 1 "Instant Fusion" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Instant Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Pay 1000 Life Points; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) It cannot attack, and is destroyed during the End Phase. You can only activate 1 &quot;Instant Fusion&quot; per turn.</text>
+</card>

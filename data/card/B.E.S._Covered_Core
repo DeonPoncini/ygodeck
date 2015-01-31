@@ -1,14 +1,17 @@
-B.E.S. Covered Core
-Monster
-EARTH
-Effect
-None
-Machine
-7
-2500
-800
-0
-0
-None
-None
-When this card is Normal Summoned, put 2 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. If this card battles without a counter, destroy it at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>B.E.S. Covered Core</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, put 2 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. If this card battles without a counter, destroy it at the end of the Damage Step.</text>
+</card>

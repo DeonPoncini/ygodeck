@@ -1,14 +1,17 @@
-Ultimate Tyranno
-Monster
-EARTH
-Effect
-None
-Dinosaur
-8
-3000
-2200
-0
-0
-None
-None
-If this card is in face-up Attack Position at the beginning of your Battle Phase, it must attack first, and attack all monsters your opponent controls once each.
+<?xml version="1.0" ?>
+<card>
+    <name>Ultimate Tyranno</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in face-up Attack Position at the beginning of your Battle Phase, it must attack first, and attack all monsters your opponent controls once each.</text>
+</card>

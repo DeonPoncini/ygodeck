@@ -1,14 +1,17 @@
-Hand of Nephthys
-Monster
-WIND
-Effect
-None
-Spellcaster
-2
-600
-600
-0
-0
-None
-None
-You can Tribute this card and 1 other monster; Special Summon 1 "Sacred Phoenix of Nephthys" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Hand of Nephthys</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card and 1 other monster; Special Summon 1 &quot;Sacred Phoenix of Nephthys&quot; from your hand or Deck.</text>
+</card>

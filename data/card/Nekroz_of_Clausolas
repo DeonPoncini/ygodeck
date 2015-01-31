@@ -1,14 +1,17 @@
-Nekroz of Clausolas
-Monster
-WATER
-Ritual
-Effect
-Warrior
-3
-1200
-2300
-0
-0
-None
-None
-You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned, and cannot be Special Summoned by other ways. You can only use each of these effects of "Nekroz of Clausolas" once per turn.● You can discard this card; add 1 "Nekroz" Spell/Trap Card from your Deck to your hand.● During either player's turn: You can target 1 monster on the field that was Special Summoned from the Extra Deck; its ATK becomes 0, also its effects are negated. These changes last until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Nekroz of Clausolas</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Nekroz&quot; Ritual Spell Card. Must be Ritual Summoned, and cannot be Special Summoned by other ways. You can only use each of these effects of &quot;Nekroz of Clausolas&quot; once per turn.● You can discard this card; add 1 &quot;Nekroz&quot; Spell/Trap Card from your Deck to your hand.● During either player's turn: You can target 1 monster on the field that was Special Summoned from the Extra Deck; its ATK becomes 0, also its effects are negated. These changes last until the end of this turn.</text>
+</card>

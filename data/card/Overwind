@@ -1,14 +1,17 @@
-Overwind
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 face-up "Wind-Up" monster you control; its ATK and DEF are doubled, and it returns to the hand during the End Phase. You can only activate 1 "Overwind" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Overwind</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 face-up &quot;Wind-Up&quot; monster you control; its ATK and DEF are doubled, and it returns to the hand during the End Phase. You can only activate 1 &quot;Overwind&quot; per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Shining Abyss
-Monster
-LIGHT
-Normal
-None
-Fairy
-4
-1600
-1800
-0
-0
-None
-None
-This monster employs the powers of both Light and Darkness.
+<?xml version="1.0" ?>
+<card>
+    <name>Shining Abyss</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster employs the powers of both Light and Darkness.</text>
+</card>

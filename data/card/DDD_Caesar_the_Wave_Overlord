@@ -1,14 +1,17 @@
-DDD Caesar the Wave Overlord
-Monster
-WATER
-Xyz
-Effect
-Fiend
-4
-2400
-1200
-0
-0
-None
-None
-2 Level 4 Fiend-Type monstersDuring either player's turn: You can detach 1 Xyz Material from this card; at the end of this turn's Battle Phase, Special Summon as many monsters from your Graveyard as possible that were destroyed during this turn, and if you do, you take 1000 damage for each monster Special Summoned by this effect during the next Standby Phase. If this card is sent from the field to the Graveyard: You can add 1 "Covenant" card from your Deck to your hand. You can only use each effect of "DDD Caesar the Wave Overlord" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>DDD Caesar the Wave Overlord</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>2400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 Fiend-Type monstersDuring either player's turn: You can detach 1 Xyz Material from this card; at the end of this turn's Battle Phase, Special Summon as many monsters from your Graveyard as possible that were destroyed during this turn, and if you do, you take 1000 damage for each monster Special Summoned by this effect during the next Standby Phase. If this card is sent from the field to the Graveyard: You can add 1 &quot;Covenant&quot; card from your Deck to your hand. You can only use each effect of &quot;DDD Caesar the Wave Overlord&quot; once per turn.</text>
+</card>

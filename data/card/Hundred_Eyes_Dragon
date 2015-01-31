@@ -1,14 +1,17 @@
-Hundred Eyes Dragon
-Monster
-DARK
-Synchro
-Effect
-Dragon
-8
-3000
-2500
-0
-0
-None
-None
-1 DARK Tuner + 1 or more non-Tuner Fiend-Type monstersOnce per turn: You can banish 1 Level 6 or lower DARK Effect Monster from your Graveyard; until the End Phase, this card's name becomes that banished monster's, and replace this effect with that banished monster's original effects. If this card is destroyed and sent to the Graveyard: Add 1 "Earthbound Immortal" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Hundred Eyes Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 1 or more non-Tuner Fiend-Type monstersOnce per turn: You can banish 1 Level 6 or lower DARK Effect Monster from your Graveyard; until the End Phase, this card's name becomes that banished monster's, and replace this effect with that banished monster's original effects. If this card is destroyed and sent to the Graveyard: Add 1 &quot;Earthbound Immortal&quot; monster from your Deck to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Emperor of the Land and Sea
-Monster
-WATER
-Normal
-None
-Reptile
-5
-1800
-1500
-0
-0
-None
-None
-A reptilian monster that sprays fire in every direction.
+<?xml version="1.0" ?>
+<card>
+    <name>Emperor of the Land and Sea</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A reptilian monster that sprays fire in every direction.</text>
+</card>

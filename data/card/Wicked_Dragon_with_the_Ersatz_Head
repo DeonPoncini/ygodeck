@@ -1,14 +1,17 @@
-Wicked Dragon with the Ersatz Head
-Monster
-WIND
-Normal
-None
-Dragon
-3
-900
-900
-0
-0
-None
-None
-A two-headed dragon with a pair of jaws that can tear an enemy to shreds.
+<?xml version="1.0" ?>
+<card>
+    <name>Wicked Dragon with the Ersatz Head</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A two-headed dragon with a pair of jaws that can tear an enemy to shreds.</text>
+</card>

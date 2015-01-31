@@ -1,14 +1,17 @@
-Frightfur Tiger
-Monster
-DARK
-Fusion
-Effect
-Fiend
-6
-1900
-1200
-0
-0
-None
-None
-"Edge Imp Sabres" + 1 or more "Fluffal" monstersYou can only control 1 "Frightfur Tiger". When this card is Fusion Summoned: You can target a number of cards on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. All "Frightfur" monsters you control gain 300 ATK for each "Fluffal" and "Frightfur" monster you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Frightfur Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Edge Imp Sabres&quot; + 1 or more &quot;Fluffal&quot; monstersYou can only control 1 &quot;Frightfur Tiger&quot;. When this card is Fusion Summoned: You can target a number of cards on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. All &quot;Frightfur&quot; monsters you control gain 300 ATK for each &quot;Fluffal&quot; and &quot;Frightfur&quot; monster you control.</text>
+</card>

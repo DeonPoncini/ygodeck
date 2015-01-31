@@ -1,14 +1,17 @@
-Slacker Magician
-Monster
-LIGHT
-Xyz
-Effect
-Spellcaster
-1
-200
-2100
-0
-0
-None
-None
-2 Level 1 monstersOnce per turn, this card cannot be destroyed by battle. During either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card.
+<?xml version="1.0" ?>
+<card>
+    <name>Slacker Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 1 monstersOnce per turn, this card cannot be destroyed by battle. During either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card.</text>
+</card>

@@ -1,14 +1,17 @@
-Evilswarm Kerykeion
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1600
-1550
-0
-0
-None
-None
-You can only use each effect of "Evilswarm Kerykeion" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 "lswarm" monster for 1 less Tribute.You can banish 1 "lswarm" monster from your Graveyard, then target 1 "lswarm" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.● This turn: You can activate this effect; Normal Summon 1 "lswarm" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Kerykeion</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1550</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only use each effect of &quot;Evilswarm Kerykeion&quot; once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 &quot;lswarm&quot; monster for 1 less Tribute.You can banish 1 &quot;lswarm&quot; monster from your Graveyard, then target 1 &quot;lswarm&quot; monster in your Graveyard; add that target to your hand, also, this card gains the following effect.● This turn: You can activate this effect; Normal Summon 1 &quot;lswarm&quot; monster.</text>
+</card>

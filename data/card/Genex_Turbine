@@ -1,14 +1,17 @@
-Genex Turbine
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1400
-1300
-0
-0
-None
-None
-All face-up "Genex" monsters you control gain 400 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Turbine</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All face-up &quot;Genex&quot; monsters you control gain 400 ATK.</text>
+</card>

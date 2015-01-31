@@ -1,14 +1,17 @@
-Evolsaur Elias
-Monster
-FIRE
-Effect
-None
-Dinosaur
-6
-100
-2400
-0
-0
-None
-None
-When this card is Special Summoned by the effect of an "Evoltile" monster: You can Special Summon 1 Level 6 or lower FIRE Dinosaur-Type monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Evolsaur Elias</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>6</level>
+    <attack>100</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of an &quot;Evoltile&quot; monster: You can Special Summon 1 Level 6 or lower FIRE Dinosaur-Type monster from your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Synchron Token
-Monster
-EARTH
-Token
-None
-Machine
-2
-1000
-0
-0
-0
-None
-None
-You can use this card as a "Synchron Token".※If you use this as a Token other than "Synchron Token", apply that Token's Type/Attribute/Level/ATK/DEF to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Synchron Token</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can use this card as a &quot;Synchron Token&quot;.※If you use this as a Token other than &quot;Synchron Token&quot;, apply that Token's Type/Attribute/Level/ATK/DEF to this card.</text>
+</card>

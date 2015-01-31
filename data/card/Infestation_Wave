@@ -1,14 +1,17 @@
-Infestation Wave
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Return 1 face-up Tribute Summoned "Steelswarm" monster you control to the hand to target 1 card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Infestation Wave</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Return 1 face-up Tribute Summoned &quot;Steelswarm&quot; monster you control to the hand to target 1 card your opponent controls; destroy that target.</text>
+</card>

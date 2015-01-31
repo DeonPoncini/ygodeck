@@ -1,14 +1,17 @@
-Sacred Phoenix of Nephthys
-Monster
-FIRE
-Effect
-None
-Winged Beast
-8
-2400
-1600
-0
-0
-None
-None
-During your next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all Spell and Trap Cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Sacred Phoenix of Nephthys</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>8</level>
+    <attack>2400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all Spell and Trap Cards on the field.</text>
+</card>

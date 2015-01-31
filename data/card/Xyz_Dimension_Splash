@@ -1,14 +1,17 @@
-Xyz Dimension Splash
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If this Set card is banished: You can Special Summon 2 Level 8 WATER monsters from your Deck. Their effects are negated, also they cannot declare an attack or be Tributed.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Dimension Splash</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If this Set card is banished: You can Special Summon 2 Level 8 WATER monsters from your Deck. Their effects are negated, also they cannot declare an attack or be Tributed.</text>
+</card>

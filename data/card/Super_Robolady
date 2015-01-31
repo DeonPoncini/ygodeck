@@ -1,14 +1,17 @@
-Super Robolady
-Monster
-EARTH
-Fusion
-Effect
-Machine
-6
-1200
-500
-0
-0
-None
-None
-"Robolady" + "Roboyarou"You can Special Summon "Super Roboyarou" by returning this card from the field to the Fusion Deck. You cannot use this effect during the same turn this monster is Special Summoned. In addition, increase the ATK of this monster by 1000 points during the Damage Step when this monster inflicts Direct Damage to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Super Robolady</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1200</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Robolady&quot; + &quot;Roboyarou&quot;You can Special Summon &quot;Super Roboyarou&quot; by returning this card from the field to the Fusion Deck. You cannot use this effect during the same turn this monster is Special Summoned. In addition, increase the ATK of this monster by 1000 points during the Damage Step when this monster inflicts Direct Damage to your opponent's Life Points.</text>
+</card>

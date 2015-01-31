@@ -1,14 +1,17 @@
-Evilswarm Salamandra
-Monster
-DARK
-Effect
-None
-Dinosaur
-4
-1850
-950
-0
-0
-None
-None
-Up to twice per turn: You can banish 1 monster from your Graveyard; this card gains 300 ATK until your opponent's next End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Salamandra</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1850</attack>
+    <defense>950</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Up to twice per turn: You can banish 1 monster from your Graveyard; this card gains 300 ATK until your opponent's next End Phase.</text>
+</card>

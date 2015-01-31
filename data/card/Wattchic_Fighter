@@ -1,14 +1,17 @@
-Wattchic Fighter
-Monster
-LIGHT
-Effect
-None
-Psychic
-3
-1500
-300
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can target 1 card in your opponent's Graveyard; place that target to either the top or bottom of the Deck. You can only use this effect of "Wattchic Fighter" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Wattchic Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can target 1 card in your opponent's Graveyard; place that target to either the top or bottom of the Deck. You can only use this effect of &quot;Wattchic Fighter&quot; once per turn.</text>
+</card>

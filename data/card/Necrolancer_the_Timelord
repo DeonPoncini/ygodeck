@@ -1,14 +1,17 @@
-Necrolancer the Timelord
-Monster
-DARK
-Normal
-None
-Spellcaster
-3
-800
-900
-0
-0
-None
-None
-The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.
+<?xml version="1.0" ?>
+<card>
+    <name>Necrolancer the Timelord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.</text>
+</card>

@@ -1,14 +1,17 @@
-Superheavy Samurai Scales
-Monster
-EARTH
-Effect
-None
-Machine
-4
-800
-1800
-0
-0
-None
-None
-If your opponent controls 2 or more monsters and you control no monsters, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: You can target 1 Level 4 or lower "Superheavy Samurai" monster in your Graveyard, except "Superheavy Samurai Scales"; Special Summon it in Defense Position. You can only use this effect of "Superheavy Samurai Scales" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Scales</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls 2 or more monsters and you control no monsters, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: You can target 1 Level 4 or lower &quot;Superheavy Samurai&quot; monster in your Graveyard, except &quot;Superheavy Samurai Scales&quot;; Special Summon it in Defense Position. You can only use this effect of &quot;Superheavy Samurai Scales&quot; once per turn.</text>
+</card>

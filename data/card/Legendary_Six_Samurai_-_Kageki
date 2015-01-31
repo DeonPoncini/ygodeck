@@ -1,14 +1,17 @@
-Legendary Six Samurai - Kageki
-Monster
-WIND
-Effect
-None
-Warrior
-3
-200
-2000
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower "Six Samurai" monster from your hand. While you control a face-up "Six Samurai" monster with a different name, this card gains 1500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Six Samurai - Kageki</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower &quot;Six Samurai&quot; monster from your hand. While you control a face-up &quot;Six Samurai&quot; monster with a different name, this card gains 1500 ATK.</text>
+</card>

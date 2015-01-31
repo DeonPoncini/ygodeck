@@ -1,14 +1,17 @@
-Nekroz Exomirror
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card can be used to Ritual Summon any "Nekroz" Ritual Monster. You must also Tribute monsters from your hand or field and/or banish "Nekroz" monsters from your Graveyard, whose total Levels equal the Level of that Ritual Monster. You can only use this effect of "Nekroz Exomirror" once per turn. If you control no monsters: You can banish both this card and 1 "Nekroz" monster from your Graveyard; add 1 "Nekroz" Spell Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Nekroz Exomirror</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used to Ritual Summon any &quot;Nekroz&quot; Ritual Monster. You must also Tribute monsters from your hand or field and/or banish &quot;Nekroz&quot; monsters from your Graveyard, whose total Levels equal the Level of that Ritual Monster. You can only use this effect of &quot;Nekroz Exomirror&quot; once per turn. If you control no monsters: You can banish this card and 1 &quot;Nekroz&quot; monster from your Graveyard; add 1 &quot;Nekroz&quot; Spell Card from your Deck to your hand.</text>
+</card>

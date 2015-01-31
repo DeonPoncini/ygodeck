@@ -1,14 +1,17 @@
-Crashbug X
-Monster
-DARK
-Effect
-None
-Fiend
-3
-0
-2000
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 "Crashbug Z" from your Deck. You must control a face-up "Crashbug Y" to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Crashbug X</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 &quot;Crashbug Z&quot; from your Deck. You must control a face-up &quot;Crashbug Y&quot; to activate and to resolve this effect.</text>
+</card>

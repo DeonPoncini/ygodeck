@@ -1,14 +1,17 @@
-Stygian Sergeants
-Monster
-DARK
-Synchro
-Effect
-Fiend
-5
-2200
-1800
-0
-0
-None
-None
-1 Fiend-Type Tuner + 1 or more non-Tuner monstersWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can have this card gain 800 ATK until the end of the Battle Phase, also this card can make a second attack in a row.
+<?xml version="1.0" ?>
+<card>
+    <name>Stygian Sergeants</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Fiend-Type Tuner + 1 or more non-Tuner monstersWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can have this card gain 800 ATK until the end of the Battle Phase, also this card can make a second attack in a row.</text>
+</card>

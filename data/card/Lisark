@@ -1,14 +1,17 @@
-Lisark
-Monster
-EARTH
-Normal
-None
-Beast
-4
-1300
-1300
-0
-0
-None
-None
-A creature with sapphire eyes that mesmerizes and confuses enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Lisark</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A creature with sapphire eyes that mesmerizes and confuses enemies.</text>
+</card>

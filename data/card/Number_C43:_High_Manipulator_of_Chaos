@@ -1,14 +1,17 @@
-Number C43: High Manipulator of Chaos
-Monster
-DARK
-Xyz
-Effect
-Fiend
-3
-0
-0
-0
-0
-None
-None
-4 Level 3 DARK monsters All Tokens you control can make a second attack during each Battle Phase. If this card has "Number 43: Manipulator of Souls" as an Xyz Material, it gains this effect.● Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 "Manipulator Token" (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). (When Summoned, its ATK and DEF each become equal to half the opponent's current Life Points.)
+<?xml version="1.0" ?>
+<card>
+    <name>Number C43: High Manipulator of Chaos</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>4 Level 3 DARK monsters All Tokens you control can make a second attack during each Battle Phase. If this card has &quot;Number 43: Manipulator of Souls&quot; as an Xyz Material, it gains this effect.● Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 &quot;Manipulator Token&quot; (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). (When Summoned, its ATK and DEF each become equal to half the opponent's current Life Points.)</text>
+</card>

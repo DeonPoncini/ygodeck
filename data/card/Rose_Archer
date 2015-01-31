@@ -1,14 +1,17 @@
-Rose Archer
-Monster
-EARTH
-Effect
-None
-Warrior
-3
-1000
-100
-0
-0
-None
-None
-During either player's turn, when your opponent activates a Trap Card while you control a Plant-Type monster: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Rose Archer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when your opponent activates a Trap Card while you control a Plant-Type monster: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it.</text>
+</card>

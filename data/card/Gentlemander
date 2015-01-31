@@ -1,14 +1,17 @@
-Gentlemander
-Monster
-LIGHT
-Effect
-None
-Reptile
-4
-1200
-1000
-0
-0
-None
-None
-When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent cannot attack any monsters except this one.
+<?xml version="1.0" ?>
+<card>
+    <name>Gentlemander</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent cannot attack any monsters except this one.</text>
+</card>

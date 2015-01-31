@@ -1,14 +1,17 @@
-Brain Golem
-Monster
-DARK
-Effect
-None
-Fiend
-6
-2500
-1800
-0
-0
-None
-None
-Effects of face-up LIGHT monsters are negated. If this card destroys a LIGHT monster by battle, it can attack once again in a row.
+<?xml version="1.0" ?>
+<card>
+    <name>Brain Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Effects of face-up LIGHT monsters are negated. If this card destroys a LIGHT monster by battle, it can attack once again in a row.</text>
+</card>

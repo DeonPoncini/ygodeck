@@ -1,14 +1,17 @@
-Advanced Dark
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All "Crystal Beast" monsters on the field and in the Graveyard become DARK. If "Rainbow Dragon" or "Rainbow Dark Dragon" attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a "Crystal Beast" monster you control battles and you would take Battle Damage: You can send 1 "Crystal Beast" monster from your Deck to the Graveyard; you take no Battle Damage from that battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Advanced Dark</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All &quot;Crystal Beast&quot; monsters on the field and in the Graveyard become DARK. If &quot;Rainbow Dragon&quot; or &quot;Rainbow Dark Dragon&quot; attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a &quot;Crystal Beast&quot; monster you control battles and you would take Battle Damage: You can send 1 &quot;Crystal Beast&quot; monster from your Deck to the Graveyard; you take no Battle Damage from that battle.</text>
+</card>

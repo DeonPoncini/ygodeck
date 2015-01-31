@@ -1,14 +1,17 @@
-Giltia the D. Knight
-Monster
-LIGHT
-Fusion
-None
-Warrior
-5
-1850
-1500
-0
-0
-None
-None
-"Guardian of the Labyrinth" + "Protector of the Throne"
+<?xml version="1.0" ?>
+<card>
+    <name>Giltia the D. Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1850</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Guardian of the Labyrinth&quot; + &quot;Protector of the Throne&quot;</text>
+</card>

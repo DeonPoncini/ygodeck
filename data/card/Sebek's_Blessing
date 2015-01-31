@@ -1,14 +1,17 @@
-Sebek's Blessing
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Activate only when a monster you control has attacked your opponent directly. Gain Life Points equal to the Battle Damage that the monster inflicted to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Sebek's Blessing</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Activate only when a monster you control has attacked your opponent directly. Gain Life Points equal to the Battle Damage that the monster inflicted to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Herald of Perfection
-Monster
-LIGHT
-Ritual
-Effect
-Fairy
-6
-1800
-2800
-0
-0
-None
-None
-You can Ritual Summon this card with "Dawn of the Herald". During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Herald of Perfection</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Dawn of the Herald&quot;. During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.</text>
+</card>

@@ -1,14 +1,17 @@
-Valkyrie of the Nordic Ascendant
-Monster
-LIGHT
-Tuner
-Effect
-Fairy
-2
-400
-800
-0
-0
-None
-None
-When this card is Normal Summoned, if your opponent controls a monster and you control no other cards: You can banish 2 "Nordic" monsters from your hand; Special Summon 2 "Einherjar Tokens" (Warrior-Type/EARTH/Level 4/ATK 1000/DEF 1000) in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Valkyrie of the Nordic Ascendant</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, if your opponent controls a monster and you control no other cards: You can banish 2 &quot;Nordic&quot; monsters from your hand; Special Summon 2 &quot;Einherjar Tokens&quot; (Warrior-Type/EARTH/Level 4/ATK 1000/DEF 1000) in Defense Position.</text>
+</card>

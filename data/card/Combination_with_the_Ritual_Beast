@@ -1,14 +1,17 @@
-Combination with the Ritual Beast
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control a "Ritual Beast" monster: Destroy any number of monsters on the field, up to the number of "Ritual Beast" monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Combination with the Ritual Beast</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control a &quot;Ritual Beast&quot; monster: Destroy any number of monsters on the field, up to the number of &quot;Ritual Beast&quot; monsters you control.</text>
+</card>

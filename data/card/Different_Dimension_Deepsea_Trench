@@ -1,14 +1,17 @@
-Different Dimension Deepsea Trench
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When this card resolves: Banish 1 WATER monster from your hand, Graveyard, or face-up on your field. Then, when this face-up card is destroyed: Special Summon that banished monster to your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Different Dimension Deepsea Trench</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When this card resolves: Banish 1 WATER monster from your hand, Graveyard, or face-up on your field. Then, when this face-up card is destroyed: Special Summon that banished monster to your side of the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Sargasso the D.D. Battlefield
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each time a monster is Xyz Summoned: The Summoning player takes 500 damage. During each player's End Phase, the turn player takes 500 damage if they control a face-up Xyz Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Sargasso the D.D. Battlefield</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each time a monster is Xyz Summoned: The Summoning player takes 500 damage. During each player's End Phase, the turn player takes 500 damage if they control a face-up Xyz Monster.</text>
+</card>

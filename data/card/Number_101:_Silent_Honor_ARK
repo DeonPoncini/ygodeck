@@ -1,14 +1,17 @@
-Number 101: Silent Honor ARK
-Monster
-WATER
-Xyz
-Effect
-Aqua
-4
-2100
-1000
-0
-0
-None
-None
-2 Level 4 monstersYou can detach 2 Xyz Materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as a face-up Xyz Material. You can only use this effect of "Number 101: Silent Honor ARK" once per turn. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 101: Silent Honor ARK</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersYou can detach 2 Xyz Materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as a face-up Xyz Material. You can only use this effect of &quot;Number 101: Silent Honor ARK&quot; once per turn. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead.</text>
+</card>

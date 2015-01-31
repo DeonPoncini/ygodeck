@@ -1,14 +1,17 @@
-Pragtical
-Monster
-EARTH
-Fusion
-None
-Dinosaur
-5
-1900
-1500
-0
-0
-None
-None
-"Trakodon" + "Flame Viper"
+<?xml version="1.0" ?>
+<card>
+    <name>Pragtical</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Trakodon&quot; + &quot;Flame Viper&quot;</text>
+</card>

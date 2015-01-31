@@ -1,14 +1,17 @@
-Jurrac Monoloph
-Monster
-FIRE
-Tuner
-None
-Dinosaur
-3
-1500
-1200
-0
-0
-None
-None
-This card can attack all monsters your opponent controls once each.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Monoloph</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack all monsters your opponent controls once each.</text>
+</card>

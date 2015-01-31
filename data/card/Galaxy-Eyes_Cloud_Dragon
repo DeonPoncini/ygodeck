@@ -1,14 +1,17 @@
-Galaxy-Eyes Cloud Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-1
-300
-250
-0
-0
-None
-None
-You can Tribute this card; Special Summon 1 "Galaxy-Eyes" monster from your hand or Graveyard, except "Galaxy-Eyes Cloud Dragon". You can only use this effect of "Galaxy-Eyes Cloud Dragon" once per turn. If this card is in your Graveyard: You can target 1 "Galaxy-Eyes" Xyz Monster you control; attach this card from your Graveyard to that monster as an Xyz Material. You can only use this effect of "Galaxy-Eyes Cloud Dragon" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Galaxy-Eyes Cloud Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card; Special Summon 1 &quot;Galaxy-Eyes&quot; monster from your hand or Graveyard, except &quot;Galaxy-Eyes Cloud Dragon&quot;. You can only use this effect of &quot;Galaxy-Eyes Cloud Dragon&quot; once per turn. If this card is in your Graveyard: You can target 1 &quot;Galaxy-Eyes&quot; Xyz Monster you control; attach this card from your Graveyard to that monster as an Xyz Material. You can only use this effect of &quot;Galaxy-Eyes Cloud Dragon&quot; once per Duel.</text>
+</card>

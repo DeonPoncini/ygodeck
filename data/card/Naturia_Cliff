@@ -1,14 +1,17 @@
-Naturia Cliff
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1500
-1000
-0
-0
-None
-None
-When this card is sent from the field to the Graveyard, you can Special Summon 1 Level 4 or lower "Naturia" monster from your Deck to your side of the field in face-up Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Cliff</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent from the field to the Graveyard, you can Special Summon 1 Level 4 or lower &quot;Naturia&quot; monster from your Deck to your side of the field in face-up Attack Position.</text>
+</card>

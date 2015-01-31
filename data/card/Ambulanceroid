@@ -1,14 +1,17 @@
-Ambulanceroid
-Monster
-EARTH
-Effect
-None
-Machine
-3
-300
-1200
-0
-0
-None
-None
-When a "roid" monster is added from your Graveyard to your hand, you can Special Summon that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Ambulanceroid</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;roid&quot; monster is added from your Graveyard to your hand, you can Special Summon that monster.</text>
+</card>

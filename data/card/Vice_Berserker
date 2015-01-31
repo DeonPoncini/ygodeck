@@ -1,14 +1,17 @@
-Vice Berserker
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1000
-1000
-0
-0
-None
-None
-If this card is sent to the Graveyard as a Synchro Material Monster, inflict 2000 damage to the player that Synchro Summoned, and the Synchro Monster that used this card as a Synchro Material Monster gains 2000 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Vice Berserker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard as a Synchro Material Monster, inflict 2000 damage to the player that Synchro Summoned, and the Synchro Monster that used this card as a Synchro Material Monster gains 2000 ATK until the End Phase.</text>
+</card>

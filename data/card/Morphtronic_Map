@@ -1,14 +1,17 @@
-Morphtronic Map
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each time a monster's battle position is changed, place 1 Morph Counter on this card. All "Morphtronic" monsters gain 300 ATK for each Morph Counter on this card. When this card is destroyed and sent from the field to the Graveyard, you can Special Summon 1 "Morphtronic" monster from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Map</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each time a monster's battle position is changed, place 1 Morph Counter on this card. All &quot;Morphtronic&quot; monsters gain 300 ATK for each Morph Counter on this card. When this card is destroyed and sent from the field to the Graveyard, you can Special Summon 1 &quot;Morphtronic&quot; monster from your Graveyard.</text>
+</card>

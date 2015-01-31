@@ -1,14 +1,17 @@
-Doppelganger
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When you take damage from the effect of a monster your opponent controls, inflict the same amount of damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Doppelganger</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When you take damage from the effect of a monster your opponent controls, inflict the same amount of damage to your opponent.</text>
+</card>

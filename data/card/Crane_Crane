@@ -1,14 +1,17 @@
-Crane Crane
-Monster
-EARTH
-Effect
-None
-Winged Beast
-3
-300
-900
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 Level 3 monster in your Graveyard; Special Summon that target. Its effects are negated. You can only use this effect of "Crane Crane" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Crane Crane</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 Level 3 monster in your Graveyard; Special Summon that target. Its effects are negated. You can only use this effect of &quot;Crane Crane&quot; once per turn.</text>
+</card>

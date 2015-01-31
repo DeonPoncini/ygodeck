@@ -1,14 +1,17 @@
-Dragon Knight Draco-Equiste
-Monster
-WIND
-Fusion
-Effect
-Dragon
-10
-3200
-2000
-0
-0
-None
-None
-1 Dragon-Type Synchro Monster + 1 Warrior-Type monsterMust first be Fusion Summoned. Once per turn: You can target 1 Dragon-Type Synchro Monster in the Graveyard; banish that target, and if you do, until the End Phase, this card's name become that monster's, and replace this effect with that monster's original effects. While this card is in Attack Position, your opponent takes any effect damage you would have taken from their card effects, instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Knight Draco-Equiste</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>3200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Dragon-Type Synchro Monster + 1 Warrior-Type monsterMust first be Fusion Summoned. Once per turn: You can target 1 Dragon-Type Synchro Monster in the Graveyard; banish that target, and if you do, until the End Phase, this card's name become that monster's, and replace this effect with that monster's original effects. While this card is in Attack Position, your opponent takes any effect damage you would have taken from their card effects, instead.</text>
+</card>

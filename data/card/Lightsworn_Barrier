@@ -1,14 +1,17 @@
-Lightsworn Barrier
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When a "Lightsworn" monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightsworn Barrier</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When a &quot;Lightsworn&quot; monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.</text>
+</card>

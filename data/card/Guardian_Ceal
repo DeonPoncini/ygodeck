@@ -1,14 +1,17 @@
-Guardian Ceal
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1700
-1400
-0
-0
-None
-None
-Cannot be Summoned unless you control a face-up "Shooting Star Bow - Ceal". You can send 1 Equip Spell Card you control that is equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Guardian Ceal</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Summoned unless you control a face-up &quot;Shooting Star Bow - Ceal&quot;. You can send 1 Equip Spell Card you control that is equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.</text>
+</card>

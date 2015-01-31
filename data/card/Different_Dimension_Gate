@@ -1,14 +1,17 @@
-Different Dimension Gate
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Activate this card by targeting 1 monster on each side of the field; banish those targets. When this card is destroyed and sent to the Graveyard: Return those banished monsters to the field in the same battle positions they were in.
+<?xml version="1.0" ?>
+<card>
+    <name>Different Dimension Gate</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Activate this card by targeting 1 monster on each side of the field; banish those targets. When this card is destroyed and sent to the Graveyard: Return those banished monsters to the field in the same battle positions they were in.</text>
+</card>

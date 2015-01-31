@@ -1,14 +1,17 @@
-Mass Driver
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Tribute 1 monster on your side of the field to inflict 400 points of damage to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Mass Driver</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 monster on your side of the field to inflict 400 points of damage to your opponent's Life Points.</text>
+</card>

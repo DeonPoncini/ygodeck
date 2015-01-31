@@ -1,14 +1,17 @@
-Flash of the Forbidden Spell
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Flash of the Forbidden Spell</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Bujin Regalia - The Mirror
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-At the start of your Main Phase 1, if your opponent controls more monsters than you do and you control a Beast-Warrior-Type "Bujin" monster: Until the end of your opponent's next turn, Spell/Trap Cards, and their effects, cannot be activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujin Regalia - The Mirror</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>At the start of your Main Phase 1, if your opponent controls more monsters than you do and you control a Beast-Warrior-Type &quot;Bujin&quot; monster: Until the end of your opponent's next turn, Spell/Trap Cards, and their effects, cannot be activated.</text>
+</card>

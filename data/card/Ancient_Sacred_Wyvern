@@ -1,14 +1,17 @@
-Ancient Sacred Wyvern
-Monster
-LIGHT
-Synchro
-Effect
-Fairy
-7
-2100
-2000
-0
-0
-None
-None
-1 LIGHT Tuner + 1 or more non-Tuner monstersWhile your LP are higher than your opponent's, this card gains ATK equal to the difference. While your LP are lower than your opponent's, this card loses ATK equal to the difference. When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 LP; Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Sacred Wyvern</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 LIGHT Tuner + 1 or more non-Tuner monstersWhile your LP are higher than your opponent's, this card gains ATK equal to the difference. While your LP are lower than your opponent's, this card loses ATK equal to the difference. When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 LP; Special Summon this card.</text>
+</card>

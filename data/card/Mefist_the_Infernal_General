@@ -1,14 +1,17 @@
-Mefist the Infernal General
-Monster
-DARK
-Effect
-None
-Fiend
-5
-1800
-1700
-0
-0
-None
-None
-When this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. When this card inflicts Battle Damage to your opponent's Life Points, discard 1 card randomly from your opponent's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Mefist the Infernal General</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. When this card inflicts Battle Damage to your opponent's Life Points, discard 1 card randomly from your opponent's hand.</text>
+</card>

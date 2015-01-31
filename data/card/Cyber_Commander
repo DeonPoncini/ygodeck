@@ -1,14 +1,17 @@
-Cyber Commander
-Monster
-DARK
-Normal
-None
-Machine
-2
-750
-700
-0
-0
-None
-None
-A strike force equipped with rocket launchers and bazookas.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Commander</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>750</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A strike force equipped with rocket launchers and bazookas.</text>
+</card>

@@ -1,14 +1,17 @@
-Destruction Jammer
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Discard 1 card. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect that destroys a monster(s) on the field, and destroy that card.
+<?xml version="1.0" ?>
+<card>
+    <name>Destruction Jammer</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Discard 1 card. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect that destroys a monster(s) on the field, and destroy that card.</text>
+</card>

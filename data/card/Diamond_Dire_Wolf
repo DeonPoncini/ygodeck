@@ -1,14 +1,17 @@
-Diamond Dire Wolf
-Monster
-EARTH
-Xyz
-Effect
-Beast
-4
-2000
-1200
-0
-0
-None
-None
-2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Beast, Beast-Warrior, or Winged Beast-Type monster you control and 1 other card on the field; destroy them.
+<?xml version="1.0" ?>
+<card>
+    <name>Diamond Dire Wolf</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Beast, Beast-Warrior, or Winged Beast-Type monster you control and 1 other card on the field; destroy them.</text>
+</card>

@@ -1,14 +1,17 @@
-Yosen Tornado
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Activate this card by [...]. Once per turn, if a "Yosenju" monster(s) you control is returned to the hand: You can target [...] your opponent  controls; return that target to the hand. [...], if this effect is not applied: Destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Yosen Tornado</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Activate this card by paying 800 LP. Once per turn, if a &quot;Yosenju&quot; monster(s) you control is returned to the hand: You can target 1 card your opponent  controls; return that target to the hand. During your End Phase, if this effect was not applied this turn, destroy this card.</text>
+</card>

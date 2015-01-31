@@ -1,14 +1,17 @@
-Constellar Omega
-Monster
-LIGHT
-Xyz
-Effect
-Beast-Warrior
-4
-2400
-500
-0
-0
-None
-None
-2 Level 4 LIGHT monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; all "Constellar" monsters you currently control are unaffected by Spell/Trap effects this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Omega</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2400</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 LIGHT monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; all &quot;Constellar&quot; monsters you currently control are unaffected by Spell/Trap effects this turn.</text>
+</card>

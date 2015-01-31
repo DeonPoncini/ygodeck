@@ -1,14 +1,17 @@
-Flamvell Poun
-Monster
-FIRE
-Effect
-None
-Pyro
-1
-200
-200
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Flamvell Poun</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.</text>
+</card>

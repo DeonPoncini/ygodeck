@@ -1,14 +1,17 @@
-Dark End Dragon
-Monster
-DARK
-Synchro
-Effect
-Dragon
-8
-2600
-2100
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner DARK monstersOnce per turn: You can target 1 monster your opponent controls; this card loses 500 ATK and DEF, and you send that target to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark End Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner DARK monstersOnce per turn: You can target 1 monster your opponent controls; this card loses 500 ATK and DEF, and you send that target to the Graveyard.</text>
+</card>

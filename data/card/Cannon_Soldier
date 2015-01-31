@@ -1,14 +1,17 @@
-Cannon Soldier
-Monster
-DARK
-Effect
-None
-Machine
-4
-1400
-1300
-0
-0
-None
-None
-You can Tribute 1 monster; inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Cannon Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 monster; inflict 500 damage to your opponent.</text>
+</card>

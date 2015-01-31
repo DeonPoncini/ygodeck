@@ -1,14 +1,17 @@
-Fire Formation - Kaiyo
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-During the turn this card is activated, if a Beast-Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. (This applies even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Formation - Kaiyo</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>During the turn this card is activated, if a Beast-Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. (This applies even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK.</text>
+</card>

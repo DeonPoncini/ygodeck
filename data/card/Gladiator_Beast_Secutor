@@ -1,14 +1,17 @@
-Gladiator Beast Secutor
-Monster
-WIND
-Effect
-None
-Reptile
-4
-400
-300
-0
-0
-None
-None
-If this card was Special Summoned by the effect of a "Gladiator Beast" monster, then at the end of any Battle Phase in which this card attacked or was attacked: Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Secutor".
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Secutor</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster, then at the end of any Battle Phase in which this card attacked or was attacked: Special Summon 2 &quot;Gladiator Beast&quot; monsters from your Deck, except &quot;Gladiator Beast Secutor&quot;.</text>
+</card>

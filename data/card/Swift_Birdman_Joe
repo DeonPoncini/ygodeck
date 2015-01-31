@@ -1,14 +1,17 @@
-Swift Birdman Joe
-Monster
-WIND
-Effect
-None
-Winged Beast
-6
-2300
-1400
-0
-0
-None
-None
-If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.
+<?xml version="1.0" ?>
+<card>
+    <name>Swift Birdman Joe</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.</text>
+</card>

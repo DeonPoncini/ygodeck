@@ -1,14 +1,17 @@
-Geargiattacker
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1900
-100
-0
-0
-None
-None
-Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can destroy any number of Spell/Trap Cards on the field, up to the number of other "Geargia" monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Geargiattacker</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can destroy any number of Spell/Trap Cards on the field, up to the number of other &quot;Geargia&quot; monsters you control.</text>
+</card>

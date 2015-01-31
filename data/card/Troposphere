@@ -1,14 +1,17 @@
-Troposphere
-Monster
-WIND
-Effect
-None
-Winged Beast
-6
-2400
-2000
-0
-0
-None
-None
-If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Troposphere</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.</text>
+</card>

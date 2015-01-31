@@ -1,14 +1,17 @@
-Cyber Larva
-Monster
-LIGHT
-Effect
-None
-Machine
-1
-400
-600
-0
-0
-None
-None
-If this face-up card is targeted for an attack: You take no battle damage for the rest of this turn. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 "Cyber Larva" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Larva</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-up card is targeted for an attack: You take no battle damage for the rest of this turn. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 &quot;Cyber Larva&quot; from your Deck.</text>
+</card>

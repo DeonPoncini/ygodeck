@@ -1,14 +1,17 @@
-Superheavy Samurai Soulbeads
-Monster
-EARTH
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-You can target 1 "Superheavy Samurai" monster you control; equip this monster from your hand or your side of the field to that target. Each turn, the first time the monster equipped with this card by this effect would be destroyed by a card effect, it is not destroyed. When a Defense Position monster is destroyed by battle and sent to your Graveyard: You can send this card from your hand to the Graveyard; Special Summon that monster in Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Soulbeads</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 &quot;Superheavy Samurai&quot; monster you control; equip this monster from your hand or your side of the field to that target. Each turn, the first time the monster equipped with this card by this effect would be destroyed by a card effect, it is not destroyed. When a Defense Position monster is destroyed by battle and sent to your Graveyard: You can send this card from your hand to the Graveyard; Special Summon that monster in Attack Position.</text>
+</card>

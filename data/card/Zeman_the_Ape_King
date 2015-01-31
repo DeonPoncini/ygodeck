@@ -1,14 +1,17 @@
-Zeman the Ape King
-Monster
-EARTH
-Synchro
-Effect
-Beast
-7
-2500
-1800
-0
-0
-None
-None
-1 DARK Tuner + 1 non-Tuner Beast-Type monsterIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When an opponent's monster declares an attack, you can select that monster and send 1 monster from your hand or your side of the field to the Graveyard to negate the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Zeman the Ape King</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Tuner + 1 non-Tuner Beast-Type monsterIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When an opponent's monster declares an attack, you can select that monster and send 1 monster from your hand or your side of the field to the Graveyard to negate the attack.</text>
+</card>

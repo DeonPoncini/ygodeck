@@ -1,14 +1,17 @@
-Tenderness
-Monster
-LIGHT
-Normal
-None
-Fairy
-3
-700
-1400
-0
-0
-None
-None
-An adorable fairy that celebrates the gift of love.
+<?xml version="1.0" ?>
+<card>
+    <name>Tenderness</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An adorable fairy that celebrates the gift of love.</text>
+</card>

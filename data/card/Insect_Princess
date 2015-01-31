@@ -1,14 +1,17 @@
-Insect Princess
-Monster
-WIND
-Effect
-None
-Insect
-6
-1900
-1200
-0
-0
-None
-None
-While this card is face-up on the field, battle positions of all face-up Insect-Type monsters on your opponent's side of the field are changed into Attack Position. Each time this card destroys an Insect-Type monster as a result of battle, increase the ATK of this card by 500 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Insect Princess</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is face-up on the field, battle positions of all face-up Insect-Type monsters on your opponent's side of the field are changed into Attack Position. Each time this card destroys an Insect-Type monster as a result of battle, increase the ATK of this card by 500 points.</text>
+</card>

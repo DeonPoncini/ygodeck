@@ -1,14 +1,17 @@
-Air Armor Ninja
-Monster
-WIND
-Effect
-None
-Warrior
-4
-1400
-1400
-0
-0
-None
-None
-When this card is Summoned: You can target 1 "Ninja" monster you control; reduce its Level by 1.
+<?xml version="1.0" ?>
+<card>
+    <name>Air Armor Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned: You can target 1 &quot;Ninja&quot; monster you control; reduce its Level by 1.</text>
+</card>

@@ -1,14 +1,17 @@
-Branch!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When a Fusion Monster on the field is destroyed and sent to the Graveyard, you can Special Summon from your Graveyard 1 of the Fusion Material Monsters that you used for the Fusion Summon of that Fusion Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Branch!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When a Fusion Monster on the field is destroyed and sent to the Graveyard, you can Special Summon from your Graveyard 1 of the Fusion Material Monsters that you used for the Fusion Summon of that Fusion Monster.</text>
+</card>

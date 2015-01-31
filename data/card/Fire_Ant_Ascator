@@ -1,14 +1,17 @@
-Fire Ant Ascator
-Monster
-EARTH
-Tuner
-Effect
-Insect
-3
-700
-1300
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can target 1 Level 5 monster in your Graveyard; Special Summon that target, but its effects are negated, also send it to the Graveyard during the End Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Ant Ascator</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can target 1 Level 5 monster in your Graveyard; Special Summon that target, but its effects are negated, also send it to the Graveyard during the End Phase of this turn.</text>
+</card>

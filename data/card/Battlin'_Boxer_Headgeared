@@ -1,14 +1,17 @@
-Battlin' Boxer Headgeared
-Monster
-FIRE
-Effect
-None
-Warrior
-4
-1000
-1800
-0
-0
-None
-None
-When this card is Normal Summoned: You can send 1 "Battlin' Boxer" monster from your Deck to the Graveyard. Once per turn, this face-up Attack Position card cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Battlin' Boxer Headgeared</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can send 1 &quot;Battlin' Boxer&quot; monster from your Deck to the Graveyard. Once per turn, this face-up Attack Position card cannot be destroyed by battle.</text>
+</card>

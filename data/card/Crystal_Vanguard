@@ -1,18 +1,21 @@
-Crystal Vanguard
-Monster
-DARK
-Pendulum
-Effect
-Spellcaster
-3
-1300
-1000
-5
-5
-None
-None
-Pendulum Effect
- All "Crystal Beast" cards, "Rainbow Dragon", and "Rainbow Dark Dragon" you control cannot be targeted by your opponent's card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Vanguard</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>5</lpendulum>
+    <rpendulum>5</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ All &quot;Crystal Beast&quot; cards, &quot;Rainbow Dragon&quot;, and &quot;Rainbow Dark Dragon&quot; you control cannot be targeted by your opponent's card effects.
 
  Monster Effect
- You can Tribute this card; add 1 "Rainbow Dragon", 1 "Rainbow Dark Dragon", 1 "Crystal Beast" monster, or 1 "Crystal" Spell/Trap Card (except "Crystal Counter" or "Violet Crystal") from your Deck to your hand.
+ You can Tribute this card; add 1 &quot;Rainbow Dragon&quot;, 1 &quot;Rainbow Dark Dragon&quot;, 1 &quot;Crystal Beast&quot; monster, or 1 &quot;Crystal&quot; Spell/Trap Card (except &quot;Crystal Counter&quot; or &quot;Violet Crystal&quot;) from your Deck to your hand.</text>
+</card>

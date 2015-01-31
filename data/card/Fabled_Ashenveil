@@ -1,14 +1,17 @@
-Fabled Ashenveil
-Monster
-LIGHT
-Effect
-None
-Fiend
-4
-1600
-1200
-0
-0
-None
-None
-If this card attacks or is attacked, during damage calculation (in either player's turn): You can send 1 card from your hand to the Graveyard once per battle; this card gains 600 ATK during that damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Ashenveil</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks or is attacked, during damage calculation (in either player's turn): You can send 1 card from your hand to the Graveyard once per battle; this card gains 600 ATK during that damage calculation only.</text>
+</card>

@@ -1,14 +1,17 @@
-One-Eyed Skill Gainer
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-4
-2500
-2600
-0
-0
-None
-None
-3 Level 4 monstersYou can detach 1 Xyz Material from this card to target 1 face-up Xyz Monster your opponent controls; this card's name and original effect become the same as that monster. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>One-Eyed Skill Gainer</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monstersYou can detach 1 Xyz Material from this card to target 1 face-up Xyz Monster your opponent controls; this card's name and original effect become the same as that monster. This effect can only be used once while this card is face-up on the field.</text>
+</card>

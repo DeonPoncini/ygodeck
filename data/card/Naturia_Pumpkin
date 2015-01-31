@@ -1,14 +1,17 @@
-Naturia Pumpkin
-Monster
-EARTH
-Effect
-None
-Plant
-4
-1400
-800
-0
-0
-None
-None
-When this card is Normal Summoned, if your opponent controls a monster, you can Special Summon 1 "Naturia" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Pumpkin</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, if your opponent controls a monster, you can Special Summon 1 &quot;Naturia&quot; monster from your hand.</text>
+</card>

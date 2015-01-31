@@ -1,14 +1,17 @@
-Bujin Mikazuchi
-Monster
-LIGHT
-Effect
-None
-Beast-Warrior
-4
-1900
-1500
-0
-0
-None
-None
-When a Beast-Warrior-Type "Bujin" monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can Special Summon this card from your hand. Once per turn, during the End Phase, if a "Bujin" monster(s) was sent from your hand to your Graveyard this turn while you controlled this face-up card: You can add 1 "Bujin" Spell/Trap Card from your Deck to your hand. You can only control 1 "Bujin Mikazuchi".
+<?xml version="1.0" ?>
+<card>
+    <name>Bujin Mikazuchi</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a Beast-Warrior-Type &quot;Bujin&quot; monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can Special Summon this card from your hand. Once per turn, during the End Phase, if a &quot;Bujin&quot; monster(s) was sent from your hand to your Graveyard this turn while you controlled this face-up card: You can add 1 &quot;Bujin&quot; Spell/Trap Card from your Deck to your hand. You can only control 1 &quot;Bujin Mikazuchi&quot;.</text>
+</card>

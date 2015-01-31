@@ -1,14 +1,17 @@
-Jurrac Dino
-Monster
-FIRE
-Tuner
-None
-Dinosaur
-3
-1700
-800
-0
-0
-None
-None
-Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 "Jurrac" monster to draw 2 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Dino</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>1700</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 &quot;Jurrac&quot; monster to draw 2 cards.</text>
+</card>

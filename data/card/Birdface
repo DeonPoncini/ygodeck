@@ -1,14 +1,17 @@
-Birdface
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1600
-1600
-0
-0
-None
-None
-When this card is sent to the Graveyard as a result of battle, you can add 1 "Harpie Lady" from your Deck to your hand. Then shuffle your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Birdface</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard as a result of battle, you can add 1 &quot;Harpie Lady&quot; from your Deck to your hand. Then shuffle your Deck.</text>
+</card>

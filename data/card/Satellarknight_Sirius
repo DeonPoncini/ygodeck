@@ -1,14 +1,17 @@
-Satellarknight Sirius
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1600
-900
-0
-0
-None
-None
-If this card is Summoned: You can target 5 "tellarknight" monsters in your Graveyard; shuffle all 5 into the Deck, then draw 1 card. You can only use this effect of "Satellarknight Sirius" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Satellarknight Sirius</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Summoned: You can target 5 &quot;tellarknight&quot; monsters in your Graveyard; shuffle all 5 into the Deck, then draw 1 card. You can only use this effect of &quot;Satellarknight Sirius&quot; once per turn.</text>
+</card>

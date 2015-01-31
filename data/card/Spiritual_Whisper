@@ -1,14 +1,17 @@
-Spiritual Whisper
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-200
-2000
-0
-0
-None
-None
-Once per turn, this card cannot be destroyed by battle. When this card is Pendulum Summoned: You can add 1 Ritual Monster or 1 Ritual Spell Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Spiritual Whisper</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, this card cannot be destroyed by battle. When this card is Pendulum Summoned: You can add 1 Ritual Monster or 1 Ritual Spell Card from your Deck to your hand.</text>
+</card>

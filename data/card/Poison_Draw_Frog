@@ -1,14 +1,17 @@
-Poison Draw Frog
-Monster
-WATER
-Effect
-None
-Aqua
-2
-100
-100
-0
-0
-None
-None
-When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Poison Draw Frog</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.</text>
+</card>

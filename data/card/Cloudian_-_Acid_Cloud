@@ -1,14 +1,17 @@
-Cloudian - Acid Cloud
-Monster
-WATER
-Effect
-None
-Fairy
-4
-500
-0
-0
-0
-None
-None
-This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each "Cloudian" monster on the field. You can remove 2 Fog Counters from this card to destroy 1 Spell or Trap Card.
+<?xml version="1.0" ?>
+<card>
+    <name>Cloudian - Acid Cloud</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each &quot;Cloudian&quot; monster on the field. You can remove 2 Fog Counters from this card to destroy 1 Spell or Trap Card.</text>
+</card>

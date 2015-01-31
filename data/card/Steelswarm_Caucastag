@@ -1,14 +1,17 @@
-Steelswarm Caucastag
-Monster
-DARK
-Effect
-None
-Fiend
-8
-2800
-0
-0
-0
-None
-None
-When this card is Tribute Summoned by Tributing 2 "Steelswarm" monsters: Activate 1 of these effects. ● Destroy all monsters on the field, except this card. ● Destroy all Spell and Trap Cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Steelswarm Caucastag</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned by Tributing 2 &quot;Steelswarm&quot; monsters: Activate 1 of these effects. ● Destroy all monsters on the field, except this card. ● Destroy all Spell and Trap Cards on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Karma Cut
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Discard 1 card to select 1 face-up monster your opponent controls, and remove it from play. Then, remove from play any cards in your opponent's Graveyard with the same name as that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Karma Cut</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Discard 1 card to select 1 face-up monster your opponent controls, and remove it from play. Then, remove from play any cards in your opponent's Graveyard with the same name as that monster.</text>
+</card>

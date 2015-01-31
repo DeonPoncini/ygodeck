@@ -1,14 +1,17 @@
-Chrysalis Pinny
-Monster
-LIGHT
-Effect
-None
-Plant
-2
-100
-700
-0
-0
-None
-None
-You can Tribute this card while "Neo Space" is face-up on the field to Special Summon 1 "Neo-Spacian Glow Moss" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Chrysalis Pinny</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card while &quot;Neo Space&quot; is face-up on the field to Special Summon 1 &quot;Neo-Spacian Glow Moss&quot; from your hand or Deck.</text>
+</card>

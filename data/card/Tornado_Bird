@@ -1,14 +1,17 @@
-Tornado Bird
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1100
-1000
-0
-0
-None
-None
-FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.
+<?xml version="1.0" ?>
+<card>
+    <name>Tornado Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.</text>
+</card>

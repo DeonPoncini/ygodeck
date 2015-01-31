@@ -1,14 +1,17 @@
-Skull Stalker
-Monster
-DARK
-Normal
-None
-Warrior
-3
-900
-800
-0
-0
-None
-None
-Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!
+<?xml version="1.0" ?>
+<card>
+    <name>Skull Stalker</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!</text>
+</card>

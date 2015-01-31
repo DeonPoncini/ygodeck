@@ -1,14 +1,17 @@
-Dark Necrofear
-Monster
-DARK
-Effect
-None
-Fiend
-8
-2200
-2800
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend-Type monsters from your Graveyard. During the End Phase, if this card was destroyed by an opponent's card this turn (either by battle or by card effect) and sent to the Graveyard while it was a Monster Card in your possession: Target 1 face-up monster your opponent controls; equip this card from the Graveyard to that target. While this card is equipped to a monster by this effect, take control of that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Necrofear</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2200</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend-Type monsters from your Graveyard. During the End Phase, if this card was destroyed by an opponent's card this turn (either by battle or by card effect) and sent to the Graveyard while it was a Monster Card in your possession: Target 1 face-up monster your opponent controls; equip this card from the Graveyard to that target. While this card is equipped to a monster by this effect, take control of that monster.</text>
+</card>

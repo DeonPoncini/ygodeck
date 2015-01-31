@@ -1,14 +1,17 @@
-Rider of the Storm Winds
-Monster
-LIGHT
-Tuner
-None
-Dragon
-1
-500
-200
-0
-0
-None
-None
-You can target 1 Dragon-Type Normal Monster you control; equip this monster from your hand or your side of the field to that target. If a monster equipped with this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If a monster equipped with this card would be destroyed, destroy this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Rider of the Storm Winds</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>1</level>
+    <attack>500</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 Dragon-Type Normal Monster you control; equip this monster from your hand or your side of the field to that target. If a monster equipped with this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If a monster equipped with this card would be destroyed, destroy this card instead.</text>
+</card>

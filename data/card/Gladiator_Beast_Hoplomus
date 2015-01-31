@@ -1,14 +1,17 @@
-Gladiator Beast Hoplomus
-Monster
-EARTH
-Effect
-None
-Rock
-4
-700
-2100
-0
-0
-None
-None
-If this card was Special Summoned by the effect of a "Gladiator Beast" monster, its original DEF becomes 2400. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Hoplomus".
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Hoplomus</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>700</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster, its original DEF becomes 2400. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 &quot;Gladiator Beast&quot; monster from your Deck, except &quot;Gladiator Beast Hoplomus&quot;.</text>
+</card>

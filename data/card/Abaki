@@ -1,14 +1,17 @@
-Abaki
-Monster
-FIRE
-Effect
-None
-Fiend
-4
-1700
-1000
-0
-0
-None
-None
-When this card is destroyed and sent to the Graveyard by battle, both players take 500 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Abaki</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed and sent to the Graveyard by battle, both players take 500 damage.</text>
+</card>

@@ -1,14 +1,17 @@
-Battle Warrior
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-700
-1000
-0
-0
-None
-None
-A warrior that fights with his bare hands!!!
+<?xml version="1.0" ?>
+<card>
+    <name>Battle Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A warrior that fights with his bare hands!!!</text>
+</card>

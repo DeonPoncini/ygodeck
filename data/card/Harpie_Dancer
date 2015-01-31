@@ -1,14 +1,17 @@
-Harpie Dancer
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1200
-1000
-0
-0
-None
-None
-You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of "Harpie Dancer" once per turn. This card's name becomes "Harpie Lady" while it is on the field or in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Harpie Dancer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of &quot;Harpie Dancer&quot; once per turn. This card's name becomes &quot;Harpie Lady&quot; while it is on the field or in the Graveyard.</text>
+</card>

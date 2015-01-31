@@ -1,14 +1,17 @@
-Malefic World
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-While this card is face-up on the field, you can activate this effect instead of conducting a normal draw during your Draw Phase. Choose 3 "Malefic" cards from your Deck and have your opponent pick 1 of them at random to add to your hand. Shuffle the rest back into your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Malefic World</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>While this card is face-up on the field, you can activate this effect instead of conducting a normal draw during your Draw Phase. Choose 3 &quot;Malefic&quot; cards from your Deck and have your opponent pick 1 of them at random to add to your hand. Shuffle the rest back into your Deck.</text>
+</card>

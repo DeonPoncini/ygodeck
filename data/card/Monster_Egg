@@ -1,14 +1,17 @@
-Monster Egg
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-600
-900
-0
-0
-None
-None
-A warrior hidden within an egg that attacks enemies by flinging eggshells.
+<?xml version="1.0" ?>
+<card>
+    <name>Monster Egg</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A warrior hidden within an egg that attacks enemies by flinging eggshells.</text>
+</card>

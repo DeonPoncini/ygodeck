@@ -1,14 +1,17 @@
-Madolche Queen Tiaramisu
-Monster
-EARTH
-Xyz
-Effect
-Fairy
-4
-2200
-2100
-0
-0
-None
-None
-2 Level 4 "Madolche" monstersOnce per turn: You can detach 1 Xyz Material from this card, then target up to 2 "Madolche" cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of cards returned.
+<?xml version="1.0" ?>
+<card>
+    <name>Madolche Queen Tiaramisu</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>2200</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 &quot;Madolche&quot; monstersOnce per turn: You can detach 1 Xyz Material from this card, then target up to 2 &quot;Madolche&quot; cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of cards returned.</text>
+</card>

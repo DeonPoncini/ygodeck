@@ -1,14 +1,17 @@
-Thousand-Eyes Restrict
-Monster
-DARK
-Fusion
-Effect
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-Unlimited
+<?xml version="1.0" ?>
+<card>
+    <name>Thousand-Eyes Restrict</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Unlimited</text>
+</card>

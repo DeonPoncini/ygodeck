@@ -1,14 +1,17 @@
-Cybernetic Magician
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-6
-2400
-1000
-0
-0
-None
-None
-You can discard 1 card to target 1 face-up monster on the field; that target's ATK becomes 2000 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Cybernetic Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard 1 card to target 1 face-up monster on the field; that target's ATK becomes 2000 until the End Phase.</text>
+</card>

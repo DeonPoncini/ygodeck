@@ -1,14 +1,17 @@
-Oscillo Hero
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-1250
-700
-0
-0
-None
-None
-A strange warrior from another dimension.
+<?xml version="1.0" ?>
+<card>
+    <name>Oscillo Hero</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1250</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A strange warrior from another dimension.</text>
+</card>

@@ -1,14 +1,17 @@
-Red Dragon Archfiend/Assault Mode
-Monster
-DARK
-Effect
-None
-Dragon
-10
-3500
-2500
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Assault Mode Activate". If this card attacks, destroy all other monsters after damage calculation. When this card on the field is destroyed, you can Special Summon 1 "Red Dragon Archfiend" from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Red Dragon Archfiend/Assault Mode</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>3500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with &quot;Assault Mode Activate&quot;. If this card attacks, destroy all other monsters after damage calculation. When this card on the field is destroyed, you can Special Summon 1 &quot;Red Dragon Archfiend&quot; from your Graveyard.</text>
+</card>

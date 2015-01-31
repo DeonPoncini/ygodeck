@@ -1,14 +1,17 @@
-Spellbook Library of the Heliosphere
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you have 5 or more "Spellbook" Spell Cards in your Graveyard: Excavate the top 2 cards of your Deck, add any excavated "Spellbook" Spell Cards to your hand, also shuffle the other cards into the Deck. You can only activate 1 "Spellbook Library of the Heliosphere" per turn. You cannot activate any Spell Cards the turn you activate this card, except "Spellbook" Spell Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Spellbook Library of the Heliosphere</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you have 5 or more &quot;Spellbook&quot; Spell Cards in your Graveyard: Excavate the top 2 cards of your Deck, add any excavated &quot;Spellbook&quot; Spell Cards to your hand, also shuffle the other cards into the Deck. You can only activate 1 &quot;Spellbook Library of the Heliosphere&quot; per turn. You cannot activate any Spell Cards the turn you activate this card, except &quot;Spellbook&quot; Spell Cards.</text>
+</card>

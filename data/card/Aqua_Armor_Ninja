@@ -1,14 +1,17 @@
-Aqua Armor Ninja
-Monster
-WATER
-Effect
-None
-Warrior
-4
-800
-1600
-0
-0
-None
-None
-When your opponent's monster declares a direct attack, if you have another "Ninja" monster in your Graveyard: You can banish this card from your Graveyard to target the attacking monster; negate that attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Aqua Armor Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent's monster declares a direct attack, if you have another &quot;Ninja&quot; monster in your Graveyard: You can banish this card from your Graveyard to target the attacking monster; negate that attack.</text>
+</card>

@@ -1,14 +1,17 @@
-Assault Spirits
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-After activation, this card becomes an Equip Card and is equipped to 1 monster you control. Once per turn, if the equipped monster attacks, during the Damage Step you can send 1 monster with 1000 or less ATK from your hand to the Graveyard to increase the equipped monster's ATK by the sent monster's ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Assault Spirits</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>After activation, this card becomes an Equip Card and is equipped to 1 monster you control. Once per turn, if the equipped monster attacks, during the Damage Step you can send 1 monster with 1000 or less ATK from your hand to the Graveyard to increase the equipped monster's ATK by the sent monster's ATK until the End Phase.</text>
+</card>

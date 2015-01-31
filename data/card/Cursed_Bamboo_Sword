@@ -1,14 +1,17 @@
-Cursed Bamboo Sword
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-The equipped monster gains 0 ATK. You can target 1 other "Bamboo Sword" card you control; return it to the hand, and if you do, the equipped monster can attack your opponent directly this turn. You can only use this effect of "Cursed Bamboo Sword" once per turn. If this card is sent to the Graveyard: You can add 1 "Bamboo Sword" card from your Deck to your hand, except "Cursed Bamboo Sword".
+<?xml version="1.0" ?>
+<card>
+    <name>Cursed Bamboo Sword</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>The equipped monster gains 0 ATK. You can target 1 other &quot;Bamboo Sword&quot; card you control; return it to the hand, and if you do, the equipped monster can attack your opponent directly this turn. You can only use this effect of &quot;Cursed Bamboo Sword&quot; once per turn. If this card is sent to the Graveyard: You can add 1 &quot;Bamboo Sword&quot; card from your Deck to your hand, except &quot;Cursed Bamboo Sword&quot;.</text>
+</card>

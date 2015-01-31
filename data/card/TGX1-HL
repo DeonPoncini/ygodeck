@@ -1,14 +1,17 @@
-TGX1-HL
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 "T.G." monster you control; its ATK and DEF each become half its current ATK and DEF, and if they do, destroy 1 other Spell/Trap Card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>TGX1-HL</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;T.G.&quot; monster you control; its ATK and DEF each become half its current ATK and DEF, and if they do, destroy 1 other Spell/Trap Card on the field.</text>
+</card>

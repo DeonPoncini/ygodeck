@@ -1,14 +1,17 @@
-Illusionist Faceless Mage
-Monster
-DARK
-Normal
-None
-Spellcaster
-5
-1200
-2200
-0
-0
-None
-None
-Manipulates enemy attacks with the power of illusion.
+<?xml version="1.0" ?>
+<card>
+    <name>Illusionist Faceless Mage</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1200</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Manipulates enemy attacks with the power of illusion.</text>
+</card>

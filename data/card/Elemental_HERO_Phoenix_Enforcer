@@ -1,14 +1,17 @@
-Elemental HERO Phoenix Enforcer
-Monster
-FIRE
-Fusion
-Effect
-Warrior
-6
-2100
-1200
-0
-0
-None
-None
-"Elemental HERO Avian" + "Elemental HERO Burstinatrix"Must be Fusion Summoned and cannot be Special Summoned by other ways. This card cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Phoenix Enforcer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Avian&quot; + &quot;Elemental HERO Burstinatrix&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. This card cannot be destroyed by battle.</text>
+</card>

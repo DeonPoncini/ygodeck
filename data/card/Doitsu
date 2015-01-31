@@ -1,14 +1,17 @@
-Doitsu
-Monster
-EARTH
-Union
-None
-Fairy
-4
-100
-200
-0
-0
-None
-None
-Once per turn, you can equip this card to a "Soitsu" you control, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, that monster gains 2500 ATK. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Doitsu</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can equip this card to a &quot;Soitsu&quot; you control, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, that monster gains 2500 ATK. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)</text>
+</card>

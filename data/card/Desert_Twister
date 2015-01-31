@@ -1,14 +1,17 @@
-Desert Twister
-Monster
-WIND
-Effect
-None
-Fiend
-6
-2300
-2000
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 EARTH and 2 WIND monsters from your Graveyard. Once per turn, you can discard 1 card to destroy 1 Spell or Trap Card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Desert Twister</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 EARTH and 2 WIND monsters from your Graveyard. Once per turn, you can discard 1 card to destroy 1 Spell or Trap Card on the field.</text>
+</card>

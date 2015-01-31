@@ -1,14 +1,17 @@
-Iron Chain Coil
-Monster
-EARTH
-Tuner
-None
-Machine
-3
-1100
-1600
-0
-0
-None
-None
-Once per turn, you can select 1 "Iron Chain" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Iron Chain Coil</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can select 1 &quot;Iron Chain&quot; monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.</text>
+</card>

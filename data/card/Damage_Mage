@@ -1,14 +1,17 @@
-Damage Mage
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-600
-1200
-0
-0
-None
-None
-When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the amount of damage you took.
+<?xml version="1.0" ?>
+<card>
+    <name>Damage Mage</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the amount of damage you took.</text>
+</card>

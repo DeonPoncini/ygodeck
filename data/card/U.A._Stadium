@@ -1,14 +1,17 @@
-U.A. Stadium
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-If a "U.A." monster is Normal Summoned to your side of the field: You can add 1 "U.A." monster from your Deck to your hand. Once per turn, if a "U.A." monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>U.A. Stadium</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>If a &quot;U.A.&quot; monster is Normal Summoned to your side of the field: You can add 1 &quot;U.A.&quot; monster from your Deck to your hand. Once per turn, if a &quot;U.A.&quot; monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK.</text>
+</card>

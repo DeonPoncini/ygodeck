@@ -1,14 +1,17 @@
-Bian, Cosmic Dragon of Earth
-Monster
-EARTH
-Effect
-None
-Wyrm
-3
-1600
-0
-0
-0
-None
-None
-When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 "Yang Zing" monster from your Deck in Defense Position, except "Bi'an, Earth of the Yang Zing". You can only use this effect of "Bi'an, Earth of the Yang Zing" once per turn. Once per turn, during your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only "Yang Zing" monsters you control (this is a Quick Effect). A Synchro Monster that used this card as a Synchro Material cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Bi'an, Earth of the Yang Zing</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Wyrm</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 &quot;Yang Zing&quot; monster from your Deck in Defense Position, except &quot;Bi'an, Earth of the Yang Zing&quot;. You can only use this effect of &quot;Bi'an, Earth of the Yang Zing&quot; once per turn. Once per turn, during your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only &quot;Yang Zing&quot; monsters you control (this is a Quick Effect). A Synchro Monster that used this card as a Synchro Material cannot be destroyed by battle.</text>
+</card>

@@ -1,14 +1,17 @@
-Fire Formation - Yoko
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When you activate this card, you can target 1 face-up card your opponent controls; discard 1 Beast-Warrior-Type monster, and if you do, destroy that card. All Beast-Warrior-Type monsters you control gain 100 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Formation - Yoko</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When you activate this card, you can target 1 face-up card your opponent controls; discard 1 Beast-Warrior-Type monster, and if you do, destroy that card. All Beast-Warrior-Type monsters you control gain 100 ATK.</text>
+</card>

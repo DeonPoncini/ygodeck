@@ -1,14 +1,17 @@
-Survival of the Fittest
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 Dinosaur-Type monster you control; equip this card to that target. It gains 1000 ATK. When it destroys an opponent's monster by battle and sends it to the Graveyard: The equipped monster can make a second attack on an opponent's monster in a row.
+<?xml version="1.0" ?>
+<card>
+    <name>Survival of the Fittest</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 Dinosaur-Type monster you control; equip this card to that target. It gains 1000 ATK. When it destroys an opponent's monster by battle and sends it to the Graveyard: The equipped monster can make a second attack on an opponent's monster in a row.</text>
+</card>

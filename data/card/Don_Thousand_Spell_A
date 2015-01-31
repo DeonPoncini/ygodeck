@@ -1,14 +1,17 @@
-Don Thousand/Spell A
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Printed EffectUp to twice per turn, this card cannot be destroyed by card effects.-I activate "Numeron Network"!-Hidden EffectDuring either player's turn, if you control no other cards: You can send 1 Spell/Trap Card from your hand or Deck to the Graveyard; as this card's effect resolution, follow the sent card's text as if you had used it.
+<?xml version="1.0" ?>
+<card>
+    <name>Don Thousand/Spell A</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Printed EffectUp to twice per turn, this card cannot be destroyed by card effects.-I activate &quot;Numeron Network&quot;!-Hidden EffectDuring either player's turn, if you control no other cards: You can send 1 Spell/Trap Card from your hand or Deck to the Graveyard; as this card's effect resolution, follow the sent card's text as if you had used it.</text>
+</card>

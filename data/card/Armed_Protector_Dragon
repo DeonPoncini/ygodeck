@@ -1,14 +1,17 @@
-Armed Protector Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-8
-2000
-2800
-0
-0
-None
-None
-Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Armed Protector Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2000</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.</text>
+</card>

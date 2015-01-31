@@ -1,14 +1,17 @@
-Vylon Alpha
-Monster
-LIGHT
-Synchro
-Effect
-Machine
-9
-2200
-1100
-0
-0
-None
-None
-1 "Vylon" Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Alpha</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>2200</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Vylon&quot; Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.</text>
+</card>

@@ -1,14 +1,17 @@
-Anti-Spell Fragrance
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Both players must Set Spell Cards before activating them, and cannot activate them until their next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Anti-Spell Fragrance</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Both players must Set Spell Cards before activating them, and cannot activate them until their next turn.</text>
+</card>

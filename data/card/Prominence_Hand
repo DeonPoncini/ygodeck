@@ -1,14 +1,17 @@
-Prominence Hand
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-600
-2000
-0
-0
-None
-None
-If you control a "Magic Hand", "Fire Hand", or "Ice Hand", you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Prominence Hand</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>600</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Magic Hand&quot;, &quot;Fire Hand&quot;, or &quot;Ice Hand&quot;, you can Special Summon this card (from your hand).</text>
+</card>

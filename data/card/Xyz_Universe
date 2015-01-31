@@ -1,14 +1,17 @@
-Xyz Universe
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 2 face-up Xyz Monsters on the field; send both monsters to the Graveyard, then Special Summon 1 Xyz Monster from your Extra Deck, except a "Number" monster, whose Rank is equal to, or 1 less than, the combined original Ranks of those 2 Xyz Monsters, and if you do, attach this card to it as an Xyz Material. If you activated this card, your opponent takes no further damage this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Universe</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 2 face-up Xyz Monsters on the field; send both monsters to the Graveyard, then Special Summon 1 Xyz Monster from your Extra Deck, except a &quot;Number&quot; monster, whose Rank is equal to, or 1 less than, the combined original Ranks of those 2 Xyz Monsters, and if you do, attach this card to it as an Xyz Material. If you activated this card, your opponent takes no further damage this turn.</text>
+</card>

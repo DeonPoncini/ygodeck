@@ -1,14 +1,17 @@
-Dragunity Knight - Barcha
-Monster
-WIND
-Synchro
-Effect
-Dragon
-8
-2000
-1200
-0
-0
-None
-None
-1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monstersWhen this card is Synchro Summoned, you can select any number of Dragon-Type "Dragunity" monsters in your Graveyard, and equip them to this card. This card gains 300 ATK for each "Dragunity" card equipped to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Knight - Barcha</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2000</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monstersWhen this card is Synchro Summoned, you can select any number of Dragon-Type &quot;Dragunity&quot; monsters in your Graveyard, and equip them to this card. This card gains 300 ATK for each &quot;Dragunity&quot; card equipped to this card.</text>
+</card>

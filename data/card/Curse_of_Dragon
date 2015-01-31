@@ -1,14 +1,17 @@
-Curse of Dragon
-Monster
-DARK
-Normal
-None
-Dragon
-5
-2000
-1500
-0
-0
-None
-None
-A wicked dragon that taps into dark forces to execute a powerful attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Curse of Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked dragon that taps into dark forces to execute a powerful attack.</text>
+</card>

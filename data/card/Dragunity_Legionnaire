@@ -1,14 +1,17 @@
-Dragunity Legionnaire
-Monster
-WIND
-Effect
-None
-Winged Beast
-3
-1200
-800
-0
-0
-None
-None
-When this card is Normal Summoned, you can select 1 Level 3 or lower "Dragunity" Dragon-Type monster in your Graveyard, and equip it to this card as an Equip Card. You can send 1 "Dragunity" card from your Spell & Trap Card Zone to the Graveyard to select 1 face-up monster your opponent controls, and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Legionnaire</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can select 1 Level 3 or lower &quot;Dragunity&quot; Dragon-Type monster in your Graveyard, and equip it to this card as an Equip Card. You can send 1 &quot;Dragunity&quot; card from your Spell &amp; Trap Card Zone to the Graveyard to select 1 face-up monster your opponent controls, and destroy it.</text>
+</card>

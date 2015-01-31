@@ -1,14 +1,17 @@
-Yami
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Increase the ATK and DEF of all Fiend and Spellcaster-Type monsters by 200 points. Decrease the ATK and DEF of all Fairy-Type monsters by 200 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Yami</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Increase the ATK and DEF of all Fiend and Spellcaster-Type monsters by 200 points. Decrease the ATK and DEF of all Fairy-Type monsters by 200 points.</text>
+</card>

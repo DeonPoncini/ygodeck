@@ -1,14 +1,17 @@
-Tragedy
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when a monster on your opponent's side of the field in face-up Attack Position is changed to face-up Defense Position. Destroy all Defense Position monsters on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Tragedy</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when a monster on your opponent's side of the field in face-up Attack Position is changed to face-up Defense Position. Destroy all Defense Position monsters on your opponent's side of the field.</text>
+</card>

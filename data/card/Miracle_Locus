@@ -1,14 +1,17 @@
-Miracle Locus
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 face-up Attack Position monster you control; your opponent draws 1 card, also that monster gains 1000 ATK until the end of this turn, and if it does, it can attack up to 2 monsters during each Battle Phase this turn. If it attacks or is attacked this turn, your opponent takes no battle damage from that attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Miracle Locus</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 face-up Attack Position monster you control; your opponent draws 1 card, also that monster gains 1000 ATK until the end of this turn, and if it does, it can attack up to 2 monsters during each Battle Phase this turn. If it attacks or is attacked this turn, your opponent takes no battle damage from that attack.</text>
+</card>

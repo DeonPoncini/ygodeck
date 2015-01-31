@@ -1,14 +1,17 @@
-Nekroz of Unicore
-Monster
-WATER
-Ritual
-Effect
-Spellcaster
-4
-2300
-1000
-0
-0
-None
-None
-You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned, and cannot be Special Summoned by other ways. You can discard this card, then target 1 "Nekroz" card in your Graveyard, except "Nekroz of Unicore"; add it to your hand. You can only use this effect of "Nekroz of Unicore" once per turn. Negate the effects of all face-up monsters on the field that were Special Summoned from the Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Nekroz of Unicore</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>2300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with any &quot;Nekroz&quot; Ritual Spell Card. Must be Ritual Summoned, and cannot be Special Summoned by other ways. You can discard this card, then target 1 &quot;Nekroz&quot; card in your Graveyard, except &quot;Nekroz of Unicore&quot;; add it to your hand. You can only use this effect of &quot;Nekroz of Unicore&quot; once per turn. Negate the effects of all face-up monsters on the field that were Special Summoned from the Extra Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Great Old One Chthugha
-Monster
-FIRE
-Synchro
-Effect
-Pyro
-4
-2200
-200
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: You can return all Rank 4 Xyz Monsters on the field to the Extra Deck. If this card is used as a Fusion Material for a Fusion Summon: Draw 1 card. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.● If it is Xyz Summoned: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Great Old One Chthugha</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>2200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersIf this card is Synchro Summoned: You can return all Rank 4 Xyz Monsters on the field to the Extra Deck. If this card is used as a Fusion Material for a Fusion Summon: Draw 1 card. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.● If it is Xyz Summoned: Draw 1 card.</text>
+</card>

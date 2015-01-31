@@ -1,14 +1,17 @@
-Ambulance Rescueroid
-Monster
-FIRE
-Fusion
-Effect
-Machine
-6
-2300
-1800
-0
-0
-None
-None
-"Rescueroid" + "Ambulanceroid"This monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ambulance Rescueroid</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Rescueroid&quot; + &quot;Ambulanceroid&quot;This monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position.</text>
+</card>

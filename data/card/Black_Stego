@@ -1,14 +1,17 @@
-Black Stego
-Monster
-EARTH
-Effect
-None
-Dinosaur
-4
-1200
-2000
-0
-0
-None
-None
-If this face-up Attack Position card is targeted for an attack: Change this card to Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Stego</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-up Attack Position card is targeted for an attack: Change this card to Defense Position.</text>
+</card>

@@ -1,14 +1,17 @@
-Hushed Psychic Cleric
-Monster
-EARTH
-Effect
-None
-Psychic
-3
-0
-2100
-0
-0
-None
-None
-When this card is Normal or Flip Summoned, it is changed to Defense Position. Once per turn, you can send 1 card from your hand to the Graveyard to select 1 Psychic-Type monster in your Graveyard, and remove it from play. When this card is sent from the field to the Graveyard, select 1 monster removed from play by this effect, and Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Hushed Psychic Cleric</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Flip Summoned, it is changed to Defense Position. Once per turn, you can send 1 card from your hand to the Graveyard to select 1 Psychic-Type monster in your Graveyard, and remove it from play. When this card is sent from the field to the Graveyard, select 1 monster removed from play by this effect, and Special Summon it.</text>
+</card>

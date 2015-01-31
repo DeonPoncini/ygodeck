@@ -1,14 +1,17 @@
-Twilight Rose Knight
-Monster
-DARK
-Tuner
-Effect
-Warrior
-3
-1000
-1000
-0
-0
-None
-None
-Your opponent cannot target Plant-Type monsters for attacks. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Plant-Type monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Twilight Rose Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot target Plant-Type monsters for attacks. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Plant-Type monster from your hand.</text>
+</card>

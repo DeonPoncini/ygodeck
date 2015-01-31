@@ -1,14 +1,17 @@
-Elemental HERO Divine Neos
-Monster
-LIGHT
-Fusion
-Effect
-Warrior
-12
-2500
-2500
-0
-0
-None
-None
-Must be Fusion Summoned using any 5 "Neos", "Neo Space", "Neo-Spacian", or "HERO" monsters, including at least 1 "Neos" or "Neo Space" monster, 1 "Neo-Spacian" monster, and 1 "HERO" monster, and cannot be Special Summoned by other ways. Once per turn: You can banish 1 "Neos", "Neo Space", "Neo-Spacian", or "HERO" monster from your Graveyard; this card gains 500 ATK, and until the End Phase it also gains the banished monster's effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Divine Neos</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>12</level>
+    <attack>2500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Must be Fusion Summoned using any 5 &quot;Neos&quot;, &quot;Neo Space&quot;, &quot;Neo-Spacian&quot;, or &quot;HERO&quot; monsters, including at least 1 &quot;Neos&quot; or &quot;Neo Space&quot; monster, 1 &quot;Neo-Spacian&quot; monster, and 1 &quot;HERO&quot; monster, and cannot be Special Summoned by other ways. Once per turn: You can banish 1 &quot;Neos&quot;, &quot;Neo Space&quot;, &quot;Neo-Spacian&quot;, or &quot;HERO&quot; monster from your Graveyard; this card gains 500 ATK, and until the End Phase it also gains the banished monster's effects.</text>
+</card>

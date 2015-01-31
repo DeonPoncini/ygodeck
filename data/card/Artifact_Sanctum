@@ -1,14 +1,17 @@
-Artifact Sanctum
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Special Summon 1 "Artifact" monster from your Deck. You can only activate 1 "Artifact Sanctum" per turn. You cannot conduct your Battle Phase the turn you activate this card. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Artifact Sanctum</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Special Summon 1 &quot;Artifact&quot; monster from your Deck. You can only activate 1 &quot;Artifact Sanctum&quot; per turn. You cannot conduct your Battle Phase the turn you activate this card. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 card on the field; destroy that target.</text>
+</card>

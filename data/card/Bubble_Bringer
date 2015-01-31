@@ -1,14 +1,17 @@
-Bubble Bringer
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Level 4 or higher monsters cannot attack directly. During your turn: You can send this face-up card from the field to the Graveyard to target 2 Level 3 or lower WATER monsters with the same name in your Graveyard; Special Summon those targets. Their effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Bubble Bringer</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Level 4 or higher monsters cannot attack directly. During your turn: You can send this face-up card from the field to the Graveyard to target 2 Level 3 or lower WATER monsters with the same name in your Graveyard; Special Summon those targets. Their effects are negated.</text>
+</card>

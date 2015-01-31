@@ -1,14 +1,17 @@
-Condemned Maiden
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-100
-2000
-0
-0
-None
-None
-During your opponent's turn, you can activate 1 Quick-Play Spell Card from your hand. You can only use this effect of "Condemned Maiden" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Condemned Maiden</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your opponent's turn, you can activate 1 Quick-Play Spell Card from your hand. You can only use this effect of &quot;Condemned Maiden&quot; once per Duel.</text>
+</card>

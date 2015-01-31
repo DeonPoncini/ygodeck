@@ -1,14 +1,17 @@
-Mecha Phantom Beast Token (Dracossack)
-Monster
-WIND
-Token
-None
-Machine
-3
-0
-0
-0
-0
-None
-None
-This card can be used as any "Mecha Phantom Beast Token".※If you use a Token other than "Mecha Phantom Beast Token", apply that Token's Type/Attribute/Level/ATK/DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Token</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used as any &quot;Mecha Phantom Beast Token&quot;.※If you use a Token other than &quot;Mecha Phantom Beast Token&quot;, apply that Token's Type/Attribute/Level/ATK/DEF.</text>
+</card>

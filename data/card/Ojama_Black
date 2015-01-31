@@ -1,14 +1,17 @@
-Ojama Black
-Monster
-LIGHT
-Normal
-None
-Beast
-2
-0
-1000
-0
-0
-None
-None
-He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.
+<?xml version="1.0" ?>
+<card>
+    <name>Ojama Black</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.</text>
+</card>

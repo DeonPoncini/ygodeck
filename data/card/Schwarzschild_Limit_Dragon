@@ -1,14 +1,17 @@
-Schwarzschild Limit Dragon
-Monster
-DARK
-Effect
-None
-Dragon
-8
-2000
-0
-0
-0
-None
-None
-If your opponent controls a monster with 2000 or more ATK, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Schwarzschild Limit Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster with 2000 or more ATK, you can Special Summon this card (from your hand).</text>
+</card>

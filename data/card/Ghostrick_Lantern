@@ -1,14 +1,17 @@
-Ghostrick Lantern
-Monster
-DARK
-Effect
-None
-Fiend
-1
-800
-0
-0
-0
-None
-None
-Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When an opponent's monster declares a direct attack, or when a "Ghostrick" monster you control is targeted for an attack: You can negate the attack, and if you do, Special Summon this card from your hand in face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Lantern</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned, unless you control a &quot;Ghostrick&quot; monster. Once per turn: You can change this card to face-down Defense Position. When an opponent's monster declares a direct attack, or when a &quot;Ghostrick&quot; monster you control is targeted for an attack: You can negate the attack, and if you do, Special Summon this card from your hand in face-down Defense Position.</text>
+</card>

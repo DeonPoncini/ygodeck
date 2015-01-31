@@ -1,14 +1,17 @@
-Darkness/Spell A
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Printed EffectOnce per turn, this card cannot be destroyed by card effects. When this card is activated, Set 1 "Darkness/Trap A", "Darkness/Trap B", "Darkness/Trap C", "Darkness/Trap D" and "Darkness/Trap E" directly from your hand or Deck. The activation and effect of Continuous Trap Cards you control cannot be negated.-I activate "Darkness"!-Hidden EffectOnce per turn: You can return all other Spell/Trap Cards on the field to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Darkness/Spell A</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Printed EffectOnce per turn, this card cannot be destroyed by card effects. When this card is activated, Set 1 &quot;Darkness/Trap A&quot;, &quot;Darkness/Trap B&quot;, &quot;Darkness/Trap C&quot;, &quot;Darkness/Trap D&quot; and &quot;Darkness/Trap E&quot; directly from your hand or Deck. The activation and effect of Continuous Trap Cards you control cannot be negated.-I activate &quot;Darkness&quot;!-Hidden EffectOnce per turn: You can return all other Spell/Trap Cards on the field to the hand.</text>
+</card>

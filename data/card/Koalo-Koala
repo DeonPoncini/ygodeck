@@ -1,14 +1,17 @@
-Koalo-Koala
-Monster
-EARTH
-Fusion
-Effect
-Beast
-6
-2800
-200
-0
-0
-None
-None
-"Sea Koala" + "Tree Otter" You can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Koalo-Koala</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Sea Koala&quot; + &quot;Tree Otter&quot; You can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.</text>
+</card>

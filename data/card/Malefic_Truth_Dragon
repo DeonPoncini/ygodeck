@@ -1,14 +1,17 @@
-Malefic Truth Dragon
-Monster
-DARK
-Effect
-None
-Dragon
-12
-5000
-5000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a "Malefic" monster you control, except "Malefic Truth Dragon", is destroyed by battle or by card effect: You can pay half your Life Points; Special Summon this card from your hand or Graveyard. There can only be 1 "Malefic" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent's monster by battle: Destroy all face-up monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Malefic Truth Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>12</level>
+    <attack>5000</attack>
+    <defense>5000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a &quot;Malefic&quot; monster you control, except &quot;Malefic Truth Dragon&quot;, is destroyed by battle or by card effect: You can pay half your Life Points; Special Summon this card from your hand or Graveyard. There can only be 1 &quot;Malefic&quot; monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent's monster by battle: Destroy all face-up monsters your opponent controls.</text>
+</card>

@@ -1,14 +1,17 @@
-Tasuke Knight
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1700
-100
-0
-0
-None
-None
-When an opponent's monster declares an attack, while you have no cards in your hand and this card is in your Graveyard: You can Special Summon this card from your Graveyard, then end the Battle Phase. You can only use this effect of "Tasuke Knight" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Tasuke Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When an opponent's monster declares an attack, while you have no cards in your hand and this card is in your Graveyard: You can Special Summon this card from your Graveyard, then end the Battle Phase. You can only use this effect of &quot;Tasuke Knight&quot; once per Duel.</text>
+</card>

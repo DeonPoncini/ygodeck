@@ -1,14 +1,17 @@
-Noble Knight Peredur
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1900
-300
-0
-0
-None
-None
-While equipped with a "Noble Arms" Equip Spell Card, this card becomes DARK and its Level is increased by 1. If this card is sent to the Graveyard while equipped with a "Noble Arms" Equip Spell Card: Target 1 "Noble Arms" card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knight Peredur</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While equipped with a &quot;Noble Arms&quot; Equip Spell Card, this card becomes DARK and its Level is increased by 1. If this card is sent to the Graveyard while equipped with a &quot;Noble Arms&quot; Equip Spell Card: Target 1 &quot;Noble Arms&quot; card in your Graveyard; add that target to your hand.</text>
+</card>

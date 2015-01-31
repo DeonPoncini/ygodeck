@@ -1,14 +1,17 @@
-Last Minute Cancel
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an opponent's monster declares an attack while you control an Attack Position monster(s): Change all monsters you control to Defense Position. Until the end of this turn, after this card is activated, return any face-up "Performapal" monster you control that is destroyed by battle or card effect to the hand instead of sending it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Last Minute Cancel</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an opponent's monster declares an attack while you control an Attack Position monster(s): Change all monsters you control to Defense Position. Until the end of this turn, after this card is activated, return any face-up &quot;Performapal&quot; monster you control that is destroyed by battle or card effect to the hand instead of sending it to the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Overmind Archfiend
-Monster
-DARK
-Synchro
-Effect
-Psychic
-9
-3300
-3000
-0
-0
-None
-None
-1 Psychic-Type Tuner + 2 or more non-Tuner Psychic-Type monstersOnce per turn, you can select 1 Psychic-Type monster in your Graveyard, and remove it from play. When this card is sent from the field to the Graveyard, Special Summon as many monsters as possible that were removed from play by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Overmind Archfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>9</level>
+    <attack>3300</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Psychic-Type Tuner + 2 or more non-Tuner Psychic-Type monstersOnce per turn, you can select 1 Psychic-Type monster in your Graveyard, and remove it from play. When this card is sent from the field to the Graveyard, Special Summon as many monsters as possible that were removed from play by this effect.</text>
+</card>

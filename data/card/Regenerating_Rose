@@ -1,14 +1,17 @@
-Regenerating Rose
-Monster
-DARK
-Effect
-None
-Plant
-7
-0
-1500
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 2 "Regenerating Rose Tokens" (Plant-Type/DARK/Level 3/ATK 1200/DEF 1200).
+<?xml version="1.0" ?>
+<card>
+    <name>Regenerating Rose</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>7</level>
+    <attack>0</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 2 &quot;Regenerating Rose Tokens&quot; (Plant-Type/DARK/Level 3/ATK 1200/DEF 1200).</text>
+</card>

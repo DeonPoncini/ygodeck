@@ -1,14 +1,17 @@
-The Golden Apples
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 "Malus Token" (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of LP you gained by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>The Golden Apples</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 &quot;Malus Token&quot; (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of LP you gained by this effect.</text>
+</card>

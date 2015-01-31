@@ -1,14 +1,17 @@
-Koa'ki Meiru Overload
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1900
-1200
-0
-0
-None
-None
-During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Rock-Type monster in your hand. During either player's turn, when your opponent would Summon a monster(s): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Overload</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your End Phases, destroy this card unless you send 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the Graveyard or reveal 1 Rock-Type monster in your hand. During either player's turn, when your opponent would Summon a monster(s): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s).</text>
+</card>

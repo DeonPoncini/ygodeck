@@ -1,14 +1,17 @@
-Sky Dragon
-Monster
-WIND
-Normal
-None
-Dragon
-6
-1900
-1800
-0
-0
-None
-None
-A flying dragon with four wings housing some very dangerous blades.
+<?xml version="1.0" ?>
+<card>
+    <name>Sky Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>1900</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A flying dragon with four wings housing some very dangerous blades.</text>
+</card>

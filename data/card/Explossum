@@ -1,14 +1,17 @@
-Explossum
-Monster
-EARTH
-Effect
-None
-Beast
-1
-100
-100
-0
-0
-None
-None
-You can target 1 face-up Xyz Monster your opponent controls; equip this monster from your hand or your side of the field to that target. If a monster equipped with this card by this effect has no Xyz Materials, destroy that monster. While this card is equipped to a monster, during each of your opponent's Standby Phases: Detach 1 Xyz Material from the equipped monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Explossum</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 face-up Xyz Monster your opponent controls; equip this monster from your hand or your side of the field to that target. If a monster equipped with this card by this effect has no Xyz Materials, destroy that monster. While this card is equipped to a monster, during each of your opponent's Standby Phases: Detach 1 Xyz Material from the equipped monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Boar
-Monster
-FIRE
-Tuner
-Effect
-Beast-Warrior
-4
-1100
-1400
-0
-0
-None
-None
-Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a FIRE monster. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 "Fire Fist" monster from your Deck, except "Brotherhood of the Fire Fist - Boar". Once per turn, when a "Fire Fist" monster is Special Summoned from your Extra Deck: You can Set 1 "Fire Formation" Spell Card directly from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Boar</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a FIRE monster. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 &quot;Fire Fist&quot; monster from your Deck, except &quot;Brotherhood of the Fire Fist - Boar&quot;. Once per turn, when a &quot;Fire Fist&quot; monster is Special Summoned from your Extra Deck: You can Set 1 &quot;Fire Formation&quot; Spell Card directly from your Deck.</text>
+</card>

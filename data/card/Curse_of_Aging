@@ -1,14 +1,17 @@
-Curse of Aging
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Discard 1 card from your hand. Decrease the ATK and DEF of all monsters on your opponent's side of the field by 500 points until the end of the turn this card is activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Curse of Aging</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Discard 1 card from your hand. Decrease the ATK and DEF of all monsters on your opponent's side of the field by 500 points until the end of the turn this card is activated.</text>
+</card>

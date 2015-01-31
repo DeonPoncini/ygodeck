@@ -1,14 +1,17 @@
-Flame Cerebrus
-Monster
-FIRE
-Normal
-None
-Pyro
-6
-2100
-1800
-0
-0
-None
-None
-Known to many as the "Burning Executioner", this monster is capable of burning enemies to cinders.
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Cerebrus</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Known to many as the &quot;Burning Executioner&quot;, this monster is capable of burning enemies to cinders.</text>
+</card>

@@ -1,14 +1,17 @@
-Gladiator Beast Lanista
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1800
-1200
-0
-0
-None
-None
-When this card is Special Summoned by the effect of a "Gladiator Beast" monster: Target 1 "Gladiator Beast" monster from your Graveyard; banish that target, and this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle this card into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Lanista".
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Lanista</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster: Target 1 &quot;Gladiator Beast&quot; monster from your Graveyard; banish that target, and this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle this card into the Deck; Special Summon 1 &quot;Gladiator Beast&quot; monster from your Deck, except &quot;Gladiator Beast Lanista&quot;.</text>
+</card>

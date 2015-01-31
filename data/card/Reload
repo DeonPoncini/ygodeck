@@ -1,14 +1,17 @@
-Reload
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Add all the cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Reload</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Add all the cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.</text>
+</card>

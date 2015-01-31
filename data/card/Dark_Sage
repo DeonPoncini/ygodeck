@@ -1,14 +1,17 @@
-Dark Sage
-Monster
-DARK
-Effect
-None
-Spellcaster
-9
-2800
-3200
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 "Dark Magician" immediately after applying the effect of "Time Wizard" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Sage</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>9</level>
+    <attack>2800</attack>
+    <defense>3200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 &quot;Dark Magician&quot; immediately after applying the effect of &quot;Time Wizard&quot; in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.</text>
+</card>

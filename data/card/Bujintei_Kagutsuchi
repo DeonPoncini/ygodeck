@@ -1,14 +1,17 @@
-Bujintei Kagutsuchi
-Monster
-LIGHT
-Xyz
-Effect
-Beast-Warrior
-4
-2500
-2000
-0
-0
-None
-None
-2 Level 4 Beast-Warrior-Type monstersWhen this card is Xyz Summoned: Send the top 5 cards of your Deck to the Graveyard (or your entire Deck, if less than 5), also this card gains 100 ATK for each "Bujin" card sent to the Graveyard by this effect. If a "Bujin" Beast-Warrior-Type monster(s) you control would be destroyed by battle or by card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. You can only control 1 "Bujintei Kagutsuchi".
+<?xml version="1.0" ?>
+<card>
+    <name>Bujintei Kagutsuchi</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 Beast-Warrior-Type monstersWhen this card is Xyz Summoned: Send the top 5 cards of your Deck to the Graveyard (or your entire Deck, if less than 5), also this card gains 100 ATK for each &quot;Bujin&quot; card sent to the Graveyard by this effect. If a &quot;Bujin&quot; Beast-Warrior-Type monster(s) you control would be destroyed by battle or by card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. You can only control 1 &quot;Bujintei Kagutsuchi&quot;.</text>
+</card>

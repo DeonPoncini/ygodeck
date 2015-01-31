@@ -1,14 +1,17 @@
-Sword Breaker
-Monster
-EARTH
-Xyz
-Effect
-Warrior
-6
-2700
-1000
-0
-0
-None
-None
-2 Level 6 monstersOnce per turn: You can detach 1 Xyz Material from this card to declare 1 Monster Type; this card gains the following effect. At the start of the Damage Step, if this card battles a monster of a Type that has been declared: Destroy that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Sword Breaker</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 6 monstersOnce per turn: You can detach 1 Xyz Material from this card to declare 1 Monster Type; this card gains the following effect. At the start of the Damage Step, if this card battles a monster of a Type that has been declared: Destroy that monster.</text>
+</card>

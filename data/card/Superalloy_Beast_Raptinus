@@ -1,14 +1,17 @@
-Superalloy Beast Raptinus
-Monster
-LIGHT
-Fusion
-Effect
-Dragon
-8
-2200
-2200
-0
-0
-None
-None
-1 Gemini Monster + 1 Gemini MonsterAll face-up Gemini Monsters on the field are treated as Effect Monsters, and gain their effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Superalloy Beast Raptinus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2200</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Gemini Monster + 1 Gemini MonsterAll face-up Gemini Monsters on the field are treated as Effect Monsters, and gain their effects.</text>
+</card>

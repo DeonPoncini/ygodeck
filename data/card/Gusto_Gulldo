@@ -1,14 +1,17 @@
-Gusto Gulldo
-Monster
-WIND
-Tuner
-None
-Winged Beast
-3
-500
-500
-0
-0
-None
-None
-When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 2 or lower "Gusto" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Gusto Gulldo</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 2 or lower &quot;Gusto&quot; monster from your Deck.</text>
+</card>

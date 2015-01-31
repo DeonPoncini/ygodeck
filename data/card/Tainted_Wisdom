@@ -1,14 +1,17 @@
-Tainted Wisdom
-Monster
-DARK
-Effect
-None
-Fiend
-3
-1250
-800
-0
-0
-None
-None
-When this card is changed from Attack Position to Defense Position, shuffle your own Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Tainted Wisdom</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1250</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is changed from Attack Position to Defense Position, shuffle your own Deck.</text>
+</card>

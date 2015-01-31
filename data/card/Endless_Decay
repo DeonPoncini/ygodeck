@@ -1,14 +1,17 @@
-Endless Decay
-Monster
-DARK
-Effect
-None
-Zombie
-5
-?
-0
-0
-0
-None
-None
-If you have 2000 Life Points or less, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: This card's ATK becomes half the opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Endless Decay</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>5</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you have 2000 Life Points or less, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: This card's ATK becomes half the opponent's Life Points.</text>
+</card>

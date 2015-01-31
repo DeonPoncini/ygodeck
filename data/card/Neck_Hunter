@@ -1,14 +1,17 @@
-Neck Hunter
-Monster
-DARK
-Normal
-None
-Fiend
-6
-1750
-1900
-0
-0
-None
-None
-A fiend that wields a mean sickle and fires devastating beams from its eyes.
+<?xml version="1.0" ?>
+<card>
+    <name>Neck Hunter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>1750</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fiend that wields a mean sickle and fires devastating beams from its eyes.</text>
+</card>

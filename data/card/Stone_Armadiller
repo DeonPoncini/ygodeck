@@ -1,14 +1,17 @@
-Stone Armadiller
-Monster
-EARTH
-Normal
-None
-Rock
-3
-800
-1200
-0
-0
-None
-None
-Dis stone crittah's got rock-hahd fur. Dat gives him some really good dee-fense!
+<?xml version="1.0" ?>
+<card>
+    <name>Stone Armadiller</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Dis stone crittah's got rock-hahd fur. Dat gives him some really good dee-fense!</text>
+</card>

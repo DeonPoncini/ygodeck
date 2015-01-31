@@ -1,14 +1,17 @@
-Pegasus/Spell C
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Take control of 1 monster your opponent controls. It gains this effect.● If you control a "Pegasus/Spell A", this card can attack your opponent directly.-I activate "Comic Hand"!-
+<?xml version="1.0" ?>
+<card>
+    <name>Pegasus/Spell C</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Take control of 1 monster your opponent controls. It gains this effect.● If you control a &quot;Pegasus/Spell A&quot;, this card can attack your opponent directly.-I activate &quot;Comic Hand&quot;!-</text>
+</card>

@@ -1,14 +1,17 @@
-Hoshiningen
-Monster
-LIGHT
-Effect
-None
-Fairy
-2
-500
-700
-0
-0
-None
-None
-As long as this card remains face-up on the field, increase the ATK of all LIGHT monsters by 500 points and decrease the ATK of all DARK monsters by 400 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Hoshiningen</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on the field, increase the ATK of all LIGHT monsters by 500 points and decrease the ATK of all DARK monsters by 400 points.</text>
+</card>

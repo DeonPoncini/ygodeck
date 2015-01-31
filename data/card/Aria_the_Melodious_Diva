@@ -1,14 +1,17 @@
-Aria the Melodious Diva
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1600
-1200
-0
-0
-None
-None
-While this Special Summoned card is on the field, "Melodious" monsters you control cannot be targeted by card effects, or be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Aria the Melodious Diva</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this Special Summoned card is on the field, &quot;Melodious&quot; monsters you control cannot be targeted by card effects, or be destroyed by battle.</text>
+</card>

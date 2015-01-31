@@ -1,14 +1,17 @@
-Lightning Punisher
-Monster
-DARK
-Effect
-None
-Thunder
-7
-2600
-1600
-0
-0
-None
-None
-After a Chain with 3 or more Links resolves, destroy 1 card on your opponent's side of the field. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.
+<?xml version="1.0" ?>
+<card>
+    <name>Lightning Punisher</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After a Chain with 3 or more Links resolves, destroy 1 card on your opponent's side of the field. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.</text>
+</card>

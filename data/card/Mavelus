@@ -1,14 +1,17 @@
-Mavelus
-Monster
-WIND
-Fusion
-None
-Winged Beast
-4
-1300
-900
-0
-0
-None
-None
-"Tyhone" + "Wings of Wicked Flame"
+<?xml version="1.0" ?>
+<card>
+    <name>Mavelus</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Tyhone&quot; + &quot;Wings of Wicked Flame&quot;</text>
+</card>

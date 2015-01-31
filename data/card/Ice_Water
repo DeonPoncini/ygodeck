@@ -1,14 +1,17 @@
-Ice Water
-Monster
-WATER
-Normal
-None
-Aqua
-3
-1150
-900
-0
-0
-None
-None
-A very aggressive mermaid that attacks enemies with the spikes growing from its body.
+<?xml version="1.0" ?>
+<card>
+    <name>Ice Water</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1150</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A very aggressive mermaid that attacks enemies with the spikes growing from its body.</text>
+</card>

@@ -1,14 +1,17 @@
-Javelin Beetle Pact
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card is used to Ritual Summon "Javelin Beetle". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.
+<?xml version="1.0" ?>
+<card>
+    <name>Javelin Beetle Pact</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card is used to Ritual Summon &quot;Javelin Beetle&quot;. You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.</text>
+</card>

@@ -1,14 +1,17 @@
-Fiend Comedian
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Toss a coin and call it. If you call it right, all of your opponent's cards in the Graveyard are removed from play immediately. If you call it wrong, send a number of cards equal to the number of cards in your opponent's Graveyard from your Deck to your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend Comedian</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Toss a coin and call it. If you call it right, all of your opponent's cards in the Graveyard are removed from play immediately. If you call it wrong, send a number of cards equal to the number of cards in your opponent's Graveyard from your Deck to your Graveyard.</text>
+</card>

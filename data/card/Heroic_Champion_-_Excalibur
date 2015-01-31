@@ -1,14 +1,17 @@
-Heroic Champion - Excalibur
-Monster
-LIGHT
-Xyz
-Effect
-Warrior
-4
-2000
-2000
-0
-0
-None
-None
-2 Level 4 Warrior-Type monstersOnce per turn: You can detach 2 Xyz Materials from this card; this card's ATK becomes double its original ATK until your opponent's next End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Heroic Champion - Excalibur</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 Warrior-Type monstersOnce per turn: You can detach 2 Xyz Materials from this card; this card's ATK becomes double its original ATK until your opponent's next End Phase.</text>
+</card>

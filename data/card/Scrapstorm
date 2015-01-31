@@ -1,14 +1,17 @@
-Scrapstorm
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Target 1 "Scrap" monster you control; send 1 "Scrap" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrapstorm</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Scrap&quot; monster you control; send 1 &quot;Scrap&quot; monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Cyber Blader
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-7
-2100
-800
-0
-0
-None
-None
-"Etoile Cyber" + "Blade Skater"A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While your opponent controls only 1 monster, this card cannot be destroyed by battle. While your opponent controls only 2 monsters, double this card's ATK. While your opponent controls only 3 monsters, negate the effects of your opponent's Spell, Trap, and Effect Monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Blader</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Etoile Cyber&quot; + &quot;Blade Skater&quot;A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While your opponent controls only 1 monster, this card cannot be destroyed by battle. While your opponent controls only 2 monsters, double this card's ATK. While your opponent controls only 3 monsters, negate the effects of your opponent's Spell, Trap, and Effect Monsters.</text>
+</card>

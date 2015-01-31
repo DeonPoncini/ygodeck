@@ -1,14 +1,17 @@
-Acid Crawler
-Monster
-EARTH
-Normal
-None
-Insect
-3
-900
-700
-0
-0
-None
-None
-A giant caterpillar that secretes an acid mist that melts anything.
+<?xml version="1.0" ?>
+<card>
+    <name>Acid Crawler</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A giant caterpillar that secretes an acid mist that melts anything.</text>
+</card>

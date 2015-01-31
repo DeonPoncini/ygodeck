@@ -1,14 +1,17 @@
-Watch Dog
-Monster
-FIRE
-Effect
-None
-Pyro
-1
-0
-0
-0
-0
-None
-None
-During your Main Phase 2, if this card was Normal Summoned this turn: You can send 1 Spell Card from your hand to the Graveyard; Set 1 Continuous Spell Card directly from your Deck. You can only use this effect of "Watch Dog" once per turn. You cannot Special Summon during the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Watch Dog</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase 2, if this card was Normal Summoned this turn: You can send 1 Spell Card from your hand to the Graveyard; Set 1 Continuous Spell Card directly from your Deck. You can only use this effect of &quot;Watch Dog&quot; once per turn. You cannot Special Summon during the turn you activate this effect.</text>
+</card>

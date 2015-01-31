@@ -1,14 +1,17 @@
-Inferno Hammer
-Monster
-DARK
-Effect
-None
-Fiend
-6
-2400
-0
-0
-0
-None
-None
-When this card destroys your opponent's monster and sends it to the Graveyard as a result of battle, you can select 1 face-up monster on your opponent's side of the field, and flip it into face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Inferno Hammer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys your opponent's monster and sends it to the Graveyard as a result of battle, you can select 1 face-up monster on your opponent's side of the field, and flip it into face-down Defense Position.</text>
+</card>

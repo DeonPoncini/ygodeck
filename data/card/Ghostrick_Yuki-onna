@@ -1,14 +1,17 @@
-Ghostrick Yuki-onna
-Monster
-DARK
-Effect
-None
-Spellcaster
-2
-1000
-800
-0
-0
-None
-None
-Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When this card is destroyed by battle and sent to the Graveyard: You can change the monster that destroyed it to face-down Defense Position, and if you do, it cannot change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Yuki-onna</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned, unless you control a &quot;Ghostrick&quot; monster. Once per turn: You can change this card to face-down Defense Position. When this card is destroyed by battle and sent to the Graveyard: You can change the monster that destroyed it to face-down Defense Position, and if you do, it cannot change its battle position.</text>
+</card>

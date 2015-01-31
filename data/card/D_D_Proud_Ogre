@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<card>
+    <name>D/D Proud Ogre</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1500</defense>
+    <lpendulum>8</lpendulum>
+    <rpendulum>8</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ Once per turn: You can pay 500 LP, then target 1 &quot;D/D&quot; monster you control; it gains 500 ATK. Unless you have a &quot;D/D&quot; card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.
+
+ Monster Effect
+ When this card is Normal Summoned: You can Special Summon 1 face-up DARK Pendulum Monster from your Extra Deck, but its effects are negated. If you activated this effect, you cannot Special Summon monsters for the rest of this turn, except &quot;D/D&quot; monsters.</text>
+</card>

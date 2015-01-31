@@ -1,14 +1,17 @@
-Anthrosaurus
-Monster
-EARTH
-Normal
-None
-Dinosaur
-3
-1000
-850
-0
-0
-None
-None
-Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)
+<?xml version="1.0" ?>
+<card>
+    <name>Anthrosaurus</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>850</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)</text>
+</card>

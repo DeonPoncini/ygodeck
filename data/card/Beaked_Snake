@@ -1,14 +1,17 @@
-Beaked Snake
-Monster
-EARTH
-Normal
-None
-Reptile
-3
-800
-900
-0
-0
-None
-None
-This monster wraps itself around an opponent and pecks away with its huge beak.
+<?xml version="1.0" ?>
+<card>
+    <name>Beaked Snake</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster wraps itself around an opponent and pecks away with its huge beak.</text>
+</card>

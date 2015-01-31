@@ -1,14 +1,17 @@
-Shark Caesar
-Monster
-WATER
-Xyz
-Effect
-Fish
-3
-1800
-2000
-0
-0
-None
-None
-3 or more (max. 5) Level 3 monstersOnce per turn: You can detach 1 Xyz Material from this card; place 1 Shark Counter on this card. If this card attacks or is attacked, it gains 1000 ATK for each Shark Counter on it, during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Shark Caesar</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>1800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 or more (max. 5) Level 3 monstersOnce per turn: You can detach 1 Xyz Material from this card; place 1 Shark Counter on this card. If this card attacks or is attacked, it gains 1000 ATK for each Shark Counter on it, during the Damage Step only.</text>
+</card>

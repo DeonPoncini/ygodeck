@@ -1,14 +1,17 @@
-Boo Koo
-Monster
-DARK
-Normal
-None
-Spellcaster
-2
-650
-500
-0
-0
-None
-None
-A book-like wizard with a wealth of magic written inside.
+<?xml version="1.0" ?>
+<card>
+    <name>Boo Koo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>650</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A book-like wizard with a wealth of magic written inside.</text>
+</card>

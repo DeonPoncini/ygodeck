@@ -1,14 +1,17 @@
-Treaty on Uniform Nomenclature
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control 2 or more face-up monsters with the same name, except Tokens: Apply this effect, depending on how many you control.● Exactly 2: Destroy 1 Spell/Trap Card your opponent controls.● Exactly 3: Destroy all Spell/Trap Cards your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Treaty on Uniform Nomenclature</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control 2 or more face-up monsters with the same name, except Tokens: Apply this effect, depending on how many you control.● Exactly 2: Destroy 1 Spell/Trap Card your opponent controls.● Exactly 3: Destroy all Spell/Trap Cards your opponent controls.</text>
+</card>

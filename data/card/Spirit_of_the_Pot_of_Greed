@@ -1,14 +1,17 @@
-Spirit of the Pot of Greed
-Monster
-LIGHT
-Effect
-None
-Fairy
-1
-100
-100
-0
-0
-None
-None
-While this card is in face-up Attack Position on the field, if a player activates "Pot of Greed", they can draw 1 more card.
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit of the Pot of Greed</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is in face-up Attack Position on the field, if a player activates &quot;Pot of Greed&quot;, they can draw 1 more card.</text>
+</card>

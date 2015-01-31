@@ -1,14 +1,17 @@
-Hamon, Lord of Striking Thunder
-Monster
-LIGHT
-Effect
-None
-Thunder
-10
-4000
-4000
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. When this card destroys your opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, your opponent cannot target other monsters for attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Hamon, Lord of Striking Thunder</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. When this card destroys your opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, your opponent cannot target other monsters for attacks.</text>
+</card>

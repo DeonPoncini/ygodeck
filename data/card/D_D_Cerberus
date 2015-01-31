@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<card>
+    <name>D/D Cerberus</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>600</defense>
+    <lpendulum>6</lpendulum>
+    <rpendulum>6</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ Once per turn: You can target 1 &quot;D/D&quot; monster you control; its Level becomes 4, and if it does, it gains 400 ATK and DEF.
+
+ Monster Effect
+ When this card is Pendulum Summoned from your hand while you control a &quot;D/D&quot; monster, except &quot;D/D Cerberus&quot;: You can target 1 Continuous Spell Card in your Graveyard; add it to your hand.</text>
+</card>

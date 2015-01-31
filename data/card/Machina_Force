@@ -1,14 +1,17 @@
-Machina Force
-Monster
-EARTH
-Effect
-None
-Machine
-10
-4600
-4100
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by "Commander Covington", and cannot be Special Summoned by other ways. You must pay 1000 Life Points to declare an attack with this card. You can send this face-up card you control to the Graveyard to target 1 "Machina Soldier", "Machina Sniper", and "Machina Defender" in your Graveyard; Special Summon those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Machina Force</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>4600</attack>
+    <defense>4100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by &quot;Commander Covington&quot;, and cannot be Special Summoned by other ways. You must pay 1000 Life Points to declare an attack with this card. You can send this face-up card you control to the Graveyard to target 1 &quot;Machina Soldier&quot;, &quot;Machina Sniper&quot;, and &quot;Machina Defender&quot; in your Graveyard; Special Summon those targets.</text>
+</card>

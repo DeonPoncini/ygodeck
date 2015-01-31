@@ -1,14 +1,17 @@
-Reverse Breaker
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Utopia" monster. When the equipped monster declares an attack: Target 1 Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Reverse Breaker</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Utopia&quot; monster. When the equipped monster declares an attack: Target 1 Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.</text>
+</card>

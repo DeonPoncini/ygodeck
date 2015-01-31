@@ -1,14 +1,17 @@
-Magidog
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-4
-1700
-1000
-0
-0
-None
-None
-If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type Synchro Monster, you can add 1 Field Spell Card from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Magidog</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type Synchro Monster, you can add 1 Field Spell Card from your Graveyard to your hand.</text>
+</card>

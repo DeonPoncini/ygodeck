@@ -1,14 +1,17 @@
-The Six Samurai - Yariza
-Monster
-EARTH
-Effect
-None
-Warrior
-3
-1000
-500
-0
-0
-None
-None
-While you control a face-up "Six Samurai" monster with a different name, this card can attack your opponent directly. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+<?xml version="1.0" ?>
+<card>
+    <name>The Six Samurai - Yariza</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control a face-up &quot;Six Samurai&quot; monster with a different name, this card can attack your opponent directly. If this card would be destroyed, you can destroy another face-up &quot;Six Samurai&quot; monster you control instead.</text>
+</card>

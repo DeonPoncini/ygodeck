@@ -1,14 +1,17 @@
-Absorbing Kid from the Sky
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1300
-1000
-0
-0
-None
-None
-When this card destroys a monster and sends it to the Graveyard as a result of battle, increase your Life Points by the Level of the destroyed monster x 300 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Absorbing Kid from the Sky</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys a monster and sends it to the Graveyard as a result of battle, increase your Life Points by the Level of the destroyed monster x 300 points.</text>
+</card>

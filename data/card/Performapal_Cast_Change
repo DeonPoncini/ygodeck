@@ -1,14 +1,17 @@
-Performapal Cast Change
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Shuffle any number of "Performapal" monsters from your hand into the Deck, then draw that same number of cards + 1. You can only activate 1 "Performapal Cast Change" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Cast Change</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Shuffle any number of &quot;Performapal&quot; monsters from your hand into the Deck, then draw that same number of cards + 1. You can only activate 1 &quot;Performapal Cast Change&quot; per turn.</text>
+</card>

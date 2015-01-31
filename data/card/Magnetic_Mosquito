@@ -1,14 +1,17 @@
-Magnetic Mosquito
-Monster
-LIGHT
-Effect
-None
-Insect
-3
-300
-1000
-0
-0
-None
-None
-FLIP: Destroy all face-up Machine-Type monsters on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Magnetic Mosquito</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Destroy all face-up Machine-Type monsters on the field.</text>
+</card>

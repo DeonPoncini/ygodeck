@@ -1,14 +1,17 @@
-Dragunity Partisan
-Monster
-WIND
-Tuner
-None
-Dragon
-2
-1200
-800
-0
-0
-None
-None
-When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type "Dragunity" monster from your hand, then equip this card to it as an Equip Card. If this card is equipped as an Equip Card to a monster, the equipped monster is treated as a Tuner monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Partisan</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>2</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type &quot;Dragunity&quot; monster from your hand, then equip this card to it as an Equip Card. If this card is equipped as an Equip Card to a monster, the equipped monster is treated as a Tuner monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Windstorm of Etaqua
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Change the battle positions of all face-up monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Windstorm of Etaqua</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Change the battle positions of all face-up monsters your opponent controls.</text>
+</card>

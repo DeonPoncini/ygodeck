@@ -1,14 +1,17 @@
-Berserker Soul
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-When a monster you control inflicts 1500 or less damage to your opponent by a direct attack: Discard your entire hand (min.1); excavate the top card of your Deck, and if it is a Monster Card, send it to the Graveyard, and if you do that, inflict 500 damage to your opponent, then repeat this effect up to 7 more times or until you excavate a non-Monster Card. If a non-Monster Card is excavated, place it on the top of your Deck. You can only activate 1 "Berserker Soul" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Berserker Soul</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>When a monster you control inflicts 1500 or less damage to your opponent by a direct attack: Discard your entire hand (min.1); excavate the top card of your Deck, and if it is a Monster Card, send it to the Graveyard, and if you do that, inflict 500 damage to your opponent, then repeat this effect up to 7 more times or until you excavate a non-Monster Card. If a non-Monster Card is excavated, place it on the top of your Deck. You can only activate 1 &quot;Berserker Soul&quot; per turn.</text>
+</card>

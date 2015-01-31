@@ -1,14 +1,17 @@
-Gandora the Dragon of Destruction
-Monster
-DARK
-Effect
-None
-Dragon
-8
-0
-0
-0
-0
-None
-None
-Cannot be Special Summoned. You can pay half your Life Points; destroy all other cards on the field, and if you do, banish them. This card gains 300 ATK for each card destroyed this way. During the End Phase of the turn this card was Summoned: Send it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Gandora the Dragon of Destruction</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. You can pay half your Life Points; destroy all other cards on the field, and if you do, banish them. This card gains 300 ATK for each card destroyed this way. During the End Phase of the turn this card was Summoned: Send it to the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-DNA Checkup
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Select 1 face-down monster you control. Your opponent declares 2 Attributes. Reveal the selected monster. If its Attribute is one of the declared Attributes, your opponent draws 2 cards. If not, you draw 2 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>DNA Checkup</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Select 1 face-down monster you control. Your opponent declares 2 Attributes. Reveal the selected monster. If its Attribute is one of the declared Attributes, your opponent draws 2 cards. If not, you draw 2 cards.</text>
+</card>

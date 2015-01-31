@@ -1,14 +1,17 @@
-Skelengel
-Monster
-LIGHT
-Effect
-None
-Fairy
-2
-900
-400
-0
-0
-None
-None
-FLIP: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Skelengel</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Draw 1 card.</text>
+</card>

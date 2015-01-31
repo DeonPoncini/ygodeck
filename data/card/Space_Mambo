@@ -1,14 +1,17 @@
-Space Mambo
-Monster
-WATER
-Normal
-None
-Fish
-4
-1700
-1000
-0
-0
-None
-None
-A Space Mambo floating in the vast universe. This living relic was found in the ruins of a super civilization on Alphard 4.
+<?xml version="1.0" ?>
+<card>
+    <name>Space Mambo</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A Space Mambo floating in the vast universe. This living relic was found in the ruins of a super civilization on Alphard 4.</text>
+</card>

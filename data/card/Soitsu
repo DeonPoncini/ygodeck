@@ -1,14 +1,17 @@
-Soitsu
-Monster
-WIND
-Normal
-None
-Fairy
-3
-0
-0
-0
-0
-None
-None
-Apparently totally unreliable, he wonders if he has incredible potential.
+<?xml version="1.0" ?>
+<card>
+    <name>Soitsu</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Apparently totally unreliable, he wonders if he has incredible potential.</text>
+</card>

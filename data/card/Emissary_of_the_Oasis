@@ -1,14 +1,17 @@
-Emissary of the Oasis
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-3
-600
-400
-0
-0
-None
-None
-While a face-up Level 3 or lower Normal Monster is on your side of the field, your opponent cannot select this card as an attack target. While this card is face-up on your side of the field, any Battle Damage to the controller of this card from battle involving a Level 3 or lower Normal Monster becomes 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Emissary of the Oasis</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While a face-up Level 3 or lower Normal Monster is on your side of the field, your opponent cannot select this card as an attack target. While this card is face-up on your side of the field, any Battle Damage to the controller of this card from battle involving a Level 3 or lower Normal Monster becomes 0.</text>
+</card>

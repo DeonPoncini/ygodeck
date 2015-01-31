@@ -1,14 +1,17 @@
-Wen the Ritual Beast Tamer
-Monster
-WIND
-Effect
-None
-Psychic
-3
-1500
-1000
-0
-0
-None
-None
-If this card is Normal Summoned: You can target 1 of your banished "Ritual Beast" monsters; Special Summon that target. You can only Special Summon 1 "Wen the Ritual Beast Tamer" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Wen the Ritual Beast Tamer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned: You can target 1 of your banished &quot;Ritual Beast&quot; monsters; Special Summon that target. You can only Special Summon 1 &quot;Wen the Ritual Beast Tamer&quot; per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Elemental HERO Sparkman
-Monster
-LIGHT
-Normal
-None
-Warrior
-4
-1600
-1400
-0
-0
-None
-None
-An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Sparkman</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.</text>
+</card>

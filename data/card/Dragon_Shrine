@@ -1,14 +1,17 @@
-Dragon Shrine
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 1 Dragon-Type monster from your Deck to the Graveyard, then, if that monster in your Graveyard is a Dragon-Type Normal Monster, you can send 1 more Dragon-Type monster from your Deck to the Graveyard. You can only activate 1 "Dragon Shrine" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Shrine</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 Dragon-Type monster from your Deck to the Graveyard, then, if that monster in your Graveyard is a Dragon-Type Normal Monster, you can send 1 more Dragon-Type monster from your Deck to the Graveyard. You can only activate 1 &quot;Dragon Shrine&quot; per turn.</text>
+</card>

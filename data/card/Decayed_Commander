@@ -1,14 +1,17 @@
-Decayed Commander
-Monster
-EARTH
-Effect
-None
-Zombie
-4
-1000
-1500
-0
-0
-None
-None
-When this card is Normal Summoned successfully, you can Special Summon 1 "Zombie Tiger" from your hand. If this card successfully attacks your opponent's Life Points directly, your opponent discards 1 card randomly from his/her hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Decayed Commander</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned successfully, you can Special Summon 1 &quot;Zombie Tiger&quot; from your hand. If this card successfully attacks your opponent's Life Points directly, your opponent discards 1 card randomly from his/her hand.</text>
+</card>

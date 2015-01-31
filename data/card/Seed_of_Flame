@@ -1,14 +1,17 @@
-Seed of Flame
-Monster
-FIRE
-Effect
-None
-Plant
-3
-1600
-1200
-0
-0
-None
-None
-When this card you control is destroyed by a card effect and sent to your Graveyard: You can target 1 Level 4 or lower Plant-Type monster in your Graveyard, except "Seed of Flame"; Special Summon that target, and if you do, Special Summon 1 "Seed Token" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0) to your opponent's side of the field in Defense Position. This Token cannot be Tributed for a Tribute Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Seed of Flame</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed by a card effect and sent to your Graveyard: You can target 1 Level 4 or lower Plant-Type monster in your Graveyard, except &quot;Seed of Flame&quot;; Special Summon that target, and if you do, Special Summon 1 &quot;Seed Token&quot; (Plant-Type/EARTH/Level 1/ATK 0/DEF 0) to your opponent's side of the field in Defense Position. This Token cannot be Tributed for a Tribute Summon.</text>
+</card>

@@ -1,14 +1,17 @@
-Blaze Fenix, the Burning Bombardment Bird
-Monster
-FIRE
-Fusion
-Effect
-Pyro
-8
-2800
-2300
-0
-0
-None
-None
-1 Machine-Type monster + 1 Pyro-Type monsterOnce per turn, during your Main Phase: You can inflict 300 damage to your opponent for each card on the field. This card cannot attack during the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Blaze Fenix, the Burning Bombardment Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Pyro</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Machine-Type monster + 1 Pyro-Type monsterOnce per turn, during your Main Phase: You can inflict 300 damage to your opponent for each card on the field. This card cannot attack during the turn you activate this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Weather Control
-Monster
-LIGHT
-Normal
-None
-Fairy
-2
-600
-400
-0
-0
-None
-None
-This creature controls weather and is often the cause of mountain storms.
+<?xml version="1.0" ?>
+<card>
+    <name>Weather Control</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This creature controls weather and is often the cause of mountain storms.</text>
+</card>

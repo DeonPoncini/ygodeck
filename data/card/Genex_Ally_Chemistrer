@@ -1,14 +1,17 @@
-Genex Ally Chemistrer
-Monster
-DARK
-Tuner
-None
-Machine
-2
-200
-500
-0
-0
-None
-None
-You can declare 1 Attribute and discard this card to select 1 face-up "Genex" monster you control. That monster becomes that Attribute. This effect can be activated during either player's turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Ally Chemistrer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can declare 1 Attribute and discard this card to select 1 face-up &quot;Genex&quot; monster you control. That monster becomes that Attribute. This effect can be activated during either player's turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Amphibious Bugroth
-Monster
-WATER
-Fusion
-None
-Aqua
-5
-1850
-1300
-0
-0
-None
-None
-"Ground Attacker Bugroth" + "Sentinel of the Seas"
+<?xml version="1.0" ?>
+<card>
+    <name>Amphibious Bugroth</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>5</level>
+    <attack>1850</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Ground Attacker Bugroth&quot; + &quot;Sentinel of the Seas&quot;</text>
+</card>

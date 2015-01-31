@@ -1,14 +1,17 @@
-Strike of the Monarchs
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-You can Tribute 1 face-up Level 5 or higher Normal Summoned/Set monster, then target 1 face-up card on the field; negate its effect until the end of this turn, then draw 1 card. During your Main Phase, if this card is in your Graveyard: You can banish this card, then declare 1 Attribute; all face-up monsters currently on the field become that Attribute until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Strike of the Monarchs</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 face-up Level 5 or higher Normal Summoned/Set monster, then target 1 face-up card on the field; negate its effect until the end of this turn, then draw 1 card. During your Main Phase, if this card is in your Graveyard: You can banish this card, then declare 1 Attribute; all face-up monsters currently on the field become that Attribute until the end of this turn.</text>
+</card>

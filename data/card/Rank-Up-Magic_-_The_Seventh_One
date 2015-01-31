@@ -1,14 +1,17 @@
-Rank-Up-Magic - The Seventh One
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-To activate this card, you must draw it for your normal draw in your Draw Phase, reveal it, and keep it revealed until the start of Main Phase 1. At the start of your Main Phase 1 that same turn, you can: Special Summon, from your Extra Deck or Graveyard, 1 monster that has a number between "Number 101" and "Number 107" in its name, except "Number C" monsters, then Xyz Summon, from your Extra Deck, 1 "Number C" monster with the same number in its name as the first monster, by using it as the Xyz Material. You can only apply the effect of "Rank-Up-Magic - The Seventh One" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Rank-Up-Magic - The Seventh One</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>To activate this card, you must draw it for your normal draw in your Draw Phase, reveal it, and keep it revealed until the start of Main Phase 1. At the start of your Main Phase 1 that same turn, you can: Special Summon, from your Extra Deck or Graveyard, 1 monster that has a number between &quot;Number 101&quot; and &quot;Number 107&quot; in its name, except &quot;Number C&quot; monsters, then Xyz Summon, from your Extra Deck, 1 &quot;Number C&quot; monster with the same number in its name as the first monster, by using it as the Xyz Material. You can only apply the effect of &quot;Rank-Up-Magic - The Seventh One&quot; once per Duel.</text>
+</card>

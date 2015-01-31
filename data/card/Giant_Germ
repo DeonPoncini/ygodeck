@@ -1,14 +1,17 @@
-Giant Germ
-Monster
-DARK
-Effect
-None
-Fiend
-2
-1000
-100
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of "Giant Germs" from your Deck in face-up Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Giant Germ</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of &quot;Giant Germs&quot; from your Deck in face-up Attack Position.</text>
+</card>

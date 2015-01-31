@@ -1,14 +1,17 @@
-Karakuri Ninja mdl 919 "Kuick"
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1700
-1500
-0
-0
-None
-None
-This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When this card destroys an opponent's monster by battle and sends it to the Graveyard, select 1 Level 4 or lower "Karakuri" monster in your Graveyard, and Special Summon it in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Ninja mdl 919 &quot;Kuick&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When this card destroys an opponent's monster by battle and sends it to the Graveyard, select 1 Level 4 or lower &quot;Karakuri&quot; monster in your Graveyard, and Special Summon it in face-up Defense Position.</text>
+</card>

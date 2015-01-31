@@ -1,14 +1,17 @@
-Marie the Fallen One
-Monster
-DARK
-Effect
-None
-Fiend
-5
-1700
-1200
-0
-0
-None
-None
-As long as this card is in the Graveyard, increase your Life Points by 200 during each of your Standby Phases.
+<?xml version="1.0" ?>
+<card>
+    <name>Marie the Fallen One</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card is in the Graveyard, increase your Life Points by 200 during each of your Standby Phases.</text>
+</card>

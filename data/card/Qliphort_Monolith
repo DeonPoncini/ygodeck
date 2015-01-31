@@ -1,18 +1,21 @@
-Qliphort Monolith
-Monster
-EARTH
-Pendulum
-None
-Machine
-5
-2400
-1000
-1
-1
-None
-None
-Pendulum Effect
- You cannot Special Summon monsters, except ‟Qli” monsters. This effect cannot be negated. During the End Phase, if you Tribute Summoned this turn: You can draw a number of cards equal to the number of ‟Qli” monsters you Tributed for Tribute Summons this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Qliphort Monolith</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>1</lpendulum>
+    <rpendulum>1</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Special Summon monsters, except &quot;Qli&quot; monsters. This effect cannot be negated. During the End Phase, if you Tribute Summoned this turn: You can draw a number of cards equal to the number of &quot;Qli&quot; monsters you Tributed for Tribute Summons this turn.
 
  Monster Effect
- Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000Continue, ignoring this error? <Y/N>...[ ]Xlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.
+ Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000Continue, ignoring this error? &lt;Y/N&gt;...[ ]Xlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.</text>
+</card>

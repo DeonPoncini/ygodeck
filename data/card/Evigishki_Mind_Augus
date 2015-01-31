@@ -1,14 +1,17 @@
-Evigishki Mind Augus
-Monster
-WATER
-Ritual
-Effect
-Aqua
-6
-2500
-2000
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must first be Ritual Summoned. You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card is Ritual Summoned: Target up to 5 cards in any Graveyard(s); shuffle those targets to the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Evigishki Mind Augus</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must first be Ritual Summoned. You can Ritual Summon this card with any &quot;Gishki&quot; Ritual Spell Card. When this card is Ritual Summoned: Target up to 5 cards in any Graveyard(s); shuffle those targets to the Deck.</text>
+</card>

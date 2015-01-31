@@ -1,14 +1,17 @@
-Cosmo Queen
-Monster
-DARK
-Normal
-None
-Spellcaster
-8
-2900
-2450
-0
-0
-None
-None
-Queen of the galaxies and mistress of the stars.
+<?xml version="1.0" ?>
+<card>
+    <name>Cosmo Queen</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>2450</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Queen of the galaxies and mistress of the stars.</text>
+</card>

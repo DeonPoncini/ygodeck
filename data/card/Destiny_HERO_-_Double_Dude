@@ -1,14 +1,17 @@
-Destiny HERO - Double Dude
-Monster
-DARK
-Effect
-None
-Warrior
-6
-1000
-1000
-0
-0
-None
-None
-Cannot be Special Summoned. This card can attack twice during each Battle Phase. During your Standby Phase, if this card was destroyed since your last Standby Phase: You can Special Summon 2 "Double Dude Tokens" (Warrior-Type/DARK/Level 4/ATK 1000/DEF 1000). This card must be in your Graveyard to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Double Dude</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. This card can attack twice during each Battle Phase. During your Standby Phase, if this card was destroyed since your last Standby Phase: You can Special Summon 2 &quot;Double Dude Tokens&quot; (Warrior-Type/DARK/Level 4/ATK 1000/DEF 1000). This card must be in your Graveyard to activate and to resolve this effect.</text>
+</card>

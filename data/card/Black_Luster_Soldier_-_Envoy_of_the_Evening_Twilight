@@ -1,14 +1,17 @@
-Black Luster Soldier - Envoy of the Evening Twilight
-Monster
-DARK
-Effect
-None
-Warrior
-8
-3000
-2500
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT monsters or all DARK monsters from your Graveyard, while you have an equal number of each in your Graveyard, and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. When this card is Special Summoned: You can activate the appropriate effect, based on the Attribute of the monsters banished for the Special Summon. You cannot conduct your Battle Phase the turn you activate this effect.● LIGHT: Target 1 monster on the field; banish it.● DARK: Banish 1 random card from your opponent's hand face-down, until your opponent's End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Luster Soldier - Envoy of the Evening Twilight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT monsters or all DARK monsters from your Graveyard, while you have an equal number of each in your Graveyard, and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. When this card is Special Summoned: You can activate the appropriate effect, based on the Attribute of the monsters banished for the Special Summon. You cannot conduct your Battle Phase the turn you activate this effect.● LIGHT: Target 1 monster on the field; banish it.● DARK: Banish 1 random card from your opponent's hand face-down, until your opponent's End Phase.</text>
+</card>

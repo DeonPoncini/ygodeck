@@ -1,14 +1,17 @@
-Power-Up Adapter
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-After activation, treat this card as an Equip Card and equip it to 1 face-up "Morphtronic" monster you control. The equipped monster cannot declare an attack. Then, select 1 face-up monster on the field, except the equipped monster. It gains ATK equal to the ATK of the equipped monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Power-Up Adapter</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>After activation, treat this card as an Equip Card and equip it to 1 face-up &quot;Morphtronic&quot; monster you control. The equipped monster cannot declare an attack. Then, select 1 face-up monster on the field, except the equipped monster. It gains ATK equal to the ATK of the equipped monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Legendary Fiend
-Monster
-DARK
-Effect
-None
-Fiend
-6
-1500
-1800
-0
-0
-None
-None
-During each of your Standby Phases: This card gains 700 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Legendary Fiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>1500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During each of your Standby Phases: This card gains 700 ATK.</text>
+</card>

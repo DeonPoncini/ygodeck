@@ -1,14 +1,17 @@
-SZW - Fenrir Sword
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1800
-1100
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 "ZW -" monster you control that is an Equip Card; Special Summon that target in Defense Position. You can target 1 "Utopia" monster you control; equip this card from your hand to that target. When the equipped monster destroys an opponent's monster by battle and sends it to the Graveyard: You can target 1 "ZW -" monster in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>SZW - Fenrir Sword</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 &quot;ZW -&quot; monster you control that is an Equip Card; Special Summon that target in Defense Position. You can target 1 &quot;Utopia&quot; monster you control; equip this card from your hand to that target. When the equipped monster destroys an opponent's monster by battle and sends it to the Graveyard: You can target 1 &quot;ZW -&quot; monster in your Graveyard; add that target to your hand.</text>
+</card>

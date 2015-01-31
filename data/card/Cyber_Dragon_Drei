@@ -1,14 +1,17 @@
-Cyber Dragon Drei
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1800
-800
-0
-0
-None
-None
-When this card is Normal Summoned: You can make all "Cyber Dragons" you currently control become Level 5. You cannot Special Summon any monsters during the turn you activate this effect, except Machine-Type monsters. If this card is banished: You can target 1 "Cyber Dragon" you control; it cannot be destroyed by battle or by card effects this turn. This card's name becomes "Cyber Dragon" while it is on the field or in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Dragon Drei</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can make all &quot;Cyber Dragons&quot; you currently control become Level 5. You cannot Special Summon any monsters during the turn you activate this effect, except Machine-Type monsters. If this card is banished: You can target 1 &quot;Cyber Dragon&quot; you control; it cannot be destroyed by battle or by card effects this turn. This card's name becomes &quot;Cyber Dragon&quot; while it is on the field or in the Graveyard.</text>
+</card>

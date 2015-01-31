@@ -1,14 +1,17 @@
-Reptilianne Viper
-Monster
-DARK
-Tuner
-None
-Reptile
-2
-0
-0
-0
-0
-None
-None
-When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Reptilianne Viper</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.</text>
+</card>

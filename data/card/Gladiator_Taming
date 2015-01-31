@@ -1,14 +1,17 @@
-Gladiator Taming
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-If a face-up "Gladiator Beast" monster is on the field, activate 1 of these effects:● Select 1 face-up monster your opponent controls, and change its battle position.● Select 1 face-up "Gladiator Beast" monster your opponent controls, and take control of it until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Taming</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>If a face-up &quot;Gladiator Beast&quot; monster is on the field, activate 1 of these effects:● Select 1 face-up monster your opponent controls, and change its battle position.● Select 1 face-up &quot;Gladiator Beast&quot; monster your opponent controls, and take control of it until the End Phase.</text>
+</card>

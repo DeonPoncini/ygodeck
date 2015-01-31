@@ -1,14 +1,17 @@
-Ultimate Baseball Kid
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-500
-1000
-0
-0
-None
-None
-This card gains 1000 ATK for each face-up FIRE monster on the field, except this card. You can send 1 other face-up FIRE monster you control to the Graveyard; inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Ultimate Baseball Kid</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 1000 ATK for each face-up FIRE monster on the field, except this card. You can send 1 other face-up FIRE monster you control to the Graveyard; inflict 500 damage to your opponent.</text>
+</card>

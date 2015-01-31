@@ -1,14 +1,17 @@
-Hieratic Sun Dragon Overlord of Heliopolis
-Monster
-LIGHT
-Xyz
-Effect
-Dragon
-8
-3000
-2400
-0
-0
-None
-None
-2 Level 8 monstersOnce per turn: You can detach 1 Xyz Material from this card; Tribute any number of monsters from your hand and/or your side of the field (minimum 1), then destroy an equal number of cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Hieratic Sun Dragon Overlord of Heliopolis</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 8 monstersOnce per turn: You can detach 1 Xyz Material from this card; Tribute any number of monsters from your hand and/or your side of the field (minimum 1), then destroy an equal number of cards on the field.</text>
+</card>

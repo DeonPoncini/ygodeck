@@ -1,14 +1,17 @@
-Mustering of the Dark Scorpions
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a face-up "Don Zaloog": You can Special Summon any number of "Dark Scorpion" monsters from your hand, but only 1 copy of each.
+<?xml version="1.0" ?>
+<card>
+    <name>Mustering of the Dark Scorpions</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up &quot;Don Zaloog&quot;: You can Special Summon any number of &quot;Dark Scorpion&quot; monsters from your hand, but only 1 copy of each.</text>
+</card>

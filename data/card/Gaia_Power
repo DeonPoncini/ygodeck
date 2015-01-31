@@ -1,14 +1,17 @@
-Gaia Power
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All EARTH monsters gain 500 ATK and lose 400 DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Gaia Power</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All EARTH monsters gain 500 ATK and lose 400 DEF.</text>
+</card>

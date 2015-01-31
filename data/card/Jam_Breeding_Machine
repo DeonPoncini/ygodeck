@@ -1,14 +1,17 @@
-Jam Breeding Machine
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During each of your Standby Phases: Special Summon 1 "Slime Token" (Aqua-Type/WATER/LEVEL 1/ATK 500/DEF 500) in Attack Position. You cannot Summon any monsters, except "Slime Tokens" (but you can Set).
+<?xml version="1.0" ?>
+<card>
+    <name>Jam Breeding Machine</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During each of your Standby Phases: Special Summon 1 &quot;Slime Token&quot; (Aqua-Type/WATER/LEVEL 1/ATK 500/DEF 500) in Attack Position. You cannot Summon any monsters, except &quot;Slime Tokens&quot; (but you can Set).</text>
+</card>

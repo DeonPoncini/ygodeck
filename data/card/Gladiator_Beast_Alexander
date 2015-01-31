@@ -1,14 +1,17 @@
-Gladiator Beast Alexander
-Monster
-LIGHT
-Effect
-None
-Beast
-6
-2400
-600
-0
-0
-None
-None
-This card cannot be Special Summoned except by the effect of "Gladiator Beast Dimacari". If this card is Special Summoned, it is unaffected by the effects of Spell Cards. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Alexander".
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Alexander</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned except by the effect of &quot;Gladiator Beast Dimacari&quot;. If this card is Special Summoned, it is unaffected by the effects of Spell Cards. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 &quot;Gladiator Beast&quot; monster from your Deck, except &quot;Gladiator Beast Alexander&quot;.</text>
+</card>

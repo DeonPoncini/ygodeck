@@ -1,14 +1,17 @@
-Revolving Switchyard
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-If a Level 10 EARTH Machine-Type monster(s) is Normal or Special Summoned to your side of the field (except during the Damage Step): You can Special Summon 1 Level 4 EARTH Machine-Type monster with 1800 or more ATK from your Deck, and if you do, its Level becomes 10. If you activated this effect, your opponent takes no further battle damage this turn. You can send 1 card from your hand to the Graveyard; add 1 Level 10 EARTH Machine-Type monster from your Deck to your hand. You can only use 1 "Revolving Switchyard" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Revolving Switchyard</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>If a Level 10 EARTH Machine-Type monster(s) is Normal or Special Summoned to your side of the field (except during the Damage Step): You can Special Summon 1 Level 4 EARTH Machine-Type monster with 1800 or more ATK from your Deck, and if you do, its Level becomes 10. If you activated this effect, your opponent takes no further battle damage this turn. You can send 1 card from your hand to the Graveyard; add 1 Level 10 EARTH Machine-Type monster from your Deck to your hand. You can only use 1 &quot;Revolving Switchyard&quot; effect per turn, and only once that turn.</text>
+</card>

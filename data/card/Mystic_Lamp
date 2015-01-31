@@ -1,14 +1,17 @@
-Mystic Lamp
-Monster
-DARK
-Effect
-None
-Spellcaster
-1
-400
-300
-0
-0
-None
-None
-This monster can attack your opponent's Life Points directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystic Lamp</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster can attack your opponent's Life Points directly.</text>
+</card>

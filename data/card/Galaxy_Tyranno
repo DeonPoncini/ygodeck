@@ -1,14 +1,17 @@
-Galaxy Tyranno
-Monster
-LIGHT
-Effect
-None
-Dinosaur
-8
-2000
-0
-0
-0
-None
-None
-When a "Galaxy" monster you control is targeted for an attack: You can Special Summon this card from your hand in face-up Defense Position. When Summoned this way, you can: Immediately after this effect resolves, Xyz Summon 1 "Galaxy" Xyz Monster, using only "Galaxy" monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Galaxy Tyranno</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>8</level>
+    <attack>2000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Galaxy&quot; monster you control is targeted for an attack: You can Special Summon this card from your hand in face-up Defense Position. When Summoned this way, you can: Immediately after this effect resolves, Xyz Summon 1 &quot;Galaxy&quot; Xyz Monster, using only &quot;Galaxy&quot; monsters you control.</text>
+</card>

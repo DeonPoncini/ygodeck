@@ -1,14 +1,17 @@
-Penumbral Soldier Lady
-Monster
-DARK
-Effect
-None
-Warrior
-6
-2100
-1400
-0
-0
-None
-None
-If this card battles a LIGHT monster, this card gains 1000 ATK during the Damage Step only.
+<?xml version="1.0" ?>
+<card>
+    <name>Penumbral Soldier Lady</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card battles a LIGHT monster, this card gains 1000 ATK during the Damage Step only.</text>
+</card>

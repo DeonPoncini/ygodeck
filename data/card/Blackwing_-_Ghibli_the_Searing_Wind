@@ -1,14 +1,17 @@
-Blackwing - Ghibli the Searing Wind
-Monster
-DARK
-Effect
-None
-Winged Beast
-3
-0
-1600
-0
-0
-None
-None
-When your opponent declares a direct attack: You can Special Summon this card from your hand. Once per turn: You can switch the original ATK and DEF of this card, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Ghibli the Searing Wind</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent declares a direct attack: You can Special Summon this card from your hand. Once per turn: You can switch the original ATK and DEF of this card, until the end of this turn.</text>
+</card>

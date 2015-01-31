@@ -1,14 +1,17 @@
-Mutant Mindmaster
-Monster
-DARK
-Effect
-None
-Spellcaster
-6
-0
-2500
-0
-0
-None
-None
-When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Mutant Mindmaster</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>0</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase.</text>
+</card>

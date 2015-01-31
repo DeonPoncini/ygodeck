@@ -1,14 +1,17 @@
-Infestation Infection
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Once per turn: You can shuffle 1 "lswarm" monster from your hand or face-up from your side of the field into the Main Deck; add 1 "lswarm" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Infestation Infection</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Once per turn: You can shuffle 1 &quot;lswarm&quot; monster from your hand or face-up from your side of the field into the Main Deck; add 1 &quot;lswarm&quot; monster from your Deck to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Gaia The Fierce Knight
-Monster
-EARTH
-Normal
-None
-Warrior
-7
-2300
-2100
-0
-0
-None
-None
-A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.
+<?xml version="1.0" ?>
+<card>
+    <name>Gaia The Fierce Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2300</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.</text>
+</card>

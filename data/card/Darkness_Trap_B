@@ -1,14 +1,17 @@
-Darkness/Trap B
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate only by the effect of "Darkness/Trap A". Your opponent cannot activate Spell/Trap Cards in response to this card's activation. If you control "Darkness/Trap A", apply the following effect.● Activate the first effect of all Set "Darkness/Trap C", "Darkness/Trap D" and "Darkness/Trap E" in your Spell & Trap Zones in any order.-I activate "Infinity"!-
+<?xml version="1.0" ?>
+<card>
+    <name>Darkness/Trap B</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate only by the effect of &quot;Darkness/Trap A&quot;. Your opponent cannot activate Spell/Trap Cards in response to this card's activation. If you control &quot;Darkness/Trap A&quot;, apply the following effect.● Activate the first effect of all Set &quot;Darkness/Trap C&quot;, &quot;Darkness/Trap D&quot; and &quot;Darkness/Trap E&quot; in your Spell &amp; Trap Zones in any order.-I activate &quot;Infinity&quot;!-</text>
+</card>

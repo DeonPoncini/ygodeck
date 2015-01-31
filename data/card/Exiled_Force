@@ -1,14 +1,17 @@
-Exiled Force
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1000
-1000
-0
-0
-None
-None
-You can Tribute this card to target 1 monster on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Exiled Force</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card to target 1 monster on the field; destroy that target.</text>
+</card>

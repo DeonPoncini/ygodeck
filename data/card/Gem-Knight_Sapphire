@@ -1,14 +1,17 @@
-Gem-Knight Sapphire
-Monster
-EARTH
-Normal
-None
-Aqua
-4
-0
-2100
-0
-0
-None
-None
-His Sapphire power commands the waters to protect him from attack. His comrades trust in his silent protection.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Sapphire</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>His Sapphire power commands the waters to protect him from attack. His comrades trust in his silent protection.</text>
+</card>

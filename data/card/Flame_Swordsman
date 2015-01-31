@@ -1,14 +1,17 @@
-Flame Swordsman
-Monster
-FIRE
-Fusion
-None
-Warrior
-5
-1800
-1600
-0
-0
-None
-None
-"Flame Manipulator" + "Masaki the Legendary Swordsman"
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Swordsman</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Flame Manipulator&quot; + &quot;Masaki the Legendary Swordsman&quot;</text>
+</card>

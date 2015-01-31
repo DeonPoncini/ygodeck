@@ -1,14 +1,17 @@
-Tyhone
-Monster
-WIND
-Normal
-None
-Winged Beast
-4
-1200
-1400
-0
-0
-None
-None
-Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.
+<?xml version="1.0" ?>
+<card>
+    <name>Tyhone</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.</text>
+</card>

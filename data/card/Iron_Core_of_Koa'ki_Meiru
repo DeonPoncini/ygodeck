@@ -1,14 +1,17 @@
-Iron Core of Koa'ki Meiru
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-During your Draw Phase, if this card is in your Graveyard, you can add this card to your hand instead of drawing, and/or send 1 "Koa'ki Meiru" monster from your hand to your Graveyard to add this card to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Iron Core of Koa'ki Meiru</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>During your Draw Phase, if this card is in your Graveyard, you can add this card to your hand instead of drawing, and/or send 1 &quot;Koa'ki Meiru&quot; monster from your hand to your Graveyard to add this card to your hand.</text>
+</card>

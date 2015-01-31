@@ -1,14 +1,17 @@
-Ritual Beast Ulti-Kannahawk
-Monster
-WIND
-Fusion
-Effect
-Thunder
-6
-1400
-1600
-0
-0
-None
-None
-1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monsterMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use "Polymerization".) Once per turn: You can target 2 of your banished "Ritual Beast" cards; return them to the Graveyard, and if you do, add 1 "Ritual Beast" card from your Deck to your hand. During either player's turn: You can return this card to the Extra Deck, then target 1 of your banished "Ritual Beast Tamer" monsters and 1 of your banished "Spiritual Beast" monsters; Special Summon them in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ritual Beast Ulti-Kannahawk</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Thunder</type>
+    <level>6</level>
+    <attack>1400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Ritual Beast Tamer&quot; monster + 1 &quot;Spiritual Beast&quot; monsterMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use &quot;Polymerization&quot;.) Once per turn: You can target 2 of your banished &quot;Ritual Beast&quot; cards; return them to the Graveyard, and if you do, add 1 &quot;Ritual Beast&quot; card from your Deck to your hand. During either player's turn: You can return this card to the Extra Deck, then target 1 of your banished &quot;Ritual Beast Tamer&quot; monsters and 1 of your banished &quot;Spiritual Beast&quot; monsters; Special Summon them in Defense Position.</text>
+</card>

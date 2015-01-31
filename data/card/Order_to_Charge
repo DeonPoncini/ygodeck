@@ -1,14 +1,17 @@
-Order to Charge
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Select 1 face-up Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, Tribute the selected Normal Monster and destroy 1 monster on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Order to Charge</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 face-up Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, Tribute the selected Normal Monster and destroy 1 monster on your opponent's side of the field.</text>
+</card>

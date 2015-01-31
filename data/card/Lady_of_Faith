@@ -1,14 +1,17 @@
-Lady of Faith
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-3
-1100
-800
-0
-0
-None
-None
-Soothes the souls of others by chanting a mysterious spell.
+<?xml version="1.0" ?>
+<card>
+    <name>Lady of Faith</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Soothes the souls of others by chanting a mysterious spell.</text>
+</card>

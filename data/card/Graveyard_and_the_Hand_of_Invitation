@@ -1,14 +1,17 @@
-Graveyard and the Hand of Invitation
-Monster
-DARK
-Normal
-None
-Zombie
-3
-700
-900
-0
-0
-None
-None
-A graveyard that serves as a power source for zombies.
+<?xml version="1.0" ?>
+<card>
+    <name>Graveyard and the Hand of Invitation</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>700</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A graveyard that serves as a power source for zombies.</text>
+</card>

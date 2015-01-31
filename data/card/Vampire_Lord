@@ -1,14 +1,17 @@
-Vampire Lord
-Monster
-DARK
-Effect
-None
-Zombie
-5
-2000
-1500
-0
-0
-None
-None
-When this card inflicts battle damage to your opponent: Declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the Graveyard. During your next Standby Phase after this card in your possession was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Vampire Lord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts battle damage to your opponent: Declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the Graveyard. During your next Standby Phase after this card in your possession was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard.</text>
+</card>

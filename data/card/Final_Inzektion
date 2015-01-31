@@ -1,14 +1,17 @@
-Final Inzektion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 5 face-up "Inzektor" cards you control to the Graveyard; destroy all cards your opponent controls, also, during the Battle Phase of this turn, your opponent cannot activate monster effects that activate in the hand or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Final Inzektion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 5 face-up &quot;Inzektor&quot; cards you control to the Graveyard; destroy all cards your opponent controls, also, during the Battle Phase of this turn, your opponent cannot activate monster effects that activate in the hand or Graveyard.</text>
+</card>

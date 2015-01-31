@@ -1,14 +1,17 @@
-Dragoncarnation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 of your banished Dragon-Type monsters; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragoncarnation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 of your banished Dragon-Type monsters; add that target to your hand.</text>
+</card>

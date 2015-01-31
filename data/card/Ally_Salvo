@@ -1,14 +1,17 @@
-Ally Salvo
-Monster
-DARK
-Effect
-None
-Machine
-2
-400
-300
-0
-0
-None
-None
-When this card is destroyed by battle with a LIGHT monster and sent to the Graveyard, select 2 cards on the field and destroy them.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally Salvo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle with a LIGHT monster and sent to the Graveyard, select 2 cards on the field and destroy them.</text>
+</card>

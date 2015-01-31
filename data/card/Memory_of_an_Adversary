@@ -1,14 +1,17 @@
-Memory of an Adversary
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an opponent's monster declares an attack: You take damage equal to the attacking monster's ATK, and if you do, banish that monster. During the End Phase of your opponent's next turn, Special Summon that monster to your side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Memory of an Adversary</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an opponent's monster declares an attack: You take damage equal to the attacking monster's ATK, and if you do, banish that monster. During the End Phase of your opponent's next turn, Special Summon that monster to your side of the field.</text>
+</card>

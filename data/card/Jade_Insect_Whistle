@@ -1,14 +1,17 @@
-Jade Insect Whistle
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Your opponent selects 1 Insect-Type Monster from their Deck. After shuffling the Deck, place the card on top of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Jade Insect Whistle</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent selects 1 Insect-Type Monster from their Deck. After shuffling the Deck, place the card on top of the Deck.</text>
+</card>

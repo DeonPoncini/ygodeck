@@ -1,14 +1,17 @@
-Chow Chow Chan
-Monster
-EARTH
-Effect
-None
-Beast
-2
-800
-800
-0
-0
-None
-None
-When your opponent activates a Normal Trap Card in response to your monster's attack declaration targeting an opponent's monster: You can discard this card; negate the activation, and if you do, destroy that card (this is a Quick Effect).
+<?xml version="1.0" ?>
+<card>
+    <name>Chow Chow Chan</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent activates a Normal Trap Card in response to your monster's attack declaration targeting an opponent's monster: You can discard this card; negate the activation, and if you do, destroy that card (this is a Quick Effect).</text>
+</card>

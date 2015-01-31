@@ -1,14 +1,17 @@
-Rabid Horseman
-Monster
-EARTH
-Fusion
-None
-Beast-Warrior
-6
-2000
-1700
-0
-0
-None
-None
-"Battle Ox" + "Mystic Horseman"
+<?xml version="1.0" ?>
+<card>
+    <name>Rabid Horseman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Battle Ox&quot; + &quot;Mystic Horseman&quot;</text>
+</card>

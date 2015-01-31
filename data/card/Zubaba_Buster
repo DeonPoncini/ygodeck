@@ -1,14 +1,17 @@
-Zubaba Buster
-Monster
-EARTH
-Effect
-None
-Warrior
-3
-1800
-600
-0
-0
-None
-None
-If this card inflicts battle damage to your opponent, at the end of that Damage Step: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, this card loses 800 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Zubaba Buster</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card inflicts battle damage to your opponent, at the end of that Damage Step: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, this card loses 800 ATK.</text>
+</card>

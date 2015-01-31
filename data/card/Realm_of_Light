@@ -1,14 +1,17 @@
-Realm of Light
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All "Lightsworn" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Realm of Light</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All &quot;Lightsworn&quot; monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.</text>
+</card>

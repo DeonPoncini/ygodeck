@@ -1,14 +1,17 @@
-Evil HERO Malicious Edge
-Monster
-EARTH
-Effect
-None
-Fiend
-7
-2600
-1800
-0
-0
-None
-None
-If your opponent controls a monster, you can Tribute Summon this card with 1 Tribute. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Evil HERO Malicious Edge</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster, you can Tribute Summon this card with 1 Tribute. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

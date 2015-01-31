@@ -1,14 +1,17 @@
-Keldo
-Monster
-EARTH
-Effect
-None
-Fairy
-4
-1200
-1600
-0
-0
-None
-None
-When this card is destroyed and sent to the Graveyard as a result of battle, select 2 cards from your opponent's Graveyard, add them to your opponent's Deck and the Deck is then shuffled.
+<?xml version="1.0" ?>
+<card>
+    <name>Keldo</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed and sent to the Graveyard as a result of battle, select 2 cards from your opponent's Graveyard, add them to your opponent's Deck and the Deck is then shuffled.</text>
+</card>

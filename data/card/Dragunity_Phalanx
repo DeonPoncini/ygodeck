@@ -1,14 +1,17 @@
-Dragunity Phalanx
-Monster
-WIND
-Tuner
-None
-Dragon
-2
-500
-1100
-0
-0
-None
-None
-Once per turn, while this card is equipped to a monster as an Equip Card by a card effect, you can Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Phalanx</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, while this card is equipped to a monster as an Equip Card by a card effect, you can Special Summon this card.</text>
+</card>

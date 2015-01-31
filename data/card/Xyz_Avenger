@@ -1,14 +1,17 @@
-Xyz Avenger
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1800
-700
-0
-0
-None
-None
-This card is unaffected by the effects of Xyz Monsters. When this card is destroyed by battle with an Xyz Monster and sent to the Graveyard: Activate 1 of these effects, depending on the Rank of the Xyz Monster that destroyed this card.● Rank 3 or lower: Your opponent sends 1 card from their Extra Deck to the Graveyard.● Rank 4: Choose 1 card in your opponent's Extra Deck and send it to the Graveyard. ● Rank 5 or higher: Your opponent sends as many cards from their Extra Deck to the Graveyard as possible, but not more than the Xyz Monster's Rank.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Avenger</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is unaffected by the effects of Xyz Monsters. When this card is destroyed by battle with an Xyz Monster and sent to the Graveyard: Activate 1 of these effects, depending on the Rank of the Xyz Monster that destroyed this card.● Rank 3 or lower: Your opponent sends 1 card from their Extra Deck to the Graveyard.● Rank 4: Choose 1 card in your opponent's Extra Deck and send it to the Graveyard. ● Rank 5 or higher: Your opponent sends as many cards from their Extra Deck to the Graveyard as possible, but not more than the Xyz Monster's Rank.</text>
+</card>

@@ -1,14 +1,17 @@
-Power Tool Mecha Dragon
-Monster
-DARK
-Synchro
-Effect
-Machine
-7
-2300
-2500
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersDuring your turn, when an Equip Spell Card(s) is equipped to this card: You can draw 1 card. You can only use this effect of "Power Tool Mecha Dragon" once per turn. Once per turn, during either player's turn: You can target 1 appropriate face-up Equip Card on the field; equip that target to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Power Tool Mecha Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2300</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersDuring your turn, when an Equip Spell Card(s) is equipped to this card: You can draw 1 card. You can only use this effect of &quot;Power Tool Mecha Dragon&quot; once per turn. Once per turn, during either player's turn: You can target 1 appropriate face-up Equip Card on the field; equip that target to this card.</text>
+</card>

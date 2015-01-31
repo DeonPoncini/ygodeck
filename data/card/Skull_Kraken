@@ -1,14 +1,17 @@
-Skull Kraken
-Monster
-DARK
-Effect
-None
-Aqua
-3
-600
-1600
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 face-up Spell Card your opponent controls; destroy that target. Once per turn: You can change the battle position of this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Skull Kraken</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 face-up Spell Card your opponent controls; destroy that target. Once per turn: You can change the battle position of this card.</text>
+</card>

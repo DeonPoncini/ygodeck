@@ -1,14 +1,17 @@
-Release from Stone
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Select 1 of your removed from play Rock-Type monsters and Special Summon it. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Release from Stone</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Select 1 of your removed from play Rock-Type monsters and Special Summon it. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.</text>
+</card>

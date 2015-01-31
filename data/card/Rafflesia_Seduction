@@ -1,14 +1,17 @@
-Rafflesia Seduction
-Monster
-EARTH
-Effect
-None
-Plant
-2
-300
-900
-0
-0
-None
-None
-FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Rafflesia Seduction</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.</text>
+</card>

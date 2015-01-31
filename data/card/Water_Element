@@ -1,14 +1,17 @@
-Water Element
-Monster
-WATER
-Normal
-None
-Aqua
-3
-900
-700
-0
-0
-None
-None
-A spirit that dwells in the water, this creature generates a mist to cloud the vision of foes.
+<?xml version="1.0" ?>
+<card>
+    <name>Water Element</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A spirit that dwells in the water, this creature generates a mist to cloud the vision of foes.</text>
+</card>

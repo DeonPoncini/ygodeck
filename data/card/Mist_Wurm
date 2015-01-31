@@ -1,14 +1,17 @@
-Mist Wurm
-Monster
-WIND
-Synchro
-Effect
-Thunder
-9
-2500
-1500
-0
-0
-None
-None
-1 Tuner + 2 or more non-Tuner monstersIf this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Wurm</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Thunder</type>
+    <level>9</level>
+    <attack>2500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 2 or more non-Tuner monstersIf this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.</text>
+</card>

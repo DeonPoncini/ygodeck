@@ -1,14 +1,17 @@
-Dragon Laser
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Send 1 "Trigon" equipped to a face-up "Delta Tri" you control to the Graveyard, and destroy all monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Laser</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 &quot;Trigon&quot; equipped to a face-up &quot;Delta Tri&quot; you control to the Graveyard, and destroy all monsters your opponent controls.</text>
+</card>

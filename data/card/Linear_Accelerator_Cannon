@@ -1,14 +1,17 @@
-Linear Accelerator Cannon
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Linear Accelerator Cannon</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.</text>
+</card>

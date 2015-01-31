@@ -1,14 +1,17 @@
-Raviel, Lord of Phantasms
-Monster
-DARK
-Effect
-None
-Fiend
-10
-4000
-4000
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend-Type monsters, and cannot be Special Summoned by other ways. Each time your opponent Normal Summons a monster(s): Special Summon 1 "Phantasm Token" (Fiend-Type/DARK/Level 1/ATK 1000/DEF 1000) for each monster Summoned. These Tokens cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the original ATK of the Tributed monster, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Raviel, Lord of Phantasms</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend-Type monsters, and cannot be Special Summoned by other ways. Each time your opponent Normal Summons a monster(s): Special Summon 1 &quot;Phantasm Token&quot; (Fiend-Type/DARK/Level 1/ATK 1000/DEF 1000) for each monster Summoned. These Tokens cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the original ATK of the Tributed monster, until the End Phase.</text>
+</card>

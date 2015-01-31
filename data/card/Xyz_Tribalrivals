@@ -1,14 +1,17 @@
-Xyz Tribalrivals
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Face-up Xyz Monsters on the field with 2 or more Xyz Materials cannot be destroyed by card effects. After damage calculation, if an Xyz Monster you control battles an opponent's monster: Destroy that opponent's monster. That Xyz Monster must have 2 or more Xyz Materials attached to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Tribalrivals</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Face-up Xyz Monsters on the field with 2 or more Xyz Materials cannot be destroyed by card effects. After damage calculation, if an Xyz Monster you control battles an opponent's monster: Destroy that opponent's monster. That Xyz Monster must have 2 or more Xyz Materials attached to activate and to resolve this effect.</text>
+</card>

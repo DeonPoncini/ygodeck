@@ -1,14 +1,17 @@
-Needle Ball
-Monster
-DARK
-Effect
-None
-Fiend
-2
-750
-700
-0
-0
-None
-None
-FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Needle Ball</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>750</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.</text>
+</card>

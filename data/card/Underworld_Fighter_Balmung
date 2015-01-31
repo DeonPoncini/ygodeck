@@ -1,14 +1,17 @@
-Underworld Fighter Balmung
-Monster
-DARK
-Synchro
-Effect
-Warrior
-4
-2100
-800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen this card is destroyed by a card effect and sent to the Graveyard: You can target 1 Level 4 or lower monster in your Graveyard, except this card; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Underworld Fighter Balmung</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen this card is destroyed by a card effect and sent to the Graveyard: You can target 1 Level 4 or lower monster in your Graveyard, except this card; Special Summon that target.</text>
+</card>

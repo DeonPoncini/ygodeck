@@ -1,14 +1,17 @@
-Ogre of the Black Shadow
-Monster
-EARTH
-Normal
-None
-Beast-Warrior
-4
-1200
-1400
-0
-0
-None
-None
-An ogre possessed by the powers of the dark. Few can withstand its rapid charge.
+<?xml version="1.0" ?>
+<card>
+    <name>Ogre of the Black Shadow</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An ogre possessed by the powers of the dark. Few can withstand its rapid charge.</text>
+</card>

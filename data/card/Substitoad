@@ -1,14 +1,17 @@
-Substitoad
-Monster
-WATER
-Effect
-None
-Aqua
-1
-100
-2000
-0
-0
-None
-None
-You can Tribute 1 monster to Special Summon 1 "Frog" monster from your Deck, except "Frog the Jam". "Frog" monsters, except "Frog the Jam", cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Substitoad</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 monster to Special Summon 1 &quot;Frog&quot; monster from your Deck, except &quot;Frog the Jam&quot;. &quot;Frog&quot; monsters, except &quot;Frog the Jam&quot;, cannot be destroyed by battle.</text>
+</card>

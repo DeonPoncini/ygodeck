@@ -1,14 +1,17 @@
-Obelisk the Tormentor (original)
-Monster
-DIVINE
-Normal
-None
-Divine-Beast
-10
-4000
-4000
-0
-0
-None
-None
-The descent of this mighty creature shall be heralded by burning winds and twisted land. And with the coming of this horror, those who draw breath shall know the true meaning of eternal slumber.
+<?xml version="1.0" ?>
+<card>
+    <name>Obelisk the Tormentor</name>
+    <cardType>Monster</cardType>
+    <attribute>DIVINE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Divine-Beast</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The descent of this mighty creature shall be heralded by burning winds and twisted land. And with the coming of this horror, those who draw breath shall know the true meaning of eternal slumber.</text>
+</card>

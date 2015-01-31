@@ -1,14 +1,17 @@
-Exa, Warrior of the Nekroz
-Monster
-WATER
-Effect
-None
-Dragon
-5
-2000
-1000
-0
-0
-None
-None
-If this card is Tributed by a card effect: You can add 1 Dragon-Type "Nekroz" Ritual Monster from your Deck to your hand. If this card is banished: You can target 1 of your banished "Nekroz" monsters, except this card; Special Summon it. You can only use 1 "Exa, Warrior of the Nekroz" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Exa, Warrior of the Nekroz</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Tributed by a card effect: You can add 1 Dragon-Type &quot;Nekroz&quot; Ritual Monster from your Deck to your hand. If this card is banished: You can target 1 of your banished &quot;Nekroz&quot; monsters, except this card; Special Summon it. You can only use 1 &quot;Exa, Warrior of the Nekroz&quot; effect per turn, and only once that turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Pandemonium Watchbear
-Monster
-DARK
-Effect
-None
-Beast
-4
-1300
-1800
-0
-0
-None
-None
-As long as this card remains face-up on your side of the field, "Pandemonium" on your side of the field is not destroyed by your opponent's card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Pandemonium Watchbear</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on your side of the field, &quot;Pandemonium&quot; on your side of the field is not destroyed by your opponent's card effects.</text>
+</card>

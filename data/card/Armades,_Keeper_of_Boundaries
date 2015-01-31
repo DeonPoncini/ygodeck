@@ -1,14 +1,17 @@
-Armades, Keeper of Boundaries
-Monster
-LIGHT
-Synchro
-Effect
-Fiend
-5
-2300
-1500
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersIf this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Armades, Keeper of Boundaries</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersIf this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.</text>
+</card>

@@ -1,14 +1,17 @@
-Tardy Orc
-Monster
-DARK
-Effect
-None
-Fiend
-4
-2200
-0
-0
-0
-None
-None
-This card cannot attack the turn it is Normal Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Tardy Orc</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>2200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot attack the turn it is Normal Summoned.</text>
+</card>

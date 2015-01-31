@@ -1,14 +1,17 @@
-Batteryman Industrial Strength
-Monster
-LIGHT
-Effect
-None
-Thunder
-8
-2600
-0
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 2 "Batteryman" monsters from your Graveyard. Once per turn, you can remove from play 1 Thunder-Type monster from your Graveyard to destroy 1 monster and 1 Spell or Trap Card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Batteryman Industrial Strength</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 2 &quot;Batteryman&quot; monsters from your Graveyard. Once per turn, you can remove from play 1 Thunder-Type monster from your Graveyard to destroy 1 monster and 1 Spell or Trap Card on the field.</text>
+</card>

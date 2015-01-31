@@ -1,14 +1,17 @@
-Gagagabolt
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a "Gagaga" monster: Target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Gagagabolt</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Gagaga&quot; monster: Target 1 card on the field; destroy that target.</text>
+</card>

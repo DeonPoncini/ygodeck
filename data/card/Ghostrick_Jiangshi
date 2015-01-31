@@ -1,14 +1,17 @@
-Ghostrick Jiangshi
-Monster
-DARK
-Effect
-None
-Zombie
-3
-400
-1800
-0
-0
-None
-None
-Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can add from your Deck to your hand, 1 "Ghostrick" monster whose Level is less than or equal to the number of "Ghostrick" monsters you control. You can only use this effect of "Ghostrick Jiangshi" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Jiangshi</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned, unless you control a &quot;Ghostrick&quot; monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can add from your Deck to your hand, 1 &quot;Ghostrick&quot; monster whose Level is less than or equal to the number of &quot;Ghostrick&quot; monsters you control. You can only use this effect of &quot;Ghostrick Jiangshi&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Unshaven Angler
-Monster
-WATER
-Effect
-None
-Fish
-4
-1500
-1600
-0
-0
-None
-None
-When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.
+<?xml version="1.0" ?>
+<card>
+    <name>Unshaven Angler</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.</text>
+</card>

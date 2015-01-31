@@ -1,14 +1,17 @@
-Daigusto Falcos
-Monster
-WIND
-Synchro
-Effect
-Psychic
-4
-1400
-1200
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner "Gusto" monstersWhen this card is Synchro Summoned: All "Gusto" monsters currently on the field gain 600 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Daigusto Falcos</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner &quot;Gusto&quot; monstersWhen this card is Synchro Summoned: All &quot;Gusto&quot; monsters currently on the field gain 600 ATK.</text>
+</card>

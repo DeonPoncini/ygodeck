@@ -1,14 +1,17 @@
-Reanimation Wave
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when your opponent's monster declares a direct attack. Select 1 Synchro Monster in your Graveyard with a Level less than or equal to the attacking monster's. The Battle Damage you take from that attack is halved. At the end of the Damage Step, Special Summon the selected Synchro Monster from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Reanimation Wave</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when your opponent's monster declares a direct attack. Select 1 Synchro Monster in your Graveyard with a Level less than or equal to the attacking monster's. The Battle Damage you take from that attack is halved. At the end of the Damage Step, Special Summon the selected Synchro Monster from the Graveyard.</text>
+</card>

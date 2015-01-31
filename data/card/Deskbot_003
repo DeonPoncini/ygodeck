@@ -1,14 +1,17 @@
-Deskbot 003
-Monster
-EARTH
-Effect
-None
-Machine
-3
-500
-500
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 "Deskbot" monster from your Deck, except "Deskbot 003". Once per turn, during either player's turn: You can target 1 "Deskbot" monster you control; it gains 500 ATK and DEF for each "Deskbot" card you currently control, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Deskbot 003</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 &quot;Deskbot&quot; monster from your Deck, except &quot;Deskbot 003&quot;. Once per turn, during either player's turn: You can target 1 &quot;Deskbot&quot; monster you control; it gains 500 ATK and DEF for each &quot;Deskbot&quot; card you currently control, until the end of this turn.</text>
+</card>

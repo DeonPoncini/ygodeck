@@ -1,14 +1,17 @@
-Genin
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-3
-600
-900
-0
-0
-None
-None
-A creature that defeats its enemies using sleight-of-hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Genin</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A creature that defeats its enemies using sleight-of-hand.</text>
+</card>

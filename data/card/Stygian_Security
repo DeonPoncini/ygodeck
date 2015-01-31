@@ -1,14 +1,17 @@
-Stygian Security
-Monster
-DARK
-Tuner
-None
-Fiend
-1
-100
-600
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, Special Summon 1 Level 1 Fiend-Type monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Stygian Security</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, Special Summon 1 Level 1 Fiend-Type monster from your Deck.</text>
+</card>

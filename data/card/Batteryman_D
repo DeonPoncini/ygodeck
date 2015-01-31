@@ -1,14 +1,17 @@
-Batteryman D
-Monster
-LIGHT
-Effect
-None
-Thunder
-1
-0
-1900
-0
-0
-None
-None
-Your opponent cannot select a Thunder-Type monster you control as an attack target (except "Batteryman D").
+<?xml version="1.0" ?>
+<card>
+    <name>Batteryman D</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot select a Thunder-Type monster you control as an attack target (except &quot;Batteryman D&quot;).</text>
+</card>

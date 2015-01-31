@@ -1,14 +1,17 @@
-Shaddoll Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Fusion Summon 1 "Shaddoll" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If your opponent controls a monster(s) that was Special Summoned from the Extra Deck, you can also use monsters in your Deck as Fusion Material. You can only activate 1 "Shaddoll Fusion" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shaddoll Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Fusion Summon 1 &quot;Shaddoll&quot; Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If your opponent controls a monster(s) that was Special Summoned from the Extra Deck, you can also use monsters in your Deck as Fusion Material. You can only activate 1 &quot;Shaddoll Fusion&quot; per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-The Snake Hair
-Monster
-DARK
-Normal
-None
-Zombie
-4
-1500
-1200
-0
-0
-None
-None
-A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.
+<?xml version="1.0" ?>
+<card>
+    <name>The Snake Hair</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.</text>
+</card>

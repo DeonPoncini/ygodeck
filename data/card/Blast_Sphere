@@ -1,14 +1,17 @@
-Blast Sphere
-Monster
-DARK
-Effect
-None
-Machine
-4
-1400
-1400
-0
-0
-None
-None
-If this face-down Defense Position card was attacked by an opponent's monster, before damage calculation: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase, destroy the monster this card is equipped to, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Blast Sphere</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-down Defense Position card was attacked by an opponent's monster, before damage calculation: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase, destroy the monster this card is equipped to, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.</text>
+</card>

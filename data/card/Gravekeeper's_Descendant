@@ -1,14 +1,17 @@
-Gravekeeper's Descendant
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1500
-1200
-0
-0
-None
-None
-You can Tribute 1 other face-up "Gravekeeper's" monster to target 1 card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Descendant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 other face-up &quot;Gravekeeper's&quot; monster to target 1 card your opponent controls; destroy that target.</text>
+</card>

@@ -1,14 +1,17 @@
-Cursed Fig
-Monster
-WATER
-Effect
-None
-Plant
-1
-200
-200
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: Target 2 Set Spell/Trap Cards on the field; while this card is in the Graveyard, those Set cards cannot be activated.
+<?xml version="1.0" ?>
+<card>
+    <name>Cursed Fig</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: Target 2 Set Spell/Trap Cards on the field; while this card is in the Graveyard, those Set cards cannot be activated.</text>
+</card>

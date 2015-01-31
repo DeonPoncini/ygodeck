@@ -1,14 +1,17 @@
-Unleash Your Power!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-All Gemini Monsters that were on your side of the field when this card was activated are treated as Effect Monsters, and gain their effect(s). During the End Phase of this turn, Set all monsters affected by this card's effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Unleash Your Power!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>All Gemini Monsters that were on your side of the field when this card was activated are treated as Effect Monsters, and gain their effect(s). During the End Phase of this turn, Set all monsters affected by this card's effect.</text>
+</card>

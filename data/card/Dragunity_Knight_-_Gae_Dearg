@@ -1,14 +1,17 @@
-Dragunity Knight - Gae Dearg
-Monster
-WIND
-Synchro
-Effect
-Dragon
-6
-2400
-800
-0
-0
-None
-None
-1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monstersOnce per turn, during your Main Phase, you can add 1 Level 4 or lower Dragon-Type or Winged Beast-Type monster from your Deck to your hand. Then discard 1 Dragon-Type or Winged Beast-Type monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Knight - Gae Dearg</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monstersOnce per turn, during your Main Phase, you can add 1 Level 4 or lower Dragon-Type or Winged Beast-Type monster from your Deck to your hand. Then discard 1 Dragon-Type or Winged Beast-Type monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Battlin' Boxer Counterpunch
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-0
-1100
-0
-0
-None
-None
-During the Damage Step of either player's turn, when a "Battlin' Boxer" monster you control is attacking or being attacked: You can banish this card from your hand or Graveyard; that monster gains 1000 ATK, until the end of this turn. You can only use the effect of "Battlin' Boxer Counterpunch" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Battlin' Boxer Counterpunch</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During the Damage Step of either player's turn, when a &quot;Battlin' Boxer&quot; monster you control is attacking or being attacked: You can banish this card from your hand or Graveyard; that monster gains 1000 ATK, until the end of this turn. You can only use the effect of &quot;Battlin' Boxer Counterpunch&quot; once per turn.</text>
+</card>

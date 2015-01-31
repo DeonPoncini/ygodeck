@@ -1,14 +1,17 @@
-Alien Overlord
-Monster
-DARK
-Effect
-None
-Reptile
-6
-2200
-1600
-0
-0
-None
-None
-You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) You can only control 1 face-up "Alien Overlord".
+<?xml version="1.0" ?>
+<card>
+    <name>Alien Overlord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (If a monster with an A-Counter battles an &quot;Alien&quot; monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) You can only control 1 face-up &quot;Alien Overlord&quot;.</text>
+</card>

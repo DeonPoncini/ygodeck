@@ -1,14 +1,17 @@
-Karakuri Steel Shogun mdl 00X "Bureido"
-Monster
-EARTH
-Synchro
-Effect
-Machine
-8
-2800
-1700
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Machine-Type monstersWhen this card is Synchro Summoned: You can Special Summon 1 "Karakuri" monster from your Deck. Once per turn, when the battle position of a face-up "Karakuri" monster you control is changed (and remains face-up): Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Steel Shogun mdl 00X &quot;Bureido&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Machine-Type monstersWhen this card is Synchro Summoned: You can Special Summon 1 &quot;Karakuri&quot; monster from your Deck. Once per turn, when the battle position of a face-up &quot;Karakuri&quot; monster you control is changed (and remains face-up): Draw 1 card.</text>
+</card>

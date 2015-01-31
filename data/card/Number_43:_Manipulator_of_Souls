@@ -1,14 +1,17 @@
-Number 43: Manipulator of Souls
-Monster
-DARK
-Xyz
-Effect
-Fiend
-2
-0
-0
-0
-0
-None
-None
-3 Level 2 DARK monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 "Number" monster in your Graveyard; equip that target to this card. While equipped with a "Number" card, this card cannot be destroyed by battle or card effects. Once per turn, when you gain Life Points (except during the Damage Step): You can make this card gain an equal amount of ATK, also inflict that much damage to your opponent if this card is still face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 43: Manipulator of Souls</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 2 DARK monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 &quot;Number&quot; monster in your Graveyard; equip that target to this card. While equipped with a &quot;Number&quot; card, this card cannot be destroyed by battle or card effects. Once per turn, when you gain Life Points (except during the Damage Step): You can make this card gain an equal amount of ATK, also inflict that much damage to your opponent if this card is still face-up on the field.</text>
+</card>

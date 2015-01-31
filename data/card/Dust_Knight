@@ -1,14 +1,17 @@
-Dust Knight
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1400
-1200
-0
-0
-None
-None
-FLIP: Send 1 EARTH monster from your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Dust Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Send 1 EARTH monster from your Deck to the Graveyard.</text>
+</card>

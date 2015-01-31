@@ -1,14 +1,17 @@
-Gladiator Beast War Chariot
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When an Effect Monster's effect is activated, if you control a face-up "Gladiator Beast" monster: Negate the activation and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast War Chariot</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When an Effect Monster's effect is activated, if you control a face-up &quot;Gladiator Beast&quot; monster: Negate the activation and destroy it.</text>
+</card>

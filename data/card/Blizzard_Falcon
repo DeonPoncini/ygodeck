@@ -1,14 +1,17 @@
-Blizzard Falcon
-Monster
-WATER
-Effect
-None
-Winged Beast
-4
-1500
-1500
-0
-0
-None
-None
-If this card's current ATK is higher than its original ATK: You can inflict 1500 damage to your opponent. This effect can only be used once while this card is face-up on the field. You can only use the effect of "Blizzard Falcon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Blizzard Falcon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card's current ATK is higher than its original ATK: You can inflict 1500 damage to your opponent. This effect can only be used once while this card is face-up on the field. You can only use the effect of &quot;Blizzard Falcon&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Horn Imp
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1300
-1000
-0
-0
-None
-None
-A small fiend that dwells in the dark, its single horn makes it a formidable opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Horn Imp</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A small fiend that dwells in the dark, its single horn makes it a formidable opponent.</text>
+</card>

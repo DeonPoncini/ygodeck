@@ -1,14 +1,17 @@
-Gem-Knight Amethyst
-Monster
-EARTH
-Fusion
-Effect
-Aqua
-7
-1950
-2450
-0
-0
-None
-None
-1 "Gem-Knight" monster + 1 Aqua-Type monsterMust first be Fusion Summoned. When this card is sent from the field to the Graveyard: Return all Set Spell and Trap Cards on the field to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Amethyst</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>7</level>
+    <attack>1950</attack>
+    <defense>2450</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Gem-Knight&quot; monster + 1 Aqua-Type monsterMust first be Fusion Summoned. When this card is sent from the field to the Graveyard: Return all Set Spell and Trap Cards on the field to the hand.</text>
+</card>

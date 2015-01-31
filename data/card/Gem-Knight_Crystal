@@ -1,14 +1,17 @@
-Gem-Knight Crystal
-Monster
-EARTH
-Normal
-None
-Rock
-7
-2450
-1950
-0
-0
-None
-None
-A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Crystal</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>7</level>
+    <attack>2450</attack>
+    <defense>1950</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.</text>
+</card>

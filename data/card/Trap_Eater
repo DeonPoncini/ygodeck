@@ -1,14 +1,17 @@
-Trap Eater
-Monster
-DARK
-Tuner
-Effect
-Fiend
-4
-1900
-1600
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by sending 1 face-up Trap Card your opponent controls to the Graveyard, and cannot be Special Summoned by other ways.
+<?xml version="1.0" ?>
+<card>
+    <name>Trap Eater</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by sending 1 face-up Trap Card your opponent controls to the Graveyard, and cannot be Special Summoned by other ways.</text>
+</card>

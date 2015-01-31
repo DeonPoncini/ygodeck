@@ -1,14 +1,17 @@
-Re-Cover
-Monster
-EARTH
-Tuner
-Effect
-Psychic
-1
-700
-300
-0
-0
-None
-None
-If this card is in the Graveyard and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, and if you do, banish it when it leaves the field. You can only use this effect of "Re-Cover" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Re-Cover</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>1</level>
+    <attack>700</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in the Graveyard and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, and if you do, banish it when it leaves the field. You can only use this effect of &quot;Re-Cover&quot; once per turn.</text>
+</card>

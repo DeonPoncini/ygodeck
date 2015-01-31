@@ -1,14 +1,17 @@
-Barrel Lily
-Monster
-EARTH
-Normal
-None
-Plant
-3
-1100
-600
-0
-0
-None
-None
-This wicked flower attacks enemies with pollen projectiles.
+<?xml version="1.0" ?>
+<card>
+    <name>Barrel Lily</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This wicked flower attacks enemies with pollen projectiles.</text>
+</card>

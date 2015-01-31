@@ -1,14 +1,17 @@
-Regenerating Rose Token
-Monster
-DARK
-Token
-None
-Plant
-3
-1200
-1200
-0
-0
-None
-None
-This card can be used as any Token.
+<?xml version="1.0" ?>
+<card>
+    <name>Regenerating Rose Token</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used as any Token.</text>
+</card>

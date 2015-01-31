@@ -1,14 +1,17 @@
-Alien Brain
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Take control of the opponent's monster, and if you do, it becomes Reptile-Type.
+<?xml version="1.0" ?>
+<card>
+    <name>Alien Brain</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Take control of the opponent's monster, and if you do, it becomes Reptile-Type.</text>
+</card>

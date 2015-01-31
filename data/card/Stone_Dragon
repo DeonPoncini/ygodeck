@@ -1,14 +1,17 @@
-Stone Dragon
-Monster
-EARTH
-Normal
-None
-Rock
-7
-2000
-2300
-0
-0
-None
-None
-A dragon formed by huge boulders that are also used to attack the enemy.
+<?xml version="1.0" ?>
+<card>
+    <name>Stone Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>7</level>
+    <attack>2000</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dragon formed by huge boulders that are also used to attack the enemy.</text>
+</card>

@@ -1,14 +1,17 @@
-Barrier Statue of the Torrent
-Monster
-WATER
-Effect
-None
-Aqua
-4
-1000
-1000
-0
-0
-None
-None
-No monsters can be Special Summoned, except for WATER monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Barrier Statue of the Torrent</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>No monsters can be Special Summoned, except for WATER monsters.</text>
+</card>

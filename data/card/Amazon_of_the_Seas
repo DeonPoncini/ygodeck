@@ -1,14 +1,17 @@
-Amazon of the Seas
-Monster
-WATER
-Normal
-None
-Fish
-4
-1300
-1400
-0
-0
-None
-None
-A mermaid who serves as herald to the Ocean Lord. She protects the sacred domain of Atlantis.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazon of the Seas</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mermaid who serves as herald to the Ocean Lord. She protects the sacred domain of Atlantis.</text>
+</card>

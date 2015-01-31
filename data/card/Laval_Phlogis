@@ -1,14 +1,17 @@
-Laval Phlogis
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1700
-800
-0
-0
-None
-None
-When this card is sent to the Graveyard: All "Laval" monsters you currently control gain 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Phlogis</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard: All &quot;Laval&quot; monsters you currently control gain 300 ATK.</text>
+</card>

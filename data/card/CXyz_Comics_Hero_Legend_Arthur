@@ -1,14 +1,17 @@
-CXyz Comics Hero Legend Arthur
-Monster
-EARTH
-Xyz
-Effect
-Warrior
-5
-3000
-2400
-0
-0
-None
-None
-3 Level 5 monstersOnce per turn, this card cannot be destroyed by battle. If this card has "Comics Hero King Arthur" as an Xyz Material, it gains this effect.● When this card destroys a monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; banish the destroyed monster, and if you do, inflict damage to your opponent equal to its original ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>CXyz Comics Hero Legend Arthur</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>3000</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 5 monstersOnce per turn, this card cannot be destroyed by battle. If this card has &quot;Comics Hero King Arthur&quot; as an Xyz Material, it gains this effect.● When this card destroys a monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; banish the destroyed monster, and if you do, inflict damage to your opponent equal to its original ATK.</text>
+</card>

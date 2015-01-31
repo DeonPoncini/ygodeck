@@ -1,14 +1,17 @@
-Stray Lambs
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Special Summon 2 "Lamb Tokens" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).
+<?xml version="1.0" ?>
+<card>
+    <name>Stray Lambs</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon 2 &quot;Lamb Tokens&quot; (Beast-Type/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).</text>
+</card>

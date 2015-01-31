@@ -1,14 +1,17 @@
-Steel Ogre Grotto 1
-Monster
-EARTH
-Normal
-None
-Machine
-5
-1400
-1800
-0
-0
-None
-None
-A steel idol worshipped in the Land of Machines.
+<?xml version="1.0" ?>
+<card>
+    <name>Steel Ogre Grotto #1</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A steel idol worshipped in the Land of Machines.</text>
+</card>

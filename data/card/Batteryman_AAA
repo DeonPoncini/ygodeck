@@ -1,14 +1,17 @@
-Batteryman AAA
-Monster
-LIGHT
-Effect
-None
-Thunder
-4
-0
-0
-0
-0
-None
-None
-When this card is Normal Summoned or flipped face-up, you can Special Summon 1 "Batteryman AAA" from your hand or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Batteryman AAA</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned or flipped face-up, you can Special Summon 1 &quot;Batteryman AAA&quot; from your hand or Graveyard.</text>
+</card>

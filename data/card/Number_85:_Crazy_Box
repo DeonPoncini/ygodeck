@@ -1,14 +1,17 @@
-Number 85: Crazy Box
-Monster
-DARK
-Xyz
-Effect
-Fiend
-4
-3000
-300
-0
-0
-None
-None
-2 Level 4 monstersThis card cannot attack. Once per turn: You can detach 1 Xyz Material from this card; roll a six-sided die and apply the result.1: Halve your Life Points. 2: Draw 1 card.3: Your opponent discards 1 card.4: Negate the effects of 1 face-up card on the field, until the end of this turn.5: Destroy 1 card on the field. 6: Destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 85: Crazy Box</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>3000</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersThis card cannot attack. Once per turn: You can detach 1 Xyz Material from this card; roll a six-sided die and apply the result.1: Halve your Life Points. 2: Draw 1 card.3: Your opponent discards 1 card.4: Negate the effects of 1 face-up card on the field, until the end of this turn.5: Destroy 1 card on the field. 6: Destroy this card.</text>
+</card>

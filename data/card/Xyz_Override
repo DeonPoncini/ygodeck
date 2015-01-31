@@ -1,14 +1,17 @@
-Xyz Override
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-If an Xyz Monster on the field would activate its effect by detaching its own Xyz Material(s), its controller can banish 1 card from their hand face-down instead of detaching 1 of those Xyz Materials. Each player can only use this effect once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Xyz Override</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>If an Xyz Monster on the field would activate its effect by detaching its own Xyz Material(s), its controller can banish 1 card from their hand face-down instead of detaching 1 of those Xyz Materials. Each player can only use this effect once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Saphira the Dragon Princess
-Monster
-LIGHT
-Ritual
-Effect
-Dragon
-6
-2500
-2400
-0
-0
-None
-None
-You can Ritual Summon this card with "Hymn of Light". During the End Phase, if this card was Ritual Summoned this turn, or if a LIGHT monster was sent from the hand or Deck to the Graveyard this turn while this card was face-up on the field: You can activate 1 of these effects;● Draw 2 cards, then discard 1 card.● Discard 1 random card from your opponent's hand.● Add 1 LIGHT monster from your Graveyard to your hand.You can only use 1 "Saffira, Queen of Dragons" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Saffira, Queen of Dragons</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;Hymn of Light&quot;. During the End Phase, if this card was Ritual Summoned this turn, or if a LIGHT monster was sent from the hand or Deck to the Graveyard this turn while this card was face-up on the field: You can activate 1 of these effects;● Draw 2 cards, then discard 1 card.● Discard 1 random card from your opponent's hand.● Add 1 LIGHT monster from your Graveyard to your hand.You can only use 1 &quot;Saffira, Queen of Dragons&quot; effect per turn, and only once that turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Megazowler
-Monster
-EARTH
-Normal
-None
-Dinosaur
-6
-1800
-2000
-0
-0
-None
-None
-Nothing stands in the way of this spike-covered dinosaur!
+<?xml version="1.0" ?>
+<card>
+    <name>Megazowler</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Nothing stands in the way of this spike-covered dinosaur!</text>
+</card>

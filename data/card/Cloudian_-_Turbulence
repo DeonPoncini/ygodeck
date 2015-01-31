@@ -1,14 +1,17 @@
-Cloudian - Turbulence
-Monster
-WATER
-Effect
-None
-Fairy
-4
-800
-0
-0
-0
-None
-None
-This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each "Cloudian" monster on the field. You can remove 1 Fog Counter from this card to Special Summon 1 "Cloudian - Smoke Ball" from your Deck or from either player's Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Cloudian - Turbulence</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each &quot;Cloudian&quot; monster on the field. You can remove 1 Fog Counter from this card to Special Summon 1 &quot;Cloudian - Smoke Ball&quot; from your Deck or from either player's Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Arsenal Summoner
-Monster
-WIND
-Effect
-None
-Spellcaster
-4
-1600
-1600
-0
-0
-None
-None
-FLIP: Add 1 "Guardian" card from your Deck to your hand, except "Celtic Guardian", "Winged Dragon, Guardian of the Fortress #1", "Winged Dragon, Guardian of the Fortress #2", "Guardian of the Labyrinth", or "The Reliable Guardian".
+<?xml version="1.0" ?>
+<card>
+    <name>Arsenal Summoner</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Add 1 &quot;Guardian&quot; card from your Deck to your hand, except &quot;Celtic Guardian&quot;, &quot;Winged Dragon, Guardian of the Fortress #1&quot;, &quot;Winged Dragon, Guardian of the Fortress #2&quot;, &quot;Guardian of the Labyrinth&quot;, or &quot;The Reliable Guardian&quot;.</text>
+</card>

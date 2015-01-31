@@ -1,14 +1,17 @@
-Number 14: Greedy Sarameya
-Monster
-DARK
-Xyz
-Effect
-Beast
-5
-2500
-1500
-0
-0
-None
-None
-2 Level 5 monstersYour opponent takes any effect damage you would have taken from their card effects, instead. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; destroy all monsters on the field with ATK equal to or less than the destroyed monster's original ATK in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 14: Greedy Sarameya</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 monstersYour opponent takes any effect damage you would have taken from their card effects, instead. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; destroy all monsters on the field with ATK equal to or less than the destroyed monster's original ATK in the Graveyard.</text>
+</card>

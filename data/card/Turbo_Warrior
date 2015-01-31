@@ -1,14 +1,17 @@
-Turbo Warrior
-Monster
-WIND
-Synchro
-Effect
-Warrior
-6
-2500
-1500
-0
-0
-None
-None
-"Turbo Synchron" + 1 or more non-Tuner monstersWhen this card attacks a Level 6 or higher Synchro Monster: Halve the ATK of the attack target until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Turbo Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Turbo Synchron&quot; + 1 or more non-Tuner monstersWhen this card attacks a Level 6 or higher Synchro Monster: Halve the ATK of the attack target until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.</text>
+</card>

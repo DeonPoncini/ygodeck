@@ -1,14 +1,17 @@
-Jurrac Aeolo
-Monster
-FIRE
-Tuner
-None
-Dinosaur
-1
-200
-200
-0
-0
-None
-None
-You can Tribute this card to select 1 Level 4 or lower "Jurrac" monster in your Graveyard, except "Jurrac Aeolo". Special Summon that monster from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Aeolo</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card to select 1 Level 4 or lower &quot;Jurrac&quot; monster in your Graveyard, except &quot;Jurrac Aeolo&quot;. Special Summon that monster from the Graveyard.</text>
+</card>

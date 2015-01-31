@@ -1,14 +1,17 @@
-Cobra Jar
-Monster
-EARTH
-Effect
-None
-Reptile
-2
-600
-300
-0
-0
-None
-None
-FLIP: Special Summon 1 "Poisonous Snake Token" (Reptile-Type/EARTH/3 Stars/ATK 1200/DEF 1200). When the "Poisonous Snake Token" is destroyed as a result of battle, inflict 500 points of damage to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Cobra Jar</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Special Summon 1 &quot;Poisonous Snake Token&quot; (Reptile-Type/EARTH/3 Stars/ATK 1200/DEF 1200). When the &quot;Poisonous Snake Token&quot; is destroyed as a result of battle, inflict 500 points of damage to your opponent's Life Points.</text>
+</card>

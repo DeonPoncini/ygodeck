@@ -1,14 +1,17 @@
-Blade Rabbit
-Monster
-EARTH
-Effect
-None
-Beast
-2
-400
-300
-0
-0
-None
-None
-When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Blade Rabbit</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent's side of the field.</text>
+</card>

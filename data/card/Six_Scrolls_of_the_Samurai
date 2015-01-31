@@ -1,14 +1,17 @@
-Six Scrolls of the Samurai
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Tribute 2 face-up "Six Samurai" monsters. Special Summon 1 "Great Shogun Shien" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Six Scrolls of the Samurai</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 2 face-up &quot;Six Samurai&quot; monsters. Special Summon 1 &quot;Great Shogun Shien&quot; from your Deck.</text>
+</card>

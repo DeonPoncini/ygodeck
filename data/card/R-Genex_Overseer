@@ -1,14 +1,17 @@
-R-Genex Overseer
-Monster
-DARK
-Tuner
-None
-Spellcaster
-2
-200
-100
-0
-0
-None
-None
-When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower "Genex" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>R-Genex Overseer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower &quot;Genex&quot; monster from your hand.</text>
+</card>

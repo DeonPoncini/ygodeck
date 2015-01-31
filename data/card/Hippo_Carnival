@@ -1,14 +1,17 @@
-Hippo Carnival
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Special Summon 3 "Hippo Tokens" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a "Hippo Token" is in a Monster Zone. After this card is activated, your opponent cannot target monsters for attacks for the rest of this turn, except "Hippo Tokens".
+<?xml version="1.0" ?>
+<card>
+    <name>Hippo Carnival</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon 3 &quot;Hippo Tokens&quot; (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a &quot;Hippo Token&quot; is in a Monster Zone. After this card is activated, your opponent cannot target monsters for attacks for the rest of this turn, except &quot;Hippo Tokens&quot;.</text>
+</card>

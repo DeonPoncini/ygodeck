@@ -1,14 +1,17 @@
-Lavalval Ignis
-Monster
-FIRE
-Xyz
-Effect
-Warrior
-3
-1800
-1400
-0
-0
-None
-None
-2 Level 3 monstersIf this card attacks or is attacked, during the Damage Step (in either player's turn): You can detach 1 Xyz Material from this card once per battle; this card gains 500 ATK until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Lavalval Ignis</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1800</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 monstersIf this card attacks or is attacked, during the Damage Step (in either player's turn): You can detach 1 Xyz Material from this card once per battle; this card gains 500 ATK until the end of this turn.</text>
+</card>

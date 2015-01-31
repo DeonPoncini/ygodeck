@@ -1,14 +1,17 @@
-Senri Eye
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn, during each of your Standby Phases, you can pay 100 Life Points to look at 1 card on the top of your opponent's Deck and return it to its original position. Your opponent cannot look at the card.
+<?xml version="1.0" ?>
+<card>
+    <name>Senri Eye</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during each of your Standby Phases, you can pay 100 Life Points to look at 1 card on the top of your opponent's Deck and return it to its original position. Your opponent cannot look at the card.</text>
+</card>

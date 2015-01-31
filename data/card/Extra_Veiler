@@ -1,14 +1,17 @@
-Extra Veiler
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-2
-600
-200
-0
-0
-None
-None
-When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Extra Veiler</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.</text>
+</card>

@@ -1,14 +1,17 @@
-Mermaid Knight
-Monster
-WATER
-Effect
-None
-Aqua
-4
-1500
-700
-0
-0
-None
-None
-While "Umi" is face-up on the field, this card can attack twice during the same Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Mermaid Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While &quot;Umi&quot; is face-up on the field, this card can attack twice during the same Battle Phase.</text>
+</card>

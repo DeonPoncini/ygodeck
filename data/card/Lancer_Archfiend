@@ -1,14 +1,17 @@
-Lancer Archfiend
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1600
-1400
-0
-0
-None
-None
-Once per turn, when a monster you control declares an attack targeting a Defense Position monster your opponent controls, you can activate this effect. If you do, during this battle, if the ATK of the attacking monster is greater than the DEF of the Defense Position monster it battles, inflict the difference as Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Lancer Archfiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when a monster you control declares an attack targeting a Defense Position monster your opponent controls, you can activate this effect. If you do, during this battle, if the ATK of the attacking monster is greater than the DEF of the Defense Position monster it battles, inflict the difference as Battle Damage to your opponent.</text>
+</card>

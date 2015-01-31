@@ -1,14 +1,17 @@
-Lesser Fiend
-Monster
-DARK
-Effect
-None
-Fiend
-5
-2100
-1000
-0
-0
-None
-None
-(This card is always treated as an "Archfiend" card.)Banish any monster destroyed by battle with this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Lesser Fiend</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>(This card is always treated as an &quot;Archfiend&quot; card.)Banish any monster destroyed by battle with this card.</text>
+</card>

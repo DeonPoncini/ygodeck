@@ -1,14 +1,17 @@
-Number 96: Dark Mist
-Monster
-DARK
-Xyz
-Effect
-Fiend
-2
-100
-1000
-0
-0
-None
-None
-3 Level 2 monstersOnce per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 96: Dark Mist</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 2 monstersOnce per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-Iron Chain Dragon
-Monster
-EARTH
-Synchro
-Effect
-Dragon
-6
-2500
-1300
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersYou can remove from play all "Iron Chain" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Iron Chain Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersYou can remove from play all &quot;Iron Chain&quot; monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Batteryman C
-Monster
-LIGHT
-Effect
-None
-Thunder
-2
-0
-0
-0
-0
-None
-None
-If all "Batteryman C"(s) you control are in Attack Position, all Machine-Type monsters you control gain 500 ATK for each "Batteryman C" you control. If all "Batteryman C"(s) you control are in Defense Position, all Machine-Type monsters you control gain 500 DEF for each "Batteryman C" you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Batteryman C</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If all &quot;Batteryman C&quot;(s) you control are in Attack Position, all Machine-Type monsters you control gain 500 ATK for each &quot;Batteryman C&quot; you control. If all &quot;Batteryman C&quot;(s) you control are in Defense Position, all Machine-Type monsters you control gain 500 DEF for each &quot;Batteryman C&quot; you control.</text>
+</card>

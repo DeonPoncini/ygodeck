@@ -1,14 +1,17 @@
-Headless Knight
-Monster
-EARTH
-Normal
-None
-Fiend
-4
-1450
-1700
-0
-0
-None
-None
-A haunted spirit of a falsely accused knight who wanders in search of truth and justice.
+<?xml version="1.0" ?>
+<card>
+    <name>Headless Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1450</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A haunted spirit of a falsely accused knight who wanders in search of truth and justice.</text>
+</card>

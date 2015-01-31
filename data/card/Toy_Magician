@@ -1,14 +1,17 @@
-Toy Magician
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-4
-1600
-1500
-0
-0
-None
-None
-You can Set this card face-down in your Spell & Trap Card Zone as a Spell Card. If this face-down card in your Spell & Trap Card Zone is destroyed by an opponent's card effect and sent to the Graveyard, Special Summon it during the End Phase. When this card is Flip Summoned, destroy Spell or Trap Cards on the field equal to the number of "Toy Magicians" on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Toy Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Set this card face-down in your Spell &amp; Trap Card Zone as a Spell Card. If this face-down card in your Spell &amp; Trap Card Zone is destroyed by an opponent's card effect and sent to the Graveyard, Special Summon it during the End Phase. When this card is Flip Summoned, destroy Spell or Trap Cards on the field equal to the number of &quot;Toy Magicians&quot; on the field.</text>
+</card>

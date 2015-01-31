@@ -1,14 +1,17 @@
-Power Capsule
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 face-up "Victory Viper XX03" on your side of the field to activate this card. Select 1 effect of "Victory Viper XX03", and apply the effect as this card's effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Power Capsule</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 face-up &quot;Victory Viper XX03&quot; on your side of the field to activate this card. Select 1 effect of &quot;Victory Viper XX03&quot;, and apply the effect as this card's effect.</text>
+</card>

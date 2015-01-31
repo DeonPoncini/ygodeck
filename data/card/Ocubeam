@@ -1,14 +1,17 @@
-Ocubeam
-Monster
-LIGHT
-Normal
-None
-Fairy
-5
-1550
-1650
-0
-0
-None
-None
-Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.
+<?xml version="1.0" ?>
+<card>
+    <name>Ocubeam</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>1550</attack>
+    <defense>1650</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.</text>
+</card>

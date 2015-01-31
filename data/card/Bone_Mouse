@@ -1,14 +1,17 @@
-Bone Mouse
-Monster
-DARK
-Normal
-None
-Zombie
-1
-400
-300
-0
-0
-None
-None
-A mouse that has returned as a zombie to seek revenge on cats.
+<?xml version="1.0" ?>
+<card>
+    <name>Bone Mouse</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mouse that has returned as a zombie to seek revenge on cats.</text>
+</card>

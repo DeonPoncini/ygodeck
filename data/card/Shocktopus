@@ -1,14 +1,17 @@
-Shocktopus
-Monster
-WATER
-Effect
-None
-Fish
-4
-1600
-800
-0
-0
-None
-None
-When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Shocktopus</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.</text>
+</card>

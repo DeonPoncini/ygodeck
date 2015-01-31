@@ -1,14 +1,17 @@
-Divine Punishment
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Activate only if "The Sanctuary in the Sky" is face-up on the field. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card.
+<?xml version="1.0" ?>
+<card>
+    <name>Divine Punishment</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Activate only if &quot;The Sanctuary in the Sky&quot; is face-up on the field. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card.</text>
+</card>

@@ -1,14 +1,17 @@
-Number 30: Acid Golem of Destruction
-Monster
-WATER
-Xyz
-Effect
-Rock
-3
-3000
-3000
-0
-0
-None
-None
-2 Level 3 monstersDuring your Standby Phase: Detach 1 Xyz Material from this card or take 2000 damage. You cannot Special Summon any monsters. While this card has no Xyz Materials, it cannot attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 30: Acid Golem of Destruction</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>3000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 3 monstersDuring your Standby Phase: Detach 1 Xyz Material from this card or take 2000 damage. You cannot Special Summon any monsters. While this card has no Xyz Materials, it cannot attack.</text>
+</card>

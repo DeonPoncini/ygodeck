@@ -1,14 +1,17 @@
-Charubin the Fire Knight
-Monster
-FIRE
-Fusion
-None
-Pyro
-3
-1100
-800
-0
-0
-None
-None
-"Monster Egg" + "Hinotama Soul"
+<?xml version="1.0" ?>
+<card>
+    <name>Charubin the Fire Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Monster Egg&quot; + &quot;Hinotama Soul&quot;</text>
+</card>

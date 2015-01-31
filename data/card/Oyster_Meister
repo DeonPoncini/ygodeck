@@ -1,14 +1,17 @@
-Oyster Meister
-Monster
-WATER
-Effect
-None
-Fish
-3
-1600
-200
-0
-0
-None
-None
-When this card is sent from the field to the Graveyard, except when destroyed by battle, Special Summon 1 "Oyster Token" (Fish-Type/WATER/Level 1/ATK 0/DEF 0).
+<?xml version="1.0" ?>
+<card>
+    <name>Oyster Meister</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent from the field to the Graveyard, except when destroyed by battle, Special Summon 1 &quot;Oyster Token&quot; (Fish-Type/WATER/Level 1/ATK 0/DEF 0).</text>
+</card>

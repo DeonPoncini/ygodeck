@@ -1,14 +1,17 @@
-Baby Raccoon Tantan
-Monster
-EARTH
-Flip
-Effect
-Beast
-2
-0
-800
-0
-0
-None
-None
-FLIP: Special Summon 1 Level 2 Beast-Type monster from your Deck, except "Baby Raccoon Tantan".
+<?xml version="1.0" ?>
+<card>
+    <name>Baby Raccoon Tantan</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Special Summon 1 Level 2 Beast-Type monster from your Deck, except &quot;Baby Raccoon Tantan&quot;.</text>
+</card>

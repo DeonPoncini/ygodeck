@@ -1,14 +1,17 @@
-Pestilence
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Warrior, Beast-Warrior, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Pestilence</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Warrior, Beast-Warrior, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.</text>
+</card>

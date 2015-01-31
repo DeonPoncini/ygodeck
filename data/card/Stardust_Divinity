@@ -1,14 +1,17 @@
-Stardust Divinity
-Monster
-LIGHT
-Synchro
-Effect
-Fairy
-10
-3000
-3000
-0
-0
-None
-None
-1 LIGHT Tuner + 2 or more non-Tuner Fairy-Type monstersThis card cannot be Special Summoned except by Synchro Summon. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Stardust Divinity</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 LIGHT Tuner + 2 or more non-Tuner Fairy-Type monstersThis card cannot be Special Summoned except by Synchro Summon. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.</text>
+</card>

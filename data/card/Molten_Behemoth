@@ -1,14 +1,17 @@
-Molten Behemoth
-Monster
-FIRE
-Normal
-None
-Pyro
-5
-1000
-2200
-0
-0
-None
-None
-A giant born from magma, it attacks with a magma punch.
+<?xml version="1.0" ?>
+<card>
+    <name>Molten Behemoth</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A giant born from magma, it attacks with a magma punch.</text>
+</card>

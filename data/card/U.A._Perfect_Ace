@@ -1,14 +1,17 @@
-U.A. Perfect Ace
-Monster
-EARTH
-Effect
-None
-Warrior
-5
-1500
-2500
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by returning 1 "U.A." monster you control to the hand, except "U.A. Perfect Ace". You can only Special Summon "U.A. Perfect Ace" once per turn this way. Once per turn, during your opponent's turn, when a card or effect is activated: You can discard 1 card; negate that activation, and if you do, destroy it (this is a Quick Effect).
+<?xml version="1.0" ?>
+<card>
+    <name>U.A. Perfect Ace</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1500</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by returning 1 &quot;U.A.&quot; monster you control to the hand, except &quot;U.A. Perfect Ace&quot;. You can only Special Summon &quot;U.A. Perfect Ace&quot; once per turn this way. Once per turn, during your opponent's turn, when a card or effect is activated: You can discard 1 card; negate that activation, and if you do, destroy it (this is a Quick Effect).</text>
+</card>

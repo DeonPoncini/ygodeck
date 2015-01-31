@@ -1,14 +1,17 @@
-Alien Kid
-Monster
-LIGHT
-Effect
-None
-Reptile
-4
-1600
-700
-0
-0
-None
-None
-Place 1 A-Counter on all monsters Special Summoned to your opponent's side of the field. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)
+<?xml version="1.0" ?>
+<card>
+    <name>Alien Kid</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Place 1 A-Counter on all monsters Special Summoned to your opponent's side of the field. (If a monster with an A-Counter battles an &quot;Alien&quot; monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)</text>
+</card>

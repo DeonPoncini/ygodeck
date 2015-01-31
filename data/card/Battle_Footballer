@@ -1,14 +1,17 @@
-Battle Footballer
-Monster
-FIRE
-Normal
-None
-Machine
-4
-1000
-2100
-0
-0
-None
-None
-A cyborg with high defense power. Originally it was invented for a football machine.
+<?xml version="1.0" ?>
+<card>
+    <name>Battle Footballer</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A cyborg with high defense power. Originally it was invented for a football machine.</text>
+</card>

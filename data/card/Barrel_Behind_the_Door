@@ -1,14 +1,17 @@
-Barrel Behind the Door
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Barrel Behind the Door</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.</text>
+</card>

@@ -1,14 +1,17 @@
-Warm Worm
-Monster
-FIRE
-Effect
-None
-Insect
-3
-600
-1400
-0
-0
-None
-None
-If this card is destroyed, send the top 3 cards of your opponent's Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Warm Worm</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is destroyed, send the top 3 cards of your opponent's Deck to the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Destiny HERO - Dogma
-Monster
-DARK
-Effect
-None
-Warrior
-8
-3400
-2400
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 "Destiny HERO" monster, and cannot be Special Summoned by other ways. If you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it: Halve your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Dogma</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>3400</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 &quot;Destiny HERO&quot; monster, and cannot be Special Summoned by other ways. If you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it: Halve your opponent's Life Points.</text>
+</card>

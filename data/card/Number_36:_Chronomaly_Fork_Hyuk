@@ -1,14 +1,17 @@
-Number 36: Chronomaly Fork Hyuk
-Monster
-LIGHT
-Xyz
-Effect
-Machine
-4
-2000
-2500
-0
-0
-None
-None
-2 Level 4 "Chronomaly" monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; that monster's ATK becomes 0 until the end of this turn. You can Tribute 1 "Chronomaly" monster, then target 1 monster your opponent controls whose current ATK is different from its original ATK; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 36: Chronomaly Fork Hyuk</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 &quot;Chronomaly&quot; monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; that monster's ATK becomes 0 until the end of this turn. You can Tribute 1 &quot;Chronomaly&quot; monster, then target 1 monster your opponent controls whose current ATK is different from its original ATK; destroy that target.</text>
+</card>

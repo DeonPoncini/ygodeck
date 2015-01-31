@@ -1,14 +1,17 @@
-Chrysalis Chicky
-Monster
-WIND
-Effect
-None
-Winged Beast
-2
-600
-400
-0
-0
-None
-None
-You can Tribute this card while "Neo Space" is on the field to Special Summon 1 "Neo-Spacian Air Hummingbird" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Chrysalis Chicky</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card while &quot;Neo Space&quot; is on the field to Special Summon 1 &quot;Neo-Spacian Air Hummingbird&quot; from your hand or Deck.</text>
+</card>

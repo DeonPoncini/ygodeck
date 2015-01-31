@@ -1,14 +1,17 @@
-Gemini Summoner
-Monster
-WATER
-Effect
-None
-Spellcaster
-4
-1500
-0
-0
-0
-None
-None
-Once per turn, during your opponent's End Phase, you can pay 500 Life Points to Normal Summon or Set 1 Gemini monster from your hand, or Normal Summon 1 face-up Gemini monster you control. Once per turn, if this card would be destroyed by battle, it is not destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Gemini Summoner</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your opponent's End Phase, you can pay 500 Life Points to Normal Summon or Set 1 Gemini monster from your hand, or Normal Summon 1 face-up Gemini monster you control. Once per turn, if this card would be destroyed by battle, it is not destroyed.</text>
+</card>

@@ -1,14 +1,17 @@
-Gravekeeper's Ambusher
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1700
-0
-0
-0
-None
-None
-When this card is flipped face-up: You can target 1 card in your opponent's Graveyard; place that target on the bottom of their Deck. If this card is sent from the field to the Graveyard after being flipped face-up: You can target 1 "Necrovalley" card in your Graveyard; add that target to your hand. This card's effects cannot be negated by the effect of "Necrovalley".
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Ambusher</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is flipped face-up: You can target 1 card in your opponent's Graveyard; place that target on the bottom of their Deck. If this card is sent from the field to the Graveyard after being flipped face-up: You can target 1 &quot;Necrovalley&quot; card in your Graveyard; add that target to your hand. This card's effects cannot be negated by the effect of &quot;Necrovalley&quot;.</text>
+</card>

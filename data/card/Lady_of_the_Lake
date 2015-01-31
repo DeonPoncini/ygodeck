@@ -1,14 +1,17 @@
-Lady of the Lake
-Monster
-LIGHT
-Tuner
-Effect
-Aqua
-1
-200
-1800
-0
-0
-None
-None
-Cannot be used as a Synchro Material, except for the Synchro Summon of a Warrior-Type monster. If this card is used for a Synchro Summon, banish it. When this card is Normal Summoned: You can target 1 "Noble Knight" Normal Monster in your Graveyard; Special Summon that target. If this card is in your Graveyard: You can target 1 Level 5 "Noble Knight" monster you control; reduce its Level by 1, and if you do, Special Summon this card from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Lady of the Lake</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Synchro Material, except for the Synchro Summon of a Warrior-Type monster. If this card is used for a Synchro Summon, banish it. When this card is Normal Summoned: You can target 1 &quot;Noble Knight&quot; Normal Monster in your Graveyard; Special Summon that target. If this card is in your Graveyard: You can target 1 Level 5 &quot;Noble Knight&quot; monster you control; reduce its Level by 1, and if you do, Special Summon this card from the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Heroic Champion - Kusanagi
-Monster
-EARTH
-Xyz
-Effect
-Warrior
-4
-2500
-2400
-0
-0
-None
-None
-3 Level 4 Warrior-Type monstersOnce per turn, during either player's turn, when a Trap Card is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it, then this card gains 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Heroic Champion - Kusanagi</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 Warrior-Type monstersOnce per turn, during either player's turn, when a Trap Card is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it, then this card gains 500 ATK.</text>
+</card>

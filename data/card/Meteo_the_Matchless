@@ -1,14 +1,17 @@
-Meteo the Matchless
-Monster
-DARK
-Effect
-None
-Beast-Warrior
-8
-2400
-2000
-0
-0
-None
-None
-This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Beast-Warrior-Type monsters on your side of the field as Tributes. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Meteo the Matchless</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>8</level>
+    <attack>2400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Beast-Warrior-Type monsters on your side of the field as Tributes. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.</text>
+</card>

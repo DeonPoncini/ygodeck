@@ -1,14 +1,17 @@
-UFOroid Fighter
-Monster
-LIGHT
-Fusion
-Effect
-Machine
-10
-?
-?
-0
-0
-None
-None
-"UFOroid" + 1 Warrior-Type monsterA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card.
+<?xml version="1.0" ?>
+<card>
+    <name>UFOroid Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;UFOroid&quot; + 1 Warrior-Type monsterA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card.</text>
+</card>

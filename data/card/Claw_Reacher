@@ -1,14 +1,17 @@
-Claw Reacher
-Monster
-DARK
-Normal
-None
-Fiend
-3
-1000
-800
-0
-0
-None
-None
-Stretching arms and razor-sharp claws make this monster a formidable opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Claw Reacher</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Stretching arms and razor-sharp claws make this monster a formidable opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Synchro Soldier
-Monster
-EARTH
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-Once per turn, during your Main Phase 1, you can select 1 face-up Synchro Monster you control. Remove that face-up Synchro Monster you control from play and inflict 600 damage to your opponent. If you use this effect, during your next Standby Phase the removed from play monster returns to the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Synchro Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase 1, you can select 1 face-up Synchro Monster you control. Remove that face-up Synchro Monster you control from play and inflict 600 damage to your opponent. If you use this effect, during your next Standby Phase the removed from play monster returns to the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Cryomancer of the Ice Barrier
-Monster
-WATER
-Tuner
-None
-Aqua
-2
-1300
-0
-0
-0
-None
-None
-While you control another "Ice Barrier" monster, Level 4 or higher monsters cannot declare an attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Cryomancer of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>1300</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control another &quot;Ice Barrier&quot; monster, Level 4 or higher monsters cannot declare an attack.</text>
+</card>

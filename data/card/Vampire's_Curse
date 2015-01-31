@@ -1,14 +1,17 @@
-Vampire's Curse
-Monster
-DARK
-Effect
-None
-Zombie
-6
-2000
-800
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Vampire's Curse</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.</text>
+</card>

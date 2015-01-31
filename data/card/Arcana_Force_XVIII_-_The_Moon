@@ -1,14 +1,17 @@
-Arcana Force XVIII - The Moon
-Monster
-LIGHT
-Effect
-None
-Fairy
-7
-2800
-2800
-0
-0
-None
-None
-When this card is Summoned, toss a coin: ● Heads: During your Standby Phase, you can Special Summon 1 "Moon Token" (Fairy-Type/LIGHT/Level 1/ATK 0/DEF 0). ● Tails: During each of your End Phases, select 1 monster you control and give control of it to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcana Force XVIII - The Moon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2800</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, toss a coin: ● Heads: During your Standby Phase, you can Special Summon 1 &quot;Moon Token&quot; (Fairy-Type/LIGHT/Level 1/ATK 0/DEF 0). ● Tails: During each of your End Phases, select 1 monster you control and give control of it to your opponent.</text>
+</card>

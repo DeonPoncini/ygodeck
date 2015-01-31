@@ -1,14 +1,17 @@
-Rank-Up-Magic Argent Chaos Force
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 Rank 5 or higher Xyz Monster you control; Special Summon from your Extra Deck, 1 "Number C" or "CXyz" monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) When a Rank 5 or higher Xyz Monster is Special Summoned to your side of the field while this card is in your Graveyard (except during the Damage Step): You can add this card from your Graveyard to your hand. You can only use this effect of "Rank-Up-Magic Argent Chaos Force" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Rank-Up-Magic Argent Chaos Force</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Rank 5 or higher Xyz Monster you control; Special Summon from your Extra Deck, 1 &quot;Number C&quot; or &quot;CXyz&quot; monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) When a Rank 5 or higher Xyz Monster is Special Summoned to your side of the field while this card is in your Graveyard (except during the Damage Step): You can add this card from your Graveyard to your hand. You can only use this effect of &quot;Rank-Up-Magic Argent Chaos Force&quot; once per Duel.</text>
+</card>

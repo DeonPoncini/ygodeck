@@ -1,14 +1,17 @@
-Clear Wing Synchro Dragon
-Monster
-WIND
-Synchro
-Effect
-Dragon
-7
-2500
-2000
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersOnce per turn, during either player's turn, when another Level 5 or higher monster on the field activates its effect: You can negate the activation, and if you do, destroy it. Once per turn, during either player's turn, when a monster effect is activated that targets exactly 1 Level 5 or higher monster on the field (and no other cards): You can negate the activation, and if you do, destroy it. If this card destroys a monster by its own effect: It gains ATK equal to the destroyed monster's original ATK, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Clear Wing Synchro Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersOnce per turn, during either player's turn, when another Level 5 or higher monster on the field activates its effect: You can negate the activation, and if you do, destroy it. Once per turn, during either player's turn, when a monster effect is activated that targets exactly 1 Level 5 or higher monster on the field (and no other cards): You can negate the activation, and if you do, destroy it. If this card destroys a monster by its own effect: It gains ATK equal to the destroyed monster's original ATK, until the end of this turn.</text>
+</card>

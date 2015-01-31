@@ -1,14 +1,17 @@
-Ancient Elf
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-4
-1450
-1200
-0
-0
-None
-None
-This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Elf</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1450</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.</text>
+</card>

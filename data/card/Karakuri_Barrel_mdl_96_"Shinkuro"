@@ -1,14 +1,17 @@
-Karakuri Barrel mdl 96 "Shinkuro"
-Monster
-EARTH
-Tuner
-None
-Machine
-2
-400
-400
-0
-0
-None
-None
-This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. Once per turn, this card cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Barrel mdl 96 &quot;Shinkuro&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. Once per turn, this card cannot be destroyed by battle.</text>
+</card>

@@ -1,14 +1,17 @@
-Roboyarou
-Monster
-EARTH
-Normal
-None
-Machine
-3
-900
-450
-0
-0
-None
-None
-A warrior fully covered with metal. It upgrades by fusing with "Robolady".
+<?xml version="1.0" ?>
+<card>
+    <name>Roboyarou</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>450</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A warrior fully covered with metal. It upgrades by fusing with &quot;Robolady&quot;.</text>
+</card>

@@ -1,14 +1,17 @@
-Dark Rebellion Xyz Dragon
-Monster
-DARK
-Xyz
-Effect
-Dragon
-4
-2500
-2000
-0
-0
-None
-None
-2 Level 4 monstersYou can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Rebellion Xyz Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersYou can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-Winged Rhynos
-Monster
-WIND
-Effect
-None
-Beast-Warrior
-4
-1800
-500
-0
-0
-None
-None
-During either player's turn, when a Trap Card is activated (except during the Damage Step): You can return this face-up card from the field to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Winged Rhynos</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn, when a Trap Card is activated (except during the Damage Step): You can return this face-up card from the field to the hand.</text>
+</card>

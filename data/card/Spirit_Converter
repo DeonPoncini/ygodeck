@@ -1,14 +1,17 @@
-Spirit Converter
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn: You can target 1 Xyz Monster you control; attach 1 Level 4 LIGHT monster you control to that target as an Xyz Material. When this card is sent from the field to the Graveyard: Target 2 Level 4 LIGHT Thunder-Type monsters with the same name in your Graveyard; add those targets to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit Converter</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 Xyz Monster you control; attach 1 Level 4 LIGHT monster you control to that target as an Xyz Material. When this card is sent from the field to the Graveyard: Target 2 Level 4 LIGHT Thunder-Type monsters with the same name in your Graveyard; add those targets to your hand.</text>
+</card>

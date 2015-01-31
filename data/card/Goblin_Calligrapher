@@ -1,14 +1,17 @@
-Goblin Calligrapher
-Monster
-DARK
-Normal
-None
-Fiend
-1
-400
-400
-0
-0
-None
-None
-A Goblin who devotes himself to mastering perfect calligraphy of the word "False". He gives his all to each stroke.
+<?xml version="1.0" ?>
+<card>
+    <name>Goblin Calligrapher</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A Goblin who devotes himself to mastering perfect calligraphy of the word &quot;False&quot;. He gives his all to each stroke.</text>
+</card>

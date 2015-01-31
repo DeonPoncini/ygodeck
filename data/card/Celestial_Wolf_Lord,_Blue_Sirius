@@ -1,14 +1,17 @@
-Celestial Wolf Lord, Blue Sirius
-Monster
-DARK
-Synchro
-Effect
-Beast-Warrior
-6
-2400
-1500
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen this card on the field is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 2400 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Celestial Wolf Lord, Blue Sirius</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen this card on the field is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 2400 ATK.</text>
+</card>

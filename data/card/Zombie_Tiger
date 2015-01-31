@@ -1,14 +1,17 @@
-Zombie Tiger
-Monster
-EARTH
-Union
-None
-Zombie
-3
-1400
-1600
-0
-0
-None
-None
-Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Decayed Commander" as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 500 points, and each time it destroys 1 of your opponent's monsters, your opponent discards 1 card randomly from his/her hand. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Zombie Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your &quot;Decayed Commander&quot; as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 500 points, and each time it destroys 1 of your opponent's monsters, your opponent discards 1 card randomly from his/her hand. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)</text>
+</card>

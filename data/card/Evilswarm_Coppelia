@@ -1,14 +1,17 @@
-Evilswarm Coppelia
-Monster
-DARK
-Effect
-None
-Machine
-6
-2450
-2050
-0
-0
-None
-None
-Cannot be Special Summoned. When this card leaves the field because of your opponent's card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Coppelia</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2450</attack>
+    <defense>2050</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. When this card leaves the field because of your opponent's card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.</text>
+</card>

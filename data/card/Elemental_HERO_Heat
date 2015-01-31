@@ -1,14 +1,17 @@
-Elemental HERO Heat
-Monster
-FIRE
-Effect
-None
-Pyro
-4
-1600
-1200
-0
-0
-None
-None
-This card gains 200 ATK for each face-up "Elemental HERO" monster you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Heat</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 200 ATK for each &quot;Elemental HERO&quot; monster you control.</text>
+</card>

@@ -1,14 +1,17 @@
-Grapple Blocker
-Monster
-EARTH
-Effect
-None
-Psychic
-4
-1200
-2000
-0
-0
-None
-None
-When this card is Normal Summoned, you can select 1 monster your opponent controls. The selected monster cannot attack or be Tributed, while this card remains face-up on the field. During each of your End Phases, pay 500 Life Points or destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Grapple Blocker</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can select 1 monster your opponent controls. The selected monster cannot attack or be Tributed, while this card remains face-up on the field. During each of your End Phases, pay 500 Life Points or destroy this card.</text>
+</card>

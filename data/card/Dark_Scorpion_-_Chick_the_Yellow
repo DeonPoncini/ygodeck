@@ -1,14 +1,17 @@
-Dark Scorpion - Chick the Yellow
-Monster
-DARK
-Effect
-None
-Warrior
-3
-1000
-1000
-0
-0
-None
-None
-When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Target 1 card on the field; return that target to the hand.● Look at the top card of their Deck, then return it to the top or bottom of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Scorpion - Chick the Yellow</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:● Target 1 card on the field; return that target to the hand.● Look at the top card of their Deck, then return it to the top or bottom of the Deck.</text>
+</card>

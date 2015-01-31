@@ -1,14 +1,17 @@
-Code A Ancient Ruins
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time a face-up "Alien" monster(s) is destroyed, place 1 A-Counter on this card. Once per turn, you can remove 2 A-Counters from anywhere on the field to Special Summon 1 "Alien" monster from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Code A Ancient Ruins</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time a face-up &quot;Alien&quot; monster(s) is destroyed, place 1 A-Counter on this card. Once per turn, you can remove 2 A-Counters from anywhere on the field to Special Summon 1 &quot;Alien&quot; monster from your Graveyard.</text>
+</card>

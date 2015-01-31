@@ -1,14 +1,17 @@
-Fluff Token
-Monster
-WIND
-Token
-None
-Plant
-1
-0
-0
-0
-0
-None
-None
-You can use this card as a "Fluff Token".※If you use this as a Token other than "Fluff Token", apply that Token's Type/Attribute/Level/ATK/DEF to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Fluff Token</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Token</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can use this card as a &quot;Fluff Token&quot;.※If you use this as a Token other than &quot;Fluff Token&quot;, apply that Token's Type/Attribute/Level/ATK/DEF to this card.</text>
+</card>

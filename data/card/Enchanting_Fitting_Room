@@ -1,14 +1,17 @@
-Enchanting Fitting Room
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Pay 800 Life Points. Pick up 4 cards from the top of your Deck and Special Summon to your side of the field all Level 3 or lower Normal Monsters among the picked-up cards. Return all the other picked-up cards to your Deck and the Deck is then shuffled.
+<?xml version="1.0" ?>
+<card>
+    <name>Enchanting Fitting Room</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Pay 800 Life Points. Pick up 4 cards from the top of your Deck and Special Summon to your side of the field all Level 3 or lower Normal Monsters among the picked-up cards. Return all the other picked-up cards to your Deck and the Deck is then shuffled.</text>
+</card>

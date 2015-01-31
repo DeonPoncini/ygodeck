@@ -1,14 +1,17 @@
-Wow Warrior
-Monster
-WATER
-Normal
-None
-Fish
-4
-1250
-900
-0
-0
-None
-None
-A fish with arms, legs, and some very sharp teeth.
+<?xml version="1.0" ?>
+<card>
+    <name>Wow Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1250</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fish with arms, legs, and some very sharp teeth.</text>
+</card>

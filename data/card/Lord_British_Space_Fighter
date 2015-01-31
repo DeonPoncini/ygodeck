@@ -1,16 +1,19 @@
-Lord British Space Fighter
-Monster
-LIGHT
-Effect
-None
-Machine
-4
-1200
-800
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle, select and activate 1 of these effects:
+<?xml version="1.0" ?>
+<card>
+    <name>Lord British Space Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle, select and activate 1 of these effects:
 
-● You can attack once again in a row. ● Select and destroy 1 Set card on the field. ● Special Summon 1 "Multi Token" (Machine-Type/LIGHT/Level 4/ATK 1200/DEF 1200).
+● You can attack once again in a row. ● Select and destroy 1 Set card on the field. ● Special Summon 1 &quot;Multi Token&quot; (Machine-Type/LIGHT/Level 4/ATK 1200/DEF 1200).</text>
+</card>

@@ -1,14 +1,17 @@
-Dragon Mastery
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each monster you control that is equipped with 1 or more "Dragunity" monster(s) gains 500 ATK. Once per turn, you can select 1 face-up monster you control, and equip it with 1 Dragon-Type "Dragunity" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Mastery</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each monster you control that is equipped with 1 or more &quot;Dragunity&quot; monster(s) gains 500 ATK. Once per turn, you can select 1 face-up monster you control, and equip it with 1 Dragon-Type &quot;Dragunity&quot; monster from your hand.</text>
+</card>

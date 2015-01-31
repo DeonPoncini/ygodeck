@@ -1,14 +1,17 @@
-Ice Princess Zereort
-Monster
-WATER
-Xyz
-Effect
-Winged Beast
-5
-2500
-2100
-0
-0
-None
-None
-2 Level 5 Winged Beast-Type monstersYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Ice Princess Zereort</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 5 Winged Beast-Type monstersYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0.</text>
+</card>

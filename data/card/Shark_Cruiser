@@ -1,14 +1,17 @@
-Shark Cruiser
-Monster
-WATER
-Effect
-None
-Fish
-5
-1800
-2200
-0
-0
-None
-None
-If this face-up card you control is destroyed by your opponent's card effect, you can Special Summon up to 2 Level 4 or lower WATER monsters from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Shark Cruiser</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-up card you control is destroyed by your opponent's card effect, you can Special Summon up to 2 Level 4 or lower WATER monsters from your Deck.</text>
+</card>

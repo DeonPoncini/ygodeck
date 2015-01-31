@@ -1,14 +1,17 @@
-Radius, the Half-Moon Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-4
-1400
-1200
-0
-0
-None
-None
-If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). If you do, this card's Level becomes 8.
+<?xml version="1.0" ?>
+<card>
+    <name>Radius, the Half-Moon Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). If you do, this card's Level becomes 8.</text>
+</card>

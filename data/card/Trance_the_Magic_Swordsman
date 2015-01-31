@@ -1,14 +1,17 @@
-Trance the Magic Swordsman
-Monster
-EARTH
-Normal
-None
-Spellcaster
-6
-2600
-200
-0
-0
-None
-None
-A peculiar magician with considerable abilities. Supposedly, he's just returned from a trip to outer space.
+<?xml version="1.0" ?>
+<card>
+    <name>Trance the Magic Swordsman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>2600</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A peculiar magician with considerable abilities. Supposedly, he's just returned from a trip to outer space.</text>
+</card>

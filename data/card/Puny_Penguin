@@ -1,14 +1,17 @@
-Puny Penguin
-Monster
-WATER
-Effect
-None
-Aqua
-1
-400
-200
-0
-0
-None
-None
-When this card is sent from the field to the Graveyard after being flipped face-up: Target 1 "Penguin" monster in your Graveyard, except "Puny Penguin"; Special Summon that target in face-up Attack Position or face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Puny Penguin</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent from the field to the Graveyard after being flipped face-up: Target 1 &quot;Penguin&quot; monster in your Graveyard, except &quot;Puny Penguin&quot;; Special Summon that target in face-up Attack Position or face-down Defense Position.</text>
+</card>

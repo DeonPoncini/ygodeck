@@ -1,14 +1,17 @@
-Exxod, Master of The Guard
-Monster
-EARTH
-Effect
-None
-Rock
-8
-0
-4000
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "sphinx" monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Exxod, Master of The Guard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>8</level>
+    <attack>0</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 &quot;sphinx&quot; monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Gale Lizard
-Monster
-WATER
-Flip
-Effect
-Reptile
-4
-1400
-700
-0
-0
-None
-None
-FLIP: Target 1 monster your opponent's controls; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gale Lizard</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 monster your opponent's controls; return that target to the hand.</text>
+</card>

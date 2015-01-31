@@ -1,14 +1,17 @@
-Scrap Beast
-Monster
-EARTH
-Tuner
-None
-Beast
-4
-1600
-1300
-0
-0
-None
-None
-If this face-up Defense Position card is targeted for an attack, at the end of the Battle Phase: Destroy this card. If this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard: You can target 1 "Scrap" monster in your Graveyard, except "Scrap Beast"; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this face-up Defense Position card is targeted for an attack, at the end of the Battle Phase: Destroy this card. If this card is destroyed by the effect of a &quot;Scrap&quot; card and sent to the Graveyard: You can target 1 &quot;Scrap&quot; monster in your Graveyard, except &quot;Scrap Beast&quot;; add that target to your hand.</text>
+</card>

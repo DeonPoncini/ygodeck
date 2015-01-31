@@ -1,14 +1,17 @@
-Monster Slots
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 face-up monster you control and 1 monster in your Graveyard with the same Level; banish the target from the Graveyard, then draw 1 card and reveal it, then if the card you drew is a monster with the same Level as the monster on the field, Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Monster Slots</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 face-up monster you control and 1 monster in your Graveyard with the same Level; banish the target from the Graveyard, then draw 1 card and reveal it, then if the card you drew is a monster with the same Level as the monster on the field, Special Summon it.</text>
+</card>

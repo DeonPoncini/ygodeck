@@ -1,14 +1,17 @@
-Gusto Egul
-Monster
-WIND
-Tuner
-None
-Winged Beast
-1
-200
-400
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower non-Tuner "Gusto" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Gusto Egul</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower non-Tuner &quot;Gusto&quot; monster from your Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Karakuri Shogun mdl 00 "Burei"
-Monster
-EARTH
-Synchro
-Effect
-Machine
-7
-2600
-1900
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Machine-Type monstersWhen this card is Synchro Summoned: You can Special Summon 1 "Karakuri" monster from your Deck. Once per turn: You can target 1 monster on the field; change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Shogun mdl 00 &quot;Burei&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Machine-Type monstersWhen this card is Synchro Summoned: You can Special Summon 1 &quot;Karakuri&quot; monster from your Deck. Once per turn: You can target 1 monster on the field; change its battle position.</text>
+</card>

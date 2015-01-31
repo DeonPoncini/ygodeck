@@ -1,14 +1,17 @@
-Ojama Trio
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Special Summon 3 "Ojama Tokens" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) in Defense Position on your opponent's side of the field. The tokens cannot be Tributed for a Tribute Summon. When an "Ojama Token" is destroyed, the controller of that token takes 300 points of damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Ojama Trio</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Special Summon 3 &quot;Ojama Tokens&quot; (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) in Defense Position on your opponent's side of the field. The tokens cannot be Tributed for a Tribute Summon. When an &quot;Ojama Token&quot; is destroyed, the controller of that token takes 300 points of damage.</text>
+</card>

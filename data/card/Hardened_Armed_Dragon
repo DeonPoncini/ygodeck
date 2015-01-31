@@ -1,14 +1,17 @@
-Hardened Armed Dragon
-Monster
-EARTH
-Effect
-None
-Dragon
-4
-1500
-800
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by sending 1 Level 8 or higher monster from your hand to the Graveyard. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Hardened Armed Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by sending 1 Level 8 or higher monster from your hand to the Graveyard. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.</text>
+</card>

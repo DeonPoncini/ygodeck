@@ -1,14 +1,17 @@
-Puppet Master
-Monster
-DARK
-Effect
-None
-Fiend
-6
-0
-0
-0
-0
-None
-None
-When this card is Tribute Summoned: You can pay 2000 Life Points to target 2 Fiend-Type monsters in your Graveyard; Special Summon those targets. They cannot attack this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Puppet Master</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned: You can pay 2000 Life Points to target 2 Fiend-Type monsters in your Graveyard; Special Summon those targets. They cannot attack this turn.</text>
+</card>

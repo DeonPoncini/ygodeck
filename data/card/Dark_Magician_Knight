@@ -1,14 +1,17 @@
-Dark Magician Knight
-Monster
-DARK
-Effect
-None
-Warrior
-7
-2500
-2100
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned with "Knight's Title" and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Magician Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned with &quot;Knight's Title&quot; and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 card on the field; destroy that target.</text>
+</card>

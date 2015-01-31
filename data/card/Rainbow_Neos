@@ -1,14 +1,17 @@
-Rainbow Neos
-Monster
-LIGHT
-Fusion
-Effect
-Warrior
-10
-4500
-3000
-0
-0
-None
-None
-"Elemental HERO Neos" + "Rainbow Dragon" or "Rainbow Dark Dragon"Must be Fusion Summoned with the above Fusion Material Monsters and cannot be Special Summoned by other ways. Once per turn: You can activate 1 of these effects. ● Send 1 monster you control to the Graveyard; shuffle all monsters your opponent controls into the Deck. ● Send 1 Spell/Trap Card you control to the Graveyard; shuffle all Spell and Trap Cards your opponent controls into the Deck. ● Send 1 card from the top of your Deck to the Graveyard; shuffle all cards in your opponent's Graveyard into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Rainbow Neos</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>10</level>
+    <attack>4500</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Neos&quot; + &quot;Rainbow Dragon&quot; or &quot;Rainbow Dark Dragon&quot;Must be Fusion Summoned with the above Fusion Material Monsters and cannot be Special Summoned by other ways. Once per turn: You can activate 1 of these effects. ● Send 1 monster you control to the Graveyard; shuffle all monsters your opponent controls into the Deck. ● Send 1 Spell/Trap Card you control to the Graveyard; shuffle all Spell and Trap Cards your opponent controls into the Deck. ● Send 1 card from the top of your Deck to the Graveyard; shuffle all cards in your opponent's Graveyard into the Deck.</text>
+</card>

@@ -1,14 +1,17 @@
-Ultimate Insect LV7
-Monster
-WIND
-Effect
-None
-Insect
-7
-2600
-1200
-0
-0
-None
-None
-If this card was Special Summoned by the effect of "Ultimate Insect LV5", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Ultimate Insect LV7</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card was Special Summoned by the effect of &quot;Ultimate Insect LV5&quot;, while it remains on the field all your opponent's monsters lose 700 ATK and DEF.</text>
+</card>

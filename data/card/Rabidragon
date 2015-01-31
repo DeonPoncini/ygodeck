@@ -1,14 +1,17 @@
-Rabidragon
-Monster
-LIGHT
-Normal
-None
-Dragon
-8
-2950
-2900
-0
-0
-None
-None
-It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.
+<?xml version="1.0" ?>
+<card>
+    <name>Rabidragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>2950</attack>
+    <defense>2900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.</text>
+</card>

@@ -1,14 +1,17 @@
-Patrician of Darkness
-Monster
-DARK
-Effect
-None
-Zombie
-5
-2000
-1400
-0
-0
-None
-None
-You choose the attack targets for your opponent's attacks.
+<?xml version="1.0" ?>
+<card>
+    <name>Patrician of Darkness</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You choose the attack targets for your opponent's attacks.</text>
+</card>

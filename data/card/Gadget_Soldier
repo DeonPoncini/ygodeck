@@ -1,14 +1,17 @@
-Gadget Soldier
-Monster
-FIRE
-Normal
-None
-Machine
-6
-1800
-2000
-0
-0
-None
-None
-A rust-free machine warrior born to battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Gadget Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A rust-free machine warrior born to battle.</text>
+</card>

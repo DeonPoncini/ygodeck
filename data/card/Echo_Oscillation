@@ -1,14 +1,17 @@
-Echo Oscillation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of "Echo Oscillation" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Echo Oscillation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of &quot;Echo Oscillation&quot; once per turn.</text>
+</card>

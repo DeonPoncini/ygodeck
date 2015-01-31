@@ -1,14 +1,17 @@
-Worm Opera
-Monster
-LIGHT
-Effect
-None
-Reptile
-2
-400
-800
-0
-0
-None
-None
-FLIP: All face-up monsters on the field lose 500 ATK, except Reptile-Type "Worm" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Opera</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: All face-up monsters on the field lose 500 ATK, except Reptile-Type &quot;Worm&quot; monsters.</text>
+</card>

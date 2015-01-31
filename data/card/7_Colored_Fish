@@ -1,14 +1,17 @@
-7 Colored Fish
-Monster
-WATER
-Normal
-None
-Fish
-4
-1800
-800
-0
-0
-None
-None
-A rare rainbow fish that has never been caught by mortal man.
+<?xml version="1.0" ?>
+<card>
+    <name>7 Colored Fish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A rare rainbow fish that has never been caught by mortal man.</text>
+</card>

@@ -1,14 +1,17 @@
-ZW - Ultimate Shield
-Monster
-EARTH
-Effect
-None
-Aqua
-4
-0
-2000
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can target 1 of your banished Xyz Monsters; Special Summon that target in face-up Defense Position. You can target 1 "Utopia" monster you control; equip this monster on the field to that target. It gains 2000 DEF. You can only control 1 face-up "ZW - Ultimate Shield".
+<?xml version="1.0" ?>
+<card>
+    <name>ZW - Ultimate Shield</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can target 1 of your banished Xyz Monsters; Special Summon that target in face-up Defense Position. You can target 1 &quot;Utopia&quot; monster you control; equip this monster on the field to that target. It gains 2000 DEF. You can only control 1 face-up &quot;ZW - Ultimate Shield&quot;.</text>
+</card>

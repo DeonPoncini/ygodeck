@@ -1,14 +1,17 @@
-Dance Princess of the Nekroz
-Monster
-WATER
-Effect
-None
-Spellcaster
-4
-1600
-800
-0
-0
-None
-None
-Your opponent cannot activate cards or effects in response to the activation of a "Nekroz" Ritual Spell Card. "Nekroz" Ritual Monsters you control cannot be targeted by an opponent's card effects. If this card is Tributed by a card effect: You can target 1 of your banished "Necroz" monsters, except "Dance Princess of the Nekroz"; add it to your hand. You can only use this effect of "Dance Princess of the Nekroz" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Dance Princess of the Nekroz</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot activate cards or effects in response to the activation of a &quot;Nekroz&quot; Ritual Spell Card. &quot;Nekroz&quot; Ritual Monsters you control cannot be targeted by an opponent's card effects. If this card is Tributed by a card effect: You can target 1 of your banished &quot;Necroz&quot; monsters, except &quot;Dance Princess of the Nekroz&quot;; add it to your hand. You can only use this effect of &quot;Dance Princess of the Nekroz&quot; once per turn.</text>
+</card>

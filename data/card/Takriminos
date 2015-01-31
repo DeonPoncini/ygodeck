@@ -1,14 +1,17 @@
-Takriminos
-Monster
-WATER
-Normal
-None
-Sea Serpent
-4
-1500
-1200
-0
-0
-None
-None
-A member of a race of sea serpents that freely travels through the sea.
+<?xml version="1.0" ?>
+<card>
+    <name>Takriminos</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A member of a race of sea serpents that freely travels through the sea.</text>
+</card>

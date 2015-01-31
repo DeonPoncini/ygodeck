@@ -1,14 +1,17 @@
-Qlimate Change
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Add up to 3 face-up "Qli" Pendulum Monster Cards from your Extra Deck to your hand. You can only activate 1 "Qlimate Change" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Qlimate Change</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Add up to 3 face-up &quot;Qli&quot; Pendulum Monster Cards from your Extra Deck to your hand. You can only activate 1 &quot;Qlimate Change&quot; per turn.</text>
+</card>

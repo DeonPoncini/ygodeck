@@ -1,14 +1,17 @@
-Dewdark of the Ice Barrier
-Monster
-WATER
-Tuner
-None
-Aqua
-2
-1200
-800
-0
-0
-None
-None
-If the only face-up monsters you control are Level 2 or lower monsters, this card can attack your opponent directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Dewdark of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If the only face-up monsters you control are Level 2 or lower monsters, this card can attack your opponent directly.</text>
+</card>

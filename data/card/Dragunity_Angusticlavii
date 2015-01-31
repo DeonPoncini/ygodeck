@@ -1,14 +1,17 @@
-Dragunity Angusticlavii
-Monster
-WIND
-Effect
-None
-Winged Beast
-5
-2100
-1000
-0
-0
-None
-None
-If this card is equipped with a Dragon-Type "Dragunity" monster, during battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Angusticlavii</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is equipped with a Dragon-Type &quot;Dragunity&quot; monster, during battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.</text>
+</card>

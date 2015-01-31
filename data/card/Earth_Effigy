@@ -1,14 +1,17 @@
-Earth Effigy
-Monster
-EARTH
-Effect
-None
-Rock
-4
-100
-2000
-0
-0
-None
-None
-This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Earth Effigy</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.</text>
+</card>

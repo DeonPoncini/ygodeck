@@ -1,14 +1,17 @@
-Magical Merchant
-Monster
-LIGHT
-Effect
-None
-Insect
-1
-200
-700
-0
-0
-None
-None
-FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap Card. Add that card to your hand, also send the remaining cards to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Merchant</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap Card. Add that card to your hand, also send the remaining cards to the Graveyard.</text>
+</card>

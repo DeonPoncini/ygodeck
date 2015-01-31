@@ -1,14 +1,17 @@
-Gotterdammerung
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 "Aesir" monster you control; give control of that monster to your opponent. During your opponent's next End Phase, destroy that monster, and if you do, banish all cards your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Gotterdammerung</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Aesir&quot; monster you control; give control of that monster to your opponent. During your opponent's next End Phase, destroy that monster, and if you do, banish all cards your opponent controls.</text>
+</card>

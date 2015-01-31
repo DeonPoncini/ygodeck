@@ -1,14 +1,17 @@
-Shooting Quasar Dragon
-Monster
-LIGHT
-Synchro
-Effect
-Dragon
-12
-4000
-4000
-0
-0
-None
-None
-1 Tuner Synchro Monster + 2 or more non-Tuner Synchro MonstersMust be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy it. When this card leaves the field: You can Special Summon 1 "Shooting Star Dragon" from your Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Shooting Quasar Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>12</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner Synchro Monster + 2 or more non-Tuner Synchro MonstersMust be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy it. When this card leaves the field: You can Special Summon 1 &quot;Shooting Star Dragon&quot; from your Extra Deck.</text>
+</card>

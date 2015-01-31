@@ -1,14 +1,17 @@
-Canon the Melodious Diva
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1400
-2000
-0
-0
-None
-None
-If you control a "Melodious" monster, you can Special Summon this card (from your hand). You can only Special Summon "Canon the Melodious Diva" once per turn this way. Once per turn: You can target 1 "Melodious" monster you control; change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Canon the Melodious Diva</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Melodious&quot; monster, you can Special Summon this card (from your hand). You can only Special Summon &quot;Canon the Melodious Diva&quot; once per turn this way. Once per turn: You can target 1 &quot;Melodious&quot; monster you control; change its battle position.</text>
+</card>

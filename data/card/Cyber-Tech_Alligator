@@ -1,14 +1,17 @@
-Cyber-Tech Alligator
-Monster
-WIND
-Normal
-None
-Machine
-5
-2500
-1600
-0
-0
-None
-None
-Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber-Tech Alligator</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.</text>
+</card>

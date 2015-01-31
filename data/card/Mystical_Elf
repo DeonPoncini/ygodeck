@@ -1,14 +1,17 @@
-Mystical Elf
-Monster
-LIGHT
-Normal
-None
-Spellcaster
-4
-800
-2000
-0
-0
-None
-None
-A delicate elf that lacks offense, but has a terrific defense backed by mystical power.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystical Elf</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A delicate elf that lacks offense, but has a terrific defense backed by mystical power.</text>
+</card>

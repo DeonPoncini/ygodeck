@@ -1,14 +1,17 @@
-Rasetsu
-Monster
-FIRE
-Spirit
-None
-Fairy
-4
-1500
-1900
-0
-0
-None
-None
-Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can reveal 1 Spirit monster from your hand, except "Rasetsu", then target 1 face-up Attack Position monster your opponent controls; return that target to the hand. You cannot Special Summon during the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Rasetsu</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can reveal 1 Spirit monster from your hand, except &quot;Rasetsu&quot;, then target 1 face-up Attack Position monster your opponent controls; return that target to the hand. You cannot Special Summon during the turn you activate this effect.</text>
+</card>

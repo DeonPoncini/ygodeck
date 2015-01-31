@@ -1,14 +1,17 @@
-Gravekeeper's Shaman
-Monster
-DARK
-Effect
-None
-Spellcaster
-6
-1500
-1500
-0
-0
-None
-None
-This card gains 200 DEF for each "Gravekeeper's" monster in your Graveyard. Negate all monster effects that activate in the Graveyard, except "Gravekeeper's" monsters. While "Necrovalley" is on the field, your opponent cannot activate Field Spell Cards, also Field Spell Cards on the field cannot be destroyed by your opponent's card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Shaman</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 200 DEF for each &quot;Gravekeeper's&quot; monster in your Graveyard. Negate all monster effects that activate in the Graveyard, except &quot;Gravekeeper's&quot; monsters. While &quot;Necrovalley&quot; is on the field, your opponent cannot activate Field Spell Cards, also Field Spell Cards on the field cannot be destroyed by your opponent's card effects.</text>
+</card>

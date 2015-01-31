@@ -1,14 +1,17 @@
-Sea King Dragon
-Monster
-WATER
-Normal
-None
-Sea Serpent
-6
-2000
-1700
-0
-0
-None
-None
-Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.
+<?xml version="1.0" ?>
+<card>
+    <name>Sea King Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.</text>
+</card>

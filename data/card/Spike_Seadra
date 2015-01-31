@@ -1,14 +1,17 @@
-Spike Seadra
-Monster
-WATER
-Normal
-None
-Sea Serpent
-5
-1600
-1300
-0
-0
-None
-None
-Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.
+<?xml version="1.0" ?>
+<card>
+    <name>Spike Seadra</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.</text>
+</card>

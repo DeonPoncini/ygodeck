@@ -1,14 +1,17 @@
-Flamvell Dragnov
-Monster
-FIRE
-Effect
-None
-Dragon
-2
-1100
-200
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can remove from play this card in your Graveyard, along with 1 face-up FIRE monster you control, to add 1 "Flamvell Dragnov" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Flamvell Dragnov</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>2</level>
+    <attack>1100</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can remove from play this card in your Graveyard, along with 1 face-up FIRE monster you control, to add 1 &quot;Flamvell Dragnov&quot; from your Deck to your hand.</text>
+</card>

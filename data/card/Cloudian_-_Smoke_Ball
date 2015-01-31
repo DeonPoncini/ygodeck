@@ -1,14 +1,17 @@
-Cloudian - Smoke Ball
-Monster
-WATER
-Normal
-None
-Fairy
-1
-200
-600
-0
-0
-None
-None
-Smoke Balls are newly born Cloudians. They fear being alone, and would rather swing and sway in the sky with their friends.
+<?xml version="1.0" ?>
+<card>
+    <name>Cloudian - Smoke Ball</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Smoke Balls are newly born Cloudians. They fear being alone, and would rather swing and sway in the sky with their friends.</text>
+</card>

@@ -1,14 +1,17 @@
-Apprentice Magician
-Monster
-DARK
-Effect
-None
-Spellcaster
-2
-400
-800
-0
-0
-None
-None
-If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Apprentice Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.</text>
+</card>

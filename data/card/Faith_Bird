@@ -1,14 +1,17 @@
-Faith Bird
-Monster
-WIND
-Normal
-None
-Winged Beast
-4
-1500
-1100
-0
-0
-None
-None
-This long-tailed bird blinds its enemies with mystical light.
+<?xml version="1.0" ?>
+<card>
+    <name>Faith Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This long-tailed bird blinds its enemies with mystical light.</text>
+</card>

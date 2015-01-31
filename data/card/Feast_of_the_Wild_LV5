@@ -1,14 +1,17 @@
-Feast of the Wild LV5
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also they cannot attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Feast of the Wild LV5</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also they cannot attack.</text>
+</card>

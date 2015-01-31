@@ -1,14 +1,17 @@
-Double Coston
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1700
-1650
-0
-0
-None
-None
-This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Double Coston</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1650</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.</text>
+</card>

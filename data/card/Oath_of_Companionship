@@ -1,14 +1,17 @@
-Oath of Companionship
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control no monsters that were Special Summoned from the Extra Deck: Target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; take control of it until the End Phase. You cannot Special Summon during the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Oath of Companionship</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control no monsters that were Special Summoned from the Extra Deck: Target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; take control of it until the End Phase. You cannot Special Summon during the turn you activate this card.</text>
+</card>

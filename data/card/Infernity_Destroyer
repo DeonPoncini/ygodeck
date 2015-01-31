@@ -1,14 +1,17 @@
-Infernity Destroyer
-Monster
-DARK
-Effect
-None
-Fiend
-6
-2300
-1000
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1600 damage to your opponent. You must have no cards in your hand to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Infernity Destroyer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1600 damage to your opponent. You must have no cards in your hand to activate and to resolve this effect.</text>
+</card>

@@ -1,14 +1,17 @@
-Iron Core Armor
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Koa'ki Meiru" monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster's Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Iron Core Armor</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Koa'ki Meiru&quot; monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster's Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.</text>
+</card>

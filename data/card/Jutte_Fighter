@@ -1,14 +1,17 @@
-Jutte Fighter
-Monster
-EARTH
-Tuner
-None
-Warrior
-2
-700
-900
-0
-0
-None
-None
-Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Jutte Fighter</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.</text>
+</card>

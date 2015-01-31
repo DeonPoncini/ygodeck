@@ -1,14 +1,17 @@
-Zone Eater
-Monster
-WATER
-Effect
-None
-Aqua
-1
-250
-200
-0
-0
-None
-None
-A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Zone Eater</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>250</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.</text>
+</card>

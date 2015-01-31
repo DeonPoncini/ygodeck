@@ -1,14 +1,17 @@
-Swamp Mirrorer
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate this card by declaring 1 Monster Type and 1 Attribute; Special Summon this card as a Normal Monster (Level 4/ATK 1800/DEF 1000) with that Type and Attribute. (This card is also still a Trap Card.)
+<?xml version="1.0" ?>
+<card>
+    <name>Swamp Mirrorer</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate this card by declaring 1 Monster Type and 1 Attribute; Special Summon this card as a Normal Monster (Level 4/ATK 1800/DEF 1000) with that Type and Attribute. (This card is also still a Trap Card.)</text>
+</card>

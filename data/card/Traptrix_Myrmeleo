@@ -1,14 +1,17 @@
-Traptrix Myrmeleo
-Monster
-EARTH
-Effect
-None
-Insect
-4
-1600
-1200
-0
-0
-None
-None
-This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can add 1 "Hole" Normal Trap Card from your Deck to your hand. When this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Traptrix Myrmeleo</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is unaffected by the effects of &quot;Hole&quot; Normal Trap Cards. When this card is Normal Summoned: You can add 1 &quot;Hole&quot; Normal Trap Card from your Deck to your hand. When this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.</text>
+</card>

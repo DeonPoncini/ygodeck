@@ -1,14 +1,17 @@
-Soul Hunter
-Monster
-DARK
-Fusion
-None
-Fiend
-6
-2200
-1800
-0
-0
-None
-None
-"Lord of the Lamp" + "Invader from Another Dimension"
+<?xml version="1.0" ?>
+<card>
+    <name>Soul Hunter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Lord of the Lamp&quot; + &quot;Invader from Another Dimension&quot;</text>
+</card>

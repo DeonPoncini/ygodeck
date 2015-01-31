@@ -1,14 +1,17 @@
-Brushfire Knight
-Monster
-FIRE
-Effect
-None
-Warrior
-4
-1400
-1200
-0
-0
-None
-None
-When a FIRE monster is destroyed and sent to your Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. When this card is destroyed and sent to the Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. You can only use 1 "Brushfire Knight" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Brushfire Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a FIRE monster is destroyed and sent to your Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. When this card is destroyed and sent to the Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. You can only use 1 &quot;Brushfire Knight&quot; effect per turn, and only once that turn.</text>
+</card>

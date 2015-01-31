@@ -1,14 +1,17 @@
-Arcana Force XXI - The World
-Monster
-LIGHT
-Effect
-None
-Fairy
-8
-3100
-3100
-0
-0
-None
-None
-When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their Graveyard to their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcana Force XXI - The World</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>3100</attack>
+    <defense>3100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their Graveyard to their hand.</text>
+</card>

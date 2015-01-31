@@ -1,14 +1,17 @@
-The Seal of Orichalcos
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All monsters you control gain 500 ATK. Once per turn, this card cannot be destroyed by card effects. While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack. When this card is activated: Destroy all Special Summoned monsters you control. You cannot Special Summon monsters from your Extra Deck. You can only activate "The Seal of Orichalcos" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>The Seal of Orichalcos</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All monsters you control gain 500 ATK. Once per turn, this card cannot be destroyed by card effects. While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack. When this card is activated: Destroy all Special Summoned monsters you control. You cannot Special Summon monsters from your Extra Deck. You can only activate &quot;The Seal of Orichalcos&quot; once per Duel.</text>
+</card>

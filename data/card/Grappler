@@ -1,14 +1,17 @@
-Grappler
-Monster
-WATER
-Normal
-None
-Reptile
-4
-1300
-1200
-0
-0
-None
-None
-A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.
+<?xml version="1.0" ?>
+<card>
+    <name>Grappler</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.</text>
+</card>

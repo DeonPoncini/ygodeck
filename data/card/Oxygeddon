@@ -1,14 +1,17 @@
-Oxygeddon
-Monster
-WIND
-Effect
-None
-Dinosaur
-4
-1800
-800
-0
-0
-None
-None
-When this card is destroyed by battle with a Pyro-Type monster and sent to the Graveyard, inflict 800 damage to both players.
+<?xml version="1.0" ?>
+<card>
+    <name>Oxygeddon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle with a Pyro-Type monster and sent to the Graveyard, inflict 800 damage to both players.</text>
+</card>

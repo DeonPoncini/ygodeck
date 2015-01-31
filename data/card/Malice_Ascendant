@@ -1,14 +1,17 @@
-Malice Ascendant
-Monster
-DARK
-Effect
-None
-Zombie
-4
-700
-1000
-0
-0
-None
-None
-During your opponent's Standby Phase, send 1 card from the top of their Deck to the Graveyard for each "Malice Ascendant" in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Malice Ascendant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your opponent's Standby Phase, send 1 card from the top of their Deck to the Graveyard for each &quot;Malice Ascendant&quot; in your Graveyard.</text>
+</card>

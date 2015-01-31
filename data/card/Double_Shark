@@ -1,14 +1,17 @@
-Double Shark
-Monster
-WATER
-Effect
-None
-Fish
-4
-1200
-1600
-0
-0
-None
-None
-When this card is Normal Summoned: You can reduce the Levels of all Level 4 Fish-Type monsters you currently control by 1. This card can make a second attack during each Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Double Shark</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can reduce the Levels of all Level 4 Fish-Type monsters you currently control by 1. This card can make a second attack during each Battle Phase.</text>
+</card>

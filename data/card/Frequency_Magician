@@ -1,14 +1,17 @@
-Frequency Magician
-Monster
-LIGHT
-Tuner
-None
-Spellcaster
-2
-800
-400
-0
-0
-None
-None
-When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Frequency Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.</text>
+</card>

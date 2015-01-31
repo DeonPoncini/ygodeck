@@ -1,14 +1,17 @@
-Ghostrick Mummy
-Monster
-DARK
-Effect
-None
-Zombie
-3
-1500
-0
-0
-0
-None
-None
-Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. While this card is face-up on the field, you can Normal Summon 1 "Ghostrick" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You cannot Special Summon any monsters, except DARK monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Mummy</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned, unless you control a &quot;Ghostrick&quot; monster. Once per turn: You can change this card to face-down Defense Position. While this card is face-up on the field, you can Normal Summon 1 &quot;Ghostrick&quot; monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You cannot Special Summon any monsters, except DARK monsters.</text>
+</card>

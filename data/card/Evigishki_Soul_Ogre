@@ -1,14 +1,17 @@
-Evigishki Soul Ogre
-Monster
-WATER
-Ritual
-Effect
-Aqua
-8
-2800
-2800
-0
-0
-None
-None
-Cannot be Normal Summoned or Set. Must first be Ritual Summoned. You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can discard 1 "Gishki" monster to target 1 face-up card your opponent controls; shuffle that target into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Evigishki Soul Ogre</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Aqua</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned or Set. Must first be Ritual Summoned. You can Ritual Summon this card with any &quot;Gishki&quot; Ritual Spell Card. Once per turn: You can discard 1 &quot;Gishki&quot; monster to target 1 face-up card your opponent controls; shuffle that target into the Deck.</text>
+</card>

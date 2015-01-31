@@ -1,14 +1,17 @@
-Guardian Tryce
-Monster
-LIGHT
-Effect
-None
-Thunder
-5
-1900
-1700
-0
-0
-None
-None
-Cannot be Summoned unless you control a face-up "Twin Swords of Flashing Light - Tryce". When this card is destroyed and sent to the Graveyard: Special Summon the monster from the Graveyard that was used for its Tribute Summon.
+<?xml version="1.0" ?>
+<card>
+    <name>Guardian Tryce</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Summoned unless you control a face-up &quot;Twin Swords of Flashing Light - Tryce&quot;. When this card is destroyed and sent to the Graveyard: Special Summon the monster from the Graveyard that was used for its Tribute Summon.</text>
+</card>

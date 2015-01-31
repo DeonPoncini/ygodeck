@@ -1,14 +1,17 @@
-Common Charity
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Draw 2 cards, then remove from play 1 Normal Monster Card from your hand. If you don't have any Normal Monster Cards in your hand to remove, send all cards in your hand to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Common Charity</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Draw 2 cards, then remove from play 1 Normal Monster Card from your hand. If you don't have any Normal Monster Cards in your hand to remove, send all cards in your hand to the Graveyard.</text>
+</card>

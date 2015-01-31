@@ -1,14 +1,17 @@
-Silent Swordsman LV7
-Monster
-LIGHT
-Effect
-None
-Warrior
-7
-2800
-1000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by "Silent Swordsman LV5", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Silent Swordsman LV7</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by &quot;Silent Swordsman LV5&quot;, and cannot be Special Summoned by other ways. Negate all Spell effects on the field.</text>
+</card>

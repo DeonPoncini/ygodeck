@@ -1,14 +1,17 @@
-Dark Blade
-Monster
-DARK
-Normal
-None
-Warrior
-4
-1800
-1500
-0
-0
-None
-None
-They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Blade</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.</text>
+</card>

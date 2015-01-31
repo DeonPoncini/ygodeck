@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Raven
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-3
-200
-1800
-0
-0
-None
-None
-If this card is sent from the field to the Graveyard: You can Set 1 "Fire Formation" Spell Card directly from your Deck. "Fire Formation" Spell/Trap Cards you control cannot be destroyed by your opponent's card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Raven</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent from the field to the Graveyard: You can Set 1 &quot;Fire Formation&quot; Spell Card directly from your Deck. &quot;Fire Formation&quot; Spell/Trap Cards you control cannot be destroyed by your opponent's card effects.</text>
+</card>

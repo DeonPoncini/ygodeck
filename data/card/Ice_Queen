@@ -1,14 +1,17 @@
-Ice Queen
-Monster
-WATER
-Effect
-None
-Spellcaster
-8
-2900
-2100
-0
-0
-None
-None
-Cannot be Special Summoned from the Graveyard. When this face-up card you control is destroyed and sent to your Graveyard: You can target 1 Spell Card in your Graveyard; add that target to your hand. You must have 3 or more Spellcaster-Type monsters in your Graveyard to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Ice Queen</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned from the Graveyard. When this face-up card you control is destroyed and sent to your Graveyard: You can target 1 Spell Card in your Graveyard; add that target to your hand. You must have 3 or more Spellcaster-Type monsters in your Graveyard to activate and to resolve this effect.</text>
+</card>

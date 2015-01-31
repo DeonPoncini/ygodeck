@@ -1,14 +1,17 @@
-Hazy Flame Hyppogrif
-Monster
-FIRE
-Effect
-None
-Pyro
-6
-2100
-200
-0
-0
-None
-None
-Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Hazy Flame Hyppogrif</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-Madolche Nights
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When a monster effect is activated, if you have no monsters in your Graveyard: Negate the activation, then if you control "Madolche Puddingcess", shuffle 1 random card from your opponent's hand into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Madolche Nights</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When a monster effect is activated, if you have no monsters in your Graveyard: Negate the activation, then if you control &quot;Madolche Puddingcess&quot;, shuffle 1 random card from your opponent's hand into the Deck.</text>
+</card>

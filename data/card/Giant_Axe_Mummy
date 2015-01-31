@@ -1,14 +1,17 @@
-Giant Axe Mummy
-Monster
-EARTH
-Effect
-None
-Zombie
-5
-1700
-2000
-0
-0
-None
-None
-You can flip this card into face-down Defense Position once per turn during your Main Phase. If the ATK of a monster on your opponent's side of the field that attacks this card in face-down Defense Position is lower than the DEF of this monster, the attacking monster is destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Giant Axe Mummy</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can flip this card into face-down Defense Position once per turn during your Main Phase. If the ATK of a monster on your opponent's side of the field that attacks this card in face-down Defense Position is lower than the DEF of this monster, the attacking monster is destroyed.</text>
+</card>

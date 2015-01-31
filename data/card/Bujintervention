@@ -1,14 +1,17 @@
-Bujintervention
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 "Bujin" monster on the field; apply this effect to it for the rest of this turn. Each time it destroys a monster by battle whose current ATK is greater than or equal to the targeted monster's original ATK, and sends it to the Graveyard: Banish the destroyed monster, and if you do, banish all monsters from your opponent's hand, Main Deck, Extra Deck, and Graveyard with the same name that the destroyed monster had in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujintervention</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Bujin&quot; monster on the field; apply this effect to it for the rest of this turn. Each time it destroys a monster by battle whose current ATK is greater than or equal to the targeted monster's original ATK, and sends it to the Graveyard: Banish the destroyed monster, and if you do, banish all monsters from your opponent's hand, Main Deck, Extra Deck, and Graveyard with the same name that the destroyed monster had in the Graveyard.</text>
+</card>

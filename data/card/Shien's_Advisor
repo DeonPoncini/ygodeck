@@ -1,14 +1,17 @@
-Shien's Advisor
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1200
-400
-0
-0
-None
-None
-When this card is Normal Summoned, if you control a face-up "Six Samurai" monster: Declare 1 Monster Type; while this card is face-up on the field, monsters with the declared Monster Type cannot declare an attack or be Special Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Shien's Advisor</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, if you control a face-up &quot;Six Samurai&quot; monster: Declare 1 Monster Type; while this card is face-up on the field, monsters with the declared Monster Type cannot declare an attack or be Special Summoned.</text>
+</card>

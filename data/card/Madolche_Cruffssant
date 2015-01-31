@@ -1,14 +1,17 @@
-Madolche Cruffssant
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1500
-1200
-0
-0
-None
-None
-When this card in your possession is destroyed by your opponent's card (either by battle or by effect) and sent to your Graveyard: Shuffle this card into the Deck. Once per turn: You can target 1 face-up "Madolche" card you control, except this card; return it to the hand, and if you do, increase this card's Level by 1 and ATK by 300.
+<?xml version="1.0" ?>
+<card>
+    <name>Madolche Cruffssant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card in your possession is destroyed by your opponent's card (either by battle or by effect) and sent to your Graveyard: Shuffle this card into the Deck. Once per turn: You can target 1 face-up &quot;Madolche&quot; card you control, except this card; return it to the hand, and if you do, increase this card's Level by 1 and ATK by 300.</text>
+</card>

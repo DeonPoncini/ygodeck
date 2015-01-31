@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Coyote
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-5
-2000
-500
-0
-0
-None
-None
-If you control a "Fire Formation" Spell/Trap Card, and no monsters, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Coyote</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Fire Formation&quot; Spell/Trap Card, and no monsters, you can Special Summon this card (from your hand).</text>
+</card>

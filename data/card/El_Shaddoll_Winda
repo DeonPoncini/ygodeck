@@ -1,14 +1,17 @@
-El Shaddoll Winda
-Monster
-DARK
-Fusion
-Effect
-Spellcaster
-5
-2200
-800
-0
-0
-None
-None
-1 "Shaddoll" monster + 1 DARK monsterMust first be Fusion Summoned. Cannot be destroyed by an opponent's card effects. Each player can only Special Summon monster(s) once per turn while this card is face-up on the field. If this card is sent to the Graveyard: You can target 1 "Shaddoll" Spell/Trap Card in your Graveyard; add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>El Shaddoll Winda</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Shaddoll&quot; monster + 1 DARK monsterMust first be Fusion Summoned. Cannot be destroyed by an opponent's card effects. Each player can only Special Summon monster(s) once per turn while this card is face-up on the field. If this card is sent to the Graveyard: You can target 1 &quot;Shaddoll&quot; Spell/Trap Card in your Graveyard; add it to your hand.</text>
+</card>

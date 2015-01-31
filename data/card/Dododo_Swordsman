@@ -1,14 +1,17 @@
-Dododo Swordsman
-Monster
-EARTH
-Effect
-None
-Warrior
-8
-0
-3000
-0
-0
-None
-None
-While this Flip Summoned card is face-up on the field, it gains 3500 ATK. When this card is flipped face-up: You can target up to 2 face-up monsters on the field; destroy them.
+<?xml version="1.0" ?>
+<card>
+    <name>Dododo Swordsman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this Flip Summoned card is face-up on the field, it gains 3500 ATK. When this card is flipped face-up: You can target up to 2 face-up monsters on the field; destroy them.</text>
+</card>

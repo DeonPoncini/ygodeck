@@ -1,14 +1,17 @@
-Shaddoll Hound
-Monster
-DARK
-Flip
-Effect
-Spellcaster
-4
-1600
-900
-0
-0
-None
-None
-FLIP: You can target 1 "Shaddoll" card in your Graveyard; add it to your hand.If this card is sent to the Graveyard by a card effect: You can target 1 monster on the field; change its battle position. (Flip monsters' effects are not activated at this time, except "Shaddoll" monsters'.) You can only use 1 "Shaddoll Hound" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shaddoll Hound</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can target 1 &quot;Shaddoll&quot; card in your Graveyard; add it to your hand.If this card is sent to the Graveyard by a card effect: You can target 1 monster on the field; change its battle position. (Flip monsters' effects are not activated at this time, except &quot;Shaddoll&quot; monsters'.) You can only use 1 &quot;Shaddoll Hound&quot; effect per turn, and only once that turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Skilled Blue Magician
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-4
-1800
-1800
-0
-0
-None
-None
-Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 "Gaia The Fierce Knight" monster from your hand, Deck, or Graveyard. You can banish this card from your Graveyard, then target 1 card you control that you can place a Spell Counter on; place 1 Spell Counter on it.
+<?xml version="1.0" ?>
+<card>
+    <name>Skilled Blue Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 &quot;Gaia The Fierce Knight&quot; monster from your hand, Deck, or Graveyard. You can banish this card from your Graveyard, then target 1 card you control that you can place a Spell Counter on; place 1 Spell Counter on it.</text>
+</card>

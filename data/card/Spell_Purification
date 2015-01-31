@@ -1,14 +1,17 @@
-Spell Purification
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Discard 1 card from your hand. Destroy all face-up Continuous Spell Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Purification</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Discard 1 card from your hand. Destroy all face-up Continuous Spell Cards.</text>
+</card>

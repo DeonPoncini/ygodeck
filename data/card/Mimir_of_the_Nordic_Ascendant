@@ -1,14 +1,17 @@
-Mimir of the Nordic Ascendant
-Monster
-DARK
-Effect
-None
-Fairy
-2
-600
-0
-0
-0
-None
-None
-Once per turn, at the start of your Standby Phase, if you control a "Nordic" monster and this card is in your Graveyard: You can send 1 Spell Card from your hand to the Graveyard; Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Mimir of the Nordic Ascendant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, at the start of your Standby Phase, if you control a &quot;Nordic&quot; monster and this card is in your Graveyard: You can send 1 Spell Card from your hand to the Graveyard; Special Summon this card.</text>
+</card>

@@ -1,14 +1,17 @@
-Magical Mallet
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Mallet</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.</text>
+</card>

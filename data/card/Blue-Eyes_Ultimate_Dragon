@@ -1,14 +1,17 @@
-Blue-Eyes Ultimate Dragon
-Monster
-LIGHT
-Fusion
-None
-Dragon
-12
-4500
-3800
-0
-0
-None
-None
-"Blue-Eyes White Dragon" + "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon"
+<?xml version="1.0" ?>
+<card>
+    <name>Blue-Eyes Ultimate Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>12</level>
+    <attack>4500</attack>
+    <defense>3800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Blue-Eyes White Dragon&quot; + &quot;Blue-Eyes White Dragon&quot; + &quot;Blue-Eyes White Dragon&quot;</text>
+</card>

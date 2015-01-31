@@ -1,14 +1,17 @@
-Crystal Release
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "Crystal Beast" monster. It gains 800 ATK. When this card is sent from the field to the Graveyard: You can place 1 "Crystal Beast" monster from your Deck face-up in your Spell & Trap Card Zone as a Continuous Spell Card.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Release</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;Crystal Beast&quot; monster. It gains 800 ATK. When this card is sent from the field to the Graveyard: You can place 1 &quot;Crystal Beast&quot; monster from your Deck face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card.</text>
+</card>

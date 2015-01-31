@@ -1,14 +1,17 @@
-Ghostrick Break
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When exactly 1 "Ghostrick" monster you control (and no other cards) is destroyed by battle or by an opponent's card effect and sent to the Graveyard: Target 2 "Ghostrick" monsters in your Graveyard with a different name than the destroyed monster; Special Summon them in face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Break</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When exactly 1 &quot;Ghostrick&quot; monster you control (and no other cards) is destroyed by battle or by an opponent's card effect and sent to the Graveyard: Target 2 &quot;Ghostrick&quot; monsters in your Graveyard with a different name than the destroyed monster; Special Summon them in face-down Defense Position.</text>
+</card>

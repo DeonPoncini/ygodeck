@@ -1,14 +1,17 @@
-Mandragon
-Monster
-EARTH
-Pendulum
-None
-Plant
-5
-2500
-1000
-2
-2
-None
-None
-A mandolin carrying the soul of sorrow-filled dragon. It’s said that those who hear its cursed music lose themselves in terror.
+<?xml version="1.0" ?>
+<card>
+    <name>Mandragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>5</level>
+    <attack>2500</attack>
+    <defense>1000</defense>
+    <lpendulum>2</lpendulum>
+    <rpendulum>2</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mandolin carrying the soul of sorrow-filled dragon. It’s said that those who hear its cursed music lose themselves in terror.</text>
+</card>

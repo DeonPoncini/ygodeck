@@ -1,14 +1,17 @@
-Commander Gottoms, Swordmaster
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-6
-2100
-1600
-0
-0
-None
-None
-All face-up "Saber" monsters you control gain 400 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Commander Gottoms, Swordmaster</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All face-up &quot;Saber&quot; monsters you control gain 400 ATK.</text>
+</card>

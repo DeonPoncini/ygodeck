@@ -1,14 +1,17 @@
-Blackwing - Jin the Rain Shadow
-Monster
-DARK
-Tuner
-None
-Winged Beast
-1
-600
-500
-0
-0
-None
-None
-If this card battles with a monster with DEF equal to or less than this card's ATK, destroy that monster immediately with this card's effect (without applying damage calculation).
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Jin the Rain Shadow</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card battles with a monster with DEF equal to or less than this card's ATK, destroy that monster immediately with this card's effect (without applying damage calculation).</text>
+</card>

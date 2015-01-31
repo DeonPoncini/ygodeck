@@ -1,14 +1,17 @@
-Wind-Up Warrior
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1200
-1800
-0
-0
-None
-None
-You can target 1 face-up "Wind-Up" monster you control; increase its Level by 1 and its ATK by 600, until the End Phase. This effect can only be used once while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 face-up &quot;Wind-Up&quot; monster you control; increase its Level by 1 and its ATK by 600, until the End Phase. This effect can only be used once while this card is face-up on the field.</text>
+</card>

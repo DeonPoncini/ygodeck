@@ -1,14 +1,17 @@
-Number 25: Force Focus
-Monster
-LIGHT
-Xyz
-Effect
-Machine
-6
-2800
-2400
-0
-0
-None
-None
-2 Level 6 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Level 5 or higher Effect Monster your opponent controls; negate the effects of that opponent's face-up monster, until the end of the turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 25: Force Focus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2800</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 6 monstersOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Level 5 or higher Effect Monster your opponent controls; negate the effects of that opponent's face-up monster, until the end of the turn.</text>
+</card>

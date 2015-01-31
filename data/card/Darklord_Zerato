@@ -1,14 +1,17 @@
-Darklord Zerato
-Monster
-DARK
-Effect
-None
-Fairy
-8
-2800
-2300
-0
-0
-None
-None
-If you have 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this card by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard; destroy all monsters your opponent controls. During the End Phase, if this card activated this effect this turn: Destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Darklord Zerato</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you have 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this card by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard; destroy all monsters your opponent controls. During the End Phase, if this card activated this effect this turn: Destroy this card.</text>
+</card>

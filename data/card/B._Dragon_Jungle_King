@@ -1,14 +1,17 @@
-B. Dragon Jungle King
-Monster
-EARTH
-Normal
-None
-Dragon
-6
-2100
-1800
-0
-0
-None
-None
-A jet-black dragon found in the deepest jungles who normally devours trees.
+<?xml version="1.0" ?>
+<card>
+    <name>B. Dragon Jungle King</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A jet-black dragon found in the deepest jungles who normally devours trees.</text>
+</card>

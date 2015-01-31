@@ -1,14 +1,17 @@
-Flying Fish
-Monster
-WIND
-Normal
-None
-Fish
-4
-800
-500
-0
-0
-None
-None
-Three wishes are granted to those fortunate enough to see this monster in flight.
+<?xml version="1.0" ?>
+<card>
+    <name>Flying Fish</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Three wishes are granted to those fortunate enough to see this monster in flight.</text>
+</card>

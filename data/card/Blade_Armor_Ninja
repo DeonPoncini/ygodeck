@@ -1,14 +1,17 @@
-Blade Armor Ninja
-Monster
-WIND
-Xyz
-Effect
-Warrior
-4
-2200
-1000
-0
-0
-None
-None
-2 Level 4 Warrior-Type monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 "Ninja" monster you control; it can make a second attack during each Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Blade Armor Ninja</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 Warrior-Type monstersOnce per turn: You can detach 1 Xyz Material from this card to target 1 &quot;Ninja&quot; monster you control; it can make a second attack during each Battle Phase this turn.</text>
+</card>

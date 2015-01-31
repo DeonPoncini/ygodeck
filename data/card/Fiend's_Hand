@@ -1,14 +1,17 @@
-Fiend's Hand
-Monster
-DARK
-Normal
-None
-Zombie
-2
-600
-600
-0
-0
-None
-None
-Arms that reach out from the Swamp of Chaos to drag down the damned.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend's Hand</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Arms that reach out from the Swamp of Chaos to drag down the damned.</text>
+</card>

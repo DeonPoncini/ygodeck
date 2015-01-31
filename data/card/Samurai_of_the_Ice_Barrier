@@ -1,14 +1,17 @@
-Samurai of the Ice Barrier
-Monster
-WATER
-Effect
-None
-Warrior
-4
-1800
-1500
-0
-0
-None
-None
-When this face-up Attack Position card is changed to face-up Defense Position: Destroy this card, and if you do, draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Samurai of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up Attack Position card is changed to face-up Defense Position: Destroy this card, and if you do, draw 1 card.</text>
+</card>

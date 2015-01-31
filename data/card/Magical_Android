@@ -1,14 +1,17 @@
-Magical Android
-Monster
-LIGHT
-Synchro
-Effect
-Psychic
-5
-2400
-1700
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersDuring each of your End Phases: Gain 600 LP for each Psychic-Type monster you currently control.
+<?xml version="1.0" ?>
+<card>
+    <name>Magical Android</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Psychic</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersDuring each of your End Phases: Gain 600 LP for each Psychic-Type monster you currently control.</text>
+</card>

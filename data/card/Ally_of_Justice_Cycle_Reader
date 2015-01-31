@@ -1,14 +1,17 @@
-Ally of Justice Cycle Reader
-Monster
-DARK
-Tuner
-None
-Machine
-3
-1000
-1000
-0
-0
-None
-None
-You can discard this card to the Graveyard to select up to 2 LIGHT monsters in your opponent's Graveyard, and remove them from play. This effect can be activated during either player's turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Cycle Reader</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard this card to the Graveyard to select up to 2 LIGHT monsters in your opponent's Graveyard, and remove them from play. This effect can be activated during either player's turn.</text>
+</card>

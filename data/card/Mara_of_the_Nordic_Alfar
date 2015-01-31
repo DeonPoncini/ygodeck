@@ -1,14 +1,17 @@
-Mara of the Nordic Alfar
-Monster
-DARK
-Tuner
-Effect
-Spellcaster
-2
-1000
-500
-0
-0
-None
-None
-When using this card as Synchro Material, the other Synchro Materials must be 2 "Nordic" monsters in your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Mara of the Nordic Alfar</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When using this card as Synchro Material, the other Synchro Materials must be 2 &quot;Nordic&quot; monsters in your hand.</text>
+</card>

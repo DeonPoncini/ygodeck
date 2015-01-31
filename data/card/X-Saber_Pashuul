@@ -1,14 +1,17 @@
-X-Saber Pashuul
-Monster
-EARTH
-Tuner
-None
-Warrior
-2
-100
-0
-0
-0
-None
-None
-This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>X-Saber Pashuul</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.</text>
+</card>

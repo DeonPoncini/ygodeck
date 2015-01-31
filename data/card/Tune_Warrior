@@ -1,14 +1,17 @@
-Tune Warrior
-Monster
-EARTH
-Tuner
-None
-Warrior
-3
-1600
-200
-0
-0
-None
-None
-The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.
+<?xml version="1.0" ?>
+<card>
+    <name>Tune Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1600</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.</text>
+</card>

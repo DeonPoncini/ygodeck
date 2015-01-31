@@ -1,14 +1,17 @@
-Scrap Goblin
-Monster
-EARTH
-Tuner
-None
-Beast-Warrior
-3
-0
-500
-0
-0
-None
-None
-This card cannot be destroyed by battle. If this face-up Defense Position card is selected as an attack target, destroy this card at the end of the Battle Phase. If this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard, you can select 1 "Scrap" monster in your Graveyard, except "Scrap Goblin" and add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Goblin</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. If this face-up Defense Position card is selected as an attack target, destroy this card at the end of the Battle Phase. If this card is destroyed by the effect of a &quot;Scrap&quot; card and sent to the Graveyard, you can select 1 &quot;Scrap&quot; monster in your Graveyard, except &quot;Scrap Goblin&quot; and add it to your hand.</text>
+</card>

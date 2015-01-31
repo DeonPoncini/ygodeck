@@ -1,14 +1,17 @@
-Steelswarm Hercules
-Monster
-DARK
-Effect
-None
-Fiend
-10
-3200
-0
-0
-0
-None
-None
-Cannot be Special Summoned. Requires 3 "Steelswarm" Tributes to Normal Summon (cannot be Normal Set). Once per turn: You can pay half your Life Points; destroy all other cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Steelswarm Hercules</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>3200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. Requires 3 &quot;Steelswarm&quot; Tributes to Normal Summon (cannot be Normal Set). Once per turn: You can pay half your Life Points; destroy all other cards on the field.</text>
+</card>

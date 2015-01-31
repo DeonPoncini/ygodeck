@@ -1,14 +1,17 @@
-Cat Shark
-Monster
-WATER
-Xyz
-Effect
-Beast
-2
-500
-500
-0
-0
-None
-None
-2 Level 2 monstersWhile this card has an Xyz Material attached that was originally WATER, it cannot be destroyed by battle. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Rank 4 or lower Xyz Monster you control; its ATK and DEF each become double its original ATK and DEF, until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Cat Shark</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 2 monstersWhile this card has an Xyz Material attached that was originally WATER, it cannot be destroyed by battle. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Rank 4 or lower Xyz Monster you control; its ATK and DEF each become double its original ATK and DEF, until the end of this turn.</text>
+</card>

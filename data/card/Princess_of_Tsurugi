@@ -1,14 +1,17 @@
-Princess of Tsurugi
-Monster
-WIND
-Effect
-None
-Warrior
-3
-900
-700
-0
-0
-None
-None
-FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Princess of Tsurugi</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.</text>
+</card>

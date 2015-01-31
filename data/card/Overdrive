@@ -1,14 +1,17 @@
-Overdrive
-Monster
-EARTH
-Normal
-None
-Machine
-4
-1600
-1500
-0
-0
-None
-None
-An all-terrain armored vehicle armed with a heavy-duty machine gun.
+<?xml version="1.0" ?>
+<card>
+    <name>Overdrive</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An all-terrain armored vehicle armed with a heavy-duty machine gun.</text>
+</card>

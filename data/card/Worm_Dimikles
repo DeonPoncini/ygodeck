@@ -1,14 +1,17 @@
-Worm Dimikles
-Monster
-LIGHT
-Effect
-None
-Reptile
-4
-1700
-1400
-0
-0
-None
-None
-FLIP: This card gains 300 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm Dimikles</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: This card gains 300 ATK and DEF.</text>
+</card>

@@ -1,14 +1,17 @@
-Transcendent Wings
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Send 1 "Winged Kuriboh" you control and 2 cards from your hand to the Graveyard; Special Summon 1 "Winged Kuriboh LV10" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Transcendent Wings</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 &quot;Winged Kuriboh&quot; you control and 2 cards from your hand to the Graveyard; Special Summon 1 &quot;Winged Kuriboh LV10&quot; from your hand or Deck.</text>
+</card>

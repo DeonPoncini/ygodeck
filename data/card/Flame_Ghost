@@ -1,14 +1,17 @@
-Flame Ghost
-Monster
-DARK
-Fusion
-None
-Zombie
-3
-1000
-800
-0
-0
-None
-None
-"Skull Servant" + "Dissolverock"
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Ghost</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Skull Servant&quot; + &quot;Dissolverock&quot;</text>
+</card>

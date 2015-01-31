@@ -1,14 +1,17 @@
-Shining Friendship
-Monster
-LIGHT
-Normal
-None
-Fairy
-4
-1300
-1100
-0
-0
-None
-None
-The peacemaker among monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Shining Friendship</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The peacemaker among monsters.</text>
+</card>

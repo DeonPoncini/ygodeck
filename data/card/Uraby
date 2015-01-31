@@ -1,14 +1,17 @@
-Uraby
-Monster
-EARTH
-Normal
-None
-Dinosaur
-4
-1500
-800
-0
-0
-None
-None
-Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.
+<?xml version="1.0" ?>
+<card>
+    <name>Uraby</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.</text>
+</card>

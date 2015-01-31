@@ -1,14 +1,17 @@
-Heroic Challenger - Double Lance
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1700
-900
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 "Heroic Challenger - Double Lance" from your hand or Graveyard in face-up Defense Position. This card cannot be used as a Synchro Material Monster. This card cannot be used as an Xyz Material, except for the Xyz Summon of a Warrior-Type monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Heroic Challenger - Double Lance</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 &quot;Heroic Challenger - Double Lance&quot; from your hand or Graveyard in face-up Defense Position. This card cannot be used as a Synchro Material Monster. This card cannot be used as an Xyz Material, except for the Xyz Summon of a Warrior-Type monster.</text>
+</card>

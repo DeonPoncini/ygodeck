@@ -1,14 +1,17 @@
-Sand Stone
-Monster
-EARTH
-Normal
-None
-Rock
-5
-1300
-1600
-0
-0
-None
-None
-Appears from underground and attacks with long, snake-like tentacles.
+<?xml version="1.0" ?>
+<card>
+    <name>Sand Stone</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>1300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Appears from underground and attacks with long, snake-like tentacles.</text>
+</card>

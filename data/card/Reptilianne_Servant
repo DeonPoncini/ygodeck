@@ -1,14 +1,17 @@
-Reptilianne Servant
-Monster
-DARK
-Effect
-None
-Reptile
-1
-100
-100
-0
-0
-None
-None
-Destroy this card if there are face-up monsters on the field other than this card. Destroy this card when it is targeted by the effect of a Spell or Trap Card. Neither player can Normal Summon a monster while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Reptilianne Servant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Destroy this card if there are face-up monsters on the field other than this card. Destroy this card when it is targeted by the effect of a Spell or Trap Card. Neither player can Normal Summon a monster while this card is face-up on the field.</text>
+</card>

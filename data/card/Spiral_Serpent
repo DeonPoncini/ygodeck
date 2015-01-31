@@ -1,14 +1,17 @@
-Spiral Serpent
-Monster
-WATER
-Normal
-None
-Sea Serpent
-8
-2900
-2900
-0
-0
-None
-None
-When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.
+<?xml version="1.0" ?>
+<card>
+    <name>Spiral Serpent</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>2900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.</text>
+</card>

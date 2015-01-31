@@ -1,14 +1,17 @@
-Akihiron
-Monster
-WATER
-Normal
-None
-Aqua
-5
-1700
-1400
-0
-0
-None
-None
-This strange creature hides in the deep, dark corners of the seven seas.
+<?xml version="1.0" ?>
+<card>
+    <name>Akihiron</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>5</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This strange creature hides in the deep, dark corners of the seven seas.</text>
+</card>

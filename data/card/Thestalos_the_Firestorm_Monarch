@@ -1,14 +1,17 @@
-Thestalos the Firestorm Monarch
-Monster
-FIRE
-Effect
-None
-Pyro
-6
-2400
-1000
-0
-0
-None
-None
-When this card is Tribute Summoned, discard 1 random card from your opponent's hand. If it was a Monster Card, inflict damage to your opponent equal to its Level x 100.
+<?xml version="1.0" ?>
+<card>
+    <name>Thestalos the Firestorm Monarch</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned, discard 1 random card from your opponent's hand. If it was a Monster Card, inflict damage to your opponent equal to its Level x 100.</text>
+</card>

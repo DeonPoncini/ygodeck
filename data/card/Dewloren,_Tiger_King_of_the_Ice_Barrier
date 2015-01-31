@@ -1,14 +1,17 @@
-Dewloren, Tiger King of the Ice Barrier
-Monster
-WATER
-Synchro
-Effect
-Beast
-6
-2000
-1400
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner WATER monstersOnce per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Dewloren, Tiger King of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner WATER monstersOnce per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.</text>
+</card>

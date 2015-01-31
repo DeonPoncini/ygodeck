@@ -1,14 +1,17 @@
-Gungnir, Dragon of the Ice Barrier
-Monster
-WATER
-Synchro
-Effect
-Dragon
-7
-2500
-1700
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner WATER monstersOnce per turn: You can discard up to 2 cards to the Graveyard to target the same number of cards your opponent controls; destroy them.
+<?xml version="1.0" ?>
+<card>
+    <name>Gungnir, Dragon of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner WATER monstersOnce per turn: You can discard up to 2 cards to the Graveyard to target the same number of cards your opponent controls; destroy them.</text>
+</card>

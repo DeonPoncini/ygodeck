@@ -1,14 +1,17 @@
-Unifrog
-Monster
-WATER
-Effect
-None
-Aqua
-2
-400
-400
-0
-0
-None
-None
-This card can attack your opponent directly. When this card successfully attacks directly, if you control a "Frog" monster other than "Frog the Jam" or "Unifrog", you can destroy 1 Spell or Trap your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Unifrog</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack your opponent directly. When this card successfully attacks directly, if you control a &quot;Frog&quot; monster other than &quot;Frog the Jam&quot; or &quot;Unifrog&quot;, you can destroy 1 Spell or Trap your opponent controls.</text>
+</card>

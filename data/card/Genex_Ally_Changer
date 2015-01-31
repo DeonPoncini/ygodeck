@@ -1,14 +1,17 @@
-Genex Ally Changer
-Monster
-DARK
-Effect
-None
-Machine
-3
-1200
-1800
-0
-0
-None
-None
-Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Ally Changer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.</text>
+</card>

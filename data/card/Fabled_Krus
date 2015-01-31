@@ -1,14 +1,17 @@
-Fabled Krus
-Monster
-LIGHT
-Effect
-None
-Fiend
-2
-1000
-800
-0
-0
-None
-None
-When this card is discarded to the Graveyard, select 1 Level 4 or lower "Fabled" monster in your Graveyard, except this card, and Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Krus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is discarded to the Graveyard, select 1 Level 4 or lower &quot;Fabled&quot; monster in your Graveyard, except this card, and Special Summon it.</text>
+</card>

@@ -1,14 +1,17 @@
-Great Maju Garzett
-Monster
-DARK
-Effect
-None
-Fiend
-6
-0
-0
-0
-0
-None
-None
-The ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Great Maju Garzett</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>The ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card.</text>
+</card>

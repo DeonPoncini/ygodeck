@@ -1,14 +1,17 @@
-Double Defender
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn, when an opponent's monster declares an attack while you control 2 or more face-up Defense Position monsters: You can target the attacking monster; negate that attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Double Defender</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when an opponent's monster declares an attack while you control 2 or more face-up Defense Position monsters: You can target the attacking monster; negate that attack.</text>
+</card>

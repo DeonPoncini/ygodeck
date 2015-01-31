@@ -1,14 +1,17 @@
-M-Warrior 2
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-500
-1000
-0
-0
-None
-None
-Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.
+<?xml version="1.0" ?>
+<card>
+    <name>M-Warrior #2</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.</text>
+</card>

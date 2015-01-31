@@ -1,14 +1,17 @@
-Queen's Pawn
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when an "Amazoness" monster you control destroys an opponent's monster by battle and sends it to the Graveyard. Special Summon 1 Level 4 or lower "Amazoness" monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Queen's Pawn</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when an &quot;Amazoness&quot; monster you control destroys an opponent's monster by battle and sends it to the Graveyard. Special Summon 1 Level 4 or lower &quot;Amazoness&quot; monster from your Deck.</text>
+</card>

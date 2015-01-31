@@ -1,14 +1,17 @@
-D.D. Crow
-Monster
-DARK
-Effect
-None
-Winged Beast
-1
-100
-100
-0
-0
-None
-None
-During either player's turn: You can discard this card to the Graveyard to target 1 card in your opponent's Graveyard; banish that target.
+<?xml version="1.0" ?>
+<card>
+    <name>D.D. Crow</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can discard this card to the Graveyard to target 1 card in your opponent's Graveyard; banish that target.</text>
+</card>

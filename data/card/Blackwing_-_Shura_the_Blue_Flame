@@ -1,14 +1,17 @@
-Blackwing - Shura the Blue Flame
-Monster
-DARK
-Effect
-None
-Winged Beast
-4
-1800
-1200
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 "Blackwing" monster with 1500 or less ATK from your Deck, but its effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Shura the Blue Flame</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 &quot;Blackwing&quot; monster with 1500 or less ATK from your Deck, but its effects are negated.</text>
+</card>

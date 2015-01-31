@@ -1,14 +1,17 @@
-Kuwagata α
-Monster
-EARTH
-Normal
-None
-Insect
-4
-1250
-1000
-0
-0
-None
-None
-A very vicious stag beetle that goes for the head.
+<?xml version="1.0" ?>
+<card>
+    <name>Kuwagata α</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1250</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A very vicious stag beetle that goes for the head.</text>
+</card>

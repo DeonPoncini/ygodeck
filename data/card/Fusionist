@@ -1,14 +1,17 @@
-Fusionist
-Monster
-EARTH
-Fusion
-None
-Beast
-3
-900
-700
-0
-0
-None
-None
-"Petit Angel" + "Mystical Sheep #2"
+<?xml version="1.0" ?>
+<card>
+    <name>Fusionist</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Petit Angel&quot; + &quot;Mystical Sheep #2&quot;</text>
+</card>

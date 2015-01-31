@@ -1,14 +1,17 @@
-Steelswarm Mantis
-Monster
-DARK
-Effect
-None
-Fiend
-5
-2200
-0
-0
-0
-None
-None
-When this card is Tribute Summoned by Tributing a "Steelswarm" monster: You can pay 1000 Life Points to target 1 "Steelswarm" monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Steelswarm Mantis</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned by Tributing a &quot;Steelswarm&quot; monster: You can pay 1000 Life Points to target 1 &quot;Steelswarm&quot; monster in your Graveyard; Special Summon that target.</text>
+</card>

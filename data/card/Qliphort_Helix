@@ -1,18 +1,21 @@
-Qliphort Helix
-Monster
-EARTH
-Pendulum
-Effect
-Machine
-6
-2400
-1000
-9
-9
-None
-None
-Pendulum Effect
- You cannot Special Summon monsters, except "Qli" monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Qliphort Helix</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>9</lpendulum>
+    <rpendulum>9</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Special Summon monsters, except &quot;Qli&quot; monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.
 
  Monster Effect
- You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Tributed: You can target 1 Spell/Trap Card on the field; destroy that target.
+ You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Tributed: You can target 1 Spell/Trap Card on the field; destroy that target.</text>
+</card>

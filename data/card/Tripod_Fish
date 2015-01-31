@@ -1,14 +1,17 @@
-Tripod Fish
-Monster
-WATER
-Effect
-None
-Fish
-3
-300
-1300
-0
-0
-None
-None
-When this card is Special Summoned from the Graveyard: You can target 1 face-up Fish, Sea Serpent, or Aqua-Type monster on the field; increase its Level by 1.
+<?xml version="1.0" ?>
+<card>
+    <name>Tripod Fish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned from the Graveyard: You can target 1 face-up Fish, Sea Serpent, or Aqua-Type monster on the field; increase its Level by 1.</text>
+</card>

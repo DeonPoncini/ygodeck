@@ -1,14 +1,17 @@
-Saber Vault
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each face-up "X-Saber" monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.
+<?xml version="1.0" ?>
+<card>
+    <name>Saber Vault</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each face-up &quot;X-Saber&quot; monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.</text>
+</card>

@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Rhino
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-4
-1700
-1400
-0
-0
-None
-None
-If a "Fire Fist" monster you control attacks or is attacked, during damage calculation (in either player's turn): You can send 1 face-up "Fire Formation" Spell/Trap Card you control and 1 "Fire Fist" monster from your hand to the Graveyard once per battle; your attacking/attacked monster gains ATK equal to the original ATK of the monster sent to the Graveyard, during damage calculation only.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Rhino</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a &quot;Fire Fist&quot; monster you control attacks or is attacked, during damage calculation (in either player's turn): You can send 1 face-up &quot;Fire Formation&quot; Spell/Trap Card you control and 1 &quot;Fire Fist&quot; monster from your hand to the Graveyard once per battle; your attacking/attacked monster gains ATK equal to the original ATK of the monster sent to the Graveyard, during damage calculation only.</text>
+</card>

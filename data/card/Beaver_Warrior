@@ -1,14 +1,17 @@
-Beaver Warrior
-Monster
-EARTH
-Normal
-None
-Beast-Warrior
-4
-1200
-1500
-0
-0
-None
-None
-What this creature lacks in size it makes up for in defense when battling in the prairie.
+<?xml version="1.0" ?>
+<card>
+    <name>Beaver Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>What this creature lacks in size it makes up for in defense when battling in the prairie.</text>
+</card>

@@ -1,14 +1,17 @@
-Wheel of Prophecy
-Monster
-DARK
-Effect
-None
-Spellcaster
-8
-2700
-1700
-0
-0
-None
-None
-When this card is Special Summoned by the effect of a Spellcaster-Type monster: You can target any number of your banished "Spellbook" Spell Cards; shuffle them into the Deck, and if you do, return your other banished "Spellbook" Spell Cards to your Graveyard. You can only use the effect of "Wheel of Prophecy" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Wheel of Prophecy</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>8</level>
+    <attack>2700</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of a Spellcaster-Type monster: You can target any number of your banished &quot;Spellbook&quot; Spell Cards; shuffle them into the Deck, and if you do, return your other banished &quot;Spellbook&quot; Spell Cards to your Graveyard. You can only use the effect of &quot;Wheel of Prophecy&quot; once per turn.</text>
+</card>

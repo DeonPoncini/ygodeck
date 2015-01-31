@@ -1,14 +1,17 @@
-Maxx "C"
-Monster
-EARTH
-Effect
-None
-Insect
-2
-500
-200
-0
-0
-None
-None
-During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 "Maxx "C"" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Maxx &quot;C&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 &quot;Maxx &quot;C&quot;&quot; per turn.</text>
+</card>

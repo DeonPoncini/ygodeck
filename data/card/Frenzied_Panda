@@ -1,14 +1,17 @@
-Frenzied Panda
-Monster
-EARTH
-Normal
-None
-Beast
-4
-1200
-1000
-0
-0
-None
-None
-A savage beast that carries a big bamboo stick for beating down its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>Frenzied Panda</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A savage beast that carries a big bamboo stick for beating down its enemies.</text>
+</card>

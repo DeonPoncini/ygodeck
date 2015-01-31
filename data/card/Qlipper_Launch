@@ -1,14 +1,17 @@
-Qlipper Launch
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Until the end of this turn, all Normal Summoned/Set "Qli" monsters currently on the field gain 300 ATK, but are unaffected by other Spell/Trap effects, also their effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Qlipper Launch</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Until the end of this turn, all Normal Summoned/Set &quot;Qli&quot; monsters currently on the field gain 300 ATK, but are unaffected by other Spell/Trap effects, also their effects are negated.</text>
+</card>

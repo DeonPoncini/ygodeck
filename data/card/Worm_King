@@ -1,14 +1,17 @@
-Worm King
-Monster
-LIGHT
-Effect
-None
-Reptile
-8
-2700
-1100
-0
-0
-None
-None
-This card can be Tribute Summoned in face-up Attack Position by Tributing 1 Reptile-Type "Worm" monster. You can Tribute 1 Reptile-Type "Worm" monster to select 1 card your opponent controls, and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Worm King</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>8</level>
+    <attack>2700</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be Tribute Summoned in face-up Attack Position by Tributing 1 Reptile-Type &quot;Worm&quot; monster. You can Tribute 1 Reptile-Type &quot;Worm&quot; monster to select 1 card your opponent controls, and destroy it.</text>
+</card>

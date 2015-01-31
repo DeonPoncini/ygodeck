@@ -1,14 +1,17 @@
-Pride of the Weak
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When a Level 2 or lower monster you control destroys an opponent's monster by battle and sends it to the Graveyard, if you have no cards in your hand, draw 2 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Pride of the Weak</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When a Level 2 or lower monster you control destroys an opponent's monster by battle and sends it to the Graveyard, if you have no cards in your hand, draw 2 cards.</text>
+</card>

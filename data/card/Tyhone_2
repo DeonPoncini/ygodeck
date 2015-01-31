@@ -1,14 +1,17 @@
-Tyhone 2
-Monster
-FIRE
-Normal
-None
-Dragon
-6
-1700
-1900
-0
-0
-None
-None
-A crimson dragon that spits fireballs to create a blazing sea of fire.
+<?xml version="1.0" ?>
+<card>
+    <name>Tyhone #2</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>1700</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A crimson dragon that spits fireballs to create a blazing sea of fire.</text>
+</card>

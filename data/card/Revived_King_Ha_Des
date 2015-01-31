@@ -1,14 +1,17 @@
-Revived King Ha Des
-Monster
-DARK
-Synchro
-Effect
-Zombie
-6
-2450
-0
-0
-0
-None
-None
-"Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monstersNegate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Revived King Ha Des</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>2450</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Plaguespreader Zombie&quot; + 1 or more non-Tuner Zombie-Type monstersNegate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.</text>
+</card>

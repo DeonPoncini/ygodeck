@@ -1,14 +1,17 @@
-Dark Chimera
-Monster
-DARK
-Normal
-None
-Fiend
-5
-1610
-1460
-0
-0
-None
-None
-A fire-breathing monster that dwells in the netherworld.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Chimera</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1610</attack>
+    <defense>1460</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fire-breathing monster that dwells in the netherworld.</text>
+</card>

@@ -1,14 +1,17 @@
-Elemental HERO Ocean
-Monster
-WATER
-Effect
-None
-Warrior
-4
-1500
-1200
-0
-0
-None
-None
-Once per turn, during your Standby Phase: You can target 1 "HERO" monster you control or in your Graveyard; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Ocean</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Standby Phase: You can target 1 &quot;HERO&quot; monster you control or in your Graveyard; return that target to the hand.</text>
+</card>

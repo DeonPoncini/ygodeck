@@ -1,14 +1,17 @@
-Evo-Force
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Tribute 1 "Evoltile" monster; Special Summon 1 "Evolsaur" monster from your Deck. It is treated as if it was Special Summoned by the effect of an "Evoltile" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Evo-Force</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 &quot;Evoltile&quot; monster; Special Summon 1 &quot;Evolsaur&quot; monster from your Deck. It is treated as if it was Special Summoned by the effect of an &quot;Evoltile&quot; monster.</text>
+</card>

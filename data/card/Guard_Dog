@@ -1,14 +1,17 @@
-Guard Dog
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1500
-500
-0
-0
-None
-None
-FLIP: Your opponent cannot Special Summon for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Guard Dog</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Your opponent cannot Special Summon for the rest of this turn.</text>
+</card>

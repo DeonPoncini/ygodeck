@@ -1,14 +1,17 @@
-Detonate
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Destroy all face-up "Kuriboh" and "Kuriboh Tokens" you control, then destroy cards your opponent controls, up to the number of "Kuriboh" and "Kuriboh Tokens" destroyed by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Detonate</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Destroy all face-up &quot;Kuriboh&quot; and &quot;Kuriboh Tokens&quot; you control, then destroy cards your opponent controls, up to the number of &quot;Kuriboh&quot; and &quot;Kuriboh Tokens&quot; destroyed by this effect.</text>
+</card>

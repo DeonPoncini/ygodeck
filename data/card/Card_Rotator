@@ -1,14 +1,17 @@
-Card Rotator
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 1 card from your hand to the Graveyard. Change the battle positions of all monsters your opponent controls. (Face-down Defense Position monsters are flipped to face-up Attack Position.)
+<?xml version="1.0" ?>
+<card>
+    <name>Card Rotator</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 card from your hand to the Graveyard. Change the battle positions of all monsters your opponent controls. (Face-down Defense Position monsters are flipped to face-up Attack Position.)</text>
+</card>

@@ -1,14 +1,17 @@
-Berfomet
-Monster
-DARK
-Effect
-None
-Fiend
-5
-1400
-1800
-0
-0
-None
-None
-When this card is Normal or Flip Summoned: You can add 1 "Gazelle the King of Mythical Beasts" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Berfomet</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1400</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Flip Summoned: You can add 1 &quot;Gazelle the King of Mythical Beasts&quot; from your Deck to your hand.</text>
+</card>

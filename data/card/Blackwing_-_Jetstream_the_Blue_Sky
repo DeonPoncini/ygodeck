@@ -1,14 +1,17 @@
-Blackwing - Jetstream the Blue Sky
-Monster
-DARK
-Effect
-None
-Winged Beast
-1
-100
-800
-0
-0
-None
-None
-During damage calculation, you can send this card from your hand to the Graveyard to prevent a "Blackwing" monster you control from being destroyed by this battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Jetstream the Blue Sky</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During damage calculation, you can send this card from your hand to the Graveyard to prevent a &quot;Blackwing&quot; monster you control from being destroyed by this battle.</text>
+</card>

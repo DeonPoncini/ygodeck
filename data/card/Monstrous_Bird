@@ -1,14 +1,17 @@
-Monstrous Bird
-Monster
-WIND
-Normal
-None
-Winged Beast
-6
-2000
-1900
-0
-0
-None
-None
-Few have set eyes on this dive-bombing bird and lived to tell the tale.
+<?xml version="1.0" ?>
+<card>
+    <name>Monstrous Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Few have set eyes on this dive-bombing bird and lived to tell the tale.</text>
+</card>

@@ -1,14 +1,17 @@
-Special Schedule
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 Machine-Type monster with 3000 or more ATK in your Graveyard; Special Summon that target in face-up Defense Position. You can only activate 1 "Special Schedule" per turn. If this Set card is sent from the field to the Graveyard: You can target 1 Level 10 Machine-Type monster in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Special Schedule</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 Machine-Type monster with 3000 or more ATK in your Graveyard; Special Summon that target in face-up Defense Position. You can only activate 1 &quot;Special Schedule&quot; per turn. If this Set card is sent from the field to the Graveyard: You can target 1 Level 10 Machine-Type monster in your Graveyard; add that target to your hand.</text>
+</card>

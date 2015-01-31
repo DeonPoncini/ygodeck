@@ -1,14 +1,17 @@
-Wingweaver
-Monster
-LIGHT
-Normal
-None
-Fairy
-7
-2750
-2400
-0
-0
-None
-None
-A six-winged fairy who prays for peace and hope.
+<?xml version="1.0" ?>
+<card>
+    <name>Wingweaver</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>2750</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A six-winged fairy who prays for peace and hope.</text>
+</card>

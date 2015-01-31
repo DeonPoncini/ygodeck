@@ -1,14 +1,17 @@
-Medium Piece Golem
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1600
-0
-0
-0
-None
-None
-When this card is Summoned, if you control a "Big Piece Golem", you can Special Summon 1 "Small Piece Golem" from your Deck. That monster's effect is negated while it is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Medium Piece Golem</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned, if you control a &quot;Big Piece Golem&quot;, you can Special Summon 1 &quot;Small Piece Golem&quot; from your Deck. That monster's effect is negated while it is face-up on the field.</text>
+</card>

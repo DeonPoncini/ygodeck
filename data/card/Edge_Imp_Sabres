@@ -1,14 +1,17 @@
-Edge Imp Sabres
-Monster
-DARK
-Effect
-None
-Fiend
-3
-1200
-800
-0
-0
-None
-None
-If this card is in the Graveyard: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of "Edge Imp Sabres" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Edge Imp Sabres</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in the Graveyard: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of &quot;Edge Imp Sabres&quot; once per turn.</text>
+</card>

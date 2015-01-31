@@ -1,14 +1,17 @@
-Galaxy Mirror Sage
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-3
-0
-800
-0
-0
-None
-None
-FLIP: You gain 500 Life Points for each "Galaxy" monster in your Graveyard.When this card is destroyed and sent from the field to the Graveyard after being flipped face-up: You can Special Summon 1 Level 4 or lower "Galaxy" monster from your Deck or Graveyard in face-down Defense Position. Banish it when it leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Galaxy Mirror Sage</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You gain 500 Life Points for each &quot;Galaxy&quot; monster in your Graveyard.When this card is destroyed and sent from the field to the Graveyard after being flipped face-up: You can Special Summon 1 Level 4 or lower &quot;Galaxy&quot; monster from your Deck or Graveyard in face-down Defense Position. Banish it when it leaves the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Oppressed People
-Monster
-WATER
-Normal
-None
-Aqua
-1
-400
-2000
-0
-0
-None
-None
-They are oppressed, but believe they will have their freedom someday.
+<?xml version="1.0" ?>
+<card>
+    <name>Oppressed People</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>They are oppressed, but believe they will have their freedom someday.</text>
+</card>

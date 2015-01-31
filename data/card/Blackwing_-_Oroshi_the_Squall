@@ -1,14 +1,17 @@
-Blackwing - Oroshi the Squall
-Monster
-DARK
-Tuner
-None
-Winged Beast
-1
-400
-600
-0
-0
-None
-None
-If you control a "Blackwing" monster other than "Blackwing - Oroshi the Squall", you can Special Summon this card (from your hand). You can only Special Summon "Blackwing - Oroshi the Squall" once per turn this way. If this card is sent to the Graveyard as a Synchro Material Monster: You can target 1 monster on the field; change that target's battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Oroshi the Squall</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Blackwing&quot; monster other than &quot;Blackwing - Oroshi the Squall&quot;, you can Special Summon this card (from your hand). You can only Special Summon &quot;Blackwing - Oroshi the Squall&quot; once per turn this way. If this card is sent to the Graveyard as a Synchro Material Monster: You can target 1 monster on the field; change that target's battle position.</text>
+</card>

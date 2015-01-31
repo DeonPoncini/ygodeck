@@ -1,14 +1,17 @@
-Flelf
-Monster
-WIND
-Effect
-None
-Spellcaster
-2
-800
-1300
-0
-0
-None
-None
-Once per turn: You can reveal 1 monster in your hand; increase the Level of this card by the Level of that monster, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Flelf</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can reveal 1 monster in your hand; increase the Level of this card by the Level of that monster, until the End Phase.</text>
+</card>

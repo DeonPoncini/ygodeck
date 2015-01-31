@@ -1,14 +1,17 @@
-Armed Dragon LV5
-Monster
-WIND
-Effect
-None
-Dragon
-5
-2400
-1700
-0
-0
-None
-None
-You can send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 "Armed Dragon LV7" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Armed Dragon LV5</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 &quot;Armed Dragon LV7&quot; from your hand or Deck.</text>
+</card>

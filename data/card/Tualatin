@@ -1,14 +1,17 @@
-Tualatin
-Monster
-LIGHT
-Effect
-None
-Fairy
-8
-2800
-2500
-0
-0
-None
-None
-If you controlled 2 or more monsters at the start of your opponent's Battle Phase and all of them were destroyed by battle and sent to the Graveyard, you can Special Summon this card from your hand during that Battle Phase. If you do, choose an Attribute and destroy all face-up monsters with that Attribute. Your opponent cannot Normal or Special Summon monsters with that Attribute.
+<?xml version="1.0" ?>
+<card>
+    <name>Tualatin</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you controlled 2 or more monsters at the start of your opponent's Battle Phase and all of them were destroyed by battle and sent to the Graveyard, you can Special Summon this card from your hand during that Battle Phase. If you do, choose an Attribute and destroy all face-up monsters with that Attribute. Your opponent cannot Normal or Special Summon monsters with that Attribute.</text>
+</card>

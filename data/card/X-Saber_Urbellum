@@ -1,14 +1,17 @@
-X-Saber Urbellum
-Monster
-EARTH
-Synchro
-Effect
-Warrior
-7
-2200
-1300
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>X-Saber Urbellum</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2200</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.</text>
+</card>

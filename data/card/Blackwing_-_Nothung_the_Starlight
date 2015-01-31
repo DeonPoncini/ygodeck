@@ -1,14 +1,17 @@
-Blackwing - Nothung the Starlight
-Monster
-DARK
-Synchro
-Effect
-Winged Beast
-6
-2400
-1600
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersIf this card is Special Summoned: Inflict 800 damage to your opponent, then make 1 monster your opponent controls lose 800 ATK and DEF. You can only use this effect of "Blackwing - Nothung the Starlight" once per turn. During your Main Phase, you can Normal Summon 1 "Blackwing" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Nothung the Starlight</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersIf this card is Special Summoned: Inflict 800 damage to your opponent, then make 1 monster your opponent controls lose 800 ATK and DEF. You can only use this effect of &quot;Blackwing - Nothung the Starlight&quot; once per turn. During your Main Phase, you can Normal Summon 1 &quot;Blackwing&quot; monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)</text>
+</card>

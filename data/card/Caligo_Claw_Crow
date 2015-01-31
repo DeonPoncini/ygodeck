@@ -1,14 +1,17 @@
-Caligo Claw Crow
-Monster
-DARK
-Effect
-None
-Winged Beast
-2
-900
-600
-0
-0
-None
-None
-If you control a DARK monster, you can Special Summon this card (from your hand). You can only Special Summon "Caligo Claw Crow" once per turn this way.
+<?xml version="1.0" ?>
+<card>
+    <name>Caligo Claw Crow</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>900</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a DARK monster, you can Special Summon this card (from your hand). You can only Special Summon &quot;Caligo Claw Crow&quot; once per turn this way.</text>
+</card>

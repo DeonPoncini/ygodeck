@@ -1,14 +1,17 @@
-Trap Reactor・Y FI
-Monster
-DARK
-Effect
-None
-Machine
-4
-800
-1800
-0
-0
-None
-None
-Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Trap Reactor・Y FI</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.</text>
+</card>

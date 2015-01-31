@@ -1,14 +1,17 @@
-Wild Fire
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Pay 500 Life Points. Destroy a face-up "Blaze Accelerator" card you control and destroy all monsters on the field. Then, Special Summon 1 "Wild Fire Token" (Pyro-Type/FIRE/Level 3/ATK 1000/DEF 1000) in Attack Position. Also, you cannot declare an attack this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Wild Fire</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Pay 500 Life Points. Destroy a face-up &quot;Blaze Accelerator&quot; card you control and destroy all monsters on the field. Then, Special Summon 1 &quot;Wild Fire Token&quot; (Pyro-Type/FIRE/Level 3/ATK 1000/DEF 1000) in Attack Position. Also, you cannot declare an attack this turn.</text>
+</card>

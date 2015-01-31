@@ -1,14 +1,17 @@
-Musician King
-Monster
-LIGHT
-Fusion
-None
-Spellcaster
-5
-1750
-1500
-0
-0
-None
-None
-"Witch of the Black Forest" + "Lady of Faith"
+<?xml version="1.0" ?>
+<card>
+    <name>Musician King</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1750</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Witch of the Black Forest&quot; + &quot;Lady of Faith&quot;</text>
+</card>

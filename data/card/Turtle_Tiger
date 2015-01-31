@@ -1,14 +1,17 @@
-Turtle Tiger
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1000
-1500
-0
-0
-None
-None
-A tiger encased in a protective shell that attacks with razor-sharp fangs.
+<?xml version="1.0" ?>
+<card>
+    <name>Turtle Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A tiger encased in a protective shell that attacks with razor-sharp fangs.</text>
+</card>

@@ -1,14 +1,17 @@
-X-Saber Galahad
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1800
-800
-0
-0
-None
-None
-If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only. When this card is selected as an attack target, you can Tribute another "Saber" monster to negate the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>X-Saber Galahad</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only. When this card is selected as an attack target, you can Tribute another &quot;Saber&quot; monster to negate the attack.</text>
+</card>

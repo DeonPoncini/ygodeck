@@ -1,14 +1,17 @@
-Flash Assailant
-Monster
-DARK
-Effect
-None
-Fiend
-4
-2000
-2000
-0
-0
-None
-None
-Decrease the ATK and DEF of this card by 400 points for each card in your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Flash Assailant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Decrease the ATK and DEF of this card by 400 points for each card in your hand.</text>
+</card>

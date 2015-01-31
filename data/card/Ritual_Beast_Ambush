@@ -1,14 +1,17 @@
-Ritual Beast Ambush
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 of your "Ritual Beast Tamer" monsters and 1 of your "Spiritual Beast" monsters that are banished and/or in your Graveyard; Special Summon them in Defense Position. After this card is activated, you cannot Special Summon monsters, except "Ritual Beast" monsters, for the rest of this turn. You can only activate 1 "Ritual Beast Ambush" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ritual Beast Ambush</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 of your &quot;Ritual Beast Tamer&quot; monsters and 1 of your &quot;Spiritual Beast&quot; monsters that are banished and/or in your Graveyard; Special Summon them in Defense Position. After this card is activated, you cannot Special Summon monsters, except &quot;Ritual Beast&quot; monsters, for the rest of this turn. You can only activate 1 &quot;Ritual Beast Ambush&quot; per turn.</text>
+</card>

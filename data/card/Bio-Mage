@@ -1,14 +1,17 @@
-Bio-Mage
-Monster
-LIGHT
-Normal
-None
-Fairy
-3
-1150
-1000
-0
-0
-None
-None
-A mysterious priest created as a result of the latest advances in biotechnology.
+<?xml version="1.0" ?>
+<card>
+    <name>Bio-Mage</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1150</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A mysterious priest created as a result of the latest advances in biotechnology.</text>
+</card>

@@ -1,14 +1,17 @@
-Doomkaiser Dragon
-Monster
-FIRE
-Synchro
-Effect
-Zombie
-6
-2400
-1500
-0
-0
-None
-None
-"Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monstersWhen this card is Special Summoned: You can target 1 Zombie-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field in face-up Attack Position, but destroy it when this card leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Doomkaiser Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Plaguespreader Zombie&quot; + 1 or more non-Tuner Zombie-Type monstersWhen this card is Special Summoned: You can target 1 Zombie-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field in face-up Attack Position, but destroy it when this card leaves the field.</text>
+</card>

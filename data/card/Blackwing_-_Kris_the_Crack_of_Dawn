@@ -1,14 +1,17 @@
-Blackwing - Kris the Crack of Dawn
-Monster
-DARK
-Effect
-None
-Winged Beast
-4
-1900
-300
-0
-0
-None
-None
-If you control a "Blackwing" monster other than "Blackwing - Kris the Crack of Dawn", you can Special Summon this card (from your hand). You can only Special Summon "Blackwing - Kris the Crack of Dawn" once per turn this way. Once per turn, this card cannot be destroyed by Spell/Trap effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Kris the Crack of Dawn</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Blackwing&quot; monster other than &quot;Blackwing - Kris the Crack of Dawn&quot;, you can Special Summon this card (from your hand). You can only Special Summon &quot;Blackwing - Kris the Crack of Dawn&quot; once per turn this way. Once per turn, this card cannot be destroyed by Spell/Trap effects.</text>
+</card>

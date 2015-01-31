@@ -1,14 +1,17 @@
-Thor, Lord of the Aesir
-Monster
-EARTH
-Synchro
-Effect
-Beast-Warrior
-10
-3500
-2800
-0
-0
-None
-None
-1 "Nordic Beast" Tuner + 2 or more non-Tuner monstersOnce per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. During the End Phase, if this face-up card you controlled was destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard this turn: You can banish 1 "Nordic Beast" Tuner monster from your Graveyard; Special Summon this card. If Summoned this way: Inflict 800 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Thor, Lord of the Aesir</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>10</level>
+    <attack>3500</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Nordic Beast&quot; Tuner + 2 or more non-Tuner monstersOnce per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. During the End Phase, if this face-up card you controlled was destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard this turn: You can banish 1 &quot;Nordic Beast&quot; Tuner monster from your Graveyard; Special Summon this card. If Summoned this way: Inflict 800 damage to your opponent.</text>
+</card>

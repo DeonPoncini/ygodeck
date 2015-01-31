@@ -1,14 +1,17 @@
-The Shadow Who Controls the Dark
-Monster
-DARK
-Normal
-None
-Fiend
-3
-800
-700
-0
-0
-None
-None
-A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.
+<?xml version="1.0" ?>
+<card>
+    <name>The Shadow Who Controls the Dark</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.</text>
+</card>

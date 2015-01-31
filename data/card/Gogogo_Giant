@@ -1,14 +1,17 @@
-Gogogo Giant
-Monster
-EARTH
-Effect
-None
-Rock
-4
-2000
-0
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 "Gogogo" monster in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Gogogo Giant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 &quot;Gogogo&quot; monster in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.</text>
+</card>

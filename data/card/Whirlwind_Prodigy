@@ -1,14 +1,17 @@
-Whirlwind Prodigy
-Monster
-WIND
-Effect
-None
-Fairy
-4
-1500
-1600
-0
-0
-None
-None
-When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.
+<?xml version="1.0" ?>
+<card>
+    <name>Whirlwind Prodigy</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.</text>
+</card>

@@ -1,18 +1,21 @@
-Sephira Exa the Flame Beast Nekroz
-Monster
-FIRE
-Pendulum
-Effect
-Dragon
-5
-2000
-1000
-7
-7
-None
-None
-Pendulum Effect
- You cannot Pendulum Summon monsters, except "Nekroz" or "Sephira" monsters. This effect cannot be negated.
+<?xml version="1.0" ?>
+<card>
+    <name>Sephira Exa the Flame Beast Nekroz</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1000</defense>
+    <lpendulum>7</lpendulum>
+    <rpendulum>7</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Pendulum Summon monsters, except &quot;Nekroz&quot; or &quot;Sephira&quot; monsters. This effect cannot be negated.
 
  Monster Effect
- If a "Nekroz" or "Sephira" card(s) in your Monster Zone or Pendulum Zone is destroyed by battle or card effect, except "Sephira Exa the Flame Beast Nekroz", while this card is in your hand or Graveyard: You can Special Summon this card. You can only use this effect of "Sephira Exa the Flame Beast Nekroz" once per turn.
+ If a &quot;Nekroz&quot; or &quot;Sephira&quot; card(s) in your Monster Zone or Pendulum Zone is destroyed by battle or card effect, except &quot;Sephira Exa the Flame Beast Nekroz&quot;, while this card is in your hand or Graveyard: You can Special Summon this card. You can only use this effect of &quot;Sephira Exa the Flame Beast Nekroz&quot; once per turn.</text>
+</card>

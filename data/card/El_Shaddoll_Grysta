@@ -1,14 +1,17 @@
-El Shaddoll Grysta
-Monster
-FIRE
-Fusion
-Effect
-Rock
-7
-2450
-1950
-0
-0
-None
-None
-1 "Shaddoll" monster + 1 FIRE monsterMust first be Fusion Summoned. During either player's turn, when your opponent would Special Summon a monster(s) while you have a "Shaddoll" card in your hand: You can negate the Summon, and if you do, destroy that monster, then send 1 "Shaddoll" card from your hand to the Graveyard. You can only use this effect of "El Shaddoll Grysta" once per turn. If this card is sent to the Graveyard: You can target 1 "Shaddoll" Spell/Trap Card in your Graveyard; add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>El Shaddoll Grysta</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>7</level>
+    <attack>2450</attack>
+    <defense>1950</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Shaddoll&quot; monster + 1 FIRE monsterMust first be Fusion Summoned. During either player's turn, when your opponent would Special Summon a monster(s) while you have a &quot;Shaddoll&quot; card in your hand: You can negate the Summon, and if you do, destroy that monster, then send 1 &quot;Shaddoll&quot; card from your hand to the Graveyard. You can only use this effect of &quot;El Shaddoll Grysta&quot; once per turn. If this card is sent to the Graveyard: You can target 1 &quot;Shaddoll&quot; Spell/Trap Card in your Graveyard; add it to your hand.</text>
+</card>

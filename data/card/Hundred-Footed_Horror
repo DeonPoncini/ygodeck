@@ -1,14 +1,17 @@
-Hundred-Footed Horror
-Monster
-DARK
-Effect
-None
-Insect
-7
-2600
-1300
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributing, but its original ATK becomes 1300.
+<?xml version="1.0" ?>
+<card>
+    <name>Hundred-Footed Horror</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributing, but its original ATK becomes 1300.</text>
+</card>

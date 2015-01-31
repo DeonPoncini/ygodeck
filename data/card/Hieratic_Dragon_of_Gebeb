@@ -1,14 +1,17 @@
-Hieratic Dragon of Gebeb
-Monster
-LIGHT
-Effect
-None
-Dragon
-4
-1800
-400
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0. When this card is Tributed: Special Summon 1 "Hieratic" Normal Monster from your hand, Deck, or Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Hieratic Dragon of Gebeb</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0. When this card is Tributed: Special Summon 1 &quot;Hieratic&quot; Normal Monster from your hand, Deck, or Graveyard.</text>
+</card>

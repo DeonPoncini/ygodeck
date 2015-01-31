@@ -1,14 +1,17 @@
-Exploder Dragonwing
-Monster
-DARK
-Synchro
-Effect
-Dragon
-7
-2400
-1600
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Dragon-Type monstersAt the start of the Damage Step, if this card battles a monster: You can destroy that monster, and if you do, inflict damage to your opponent equal to the ATK of the destroyed monster had on the field. This card's ATK must be greater than or equal to the ATK of that monster to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Exploder Dragonwing</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Dragon-Type monstersAt the start of the Damage Step, if this card battles a monster: You can destroy that monster, and if you do, inflict damage to your opponent equal to the ATK of the destroyed monster had on the field. This card's ATK must be greater than or equal to the ATK of that monster to activate and to resolve this effect.</text>
+</card>

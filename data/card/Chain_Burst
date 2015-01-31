@@ -1,14 +1,17 @@
-Chain Burst
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each time a player activates a Trap Card, they take 1000 damage immediately after it resolves.
+<?xml version="1.0" ?>
+<card>
+    <name>Chain Burst</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each time a player activates a Trap Card, they take 1000 damage immediately after it resolves.</text>
+</card>

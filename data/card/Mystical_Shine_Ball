@@ -1,14 +1,17 @@
-Mystical Shine Ball
-Monster
-LIGHT
-Normal
-None
-Fairy
-2
-500
-500
-0
-0
-None
-None
-A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystical Shine Ball</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.</text>
+</card>

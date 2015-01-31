@@ -1,14 +1,17 @@
-Karakuri Anatomy
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time a "Karakuri" monster's battle position is changed, place 1 Karakuri Counter on this card (max. 2). You can send this card from the field to the Graveyard to draw 1 card for each Karakuri Counter on this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Anatomy</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time a &quot;Karakuri&quot; monster's battle position is changed, place 1 Karakuri Counter on this card (max. 2). You can send this card from the field to the Graveyard to draw 1 card for each Karakuri Counter on this card.</text>
+</card>

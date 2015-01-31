@@ -1,14 +1,17 @@
-TG-SX1
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a "T.G." monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Target 1 "T.G." Synchro Monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>TG-SX1</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a &quot;T.G.&quot; monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Target 1 &quot;T.G.&quot; Synchro Monster in your Graveyard; Special Summon that target.</text>
+</card>

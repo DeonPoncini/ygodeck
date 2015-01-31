@@ -1,14 +1,17 @@
-Terrible Deal
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only by paying 1000 Life Points when your opponent activates a Spell Card. Your opponent discards 1 random card.
+<?xml version="1.0" ?>
+<card>
+    <name>Terrible Deal</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only by paying 1000 Life Points when your opponent activates a Spell Card. Your opponent discards 1 random card.</text>
+</card>

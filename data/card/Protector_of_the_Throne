@@ -1,14 +1,17 @@
-Protector of the Throne
-Monster
-EARTH
-Normal
-None
-Warrior
-4
-800
-1500
-0
-0
-None
-None
-While the king is away, this queen protects his throne with a mighty defense.
+<?xml version="1.0" ?>
+<card>
+    <name>Protector of the Throne</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While the king is away, this queen protects his throne with a mighty defense.</text>
+</card>

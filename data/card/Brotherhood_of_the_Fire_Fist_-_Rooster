@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Rooster
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-3
-1500
-100
-0
-0
-None
-None
-When this card is Special Summoned by the effect of a "Fire Fist" monster: You can add 1 "Fire Fist" monster from your Deck to your hand. You can only use this effect of "Brotherhood of the Fire Fist - Rooster" once per turn. Once per turn: You can send 1 face-up "Fire Formation" Spell/Trap Card you control to the Graveyard; Set 1 "Fire Formation" Spell/Trap Card directly from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Rooster</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of a &quot;Fire Fist&quot; monster: You can add 1 &quot;Fire Fist&quot; monster from your Deck to your hand. You can only use this effect of &quot;Brotherhood of the Fire Fist - Rooster&quot; once per turn. Once per turn: You can send 1 face-up &quot;Fire Formation&quot; Spell/Trap Card you control to the Graveyard; Set 1 &quot;Fire Formation&quot; Spell/Trap Card directly from your Deck.</text>
+</card>

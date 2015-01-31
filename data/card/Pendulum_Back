@@ -1,14 +1,17 @@
-Pendulum Back
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you have 2 cards in your Pendulum Zones: Target 2 monsters in your Graveyard, each with a Level between (exclusive) the Pendulum Scales of the cards in your Pendulum Zones; add them to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Pendulum Back</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you have 2 cards in your Pendulum Zones: Target 2 monsters in your Graveyard, each with a Level between (exclusive) the Pendulum Scales of the cards in your Pendulum Zones; add them to your hand.</text>
+</card>

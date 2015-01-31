@@ -1,14 +1,17 @@
-Stardust Xiaolong
-Monster
-LIGHT
-Effect
-None
-Dragon
-1
-100
-100
-0
-0
-None
-None
-When you Synchro Summon "Stardust Dragon", you can Special Summon this card from your Graveyard in face-up Attack Position. Once per turn, if this card would be destroyed by battle, it is not destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Stardust Xiaolong</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When you Synchro Summon &quot;Stardust Dragon&quot;, you can Special Summon this card from your Graveyard in face-up Attack Position. Once per turn, if this card would be destroyed by battle, it is not destroyed.</text>
+</card>

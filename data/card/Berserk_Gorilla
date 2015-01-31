@@ -1,14 +1,17 @@
-Berserk Gorilla
-Monster
-EARTH
-Effect
-None
-Beast
-4
-2000
-1000
-0
-0
-None
-None
-If this card is in face-up Defense Position, destroy this card. This card must attack if able.
+<?xml version="1.0" ?>
+<card>
+    <name>Berserk Gorilla</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in face-up Defense Position, destroy this card. This card must attack if able.</text>
+</card>

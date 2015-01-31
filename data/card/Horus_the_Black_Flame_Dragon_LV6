@@ -1,14 +1,17 @@
-Horus the Black Flame Dragon LV6
-Monster
-FIRE
-Effect
-None
-Dragon
-6
-2300
-1600
-0
-0
-None
-None
-This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 "Horus the Black Flame Dragon LV8" from your hand or Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Horus the Black Flame Dragon LV6</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 &quot;Horus the Black Flame Dragon LV8&quot; from your hand or Deck.</text>
+</card>

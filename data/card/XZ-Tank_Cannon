@@ -1,14 +1,17 @@
-XZ-Tank Cannon
-Monster
-LIGHT
-Fusion
-Effect
-Machine
-6
-2400
-2100
-0
-0
-None
-None
-"X-Head Cannon" + "Z-Metal Tank"This card can only be Special Summoned from your Extra Deck by removing from play the above cards on your side of the field. (You do not use "Polymerization"). This card cannot be Special Summoned from the Graveyard. Discard 1 card from your hand to destroy 1 face-down Spell or Trap Card on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>XZ-Tank Cannon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;X-Head Cannon&quot; + &quot;Z-Metal Tank&quot;This card can only be Special Summoned from your Extra Deck by removing from play the above cards on your side of the field. (You do not use &quot;Polymerization&quot;). This card cannot be Special Summoned from the Graveyard. Discard 1 card from your hand to destroy 1 face-down Spell or Trap Card on your opponent's side of the field.</text>
+</card>

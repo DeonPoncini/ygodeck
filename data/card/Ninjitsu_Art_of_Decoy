@@ -1,14 +1,17 @@
-Ninjitsu Art of Decoy
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Target 1 face-up "Ninja" monster you control; it cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Ninjitsu Art of Decoy</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Target 1 face-up &quot;Ninja&quot; monster you control; it cannot be destroyed by battle.</text>
+</card>

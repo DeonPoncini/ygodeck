@@ -1,14 +1,17 @@
-Blazing Inpachi
-Monster
-FIRE
-Normal
-None
-Pyro
-4
-1850
-0
-0
-0
-None
-None
-A wicked wooden spirit now burning in flames. Its fire attack is powerful, but it will soon be nothing but ashes.
+<?xml version="1.0" ?>
+<card>
+    <name>Blazing Inpachi</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>4</level>
+    <attack>1850</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A wicked wooden spirit now burning in flames. Its fire attack is powerful, but it will soon be nothing but ashes.</text>
+</card>

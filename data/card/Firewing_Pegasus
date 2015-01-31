@@ -1,14 +1,17 @@
-Firewing Pegasus
-Monster
-FIRE
-Normal
-None
-Beast
-6
-2250
-1800
-0
-0
-None
-None
-A heavenly stallion soaring through the skies on crimson wings.
+<?xml version="1.0" ?>
+<card>
+    <name>Firewing Pegasus</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>6</level>
+    <attack>2250</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A heavenly stallion soaring through the skies on crimson wings.</text>
+</card>

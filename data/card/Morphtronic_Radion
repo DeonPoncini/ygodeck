@@ -1,14 +1,17 @@
-Morphtronic Radion
-Monster
-LIGHT
-Effect
-None
-Thunder
-4
-1000
-900
-0
-0
-None
-None
-● While in Attack Position: "Morphtronic" monsters you control gain 800 ATK. ● While in Defense Position: "Morphtronic" monsters you control gain 1000 DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Radion</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>● While in Attack Position: &quot;Morphtronic&quot; monsters you control gain 800 ATK. ● While in Defense Position: &quot;Morphtronic&quot; monsters you control gain 1000 DEF.</text>
+</card>

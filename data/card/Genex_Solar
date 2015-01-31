@@ -1,14 +1,17 @@
-Genex Solar
-Monster
-LIGHT
-Effect
-None
-Machine
-7
-2500
-1500
-0
-0
-None
-None
-You can Normal Summon this card by Tributing 1 "Genex" monster. Inflict 500 damage to your opponent each time a face-up "Genex" monster you control is sent to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Solar</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Normal Summon this card by Tributing 1 &quot;Genex&quot; monster. Inflict 500 damage to your opponent each time a face-up &quot;Genex&quot; monster you control is sent to the Graveyard.</text>
+</card>

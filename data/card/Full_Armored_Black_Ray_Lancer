@@ -1,14 +1,17 @@
-Full Armored Black Ray Lancer
-Monster
-WATER
-Xyz
-Effect
-Beast-Warrior
-4
-2100
-600
-0
-0
-None
-None
-3 Level 4 WATER monstersYou can also Xyz Summon this card by using a Rank 3 WATER Xyz Monster you control that has no Xyz Materials as the Xyz Material. This card gains 200 ATK for each Xyz Material attached to it. If this face-up card would be destroyed, you can detach all of its Xyz Materials instead. If this card destroys an opponent's monster by battle: You can target 1 Spell/Trap Card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Full Armored Black Ray Lancer</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 WATER monstersYou can also Xyz Summon this card by using a Rank 3 WATER Xyz Monster you control that has no Xyz Materials as the Xyz Material. This card gains 200 ATK for each Xyz Material attached to it. If this face-up card would be destroyed, you can detach all of its Xyz Materials instead. If this card destroys an opponent's monster by battle: You can target 1 Spell/Trap Card your opponent controls; destroy that target.</text>
+</card>

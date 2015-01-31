@@ -1,14 +1,17 @@
-Cold Wave
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-This card can only be activated at the start of your Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Cold Wave</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be activated at the start of your Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.</text>
+</card>

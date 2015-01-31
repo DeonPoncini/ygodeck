@@ -1,14 +1,17 @@
-Maiden of Macabre
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1700
-0
-0
-0
-None
-None
-Each time this card destroys a monster by battle, place 1 Spell Counter on this card. This card gains 200 ATK for every Spell Counter on it.
+<?xml version="1.0" ?>
+<card>
+    <name>Maiden of Macabre</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time this card destroys a monster by battle, place 1 Spell Counter on this card. This card gains 200 ATK for every Spell Counter on it.</text>
+</card>

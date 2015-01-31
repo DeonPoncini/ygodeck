@@ -1,14 +1,17 @@
-Emperor of Lightning
-Monster
-LIGHT
-Effect
-None
-Thunder
-8
-2600
-2600
-0
-0
-None
-None
-This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Thunder-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.
+<?xml version="1.0" ?>
+<card>
+    <name>Emperor of Lightning</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Thunder-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.</text>
+</card>

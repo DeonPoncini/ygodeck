@@ -1,14 +1,17 @@
-Metal Guardian
-Monster
-DARK
-Normal
-None
-Fiend
-5
-1150
-2150
-0
-0
-None
-None
-A fiend guarding the treasures of the netherworld, it's most at home in the dark.
+<?xml version="1.0" ?>
+<card>
+    <name>Metal Guardian</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>1150</attack>
+    <defense>2150</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A fiend guarding the treasures of the netherworld, it's most at home in the dark.</text>
+</card>

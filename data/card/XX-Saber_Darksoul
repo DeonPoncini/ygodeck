@@ -1,14 +1,17 @@
-XX-Saber Darksoul
-Monster
-EARTH
-Effect
-None
-Beast
-3
-100
-100
-0
-0
-None
-None
-During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 "X-Saber" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>XX-Saber Darksoul</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 &quot;X-Saber&quot; monster from your Deck to your hand.</text>
+</card>

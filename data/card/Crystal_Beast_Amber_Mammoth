@@ -1,14 +1,17 @@
-Crystal Beast Amber Mammoth
-Monster
-EARTH
-Effect
-None
-Beast
-4
-1700
-1600
-0
-0
-None
-None
-When another face-up "Crystal Beast" monster you control is targeted for an attack: You can make this card the attack target instead. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Beast Amber Mammoth</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When another face-up &quot;Crystal Beast&quot; monster you control is targeted for an attack: You can make this card the attack target instead. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.</text>
+</card>

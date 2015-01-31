@@ -1,14 +1,17 @@
-Grave Squirmer
-Monster
-DARK
-Effect
-None
-Fiend
-1
-0
-0
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Grave Squirmer</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.</text>
+</card>

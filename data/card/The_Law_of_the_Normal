@@ -1,14 +1,17 @@
-The Law of the Normal
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-You can only activate this card while there are 5 face-up Level 2 or lower Normal Monsters on your side of the field. Both players discard all cards in their hands, and destroy all cards on the field except Level 2 or lower Normal Monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>The Law of the Normal</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>You can only activate this card while there are 5 face-up Level 2 or lower Normal Monsters on your side of the field. Both players discard all cards in their hands, and destroy all cards on the field except Level 2 or lower Normal Monsters.</text>
+</card>

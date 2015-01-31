@@ -1,14 +1,17 @@
-Minefieldriller
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1500
-1500
-0
-0
-None
-None
-When this face-up card you control leaves the field and is still in your possession: You can target 1 Field Spell Card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Minefieldriller</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up card you control leaves the field and is still in your possession: You can target 1 Field Spell Card in your Graveyard; add that target to your hand.</text>
+</card>

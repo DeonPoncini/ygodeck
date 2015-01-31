@@ -1,14 +1,17 @@
-Karakuri Merchant mdl 177 "Inashichi"
-Monster
-EARTH
-Effect
-None
-Machine
-2
-500
-1500
-0
-0
-None
-None
-This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. When this card is Normal Summoned, add 1 "Karakuri" card from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Merchant mdl 177 &quot;Inashichi&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. When this card is Normal Summoned, add 1 &quot;Karakuri&quot; card from your Deck to your hand.</text>
+</card>

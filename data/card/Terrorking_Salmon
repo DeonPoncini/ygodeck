@@ -1,14 +1,17 @@
-Terrorking Salmon
-Monster
-WATER
-Normal
-None
-Fish
-5
-2400
-1000
-0
-0
-None
-None
-A feared salmon, master of the Sea of Darkness. Its roe is the best delicacy in the World of Darkness.
+<?xml version="1.0" ?>
+<card>
+    <name>Terrorking Salmon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A feared salmon, master of the Sea of Darkness. Its roe is the best delicacy in the World of Darkness.</text>
+</card>

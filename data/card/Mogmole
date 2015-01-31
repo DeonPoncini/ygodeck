@@ -1,14 +1,17 @@
-Mogmole
-Monster
-EARTH
-Effect
-None
-Beast
-2
-800
-800
-0
-0
-None
-None
-When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of "Mogmole" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Mogmole</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of &quot;Mogmole&quot; once per Duel.</text>
+</card>

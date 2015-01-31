@@ -1,14 +1,17 @@
-Treeborn Frog
-Monster
-WATER
-Effect
-None
-Aqua
-1
-100
-100
-0
-0
-None
-None
-During your Standby Phase, if this card is in your Graveyard and you do not control a "Treeborn Frog": You can Special Summon this card. You must control no Spell/Trap Cards to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Treeborn Frog</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Standby Phase, if this card is in your Graveyard and you do not control a &quot;Treeborn Frog&quot;: You can Special Summon this card. You must control no Spell/Trap Cards to activate and to resolve this effect.</text>
+</card>

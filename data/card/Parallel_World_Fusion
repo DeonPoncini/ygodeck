@@ -1,14 +1,17 @@
-Parallel World Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Choose an "Elemental HERO" Fusion Monster in your Extra Deck whose listed Fusion Material Monsters are banished, shuffle the banished Fusion Material Monsters into the Deck, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) You cannot Special Summon another monster(s) during the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Parallel World Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Fusion Summon 1 &quot;Elemental HERO&quot; Fusion Monster from your Extra Deck, by shuffling your banished Fusion Materials listed on it into your Deck. You cannot Special Summon monsters except by this card's effect, during the turn you activate this card.</text>
+</card>

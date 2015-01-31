@@ -1,14 +1,17 @@
-Wind-Up Shark
-Monster
-WATER
-Effect
-None
-Fish
-4
-1500
-1300
-0
-0
-None
-None
-When a "Wind-Up" monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. Once per turn: You can activate 1 of these effects.● Increase this card’s Level by 1, until the End Phase.● Reduce this card’s Level by 1, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind-Up Shark</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Wind-Up&quot; monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. Once per turn: You can activate 1 of these effects.● Increase this card’s Level by 1, until the End Phase.● Reduce this card’s Level by 1, until the End Phase.</text>
+</card>

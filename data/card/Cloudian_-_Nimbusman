@@ -1,14 +1,17 @@
-Cloudian - Nimbusman
-Monster
-WATER
-Effect
-None
-Fairy
-5
-1000
-1000
-0
-0
-None
-None
-This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. You can Tribute any number of WATER monsters for the Tribute Summon of this card. When this card is Tribute Summoned, place 1 Fog Counter on it for each WATER monster you Tributed. This card gains 500 ATK for each Fog Counter on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Cloudian - Nimbusman</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. You can Tribute any number of WATER monsters for the Tribute Summon of this card. When this card is Tribute Summoned, place 1 Fog Counter on it for each WATER monster you Tributed. This card gains 500 ATK for each Fog Counter on the field.</text>
+</card>

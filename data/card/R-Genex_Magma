@@ -1,14 +1,17 @@
-R-Genex Magma
-Monster
-FIRE
-Effect
-None
-Pyro
-3
-1000
-200
-0
-0
-None
-None
-When this card is Normal Summoned, you can add 1 Level 2 "R-Genex" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>R-Genex Magma</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can add 1 Level 2 &quot;R-Genex&quot; monster from your Deck to your hand.</text>
+</card>

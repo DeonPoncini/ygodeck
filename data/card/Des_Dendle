@@ -1,14 +1,17 @@
-Des Dendle
-Monster
-EARTH
-Union
-None
-Plant
-4
-300
-2000
-0
-0
-None
-None
-Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Vampire Orchis" as an Equip Spell Card OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster destroys 1 of your opponent's monsters, Special Summon 1 "Wicked Plant Token" (Plant-Type/EARTH/Level 1/ATK 800/DEF 800) to your side of the field. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Des Dendle</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your &quot;Vampire Orchis&quot; as an Equip Spell Card OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster destroys 1 of your opponent's monsters, Special Summon 1 &quot;Wicked Plant Token&quot; (Plant-Type/EARTH/Level 1/ATK 800/DEF 800) to your side of the field. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)</text>
+</card>

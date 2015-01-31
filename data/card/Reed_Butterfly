@@ -1,14 +1,17 @@
-Reed Butterfly
-Monster
-WIND
-Effect
-None
-Insect
-1
-300
-600
-0
-0
-None
-None
-If your opponent controls a face-up Synchro Monster(s) and you control no face-up Synchro Monsters, you can Special Summon this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Reed Butterfly</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a face-up Synchro Monster(s) and you control no face-up Synchro Monsters, you can Special Summon this card from your hand.</text>
+</card>

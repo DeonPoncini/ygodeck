@@ -1,14 +1,17 @@
-Forbidden Arts of the Gishki
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Ritual
-None
-This card can be used to Ritual Summon any "Gishki" Ritual Monster. You must also Tribute face-up monsters from anywhere on the field, whose total Levels equal the Level of the Ritual Monster you Ritual Summon. Halve the ATK of the monster Ritual Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Forbidden Arts of the Gishki</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Ritual</spellType>
+    <trapType>None</trapType>
+    <text>This card can be used to Ritual Summon any &quot;Gishki&quot; Ritual Monster. You must also Tribute face-up monsters from anywhere on the field, whose total Levels equal the Level of the Ritual Monster you Ritual Summon. Halve the ATK of the monster Ritual Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card.</text>
+</card>

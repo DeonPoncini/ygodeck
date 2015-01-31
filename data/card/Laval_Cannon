@@ -1,14 +1,17 @@
-Laval Cannon
-Monster
-FIRE
-Effect
-None
-Warrior
-4
-1600
-900
-0
-0
-None
-None
-When this card is Normal or Flip Summoned: You can target 1 of your banished "Laval" monsters; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Cannon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Flip Summoned: You can target 1 of your banished &quot;Laval&quot; monsters; Special Summon that target.</text>
+</card>

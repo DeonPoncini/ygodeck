@@ -1,14 +1,17 @@
-Heraldic Beast Berners Falcon
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1000
-1600
-0
-0
-None
-None
-When this card is Summoned: You can make all face-up Level 5 or higher monsters you currently control become Level 4.
+<?xml version="1.0" ?>
+<card>
+    <name>Heraldic Beast Berners Falcon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Summoned: You can make all face-up Level 5 or higher monsters you currently control become Level 4.</text>
+</card>

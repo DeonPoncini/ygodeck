@@ -1,14 +1,17 @@
-Destruction Punch
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)
+<?xml version="1.0" ?>
+<card>
+    <name>Destruction Punch</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)</text>
+</card>

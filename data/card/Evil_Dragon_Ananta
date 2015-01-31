@@ -1,14 +1,17 @@
-Evil Dragon Ananta
-Monster
-DARK
-Effect
-None
-Reptile
-8
-?
-?
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play all Reptile-Type monsters from your side of the field and Graveyard. This card's ATK and DEF are each equal to the number of Reptile-Type monsters you removed x 600. During each of your End Phases, destroy 1 card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Evil Dragon Ananta</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>8</level>
+    <attack>?</attack>
+    <defense>?</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play all Reptile-Type monsters from your side of the field and Graveyard. This card's ATK and DEF are each equal to the number of Reptile-Type monsters you removed x 600. During each of your End Phases, destroy 1 card on the field.</text>
+</card>

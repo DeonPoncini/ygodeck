@@ -1,18 +1,21 @@
-DDD Hell Armageddon the Cruel End Overlord
-Monster
-DARK
-Pendulum
-Effect
-Fiend
-8
-3000
-1000
-4
-4
-None
-None
-Pendulum Effect
- Once per turn: You can target 1 "DD" monster you control; it gains 800 ATK until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>DDD Hell Armageddon the Cruel End Overlord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>1000</defense>
+    <lpendulum>4</lpendulum>
+    <rpendulum>4</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ Once per turn: You can target 1 &quot;D/D&quot; monster you control; it gains 800 ATK until the end of this turn.
 
  Monster Effect
- Once per turn, if a monster(s) you control is destroyed by battle or by card effect: You can target 1 of those monsters; this card gains ATK equal to that monster's original ATK until the end of this turn. This card cannot attack directly the turn you activate this effect. This card cannot be destroyed by Spell/Trap effects that do not target it.
+ Once per turn, if a monster(s) you control is destroyed by battle or by card effect: You can target 1 of those monsters; this card gains ATK equal to that monster's original ATK until the end of this turn. This card cannot attack directly the turn you activate this effect. This card cannot be destroyed by Spell/Trap effects that do not target it.</text>
+</card>

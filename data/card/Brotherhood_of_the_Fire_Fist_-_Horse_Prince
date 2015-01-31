@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Horse Prince
-Monster
-FIRE
-Synchro
-Effect
-Beast-Warrior
-6
-2200
-2200
-0
-0
-None
-None
-1 FIRE Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can Special Summon 1 Level 3 FIRE monster from your Deck. After you Synchro Summon this card, you cannot Special Summon Level 5 or higher monsters for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Horse Prince</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 FIRE Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can Special Summon 1 Level 3 FIRE monster from your Deck. After you Synchro Summon this card, you cannot Special Summon Level 5 or higher monsters for the rest of this turn.</text>
+</card>

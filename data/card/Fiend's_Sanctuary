@@ -1,14 +1,17 @@
-Fiend's Sanctuary
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Special Summon 1 "Metal Fiend Token" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. During each of your Standby Phases, pay 1000 Life Points or destroy this Token.
+<?xml version="1.0" ?>
+<card>
+    <name>Fiend's Sanctuary</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon 1 &quot;Metal Fiend Token&quot; (Fiend-Type/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. During each of your Standby Phases, pay 1000 Life Points or destroy this Token.</text>
+</card>

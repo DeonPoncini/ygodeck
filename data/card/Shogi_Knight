@@ -1,14 +1,17 @@
-Shogi Knight
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-3
-800
-400
-0
-0
-None
-None
-When this card is Normal Summoned: You can target 1 Set card in your opponent's Spell & Trap Card Zone; reveal that target, then destroy it if it is a Trap Card. Otherwise, return it to its original position. When you destroy a Trap Card by this effect: You can Special Summon 1 Level 3 EARTH monster from your hand in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Shogi Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can target 1 Set card in your opponent's Spell &amp; Trap Card Zone; reveal that target, then destroy it if it is a Trap Card. Otherwise, return it to its original position. When you destroy a Trap Card by this effect: You can Special Summon 1 Level 3 EARTH monster from your hand in face-up Defense Position.</text>
+</card>

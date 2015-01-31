@@ -1,14 +1,17 @@
-Karakuri Watchdog mdl 313 "Saizan"
-Monster
-EARTH
-Tuner
-None
-Machine
-4
-600
-1800
-0
-0
-None
-None
-This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When you take Battle Damage from a battle involving this card, all face-up "Karakuri" monsters you control gain 800 ATK and DEF until the End Phase. While this card is in face-up Attack Position, it cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Watchdog mdl 313 &quot;Saizan&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When you take Battle Damage from a battle involving this card, all face-up &quot;Karakuri&quot; monsters you control gain 800 ATK and DEF until the End Phase. While this card is in face-up Attack Position, it cannot be destroyed by battle.</text>
+</card>

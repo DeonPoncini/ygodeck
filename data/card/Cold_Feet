@@ -1,14 +1,17 @@
-Cold Feet
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Cold Feet</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.</text>
+</card>

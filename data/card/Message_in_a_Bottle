@@ -1,14 +1,17 @@
-Message in a Bottle
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 3 monsters with different Levels in your Graveyard; Special Summon all 3 of them. Their ATK's become 0, also their effects are negated. If you do not Xyz Summon this turn after Summoning those 3 monsters, you lose 4000 Life Points during the End Phase. You cannot Special Summon any other monsters, except by Xyz Summon, during the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Message in a Bottle</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 3 monsters with different Levels in your Graveyard; Special Summon all 3 of them. Their ATK's become 0, also their effects are negated. If you do not Xyz Summon this turn after Summoning those 3 monsters, you lose 4000 Life Points during the End Phase. You cannot Special Summon any other monsters, except by Xyz Summon, during the turn you activate this card.</text>
+</card>

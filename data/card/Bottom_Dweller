@@ -1,14 +1,17 @@
-Bottom Dweller
-Monster
-WATER
-Normal
-None
-Fish
-5
-1650
-1700
-0
-0
-None
-None
-This is one sea creature whose wrath is something monsters fear to face.
+<?xml version="1.0" ?>
+<card>
+    <name>Bottom Dweller</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>5</level>
+    <attack>1650</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This is one sea creature whose wrath is something monsters fear to face.</text>
+</card>

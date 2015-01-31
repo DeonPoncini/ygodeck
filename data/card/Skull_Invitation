@@ -1,14 +1,17 @@
-Skull Invitation
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent.
+<?xml version="1.0" ?>
+<card>
+    <name>Skull Invitation</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent.</text>
+</card>

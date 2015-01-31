@@ -1,14 +1,17 @@
-Number 83: Galaxy Queen
-Monster
-DARK
-Xyz
-Effect
-Spellcaster
-1
-500
-500
-0
-0
-None
-None
-3 Level 1 monstersOnce per turn: You can detach 1 Xyz Material from this card; until the opponent's next End Phase, the monsters you currently control cannot be destroyed by battle, and if they attack a Defense Position monster, inflict piercing battle damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 83: Galaxy Queen</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 1 monstersOnce per turn: You can detach 1 Xyz Material from this card; until the opponent's next End Phase, the monsters you currently control cannot be destroyed by battle, and if they attack a Defense Position monster, inflict piercing battle damage to your opponent.</text>
+</card>

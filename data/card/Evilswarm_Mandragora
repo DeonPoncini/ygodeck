@@ -1,14 +1,17 @@
-Evilswarm Mandragora
-Monster
-DARK
-Effect
-None
-Plant
-4
-1550
-1450
-0
-0
-None
-None
-If your opponent controls more monsters than you do, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>Evilswarm Mandragora</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1550</attack>
+    <defense>1450</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls more monsters than you do, you can Special Summon this card (from your hand).</text>
+</card>

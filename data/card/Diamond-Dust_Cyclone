@@ -1,14 +1,17 @@
-Diamond-Dust Cyclone
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card for every 4 Fog Counters that were on it.
+<?xml version="1.0" ?>
+<card>
+    <name>Diamond-Dust Cyclone</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card for every 4 Fog Counters that were on it.</text>
+</card>

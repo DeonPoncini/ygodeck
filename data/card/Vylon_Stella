@@ -1,14 +1,17 @@
-Vylon Stella
-Monster
-LIGHT
-Tuner
-None
-Fairy
-3
-1400
-200
-0
-0
-None
-None
-If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. At the end of the Damage Step, if the equipped monster battled an opponent's monster: Destroy that opponent's monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Stella</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. At the end of the Damage Step, if the equipped monster battled an opponent's monster: Destroy that opponent's monster.</text>
+</card>

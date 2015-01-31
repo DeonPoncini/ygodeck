@@ -1,14 +1,17 @@
-Junk Giant
-Monster
-EARTH
-Effect
-None
-Machine
-6
-2000
-2400
-0
-0
-None
-None
-If your opponent controls a Level 5 or higher monster, you can Special Summon this card (from your hand). A Synchro Summon of a monster using this card as a Synchro Material cannot be negated, also your opponent cannot activate cards or effects when that monster is Synchro Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Junk Giant</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a Level 5 or higher monster, you can Special Summon this card (from your hand). A Synchro Summon of a monster using this card as a Synchro Material cannot be negated, also your opponent cannot activate cards or effects when that monster is Synchro Summoned.</text>
+</card>

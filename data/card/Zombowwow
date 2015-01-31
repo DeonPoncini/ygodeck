@@ -1,14 +1,17 @@
-Zombowwow
-Monster
-DARK
-Effect
-None
-Zombie
-2
-1000
-1000
-0
-0
-None
-None
-When this card declares an attack, it gains 500 ATK. If this card on the field is destroyed and sent to the Graveyard: You can Special Summon 1 Level 1 monster with 0 ATK and DEF from your Deck. Its effects are negated, also it is destroyed during your next End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Zombowwow</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card declares an attack, it gains 500 ATK. If this card on the field is destroyed and sent to the Graveyard: You can Special Summon 1 Level 1 monster with 0 ATK and DEF from your Deck. Its effects are negated, also it is destroyed during your next End Phase.</text>
+</card>

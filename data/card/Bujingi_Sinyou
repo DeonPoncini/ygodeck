@@ -1,14 +1,17 @@
-Bujingi Sinyou
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1500
-1000
-0
-0
-None
-None
-During either player's Damage Step, if a Beast-Warrior-Type "Bujin" monster you control battles an opponent's monster: You can banish this card from your Graveyard; that monster you control gains ATK equal to the current ATK of the opponent's monster it is battling until the end of the Damage Step, and if it does, all battle damage your opponent takes from that battle is halved. You can only use the effect of "Bujingi Sinyou" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Bujingi Sinyou</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's Damage Step, if a Beast-Warrior-Type &quot;Bujin&quot; monster you control battles an opponent's monster: You can banish this card from your Graveyard; that monster you control gains ATK equal to the current ATK of the opponent's monster it is battling until the end of the Damage Step, and if it does, all battle damage your opponent takes from that battle is halved. You can only use the effect of &quot;Bujingi Sinyou&quot; once per turn.</text>
+</card>

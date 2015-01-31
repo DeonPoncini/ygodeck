@@ -1,14 +1,17 @@
-Energy Bravery
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1700
-1200
-0
-0
-None
-None
-Gemini Monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Energy Bravery</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Gemini Monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.</text>
+</card>

@@ -1,14 +1,17 @@
-Zera the Mant
-Monster
-DARK
-Ritual
-None
-Fiend
-8
-2800
-2300
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "Zera Ritual".
+<?xml version="1.0" ?>
+<card>
+    <name>Zera the Mant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;Zera Ritual&quot;.</text>
+</card>

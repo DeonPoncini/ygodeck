@@ -1,14 +1,17 @@
-Electric Virus
-Monster
-LIGHT
-Effect
-None
-Thunder
-3
-1000
-1000
-0
-0
-None
-None
-You can discard this card to the Graveyard, then target 1 Machine or Dragon-Type monster your opponent controls; take control of that target until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Electric Virus</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard this card to the Graveyard, then target 1 Machine or Dragon-Type monster your opponent controls; take control of that target until the End Phase.</text>
+</card>

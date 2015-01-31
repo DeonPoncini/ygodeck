@@ -1,14 +1,17 @@
-Gaap the Divine Soldier
-Monster
-DARK
-Effect
-None
-Fiend
-6
-2200
-2000
-0
-0
-None
-None
-All monsters are changed to face-up Attack Position, also their battle positions cannot be changed. (Flip Effects are not activated.) Once per turn: You can reveal any number of Fiend-Type monsters in your hand; this card gains 300 ATK for each, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Gaap the Divine Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All monsters are changed to face-up Attack Position, also their battle positions cannot be changed. (Flip Effects are not activated.) Once per turn: You can reveal any number of Fiend-Type monsters in your hand; this card gains 300 ATK for each, until the End Phase.</text>
+</card>

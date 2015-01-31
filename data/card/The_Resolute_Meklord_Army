@@ -1,14 +1,17 @@
-The Resolute Meklord Army
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-All Attack Position "Meklord Army" monsters you control cannot be destroyed by battle, also their effects are negated.
+<?xml version="1.0" ?>
+<card>
+    <name>The Resolute Meklord Army</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>All Attack Position &quot;Meklord Army&quot; monsters you control cannot be destroyed by battle, also their effects are negated.</text>
+</card>

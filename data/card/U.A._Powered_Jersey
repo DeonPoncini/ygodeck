@@ -1,14 +1,17 @@
-U.A. Powered Jersey
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "U.A." monster. It gains 1000 ATK and DEF, also if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If the equipped monster destroys a monster by its attack: It can make a second attack during this Battle Phase. During your Standby Phase: Banish the equipped monster. If this card is sent to the Graveyard because the equipped monster returned to the hand: You can return this card to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>U.A. Powered Jersey</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;U.A.&quot; monster. It gains 1000 ATK and DEF, also if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If the equipped monster destroys a monster by its attack: It can make a second attack during this Battle Phase. During your Standby Phase: Banish the equipped monster. If this card is sent to the Graveyard because the equipped monster returned to the hand: You can return this card to the hand.</text>
+</card>

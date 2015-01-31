@@ -1,14 +1,17 @@
-Darkness/Trap A
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate this card by targeting 1 Set "Darkness/Trap B" in your Spell & Trap Zones; force its activation. Your opponent cannot activate Spell/Trap Cards in response to this card's activation.-I activate "Zero"!-
+<?xml version="1.0" ?>
+<card>
+    <name>Darkness/Trap A</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate this card by targeting 1 Set &quot;Darkness/Trap B&quot; in your Spell &amp; Trap Zones; force its activation. Your opponent cannot activate Spell/Trap Cards in response to this card's activation.-I activate &quot;Zero&quot;!-</text>
+</card>

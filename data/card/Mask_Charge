@@ -1,14 +1,17 @@
-Mask Charge
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 "HERO" monster and 1 "Change" Quick-Play Spell Card in your Graveyard; add those targets to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Mask Charge</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;HERO&quot; monster and 1 &quot;Change&quot; Quick-Play Spell Card in your Graveyard; add them to your hand.</text>
+</card>

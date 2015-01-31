@@ -1,14 +1,17 @@
-Tatsunootoshigo
-Monster
-EARTH
-Normal
-None
-Beast
-5
-1350
-1600
-0
-0
-None
-None
-A bizarre monster with the torso of a horse and a fish's tail. It gallops through the sea as if it were the wind.
+<?xml version="1.0" ?>
+<card>
+    <name>Tatsunootoshigo</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>5</level>
+    <attack>1350</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A bizarre monster with the torso of a horse and a fish's tail. It gallops through the sea as if it were the wind.</text>
+</card>

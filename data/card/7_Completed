@@ -1,14 +1,17 @@
-7 Completed
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Activate this card by choosing ATK or DEF; equip only to a Machine-Type monster. It gains 700 ATK or DEF, depending on the choice.
+<?xml version="1.0" ?>
+<card>
+    <name>7 Completed</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Activate this card by choosing ATK or DEF; equip only to a Machine-Type monster. It gains 700 ATK or DEF, depending on the choice.</text>
+</card>

@@ -1,14 +1,17 @@
-Constellar Aldebaran
-Monster
-LIGHT
-Effect
-None
-Beast-Warrior
-3
-1300
-800
-0
-0
-None
-None
-When this card is Normal Summoned: You can Special Summon 1 Level 3 "Constellar" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Constellar Aldebaran</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>1300</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can Special Summon 1 Level 3 &quot;Constellar&quot; monster from your hand.</text>
+</card>

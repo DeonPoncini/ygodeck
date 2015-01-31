@@ -1,14 +1,17 @@
-Violent Rain
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1550
-800
-0
-0
-None
-None
-This monster can call forth sudden torrents of battering rain.
+<?xml version="1.0" ?>
+<card>
+    <name>Violent Rain</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1550</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster can call forth sudden torrents of battering rain.</text>
+</card>

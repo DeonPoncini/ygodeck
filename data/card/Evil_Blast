@@ -1,14 +1,17 @@
-Evil Blast
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when a monster is Special Summoned to your opponent's side of the field. Equip this card to that monster. It gains 500 ATK. During each of your opponent's Standby Phases, inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Evil Blast</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when a monster is Special Summoned to your opponent's side of the field. Equip this card to that monster. It gains 500 ATK. During each of your opponent's Standby Phases, inflict 500 damage to your opponent.</text>
+</card>

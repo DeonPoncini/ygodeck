@@ -1,14 +1,17 @@
-Hexatellarknight
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each "tellarknight" Xyz Monster gains 200 ATK and DEF for each Xyz Material attached to it. When a "tellarknight" Xyz Monster you control is targeted for an attack: You can send 1 "tellarknight" card from your hand to the Graveyard; negate that attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Hexatellarknight</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each &quot;tellarknight&quot; Xyz Monster gains 200 ATK and DEF for each Xyz Material attached to it. When a &quot;tellarknight&quot; Xyz Monster you control is targeted for an attack: You can send 1 &quot;tellarknight&quot; card from your hand to the Graveyard; negate that attack.</text>
+</card>

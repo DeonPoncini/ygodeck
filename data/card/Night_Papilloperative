@@ -1,14 +1,17 @@
-Night Papilloperative
-Monster
-DARK
-Xyz
-Effect
-Warrior
-4
-2600
-2000
-0
-0
-None
-None
-3 Level 4 monsters Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Night Papilloperative</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2600</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 4 monsters Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Blue-Winged Crown
-Monster
-WIND
-Normal
-None
-Winged Beast
-4
-1600
-1200
-0
-0
-None
-None
-With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.
+<?xml version="1.0" ?>
+<card>
+    <name>Blue-Winged Crown</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.</text>
+</card>

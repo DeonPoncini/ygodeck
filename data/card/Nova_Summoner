@@ -1,14 +1,17 @@
-Nova Summoner
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1400
-800
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 LIGHT Fairy-Type monster with 1500 or less ATK from your Deck. If "The Sanctuary in the Sky" is face-up on the field, you can Special Summon 1 "Airknight Parshath" instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Nova Summoner</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 LIGHT Fairy-Type monster with 1500 or less ATK from your Deck. If &quot;The Sanctuary in the Sky&quot; is face-up on the field, you can Special Summon 1 &quot;Airknight Parshath&quot; instead.</text>
+</card>

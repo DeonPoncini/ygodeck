@@ -1,14 +1,17 @@
-Unknown Synchron
-Monster
-DARK
-Tuner
-Effect
-Machine
-1
-0
-0
-0
-0
-None
-None
-If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). You can only use this effect of "Unknown Synchron" once per Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Unknown Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). You can only use this effect of &quot;Unknown Synchron&quot; once per Duel.</text>
+</card>

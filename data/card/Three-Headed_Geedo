@@ -1,14 +1,17 @@
-Three-Headed Geedo
-Monster
-DARK
-Normal
-None
-Fiend
-4
-1200
-1400
-0
-0
-None
-None
-A three-headed nocturnal monster that is absolutely ruthless when fighting.
+<?xml version="1.0" ?>
+<card>
+    <name>Three-Headed Geedo</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A three-headed nocturnal monster that is absolutely ruthless when fighting.</text>
+</card>

@@ -1,14 +1,17 @@
-Ally of Justice Field Marshal
-Monster
-DARK
-Synchro
-Effect
-Machine
-9
-2900
-2600
-0
-0
-None
-None
-1 Tuner + 2 or more non-Tuner monstersThis card cannot be Special Summoned except by Synchro Summon. When this card destroys a face-down Defense Position monster by battle and sends it to the Graveyard, draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Field Marshal</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>2900</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 2 or more non-Tuner monstersThis card cannot be Special Summoned except by Synchro Summon. When this card destroys a face-down Defense Position monster by battle and sends it to the Graveyard, draw 1 card.</text>
+</card>

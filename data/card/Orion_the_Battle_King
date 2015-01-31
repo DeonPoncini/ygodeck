@@ -1,14 +1,17 @@
-Orion the Battle King
-Monster
-LIGHT
-Normal
-None
-Fairy
-5
-1800
-1500
-0
-0
-None
-None
-None have lived to tell tales of this powerful battle fairy.
+<?xml version="1.0" ?>
+<card>
+    <name>Orion the Battle King</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>None have lived to tell tales of this powerful battle fairy.</text>
+</card>

@@ -1,14 +1,17 @@
-Rod of the Mind's Eye
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-If a monster equipped with this card inflicts Battle Damage to your opponent, the damage becomes 1000 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Rod of the Mind's Eye</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>If a monster equipped with this card inflicts Battle Damage to your opponent, the damage becomes 1000 points.</text>
+</card>

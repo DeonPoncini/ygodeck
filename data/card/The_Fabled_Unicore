@@ -1,14 +1,17 @@
-The Fabled Unicore
-Monster
-LIGHT
-Synchro
-Effect
-Beast
-4
-2300
-1000
-0
-0
-None
-None
-1 "Fabled" Tuner + 1 or more non-Tuner monstersWhile you and your opponent have the same number of cards in hand, negate all Spell, Trap and Effect Monster effects activated by your opponent, and destroy that Spell/Trap/Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>The Fabled Unicore</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>2300</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Fabled&quot; Tuner + 1 or more non-Tuner monstersWhile you and your opponent have the same number of cards in hand, negate all Spell, Trap and Effect Monster effects activated by your opponent, and destroy that Spell/Trap/Monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Hysteric Sign
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When this card is activated: Add 1 "Elegant Egotist" from your Deck or Graveyard to your hand. During the End Phase of the turn this card was sent from the field or hand to the Graveyard: Add up to 3 "Harpie" cards with different names from your Deck to your hand. You can only activate 1 "Hysteric Sign" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Hysteric Sign</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When this card is activated: Add 1 &quot;Elegant Egotist&quot; from your Deck or Graveyard to your hand. During the End Phase of the turn this card was sent from the field or hand to the Graveyard: Add up to 3 &quot;Harpie&quot; cards with different names from your Deck to your hand. You can only activate 1 &quot;Hysteric Sign&quot; effect per turn, and only once that turn.</text>
+</card>

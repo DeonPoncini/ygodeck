@@ -1,14 +1,17 @@
-Gogogo Gigas
-Monster
-EARTH
-Effect
-None
-Rock
-4
-0
-2200
-0
-0
-None
-None
-While this card is in your Graveyard, if you Special Summon a "Gogogo" monster(s) (except during the Damage Step): You can Special Summon this card from your Graveyard in face-up Defense Position. You cannot conduct your Battle Phase the turn you activate this effect. You can only use the effect of "Gogogo Gigas" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gogogo Gigas</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is in your Graveyard, if you Special Summon a &quot;Gogogo&quot; monster(s) (except during the Damage Step): You can Special Summon this card from your Graveyard in face-up Defense Position. You cannot conduct your Battle Phase the turn you activate this effect. You can only use the effect of &quot;Gogogo Gigas&quot; once per turn.</text>
+</card>

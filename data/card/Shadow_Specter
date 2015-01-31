@@ -1,14 +1,17 @@
-Shadow Specter
-Monster
-DARK
-Normal
-None
-Zombie
-1
-500
-200
-0
-0
-None
-None
-Powerful in groups, this animal spirit can be found in the wastelands.
+<?xml version="1.0" ?>
+<card>
+    <name>Shadow Specter</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>1</level>
+    <attack>500</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Powerful in groups, this animal spirit can be found in the wastelands.</text>
+</card>

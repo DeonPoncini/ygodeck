@@ -1,14 +1,17 @@
-Evocator Chevalier
-Monster
-FIRE
-Gemini
-None
-Warrior
-4
-1900
-900
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● You can send 1 face-up Equip Card you control to the Graveyard, then target 1 card your opponent controls; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Evocator Chevalier</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● You can send 1 face-up Equip Card you control to the Graveyard, then target 1 card your opponent controls; destroy that target.</text>
+</card>

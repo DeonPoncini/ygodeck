@@ -1,14 +1,17 @@
-Knight Day Grepher
-Monster
-LIGHT
-Gemini
-Effect
-Warrior
-4
-1700
-1600
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● During your End Phase: You can target 1 Equip Spell Card in your Graveyard; add that target to your hand. You can only use this effect of "Knight Day Grepher" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Knight Day Grepher</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● During your End Phase: You can target 1 Equip Spell Card in your Graveyard; add that target to your hand. You can only use this effect of &quot;Knight Day Grepher&quot; once per turn.</text>
+</card>

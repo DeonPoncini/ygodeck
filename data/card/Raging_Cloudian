@@ -1,14 +1,17 @@
-Raging Cloudian
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when a "Cloudian" monster(s) you control is destroyed by its own effect and sent to the Graveyard. Special Summon 1 of those monsters from your Graveyard in Attack Position and place 1 Fog Counter on it. It cannot be changed to Defense Position by a card effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Raging Cloudian</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when a &quot;Cloudian&quot; monster(s) you control is destroyed by its own effect and sent to the Graveyard. Special Summon 1 of those monsters from your Graveyard in Attack Position and place 1 Fog Counter on it. It cannot be changed to Defense Position by a card effect.</text>
+</card>

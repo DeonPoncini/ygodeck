@@ -1,14 +1,17 @@
-Meklord Factory
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a "Meklord" monster on the field is targeted for an attack: Target 1 "Meklord Army" monster in your Graveyard; add that target to your hand, then destroy the attack target.
+<?xml version="1.0" ?>
+<card>
+    <name>Meklord Factory</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a &quot;Meklord&quot; monster on the field is targeted for an attack: Target 1 &quot;Meklord Army&quot; monster in your Graveyard; add that target to your hand, then destroy the attack target.</text>
+</card>

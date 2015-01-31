@@ -1,14 +1,17 @@
-Raidraptor - Nest
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-If you control 2 or more "Raidraptor" monsters: You can add 1 "Raidraptor" monster from your Deck or Graveyard to your hand. You can only use this effect of "Raidraptor - Nest" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Raidraptor - Nest</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>If you control 2 or more &quot;Raidraptor&quot; monsters: You can add 1 &quot;Raidraptor&quot; monster from your Deck or Graveyard to your hand. You can only use this effect of &quot;Raidraptor - Nest&quot; once per turn.</text>
+</card>

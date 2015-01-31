@@ -1,14 +1,17 @@
-Dark-Eyes Illusionist
-Monster
-DARK
-Effect
-None
-Spellcaster
-2
-0
-1400
-0
-0
-None
-None
-FLIP: Target 1 monster on the field; it cannot attack while this card is face-up on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark-Eyes Illusionist</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Target 1 monster on the field; it cannot attack while this card is face-up on the field.</text>
+</card>

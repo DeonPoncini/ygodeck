@@ -1,14 +1,17 @@
-Hanewata
-Monster
-LIGHT
-Tuner
-Effect
-Fairy
-1
-200
-300
-0
-0
-None
-None
-During either player's turn: You can discard this card; any effect damage you take this turn becomes 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Hanewata</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn: You can discard this card; any effect damage you take this turn becomes 0.</text>
+</card>

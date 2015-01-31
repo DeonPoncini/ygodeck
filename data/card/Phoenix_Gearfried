@@ -1,14 +1,17 @@
-Phoenix Gearfried
-Monster
-FIRE
-Gemini
-None
-Warrior
-8
-2800
-2200
-0
-0
-None
-None
-This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● If your opponent activates a Spell Card: You can target 1 Gemini monster in your Graveyard; Special Summon that target. During either player's turn, when a Spell/Trap Card is activated that targets a monster(s) on the field: You can send 1 face-up Equip Card you control to the Graveyard; negate the activation, and if you do, destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Phoenix Gearfried</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Gemini</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.● If your opponent activates a Spell Card: You can target 1 Gemini monster in your Graveyard; Special Summon that target. During either player's turn, when a Spell/Trap Card is activated that targets a monster(s) on the field: You can send 1 face-up Equip Card you control to the Graveyard; negate the activation, and if you do, destroy it.</text>
+</card>

@@ -1,14 +1,17 @@
-Mist Valley Executor
-Monster
-WIND
-Effect
-None
-Thunder
-5
-2100
-1600
-0
-0
-None
-None
-When this card is Normal Summoned, return all face-up Spell and Trap Cards on the field to their owners' hands.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Executor</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>5</level>
+    <attack>2100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, return all face-up Spell and Trap Cards on the field to their owners' hands.</text>
+</card>

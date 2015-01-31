@@ -1,14 +1,17 @@
-LaLa Li-Oon
-Monster
-WIND
-Normal
-None
-Thunder
-2
-600
-600
-0
-0
-None
-None
-An electric cloud creature, its acid rain makes it very dangerous.
+<?xml version="1.0" ?>
+<card>
+    <name>LaLa Li-Oon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An electric cloud creature, its acid rain makes it very dangerous.</text>
+</card>

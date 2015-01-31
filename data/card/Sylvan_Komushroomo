@@ -1,14 +1,17 @@
-Sylvan Komushroomo
-Monster
-FIRE
-Effect
-None
-Plant
-2
-100
-2000
-0
-0
-None
-None
-When this card is flipped face-up: You can choose a number from 1 to 5, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 Spell/Trap Card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Sylvan Komushroomo</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is flipped face-up: You can choose a number from 1 to 5, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 Spell/Trap Card on the field; destroy that target.</text>
+</card>

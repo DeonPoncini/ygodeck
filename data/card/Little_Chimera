@@ -1,14 +1,17 @@
-Little Chimera
-Monster
-FIRE
-Effect
-None
-Beast
-2
-600
-550
-0
-0
-None
-None
-All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Little Chimera</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>550</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.</text>
+</card>

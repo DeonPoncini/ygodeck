@@ -1,14 +1,17 @@
-Phantom Magician
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-600
-700
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 "HERO" monster with 1000 or less ATK from your Deck in face-up Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 &quot;HERO&quot; monster with 1000 or less ATK from your Deck in face-up Defense Position.</text>
+</card>

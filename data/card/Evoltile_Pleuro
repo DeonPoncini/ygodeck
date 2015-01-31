@@ -1,14 +1,17 @@
-Evoltile Pleuro
-Monster
-FIRE
-Effect
-None
-Reptile
-1
-200
-200
-0
-0
-None
-None
-If this card you control is destroyed and sent to your Graveyard: You can Special Summon 1 "Evolsaur" monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Evoltile Pleuro</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card you control is destroyed and sent to your Graveyard: You can Special Summon 1 &quot;Evolsaur&quot; monster from your hand.</text>
+</card>

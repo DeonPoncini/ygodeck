@@ -1,14 +1,17 @@
-Divine Grace - Northwemko
-Monster
-LIGHT
-Ritual
-Effect
-Spellcaster
-7
-2700
-1200
-0
-0
-None
-None
-This card can only be Ritual Summoned with the Ritual Spell Card, "Ritual of Grace". When this card is Ritual Summoned, select a number of face-up cards on the field (except this card), up to the number of monsters you used for the Ritual Summon. While any of the selected cards are face-up on the field, this card cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Divine Grace - Northwemko</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>2700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can only be Ritual Summoned with the Ritual Spell Card, &quot;Ritual of Grace&quot;. When this card is Ritual Summoned, select a number of face-up cards on the field (except this card), up to the number of monsters you used for the Ritual Summon. While any of the selected cards are face-up on the field, this card cannot be destroyed by card effects.</text>
+</card>

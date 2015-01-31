@@ -1,14 +1,17 @@
-Machina Sniper
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1800
-800
-0
-0
-None
-None
-"Machina" monsters cannot be attacked, except "Machina Sniper".
+<?xml version="1.0" ?>
+<card>
+    <name>Machina Sniper</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Machina&quot; monsters cannot be attacked, except &quot;Machina Sniper&quot;.</text>
+</card>

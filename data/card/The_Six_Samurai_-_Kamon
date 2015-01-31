@@ -1,14 +1,17 @@
-The Six Samurai - Kamon
-Monster
-FIRE
-Effect
-None
-Warrior
-3
-1500
-1000
-0
-0
-None
-None
-Once per turn: You can target 1 face-up Spell/Trap Card; destroy that target. You must control a face-up "Six Samurai" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+<?xml version="1.0" ?>
+<card>
+    <name>The Six Samurai - Kamon</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can target 1 face-up Spell/Trap Card; destroy that target. You must control a face-up &quot;Six Samurai&quot; monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up &quot;Six Samurai&quot; monster you control instead.</text>
+</card>

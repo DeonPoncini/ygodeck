@@ -1,14 +1,17 @@
-Number 79: Battlin' Boxer Nova Caesar
-Monster
-FIRE
-Xyz
-Effect
-Warrior
-4
-2300
-1600
-0
-0
-None
-None
-2 Level 4 monstersOnce per turn: You can attach 1 "Battlin' Boxer" monster from your hand or Graveyard to this card as an Xyz Material. This card gains 100 ATK for each Xyz Material attached to it. When this card is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can target Level 4 or lower "Battlin' Boxer" monsters in your Graveyard, up to the number of Xyz Materials this card had on the field; Special Summon those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 79: Battlin' Boxer Nova Caesar</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>2300</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 4 monstersOnce per turn: You can attach 1 &quot;Battlin' Boxer&quot; monster from your hand or Graveyard to this card as an Xyz Material. This card gains 100 ATK for each Xyz Material attached to it. When this card is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can target Level 4 or lower &quot;Battlin' Boxer&quot; monsters in your Graveyard, up to the number of Xyz Materials this card had on the field; Special Summon those targets.</text>
+</card>

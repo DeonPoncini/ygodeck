@@ -1,14 +1,17 @@
-Mischief of the Yokai
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Each face-up monster on the field loses 2 Levels, until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up monster and reduce its Level by 1, until the End Phase. This effect cannot be activated the same turn this card is sent to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Mischief of the Yokai</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Each face-up monster on the field loses 2 Levels, until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up monster and reduce its Level by 1, until the End Phase. This effect cannot be activated the same turn this card is sent to the Graveyard.</text>
+</card>

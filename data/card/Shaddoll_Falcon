@@ -1,14 +1,17 @@
-Shaddoll Falcon
-Monster
-DARK
-Flip
-None
-Spellcaster
-2
-600
-1400
-0
-0
-None
-None
-FLIP: You can target 1 "Shaddoll" monster in your Graveyard, except "Shaddoll Falco"; Special Summon it in face-down Defense Position.If this card is sent to the Graveyard by a card effect: You can Special Summon it in face-down Defense Position. You can only use 1 "Shaddoll Falco" effect per turn, and only once that turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Shaddoll Falco</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Flip</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: You can target 1 &quot;Shaddoll&quot; monster in your Graveyard, except &quot;Shaddoll Falco&quot;; Special Summon it in face-down Defense Position.If this card is sent to the Graveyard by a card effect: You can Special Summon it in face-down Defense Position. You can only use 1 &quot;Shaddoll Falco&quot; effect per turn, and only once that turn.</text>
+</card>

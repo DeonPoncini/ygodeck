@@ -1,14 +1,17 @@
-Brotherhood of the Fire Fist - Leopard
-Monster
-FIRE
-Effect
-None
-Beast-Warrior
-3
-0
-200
-0
-0
-None
-None
-During your Main Phase, if this card was Normal or Special Summoned this turn: You can Tribute 1 "Fire Fist" monster; Set 1 "Fire Formation" Spell/Trap Card directly from your Deck. You can only use the effect of "Brotherhood of the Fire Fist - Leopard" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Brotherhood of the Fire Fist - Leopard</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase, if this card was Normal or Special Summoned this turn: You can Tribute 1 &quot;Fire Fist&quot; monster; Set 1 &quot;Fire Formation&quot; Spell/Trap Card directly from your Deck. You can only use the effect of &quot;Brotherhood of the Fire Fist - Leopard&quot; once per turn.</text>
+</card>

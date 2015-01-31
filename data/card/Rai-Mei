@@ -1,14 +1,17 @@
-Rai-Mei
-Monster
-LIGHT
-Effect
-None
-Thunder
-3
-1400
-1200
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 2 or lower LIGHT monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Rai-Mei</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 2 or lower LIGHT monster from your Deck to your hand.</text>
+</card>

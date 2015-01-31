@@ -1,14 +1,17 @@
-Super War-Lion (DM)
-Monster
-EARTH
-Normal
-None
-Beast
-7
-2300
-2100
-0
-0
-None
-None
-A very vicious lion with sharp and long claws.
+<?xml version="1.0" ?>
+<card>
+    <name>Super War-Lion</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>7</level>
+    <attack>2300</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A very vicious lion with sharp and long claws.</text>
+</card>

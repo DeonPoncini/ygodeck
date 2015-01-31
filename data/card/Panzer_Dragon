@@ -1,14 +1,17 @@
-Panzer Dragon
-Monster
-LIGHT
-Fusion
-Effect
-Machine
-5
-1000
-2600
-0
-0
-None
-None
-1 Machine-Type monster + 1 Dragon-Type monsterIf this card is destroyed and sent to the Graveyard: You can target 1 card on the field; destroy that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Panzer Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Machine-Type monster + 1 Dragon-Type monsterIf this card is destroyed and sent to the Graveyard: You can target 1 card on the field; destroy that target.</text>
+</card>

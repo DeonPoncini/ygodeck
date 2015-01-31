@@ -1,14 +1,17 @@
-Elemental HERO Wildheart
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1500
-1600
-0
-0
-None
-None
-This card is unaffected by the effects of Trap Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Wildheart</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card is unaffected by Trap effects.</text>
+</card>

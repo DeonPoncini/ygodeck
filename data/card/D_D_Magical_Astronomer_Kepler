@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<card>
+    <name>D/D Magical Astronomer Kepler</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>10</lpendulum>
+    <rpendulum>10</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ You cannot Pendulum Summon monsters, except &quot;D/D&quot; monsters. This effect cannot be negated. During each of your Standby Phases: Reduce this card's Pendulum Scales by 2 (min. 1), then destroy all monsters you control whose Levels are higher than this card's Pendulum Scales, except &quot;D/D&quot; monsters.
+
+ Monster Effect
+ If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of &quot;D/D Magical Astronomer Kepler&quot; once per turn.● Target 1 other &quot;D/D&quot; card you control; return that target to the hand.● Add 1 &quot;Covenant&quot; card from your Deck to your hand.</text>
+</card>

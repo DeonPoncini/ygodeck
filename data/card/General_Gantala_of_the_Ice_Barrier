@@ -1,14 +1,17 @@
-General Gantala of the Ice Barrier
-Monster
-WATER
-Effect
-None
-Warrior
-7
-2700
-2000
-0
-0
-None
-None
-Once per turn, during your End Phase, you can select and Special Summon 1 "Ice Barrier" monster from your Graveyard, except "General Gantala of the Ice Barrier".
+<?xml version="1.0" ?>
+<card>
+    <name>General Gantala of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your End Phase, you can select and Special Summon 1 &quot;Ice Barrier&quot; monster from your Graveyard, except &quot;General Gantala of the Ice Barrier&quot;.</text>
+</card>

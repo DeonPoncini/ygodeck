@@ -1,14 +1,17 @@
-Wattmole
-Monster
-LIGHT
-Effect
-None
-Thunder
-3
-0
-100
-0
-0
-None
-None
-This card can attack twice during each Battle Phase. If this card attacks a face-down Defense Position monster, you can destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Wattmole</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>3</level>
+    <attack>0</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can attack twice during each Battle Phase. If this card attacks a face-down Defense Position monster, you can destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.</text>
+</card>

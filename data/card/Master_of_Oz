@@ -1,14 +1,17 @@
-Master of Oz
-Monster
-EARTH
-Fusion
-None
-Beast
-9
-4200
-3700
-0
-0
-None
-None
-"Big Koala" + "Des Kangaroo"
+<?xml version="1.0" ?>
+<card>
+    <name>Master of Oz</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>9</level>
+    <attack>4200</attack>
+    <defense>3700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Big Koala&quot; + &quot;Des Kangaroo&quot;</text>
+</card>

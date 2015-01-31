@@ -1,14 +1,17 @@
-Interplanetary Invader "A"
-Monster
-LIGHT
-Effect
-None
-Reptile
-1
-0
-500
-0
-0
-None
-None
-Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Interplanetary Invader &quot;A&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.</text>
+</card>

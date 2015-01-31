@@ -1,14 +1,17 @@
-Zera the Mant (DM)
-Monster
-DARK
-Normal
-None
-Fiend
-8
-2800
-2300
-0
-0
-None
-None
-A huge, brutal monster that attacks with razor-sharp claws.
+<?xml version="1.0" ?>
+<card>
+    <name>Zera the Mant</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A huge, brutal monster that attacks with razor-sharp claws.</text>
+</card>

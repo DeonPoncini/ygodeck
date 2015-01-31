@@ -1,18 +1,21 @@
-Performapal Fire Mufflerlion
-Monster
-FIRE
-Pendulum
-Effect
-Beast
-3
-800
-800
-5
-5
-None
-None
-Pendulum Effect
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Fire Mufflerlion</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>5</lpendulum>
+    <rpendulum>5</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
  When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.
 
  Monster Effect
- Once per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.
+ Once per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.</text>
+</card>

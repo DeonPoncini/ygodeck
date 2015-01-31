@@ -1,14 +1,17 @@
-Diamond Core of Koa'ki Meiru
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Add 1 "Koa'ki Meiru" card from your Deck to your hand, except "Diamond Core of Koa'ki Meiru". You can banish this card from your Graveyard; for the rest of this turn, "Koa'ki Meiru" monsters you control cannot be destroyed.
+<?xml version="1.0" ?>
+<card>
+    <name>Diamond Core of Koa'ki Meiru</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Add 1 &quot;Koa'ki Meiru&quot; card from your Deck to your hand, except &quot;Diamond Core of Koa'ki Meiru&quot;. You can banish this card from your Graveyard; for the rest of this turn, &quot;Koa'ki Meiru&quot; monsters you control cannot be destroyed.</text>
+</card>

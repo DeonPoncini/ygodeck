@@ -1,14 +1,17 @@
-Raigeki Break
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Discard 1 card, then target 1 card on the field; destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Raigeki Break</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Discard 1 card, then target 1 card on the field; destroy it.</text>
+</card>

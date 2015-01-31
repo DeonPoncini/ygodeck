@@ -1,14 +1,17 @@
-Monster Recovery
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Unite 1 of your own monsters on your side of the field and your hand with your Deck and then shuffle it. Draw the same number of cards that were in your hand from the Deck. (You cannot activate this card if you have your opponent's card in your hand.)
+<?xml version="1.0" ?>
+<card>
+    <name>Monster Recovery</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Unite 1 of your own monsters on your side of the field and your hand with your Deck and then shuffle it. Draw the same number of cards that were in your hand from the Deck. (You cannot activate this card if you have your opponent's card in your hand.)</text>
+</card>

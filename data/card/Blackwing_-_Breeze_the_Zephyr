@@ -1,14 +1,17 @@
-Blackwing - Breeze the Zephyr
-Monster
-DARK
-Tuner
-Effect
-Winged Beast
-3
-1100
-300
-0
-0
-None
-None
-If this card is added from your Deck to your hand by the card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a "Blackwing" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Breeze the Zephyr</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is added from your Deck to your hand by the card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a &quot;Blackwing&quot; monster.</text>
+</card>

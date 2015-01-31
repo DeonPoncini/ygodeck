@@ -1,14 +1,17 @@
-Evolsaur Pelta
-Monster
-FIRE
-Effect
-None
-Dinosaur
-4
-1100
-2000
-0
-0
-None
-None
-When this card is Special Summoned by the effect of an "Evoltile" monster: It gains 500 DEF. If this card was Special Summoned by the effect of an "Evoltile" monster, then is destroyed by battle: You can add 1 "Evoltile" monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Evolsaur Pelta</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of an &quot;Evoltile&quot; monster: It gains 500 DEF. If this card was Special Summoned by the effect of an &quot;Evoltile&quot; monster, then is destroyed by battle: You can add 1 &quot;Evoltile&quot; monster from your Deck to your hand.</text>
+</card>

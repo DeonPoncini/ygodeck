@@ -1,14 +1,17 @@
-Ally of Justice Quarantine
-Monster
-DARK
-Effect
-None
-Machine
-4
-1700
-1200
-0
-0
-None
-None
-Neither player can Special Summon LIGHT monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Quarantine</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Neither player can Special Summon LIGHT monsters.</text>
+</card>

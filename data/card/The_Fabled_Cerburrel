@@ -1,14 +1,17 @@
-The Fabled Cerburrel
-Monster
-LIGHT
-Tuner
-None
-Beast
-2
-1000
-400
-0
-0
-None
-None
-If this card is discarded to the Graveyard: Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>The Fabled Cerburrel</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is discarded to the Graveyard: Special Summon it.</text>
+</card>

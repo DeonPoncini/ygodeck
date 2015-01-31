@@ -1,14 +1,17 @@
-Dark Voltanis
-Monster
-DARK
-Effect
-None
-Fairy
-8
-2800
-1400
-0
-0
-None
-None
-After 1 Counter Trap Card you control has been activated and has resolved, you can Tribute 1 DARK monster to Special Summon this card from your hand. If this card is Special Summoned in this way, destroy 1 card on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Voltanis</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After 1 Counter Trap Card you control has been activated and has resolved, you can Tribute 1 DARK monster to Special Summon this card from your hand. If this card is Special Summoned in this way, destroy 1 card on the field.</text>
+</card>

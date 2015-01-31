@@ -1,14 +1,17 @@
-Noble Knight Joan
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1900
-1300
-0
-0
-None
-None
-If this card attacks, it loses 300 ATK during the Damage Step only. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can send 1 card from your hand to the Graveyard then target 1 Level 4 or lower Warrior-Type monster in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Noble Knight Joan</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks, it loses 300 ATK during the Damage Step only. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can send 1 card from your hand to the Graveyard then target 1 Level 4 or lower Warrior-Type monster in your Graveyard; add that target to your hand.</text>
+</card>

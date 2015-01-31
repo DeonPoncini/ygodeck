@@ -1,14 +1,17 @@
-Stronghold the Moving Fortress
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Special Summon this card in Defense Position as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap Card.) While you control a "Green Gadget", "Red Gadget", and "Yellow Gadget", this card gains 3000 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Stronghold the Moving Fortress</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Special Summon this card in Defense Position as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap Card.) While you control a &quot;Green Gadget&quot;, &quot;Red Gadget&quot;, and &quot;Yellow Gadget&quot;, this card gains 3000 ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-Princess Curran
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-2000
-0
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Trial of the Princesses". During your Standby Phase, inflict 600 damage to your opponent for each monster they control.
+<?xml version="1.0" ?>
+<card>
+    <name>Princess Curran</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>2000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with &quot;Trial of the Princesses&quot;. During your Standby Phase, inflict 600 damage to your opponent for each monster they control.</text>
+</card>

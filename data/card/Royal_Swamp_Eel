@@ -1,14 +1,17 @@
-Royal Swamp Eel
-Monster
-WATER
-Tuner
-None
-Fish
-4
-1700
-1200
-0
-0
-None
-None
-If this card is used as a Synchro Material Monster, all the other Synchro Material Monsters must be Fish-Type.
+<?xml version="1.0" ?>
+<card>
+    <name>Royal Swamp Eel</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is used as a Synchro Material Monster, all the other Synchro Material Monsters must be Fish-Type.</text>
+</card>

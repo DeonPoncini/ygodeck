@@ -1,14 +1,17 @@
-Survival Instinct
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Banish any number of Dinosaur-Type monsters from your Graveyard; gain 400 Life Points for each Dinosaur-Type monster banished to activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Survival Instinct</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Banish any number of Dinosaur-Type monsters from your Graveyard; gain 400 Life Points for each Dinosaur-Type monster banished to activate this card.</text>
+</card>

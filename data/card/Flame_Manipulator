@@ -1,14 +1,17 @@
-Flame Manipulator
-Monster
-FIRE
-Normal
-None
-Spellcaster
-3
-900
-1000
-0
-0
-None
-None
-This Spellcaster attacks enemies with fire-related spells such as "Sea of Flames" and "Wall of Fire".
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Manipulator</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This Spellcaster attacks enemies with fire-related spells such as &quot;Sea of Flames&quot; and &quot;Wall of Fire&quot;.</text>
+</card>

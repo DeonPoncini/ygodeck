@@ -1,14 +1,17 @@
-Weeping Idol
-Monster
-DARK
-Effect
-None
-Rock
-2
-0
-500
-0
-0
-None
-None
-You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Weeping Idol</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.</text>
+</card>

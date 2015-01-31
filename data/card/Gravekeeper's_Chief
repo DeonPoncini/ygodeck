@@ -1,14 +1,17 @@
-Gravekeeper's Chief
-Monster
-DARK
-Effect
-None
-Spellcaster
-5
-1900
-1200
-0
-0
-None
-None
-You can only control 1 face-up "Gravekeeper's Chief". Your Graveyard is unaffected by "Necrovalley". When this card is Tribute Summoned: You can target 1 "Gravekeeper's" monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Chief</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can only control 1 face-up &quot;Gravekeeper's Chief&quot;. Your Graveyard is unaffected by &quot;Necrovalley&quot;. When this card is Tribute Summoned: You can target 1 &quot;Gravekeeper's&quot; monster in your Graveyard; Special Summon that target.</text>
+</card>

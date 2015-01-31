@@ -1,14 +1,17 @@
-Fleur Synchron
-Monster
-LIGHT
-Tuner
-None
-Machine
-2
-400
-200
-0
-0
-None
-None
-If this card is sent to the Graveyard as a Synchro Material Monster, you can Special Summon 1 Level 2 or lower monster from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Fleur Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard as a Synchro Material Monster, you can Special Summon 1 Level 2 or lower monster from your hand.</text>
+</card>

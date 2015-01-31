@@ -1,14 +1,17 @@
-Black Whirlwind
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When a "Blackwing" monster is Normal Summoned to your side of the field: You can add 1 "Blackwing" monster from your Deck to your hand with less ATK than that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Whirlwind</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When a &quot;Blackwing&quot; monster is Normal Summoned to your side of the field: You can add 1 &quot;Blackwing&quot; monster from your Deck to your hand with less ATK than that monster.</text>
+</card>

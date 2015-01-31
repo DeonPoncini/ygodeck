@@ -1,14 +1,17 @@
-Aye-Iron
-Monster
-EARTH
-Effect
-None
-Machine
-4
-1600
-1800
-0
-0
-None
-None
-Once per turn: You can have this card gain 400 ATK. This card cannot attack the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Aye-Iron</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can have this card gain 400 ATK. This card cannot attack the turn you activate this effect.</text>
+</card>

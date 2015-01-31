@@ -1,14 +1,17 @@
-The White Stone of Legend
-Monster
-LIGHT
-Tuner
-None
-Dragon
-1
-300
-250
-0
-0
-None
-None
-When this card is sent to the Graveyard: Add 1 "Blue-Eyes White Dragon" from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>The White Stone of Legend</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>1</level>
+    <attack>300</attack>
+    <defense>250</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard: Add 1 &quot;Blue-Eyes White Dragon&quot; from your Deck to your hand.</text>
+</card>

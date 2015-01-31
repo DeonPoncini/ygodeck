@@ -1,14 +1,17 @@
-The Wicked Dreadroot
-Monster
-DARK
-Effect
-None
-Fiend
-10
-4000
-4000
-0
-0
-None
-None
-This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.
+<?xml version="1.0" ?>
+<card>
+    <name>The Wicked Dreadroot</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.</text>
+</card>

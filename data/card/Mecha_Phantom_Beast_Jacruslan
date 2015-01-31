@@ -1,14 +1,17 @@
-Mecha Phantom Beast Jacruslan
-Monster
-WIND
-Synchro
-Effect
-Machine
-9
-2700
-2000
-0
-0
-None
-None
-1 "Mecha Phantom Beast" Tuner + 1 or more non-Tuner "Mecha Phantom Beast" monstersWhen this card is Synchro Summoned: You can Tribute any number of "Mecha Phantom Beast Tokens"; discard an equal number of random cards from your opponent's hand. Other "Mecha Phantom Beast" monsters you control cannot be destroyed by battle or by card effects. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect): You can Set 1 Quick-Play Spell Card directly from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Jacruslan</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>2700</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Mecha Phantom Beast&quot; Tuner + 1 or more non-Tuner &quot;Mecha Phantom Beast&quot; monstersWhen this card is Synchro Summoned: You can Tribute any number of &quot;Mecha Phantom Beast Tokens&quot;; discard an equal number of random cards from your opponent's hand. Other &quot;Mecha Phantom Beast&quot; monsters you control cannot be destroyed by battle or by card effects. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect): You can Set 1 Quick-Play Spell Card directly from your Deck.</text>
+</card>

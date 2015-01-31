@@ -1,14 +1,17 @@
-Gatling Dragon
-Monster
-DARK
-Fusion
-Effect
-Machine
-8
-2600
-1200
-0
-0
-None
-None
-"Barrel Dragon" + "Blowback Dragon"Once per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of Heads.
+<?xml version="1.0" ?>
+<card>
+    <name>Gatling Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Barrel Dragon&quot; + &quot;Blowback Dragon&quot;Once per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of Heads.</text>
+</card>

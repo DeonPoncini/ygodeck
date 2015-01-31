@@ -1,14 +1,17 @@
-Cure Mermaid
-Monster
-WATER
-Effect
-None
-Fish
-4
-1500
-800
-0
-0
-None
-None
-As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases.
+<?xml version="1.0" ?>
+<card>
+    <name>Cure Mermaid</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases.</text>
+</card>

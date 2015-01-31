@@ -1,14 +1,17 @@
-Safe Zone
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be targeted or destroyed by your opponent's card effects, or be destroyed by battle. It cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Safe Zone</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be targeted or destroyed by your opponent's card effects, or be destroyed by battle. It cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.</text>
+</card>

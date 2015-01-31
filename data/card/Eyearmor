@@ -1,14 +1,17 @@
-Eyearmor
-Monster
-EARTH
-Normal
-None
-Warrior
-2
-600
-500
-0
-0
-None
-None
-This warrior transforms into various creatures to confuse enemies in battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Eyearmor</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This warrior transforms into various creatures to confuse enemies in battle.</text>
+</card>

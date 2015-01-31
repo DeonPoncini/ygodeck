@@ -1,14 +1,17 @@
-Divine Sword - Phoenix Blade
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a Warrior-Type monster. It gains 300 ATK. During your Main Phase, if this card is in your Graveyard you can remove from play 2 Warrior-Type monsters in your Graveyard to add this card to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Divine Sword - Phoenix Blade</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a Warrior-Type monster. It gains 300 ATK. During your Main Phase, if this card is in your Graveyard you can remove from play 2 Warrior-Type monsters in your Graveyard to add this card to your hand.</text>
+</card>

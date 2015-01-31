@@ -1,14 +1,17 @@
-Re-qliate
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-If monster is Normal or Flip Summoned, and it is a Level 4 or lower monster: Negate its effects until the end of this turn. If a monster is Special Summoned, and it is a Level 5 or higher monster: Negate its effects until the end of this turn, also banish it when it leaves the field. If there is no "Qli" card on the field, except "Re-qliate", send this card to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Re-qliate</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>If monster is Normal or Flip Summoned, and it is a Level 4 or lower monster: Negate its effects until the end of this turn. If a monster is Special Summoned, and it is a Level 5 or higher monster: Negate its effects until the end of this turn, also banish it when it leaves the field. If there is no &quot;Qli&quot; card on the field, except &quot;Re-qliate&quot;, send this card to the Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Spell Calling
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-When this face-down card is destroyed and sent to the Graveyard by the effect of a Spell or Trap Card controlled by your opponent, select 1 Quick-Play Spell Card from your Deck and Set it after showing it to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Calling</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>When this face-down card is destroyed and sent to the Graveyard by the effect of a Spell or Trap Card controlled by your opponent, select 1 Quick-Play Spell Card from your Deck and Set it after showing it to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Jurrac Meteor
-Monster
-FIRE
-Synchro
-Effect
-Dinosaur
-10
-2800
-2000
-0
-0
-None
-None
-1 "Jurrac" Tuner + 2 or more non-Tuner Dinosaur-Type monstersWhen this card is Synchro Summoned, destroy all cards on the field. Then, you can Special Summon 1 Tuner monster from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Meteor</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dinosaur</type>
+    <level>10</level>
+    <attack>2800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Jurrac&quot; Tuner + 2 or more non-Tuner Dinosaur-Type monstersWhen this card is Synchro Summoned, destroy all cards on the field. Then, you can Special Summon 1 Tuner monster from your Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Phantom Fortress Enterblathnir
-Monster
-WIND
-Xyz
-Effect
-Machine
-9
-2900
-2500
-0
-0
-None
-None
-2 Level 9 monstersOnce per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects;● Banish 1 card your opponent controls.● Banish 1 random card from your opponent's hand.● Banish 1 card from your opponent's Graveyard.● Banish the top card of your opponent's Deck, face-up.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom Fortress Enterblathnir</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>2900</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 9 monstersOnce per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects;● Banish 1 card your opponent controls.● Banish 1 random card from your opponent's hand.● Banish 1 card from your opponent's Graveyard.● Banish the top card of your opponent's Deck, face-up.</text>
+</card>

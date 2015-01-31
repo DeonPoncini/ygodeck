@@ -1,14 +1,17 @@
-Amplifire
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-Each time the effect of a "Symphonic Warrior" card is activated, place 1 Symphonic Counter on this card when that effect resolves. "Symphonic Warrior" monsters on the field gain 100 ATK for each Symphonic Counter on this card. Once per turn, you can remove 5 or 7 Symphonic Counters from your side of the field, then activate an appropriate effect.● 5: Inflict 300 damage to your opponent for each "Symphonic Warrior" card on the field.● 7: Banish a number of cards from your opponent's field and/or Graveyard, up to the number of "Symphonic Warrior" cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Amplifire</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>Each time the effect of a &quot;Symphonic Warrior&quot; card is activated, place 1 Symphonic Counter on this card when that effect resolves. &quot;Symphonic Warrior&quot; monsters on the field gain 100 ATK for each Symphonic Counter on this card. Once per turn, you can remove 5 or 7 Symphonic Counters from your side of the field, then activate an appropriate effect.● 5: Inflict 300 damage to your opponent for each &quot;Symphonic Warrior&quot; card on the field.● 7: Banish a number of cards from your opponent's field and/or Graveyard, up to the number of &quot;Symphonic Warrior&quot; cards on the field.</text>
+</card>

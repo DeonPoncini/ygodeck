@@ -1,14 +1,17 @@
-Number 107: Galaxy-Eyes Tachyon Dragon
-Monster
-LIGHT
-Xyz
-Effect
-Dragon
-8
-3000
-2500
-0
-0
-None
-None
-2 Level 8 monstersOnce per Battle Phase, at the start of your Battle Phase: You can detach 1 Xyz Material from this card; negate the effects of all other face-up monsters currently on the field, also their ATK and DEF become their original ATK and DEF, and if you do any of these, during the Battle Phase this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 107: Galaxy-Eyes Tachyon Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 8 monstersOnce per Battle Phase, at the start of your Battle Phase: You can detach 1 Xyz Material from this card; negate the effects of all other face-up monsters currently on the field, also their ATK and DEF become their original ATK and DEF, and if you do any of these, during the Battle Phase this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.</text>
+</card>

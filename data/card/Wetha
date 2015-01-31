@@ -1,14 +1,17 @@
-Wetha
-Monster
-WATER
-Normal
-None
-Aqua
-3
-1000
-900
-0
-0
-None
-None
-A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.
+<?xml version="1.0" ?>
+<card>
+    <name>Wetha</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.</text>
+</card>

@@ -1,14 +1,17 @@
-Archfiend's Roar
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Pay 500 Life Points, then target 1 "Archfiend" monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend's Roar</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Pay 500 Life Points, then target 1 &quot;Archfiend&quot; monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.</text>
+</card>

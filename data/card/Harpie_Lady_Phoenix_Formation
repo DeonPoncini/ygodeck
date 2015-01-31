@@ -1,14 +1,17 @@
-Harpie Lady Phoenix Formation
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control 3 or more "Harpie Lady" and/or "Harpie Lady Sisters": Target as many monsters your opponent controls as possible, but not more than the total number of "Harpie Lady" and "Harpie Lady Sisters" you control; destroy those targets, and if you do, inflict damage to your opponent equal to the highest original ATK among those destroyed monsters (your choice, if tied). You cannot Special Summon monsters from the Main Deck or Extra Deck, nor conduct your Battle Phase, the turn you activate this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Harpie Lady Phoenix Formation</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control 3 or more &quot;Harpie Lady&quot; and/or &quot;Harpie Lady Sisters&quot;: Target as many monsters your opponent controls as possible, but not more than the total number of &quot;Harpie Lady&quot; and &quot;Harpie Lady Sisters&quot; you control; destroy those targets, and if you do, inflict damage to your opponent equal to the highest original ATK among those destroyed monsters (your choice, if tied). You cannot Special Summon monsters from the Main Deck or Extra Deck, nor conduct your Battle Phase, the turn you activate this card.</text>
+</card>

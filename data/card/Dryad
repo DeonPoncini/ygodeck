@@ -1,14 +1,17 @@
-Dryad
-Monster
-EARTH
-Normal
-None
-Spellcaster
-4
-1200
-1400
-0
-0
-None
-None
-A spirit of the forest powered by the surrounding trees and wildlife.
+<?xml version="1.0" ?>
+<card>
+    <name>Dryad</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A spirit of the forest powered by the surrounding trees and wildlife.</text>
+</card>

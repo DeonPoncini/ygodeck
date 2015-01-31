@@ -1,14 +1,17 @@
-Hyena
-Monster
-EARTH
-Effect
-None
-Beast
-3
-1000
-300
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of "Hyenas" from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Hyena</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of &quot;Hyenas&quot; from your Deck.</text>
+</card>

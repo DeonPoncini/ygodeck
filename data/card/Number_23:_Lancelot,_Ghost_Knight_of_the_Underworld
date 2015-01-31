@@ -1,14 +1,17 @@
-Number 23: Lancelot, Ghost Knight of the Underworld
-Monster
-DARK
-Xyz
-Effect
-Zombie
-8
-2000
-1500
-0
-0
-None
-None
-2 Level 8 monsters(This card is always treated as a "Laundsallyn" card.)While this card has Xyz Material, it can attack your opponent directly. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; destroy that target. Once per turn, during either player's turn, when a Spell/Trap Card or another monster effect is activated: Detach 1 Xyz Material from this card; negate the activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 23: Lancelot, Ghost Knight of the Underworld</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>8</level>
+    <attack>2000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 8 monsters(This card is always treated as a &quot;Laundsallyn&quot; card.)While this card has Xyz Material, it can attack your opponent directly. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; destroy that target. Once per turn, during either player's turn, when a Spell/Trap Card or another monster effect is activated: Detach 1 Xyz Material from this card; negate the activation.</text>
+</card>

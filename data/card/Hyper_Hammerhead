@@ -1,14 +1,17 @@
-Hyper Hammerhead
-Monster
-EARTH
-Effect
-None
-Dinosaur
-4
-1500
-1200
-0
-0
-None
-None
-At the end of the Damage Step, if an opponent's monster that battled this card is not destroyed: Return that opponent's monster to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Hyper Hammerhead</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>At the end of the Damage Step, if an opponent's monster that battled this card is not destroyed: Return that opponent's monster to the hand.</text>
+</card>

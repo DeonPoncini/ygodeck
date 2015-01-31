@@ -1,14 +1,17 @@
-Sea Lord's Amulet
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-WATER monsters you control cannot be destroyed by your opponent's card effects. Send this card to the Graveyard during your opponent's 3rd End Phase after activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Sea Lord's Amulet</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>WATER monsters you control cannot be destroyed by your opponent's card effects. Send this card to the Graveyard during your opponent's 3rd End Phase after activation.</text>
+</card>

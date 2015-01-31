@@ -1,14 +1,17 @@
-Neo Bug
-Monster
-EARTH
-Normal
-None
-Insect
-4
-1800
-1700
-0
-0
-None
-None
-A huge bug-like monster said to come from another planet. It gathers in swarms.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo Bug</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A huge bug-like monster said to come from another planet. It gathers in swarms.</text>
+</card>

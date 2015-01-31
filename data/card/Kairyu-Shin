@@ -1,14 +1,17 @@
-Kairyu-Shin
-Monster
-WATER
-Normal
-None
-Sea Serpent
-5
-1800
-1500
-0
-0
-None
-None
-A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.
+<?xml version="1.0" ?>
+<card>
+    <name>Kairyu-Shin</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.</text>
+</card>

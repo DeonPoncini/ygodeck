@@ -1,14 +1,17 @@
-Gladiator Beast Octavius
-Monster
-LIGHT
-Effect
-None
-Winged Beast
-7
-2500
-1200
-0
-0
-None
-None
-When this card is Special Summoned by the effect of a "Gladiator Beast" monster: Target 1 face-down Spell or Trap Card in the Spell & Trap Card Zone; destroy that target. At the end of your Battle Phase, if this card attacked or was attacked: Shuffle this card into the Deck or discard 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Octavius</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned by the effect of a &quot;Gladiator Beast&quot; monster: Target 1 face-down Spell or Trap Card in the Spell &amp; Trap Card Zone; destroy that target. At the end of your Battle Phase, if this card attacked or was attacked: Shuffle this card into the Deck or discard 1 card.</text>
+</card>

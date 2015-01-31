@@ -1,14 +1,17 @@
-Gagaga Girl
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-1000
-800
-0
-0
-None
-None
-You can target 1 "Gagaga Magician" you control; this card's Level becomes the Level of that monster. An Xyz Monster that was Summoned using only this card and other "Gagaga" monsters as Xyz Material gains this effect.● When it is Xyz Summoned: You can target 1 Special Summoned monster your opponent controls; its ATK becomes 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Gagaga Girl</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can target 1 &quot;Gagaga Magician&quot; you control; this card's Level becomes the Level of that monster. An Xyz Monster that was Summoned using only this card and other &quot;Gagaga&quot; monsters as Xyz Material gains this effect.● When it is Xyz Summoned: You can target 1 Special Summoned monster your opponent controls; its ATK becomes 0.</text>
+</card>

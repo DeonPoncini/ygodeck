@@ -1,14 +1,17 @@
-Behegon
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1350
-1000
-0
-0
-None
-None
-With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.
+<?xml version="1.0" ?>
+<card>
+    <name>Behegon</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1350</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.</text>
+</card>

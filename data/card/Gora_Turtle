@@ -1,14 +1,17 @@
-Gora Turtle
-Monster
-WATER
-Effect
-None
-Aqua
-3
-1100
-1100
-0
-0
-None
-None
-As long as this card remains face-up on the field, monsters with an ATK equal to 1900 or more cannot declare an attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Gora Turtle</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on the field, monsters with an ATK equal to 1900 or more cannot declare an attack.</text>
+</card>

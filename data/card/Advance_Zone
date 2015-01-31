@@ -1,14 +1,17 @@
-Advance Zone
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn, during the End Phase of any turn in which you Tribute Summoned a monster(s): You can apply these effects, depending on the number of monsters you Tributed for Tribute Summons this turn.● 1 or more: Destroy 1 Set card your opponent controls.● 2 or more: Draw 1 card.● 3 or more: Add 1 monster from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Advance Zone</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during the End Phase of any turn in which you Tribute Summoned a monster(s): You can apply these effects, depending on the number of monsters you Tributed for Tribute Summons this turn.● 1 or more: Destroy 1 Set card your opponent controls.● 2 or more: Draw 1 card.● 3 or more: Add 1 monster from your Graveyard to your hand.</text>
+</card>

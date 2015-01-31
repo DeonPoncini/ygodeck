@@ -1,14 +1,17 @@
-Evolutionary Bridge
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a monster you control is targeted for an attack: Target 1 "Evoltile" monster in your Graveyard; Special Summon that target, then switch the attack target to that monster and conduct damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Evolutionary Bridge</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a monster you control is targeted for an attack: Target 1 &quot;Evoltile&quot; monster in your Graveyard; Special Summon that target, then switch the attack target to that monster and conduct damage calculation.</text>
+</card>

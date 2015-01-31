@@ -1,14 +1,17 @@
-The Bewitching Phantom Thief
-Monster
-DARK
-Normal
-None
-Spellcaster
-2
-700
-700
-0
-0
-None
-None
-An elegant thief with a black cloak that charms its enemies.
+<?xml version="1.0" ?>
+<card>
+    <name>The Bewitching Phantom Thief</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>2</level>
+    <attack>700</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An elegant thief with a black cloak that charms its enemies.</text>
+</card>

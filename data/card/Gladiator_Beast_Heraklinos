@@ -1,14 +1,17 @@
-Gladiator Beast Heraklinos
-Monster
-FIRE
-Fusion
-Effect
-Beast-Warrior
-8
-3000
-2800
-0
-0
-None
-None
-"Gladiator Beast Laquari" + 2 "Gladiator Beast" monstersMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) During either player's turn, when a Spell/Trap Card is activated: You can discard 1 card; negate the activation and destroy it. This card must remain face-up on the field to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator Beast Heraklinos</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Gladiator Beast Laquari&quot; + 2 &quot;Gladiator Beast&quot; monstersMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use &quot;Polymerization&quot;.) During either player's turn, when a Spell/Trap Card is activated: You can discard 1 card; negate the activation and destroy it. This card must remain face-up on the field to activate and to resolve this effect.</text>
+</card>

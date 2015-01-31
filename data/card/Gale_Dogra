@@ -1,14 +1,17 @@
-Gale Dogra
-Monster
-EARTH
-Effect
-None
-Insect
-2
-650
-600
-0
-0
-None
-None
-You can pay 3000 Life Points to send 1 monster from your Extra Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Gale Dogra</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>650</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can pay 3000 Life Points to send 1 monster from your Extra Deck to the Graveyard.</text>
+</card>

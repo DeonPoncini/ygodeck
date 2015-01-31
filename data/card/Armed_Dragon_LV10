@@ -1,14 +1,17 @@
-Armed Dragon LV10
-Monster
-WIND
-Effect
-None
-Dragon
-10
-3000
-2000
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Armed Dragon LV7". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Armed Dragon LV10</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 &quot;Armed Dragon LV7&quot;. You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.</text>
+</card>

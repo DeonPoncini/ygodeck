@@ -1,14 +1,17 @@
-Kagetokage
-Monster
-DARK
-Effect
-None
-Reptile
-4
-1100
-1500
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Kagetokage</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.</text>
+</card>

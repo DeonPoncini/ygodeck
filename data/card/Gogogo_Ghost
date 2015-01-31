@@ -1,14 +1,17 @@
-Gogogo Ghost
-Monster
-DARK
-Effect
-None
-Zombie
-4
-1900
-0
-0
-0
-None
-None
-If this card is Special Summoned: You can target 1 "Gogogo Golem" in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. You can only use the effect of "Gogogo Ghost" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gogogo Ghost</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Special Summoned: You can target 1 &quot;Gogogo Golem&quot; in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. You can only use the effect of &quot;Gogogo Ghost&quot; once per turn.</text>
+</card>

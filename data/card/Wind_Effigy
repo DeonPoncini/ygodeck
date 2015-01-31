@@ -1,14 +1,17 @@
-Wind Effigy
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1800
-200
-0
-0
-None
-None
-This card can be treated as 2 Tributes for the Tribute Summon of a WIND Normal Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Wind Effigy</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card can be treated as 2 Tributes for the Tribute Summon of a WIND Normal Monster.</text>
+</card>

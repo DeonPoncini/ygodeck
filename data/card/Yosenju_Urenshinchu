@@ -1,18 +1,21 @@
-Yosenju Urenshinchu
-Monster
-WIND
-Pendulum
-Effect
-Rock
-4
-0
-2100
-5
-5
-None
-None
-Pendulum Effect
- Once per turn, if you control a "Yosenju" card in your other Pendulum Zone: You can make this card's Pendulum Scale 11 until the end of this turn. If you activated this effect, you cannot Special Summon monsters for the rest of this turn, except "Yosenju" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Yosenju Urenshinchu</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>2100</defense>
+    <lpendulum>5</lpendulum>
+    <rpendulum>5</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ Once per turn, if you control a &quot;Yosenju&quot; card in your other Pendulum Zone: You can make this card's Pendulum Scale 11 until the end of this turn. If you activated this effect, you cannot Special Summon monsters for the rest of this turn, except &quot;Yosenju&quot; monsters.
 
  Monster Effect
- If this card is Normal Summoned: Change it to Defense Position. Your opponent cannot target "Yosenju" monsters for attacks, except this one.
+ If this card is Normal Summoned: Change it to Defense Position. Your opponent cannot target &quot;Yosenju&quot; monsters for attacks, except this one.</text>
+</card>

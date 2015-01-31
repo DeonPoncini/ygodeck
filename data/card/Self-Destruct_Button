@@ -1,14 +1,17 @@
-Self-Destruct Button
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-You can only activate this card when your Life Points are lower than your opponent's Life Points and the difference is 7000 points or more. Both player's Life Points become 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Self-Destruct Button</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>You can only activate this card when your Life Points are lower than your opponent's Life Points and the difference is 7000 points or more. Both player's Life Points become 0.</text>
+</card>

@@ -1,14 +1,17 @@
-Inzektor Exa-Beetle
-Monster
-DARK
-Xyz
-Effect
-Insect
-6
-1000
-1000
-0
-0
-None
-None
-2 Level 6 monstersWhen this card is Xyz Summoned: You can target 1 monster in either player's Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster equipped by this effect. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card on each side of the field; send those targets to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Inzektor Exa-Beetle</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Insect</type>
+    <level>6</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 6 monstersWhen this card is Xyz Summoned: You can target 1 monster in either player's Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster equipped by this effect. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card on each side of the field; send those targets to the Graveyard.</text>
+</card>

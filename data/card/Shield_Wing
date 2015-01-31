@@ -1,14 +1,17 @@
-Shield Wing
-Monster
-WIND
-Effect
-None
-Winged Beast
-2
-0
-900
-0
-0
-None
-None
-Twice per turn, this card cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Shield Wing</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Twice per turn, this card cannot be destroyed by battle.</text>
+</card>

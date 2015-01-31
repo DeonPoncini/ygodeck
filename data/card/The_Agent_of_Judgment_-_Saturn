@@ -1,14 +1,17 @@
-The Agent of Judgment - Saturn
-Monster
-LIGHT
-Effect
-None
-Fairy
-6
-2400
-0
-0
-0
-None
-None
-While your Life Points are higher than your opponent's, you can Tribute this card to inflict damage to your opponent equal to the difference. If you do not control a face-up "The Sanctuary in the Sky", this effect is not applied. You cannot conduct your Battle Phase the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>The Agent of Judgment - Saturn</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While your Life Points are higher than your opponent's, you can Tribute this card to inflict damage to your opponent equal to the difference. If you do not control a face-up &quot;The Sanctuary in the Sky&quot;, this effect is not applied. You cannot conduct your Battle Phase the turn you activate this effect.</text>
+</card>

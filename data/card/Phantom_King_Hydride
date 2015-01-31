@@ -1,14 +1,17 @@
-Phantom King Hydride
-Monster
-DARK
-Tuner
-None
-Fiend
-3
-1500
-300
-0
-0
-None
-None
-If you use this card you control for a Synchro Summon, you can treat it as a non-Tuner monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Phantom King Hydride</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1500</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you use this card you control for a Synchro Summon, you can treat it as a non-Tuner monster.</text>
+</card>

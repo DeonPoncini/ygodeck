@@ -1,14 +1,17 @@
-Airorca
-Monster
-WIND
-Effect
-None
-Sea Serpent
-3
-1400
-300
-0
-0
-None
-None
-Once per turn: You can banish 1 Fish, Sea Serpent, or Aqua-Type monster from your hand, then target 1 face-up card your opponent controls; destroy that target, then banish this card until your next Standby Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Airorca</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Sea Serpent</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can banish 1 Fish, Sea Serpent, or Aqua-Type monster from your hand, then target 1 face-up card your opponent controls; destroy that target, then banish this card until your next Standby Phase.</text>
+</card>

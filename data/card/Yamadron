@@ -1,14 +1,17 @@
-Yamadron
-Monster
-FIRE
-Normal
-None
-Dragon
-5
-1600
-1800
-0
-0
-None
-None
-This monster has three fire-breathing heads and can form a sea of blazing flames.
+<?xml version="1.0" ?>
+<card>
+    <name>Yamadron</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster has three fire-breathing heads and can form a sea of blazing flames.</text>
+</card>

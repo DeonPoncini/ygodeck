@@ -1,14 +1,17 @@
-Number C80: Requiem in Berserk
-Monster
-DARK
-Xyz
-Effect
-Fiend
-5
-0
-2000
-0
-0
-None
-None
-3 Level 5 monstersYou can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 2000 ATK. If a monster equipped with this card would be destroyed, destroy this card instead. If this card has "Number 80: Rhapsody in Berserk" as an Xyz Material, it gains this effect.● You can detach 1 Xyz Material from this card, then target 1 card on the field; banish that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Number C80: Requiem in Berserk</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>5</level>
+    <attack>0</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 5 monstersYou can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 2000 ATK. If a monster equipped with this card would be destroyed, destroy this card instead. If this card has &quot;Number 80: Rhapsody in Berserk&quot; as an Xyz Material, it gains this effect.● You can detach 1 Xyz Material from this card, then target 1 card on the field; banish that target.</text>
+</card>

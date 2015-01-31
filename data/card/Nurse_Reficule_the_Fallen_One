@@ -1,14 +1,17 @@
-Nurse Reficule the Fallen One
-Monster
-DARK
-Effect
-None
-Fairy
-4
-1400
-600
-0
-0
-None
-None
-Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Nurse Reficule the Fallen One</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.</text>
+</card>

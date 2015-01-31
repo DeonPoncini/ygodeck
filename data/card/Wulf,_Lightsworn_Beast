@@ -1,14 +1,17 @@
-Wulf, Lightsworn Beast
-Monster
-LIGHT
-Effect
-None
-Beast-Warrior
-4
-2100
-300
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect, and cannot be Special Summoned by other ways. If this card is sent from your Deck to the Graveyard: Special Summon it.
+<?xml version="1.0" ?>
+<card>
+    <name>Wulf, Lightsworn Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect, and cannot be Special Summoned by other ways. If this card is sent from your Deck to the Graveyard: Special Summon it.</text>
+</card>

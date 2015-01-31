@@ -1,14 +1,17 @@
-Jigen Bakudan
-Monster
-FIRE
-Effect
-None
-Pyro
-2
-200
-1000
-0
-0
-None
-None
-FLIP: After this card is flipped, Tribute it during your Standby Phase to destroy all monsters on your side of the field and inflict damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Jigen Bakudan</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: After this card is flipped, Tribute it during your Standby Phase to destroy all monsters on your side of the field and inflict damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.</text>
+</card>

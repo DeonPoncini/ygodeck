@@ -1,14 +1,17 @@
-Spell Reproduction
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Send 2 Spell Cards from your hand to the Graveyard, then target 1 Spell Card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Spell Reproduction</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Send 2 Spell Cards from your hand to the Graveyard, then target 1 Spell Card in your Graveyard; add that target to your hand.</text>
+</card>

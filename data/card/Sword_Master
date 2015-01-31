@@ -1,14 +1,17 @@
-Sword Master
-Monster
-EARTH
-Tuner
-None
-Warrior
-3
-1200
-0
-0
-0
-None
-None
-If a Warrior-Type monster you control attacks your opponent's monster, and the opponent's monster is not destroyed by battle, at the end of the Damage Step you can Special Summon this card from your hand. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Sword Master</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a Warrior-Type monster you control attacks your opponent's monster, and the opponent's monster is not destroyed by battle, at the end of the Damage Step you can Special Summon this card from your hand. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.</text>
+</card>

@@ -1,14 +1,17 @@
-Gishki Noellia
-Monster
-WATER
-Effect
-None
-Spellcaster
-4
-1700
-1000
-0
-0
-None
-None
-When this card is Normal Summoned: You can reveal the top 5 cards of your Deck, send any revealed Ritual Spell Cards or "Gishki" Monster Cards to the Graveyard, then return the other cards to the bottom of your Deck in any order.
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Noellia</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned: You can reveal the top 5 cards of your Deck, send any revealed Ritual Spell Cards or &quot;Gishki&quot; Monster Cards to the Graveyard, then return the other cards to the bottom of your Deck in any order.</text>
+</card>

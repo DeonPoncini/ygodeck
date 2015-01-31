@@ -1,14 +1,17 @@
-Beast-Eyes Pendulum Dragon
-Monster
-EARTH
-Fusion
-Effect
-Dragon
-8
-3000
-2000
-0
-0
-None
-None
-1 DARK Dragon-Type monster + 1 Beast-Type monsterMust be Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing the above cards you control (you do not use "Polymerization"), and cannot be Special Summoned by other ways. If this card destroys a monster by battle: Inflict damage to your opponent equal to the original ATK of the Beast-Type monster used as a Fusion Material.
+<?xml version="1.0" ?>
+<card>
+    <name>Beast-Eyes Pendulum Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 DARK Dragon-Type monster + 1 Beast-Type monsterMust be Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing the above cards you control (you do not use &quot;Polymerization&quot;), and cannot be Special Summoned by other ways. If this card destroys a monster by battle: Inflict damage to your opponent equal to the original ATK of the Beast-Type monster used as a Fusion Material.</text>
+</card>

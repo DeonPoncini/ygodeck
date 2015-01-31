@@ -1,14 +1,17 @@
-Dark General Freed
-Monster
-DARK
-Effect
-None
-Warrior
-5
-2300
-1700
-0
-0
-None
-None
-Cannot be Special Summoned. Negate any Spell effects that target a face-up DARK monster(s) you control and if you do, destroy that Spell Card. During your Draw Phase, instead of conducting your normal draw: You can add 1 Level 4 DARK monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark General Freed</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. Negate any Spell effects that target a face-up DARK monster(s) you control and if you do, destroy that Spell Card. During your Draw Phase, instead of conducting your normal draw: You can add 1 Level 4 DARK monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.</text>
+</card>

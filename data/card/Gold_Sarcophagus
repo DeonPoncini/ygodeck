@@ -1,14 +1,17 @@
-Gold Sarcophagus
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gold Sarcophagus</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to your hand.</text>
+</card>

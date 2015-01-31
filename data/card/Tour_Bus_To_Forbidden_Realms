@@ -1,14 +1,17 @@
-Tour Bus To Forbidden Realms
-Monster
-DARK
-Effect
-None
-Fiend
-3
-600
-1000
-0
-0
-None
-None
-FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Tour Bus To Forbidden Realms</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.</text>
+</card>

@@ -1,14 +1,17 @@
-Archfiend Zombie-Skull
-Monster
-DARK
-Synchro
-Effect
-Zombie
-6
-2500
-1200
-0
-0
-None
-None
-"Plaguespreader Zombie" + 2 or more non-Tuner Zombie-Type monstersFace-up Zombie-Type monsters you control cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend Zombie-Skull</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>2500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Plaguespreader Zombie&quot; + 2 or more non-Tuner Zombie-Type monstersFace-up Zombie-Type monsters you control cannot be destroyed by card effects.</text>
+</card>

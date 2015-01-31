@@ -1,14 +1,17 @@
-Flying Kamakiri 2
-Monster
-WIND
-Normal
-None
-Insect
-4
-1500
-800
-0
-0
-None
-None
-A flying mantis that feeds primarily on insects.
+<?xml version="1.0" ?>
+<card>
+    <name>Flying Kamakiri #2</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A flying mantis that feeds primarily on insects.</text>
+</card>

@@ -1,14 +1,17 @@
-Bolt Escargot
-Monster
-WATER
-Normal
-None
-Thunder
-5
-1400
-1500
-0
-0
-None
-None
-After rendering an opponent immobile by spitting a sticky goo, this monster closes in for the attack.
+<?xml version="1.0" ?>
+<card>
+    <name>Bolt Escargot</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>5</level>
+    <attack>1400</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>After rendering an opponent immobile by spitting a sticky goo, this monster closes in for the attack.</text>
+</card>

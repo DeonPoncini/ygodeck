@@ -1,14 +1,17 @@
-Gragonith, Lightsworn Dragon
-Monster
-LIGHT
-Effect
-None
-Dragon
-6
-2000
-1600
-0
-0
-None
-None
-This card gains 300 ATK and DEF for each "Lightsworn" monster with a different name in your Graveyard. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Gragonith, Lightsworn Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 300 ATK and DEF for each &quot;Lightsworn&quot; monster with a different name in your Graveyard. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.</text>
+</card>

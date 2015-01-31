@@ -1,14 +1,17 @@
-Beast of Talwar
-Monster
-DARK
-Normal
-None
-Fiend
-6
-2400
-2150
-0
-0
-None
-None
-Only the master of the sword among the Fiend-Type monsters is permitted to hold the Talwar.(This card is always treated as an "Archfiend" card.)
+<?xml version="1.0" ?>
+<card>
+    <name>Beast of Talwar</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2150</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Only the master of the sword among the Fiend-Type monsters is permitted to hold the Talwar.(This card is always treated as an &quot;Archfiend&quot; card.)</text>
+</card>

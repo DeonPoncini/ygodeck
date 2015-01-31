@@ -1,14 +1,17 @@
-Reptilianne Medusa
-Monster
-DARK
-Effect
-None
-Reptile
-6
-2200
-800
-0
-0
-None
-None
-Send 1 card from your hand to the Graveyard and select 1 face-up monster your opponent controls. The ATK of the selected monster becomes 0, and it cannot change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Reptilianne Medusa</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Send 1 card from your hand to the Graveyard and select 1 face-up monster your opponent controls. The ATK of the selected monster becomes 0, and it cannot change its battle position.</text>
+</card>

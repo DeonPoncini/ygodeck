@@ -1,14 +1,17 @@
-The Calibrator
-Monster
-LIGHT
-Effect
-None
-Thunder
-4
-1500
-1500
-0
-0
-None
-None
-This card gains ATK equal to the combined Ranks of all face-up Xyz Monsters your opponent controls x 300.
+<?xml version="1.0" ?>
+<card>
+    <name>The Calibrator</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains ATK equal to the combined Ranks of all face-up Xyz Monsters your opponent controls x 300.</text>
+</card>

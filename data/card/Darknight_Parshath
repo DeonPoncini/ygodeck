@@ -1,14 +1,17 @@
-Darknight Parshath
-Monster
-DARK
-Effect
-None
-Fairy
-5
-1900
-1400
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle: You can banish 1 DARK monster from your Graveyard; draw 1 card. This card gains 100 ATK for each DARK monster in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Darknight Parshath</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>1900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle: You can banish 1 DARK monster from your Graveyard; draw 1 card. This card gains 100 ATK for each DARK monster in your Graveyard.</text>
+</card>

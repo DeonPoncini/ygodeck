@@ -1,14 +1,17 @@
-Ninjitsu Art of Duplication
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Tribute 1 "Ninja" monster; Special Summon any number of "Ninja" monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Ninjitsu Art of Duplication</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Tribute 1 &quot;Ninja&quot; monster; Special Summon any number of &quot;Ninja&quot; monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.</text>
+</card>

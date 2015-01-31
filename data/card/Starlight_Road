@@ -1,14 +1,17 @@
-Starlight Road
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 "Stardust Dragon" from your Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Starlight Road</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 &quot;Stardust Dragon&quot; from your Extra Deck.</text>
+</card>

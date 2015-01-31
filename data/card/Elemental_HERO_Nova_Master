@@ -1,14 +1,17 @@
-Elemental HERO Nova Master
-Monster
-FIRE
-Fusion
-Effect
-Warrior
-8
-2600
-2100
-0
-0
-None
-None
-1 "Elemental HERO" monster + 1 FIRE monsterMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card destroys an opponent's monster by battle: Draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Nova Master</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2600</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Elemental HERO&quot; monster + 1 FIRE monsterMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card destroys an opponent's monster by battle: Draw 1 card.</text>
+</card>

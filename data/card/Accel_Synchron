@@ -1,14 +1,17 @@
-Accel Synchron
-Monster
-DARK
-Synchro
-None
-Machine
-5
-500
-2100
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersYou can only Synchro Summon "Accel Synchron" once per turn. During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect). Once per turn: You can send 1 "Synchron" monster from your Deck to the Graveyard, then activate 1 of these effects;● Increase this card's Level by the Level of the monster sent to the Graveyard by this effect.● Reduce this card's Level by the Level of the monster sent to the Graveyard by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Accel Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>500</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersYou can only Synchro Summon &quot;Accel Synchron&quot; once per turn. During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect). Once per turn: You can send 1 &quot;Synchron&quot; monster from your Deck to the Graveyard, then activate 1 of these effects;● Increase this card's Level by the Level of the monster sent to the Graveyard by this effect.● Reduce this card's Level by the Level of the monster sent to the Graveyard by this effect.</text>
+</card>

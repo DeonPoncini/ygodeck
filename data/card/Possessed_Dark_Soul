@@ -1,14 +1,17 @@
-Possessed Dark Soul
-Monster
-DARK
-Effect
-None
-Fiend
-3
-1200
-800
-0
-0
-None
-None
-You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Possessed Dark Soul</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.</text>
+</card>

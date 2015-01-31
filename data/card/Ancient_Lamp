@@ -1,14 +1,17 @@
-Ancient Lamp
-Monster
-WIND
-Effect
-None
-Spellcaster
-3
-900
-1400
-0
-0
-None
-None
-During your Main Phase: You can Special Summon "La Jinn the Mystical Genie of the Lamp" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Lamp</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>900</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can Special Summon &quot;La Jinn the Mystical Genie of the Lamp&quot; from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.</text>
+</card>

@@ -1,14 +1,17 @@
-Fabled Soulkius
-Monster
-LIGHT
-Effect
-None
-Fiend
-6
-2200
-2100
-0
-0
-None
-None
-If this card is in your Graveyard: You can send 2 cards, except "Fabled Soulkius", from your hand to the Graveyard; Special Summon this card from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Soulkius</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is in your Graveyard: You can send 2 cards, except &quot;Fabled Soulkius&quot;, from your hand to the Graveyard; Special Summon this card from the Graveyard.</text>
+</card>

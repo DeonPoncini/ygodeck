@@ -1,14 +1,17 @@
-Gadget Hauler
-Monster
-EARTH
-Effect
-None
-Machine
-6
-1300
-0
-0
-0
-None
-None
-Once per turn, you can send any number of "Morphtronic" monsters from your hand to the Graveyard to have this card gain 800 ATK for each.
+<?xml version="1.0" ?>
+<card>
+    <name>Gadget Hauler</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1300</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, you can send any number of &quot;Morphtronic&quot; monsters from your hand to the Graveyard to have this card gain 800 ATK for each.</text>
+</card>

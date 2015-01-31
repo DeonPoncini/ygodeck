@@ -1,14 +1,17 @@
-Ancient Gear Explosive
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 1 "Ancient Gear" monster you control; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Ancient Gear Explosive</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 1 &quot;Ancient Gear&quot; monster you control; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK.</text>
+</card>

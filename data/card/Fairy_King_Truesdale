@@ -1,14 +1,17 @@
-Fairy King Truesdale
-Monster
-WATER
-Effect
-None
-Plant
-6
-2200
-1500
-0
-0
-None
-None
-While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Fairy King Truesdale</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.</text>
+</card>

@@ -1,14 +1,17 @@
-Gladiator's Return
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target 3 "Gladiator Beast" cards in your Graveyard; shuffle all 3 targets into the Deck, then draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>Gladiator's Return</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target 3 &quot;Gladiator Beast&quot; cards in your Graveyard; shuffle all 3 targets into the Deck, then draw 1 card.</text>
+</card>

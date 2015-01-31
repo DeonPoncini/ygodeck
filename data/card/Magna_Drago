@@ -1,14 +1,17 @@
-Magna Drago
-Monster
-FIRE
-Tuner
-None
-Dragon
-2
-1400
-600
-0
-0
-None
-None
-Each time this card inflicts Battle Damage to your opponent, it gains 200 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Magna Drago</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>2</level>
+    <attack>1400</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Each time this card inflicts Battle Damage to your opponent, it gains 200 ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-Spirit of the Harp
-Monster
-LIGHT
-Normal
-None
-Fairy
-4
-800
-2000
-0
-0
-None
-None
-A spirit that soothes the soul with the music of its heavenly harp.
+<?xml version="1.0" ?>
+<card>
+    <name>Spirit of the Harp</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A spirit that soothes the soul with the music of its heavenly harp.</text>
+</card>

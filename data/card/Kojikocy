@@ -1,14 +1,17 @@
-Kojikocy
-Monster
-EARTH
-Normal
-None
-Warrior
-4
-1500
-1200
-0
-0
-None
-None
-A man-hunter with powerful arms that can crush boulders.
+<?xml version="1.0" ?>
+<card>
+    <name>Kojikocy</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A man-hunter with powerful arms that can crush boulders.</text>
+</card>

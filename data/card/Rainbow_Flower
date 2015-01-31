@@ -1,14 +1,17 @@
-Rainbow Flower
-Monster
-EARTH
-Effect
-None
-Plant
-2
-400
-500
-0
-0
-None
-None
-This monster may attack your opponent's Life Points directly.
+<?xml version="1.0" ?>
+<card>
+    <name>Rainbow Flower</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster may attack your opponent's Life Points directly.</text>
+</card>

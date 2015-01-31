@@ -1,14 +1,17 @@
-Tackle Crusader
-Monster
-EARTH
-Effect
-None
-Rock
-4
-1500
-1800
-0
-0
-None
-None
-If this card is sent to the Graveyard: You can activate 1 of these effects.● Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.● Target 1 face-up Spell/Trap Card your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Tackle Crusader</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is sent to the Graveyard: You can activate 1 of these effects.● Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.● Target 1 face-up Spell/Trap Card your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.</text>
+</card>

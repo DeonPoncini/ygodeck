@@ -1,14 +1,17 @@
-Cosmic Dragon Leyline
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-This card gains these effects, based on the number of different Attributes the "Yang Zing" monsters in your Graveyard have.● 2 or more: All "Yang Zing" monsters you control gain 500 ATK.● 3 or more: If a "Yang Zing" monster(s) you control would be destroyed by battle or card effect, you can send this card to the Graveyard instead.● 4 or more: Your opponent cannot Set monsters. Change all face-up monsters your opponent controls to Attack Position.● 5 or more: You can send this card to the Graveyard; destroy all cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Yang Zing Prana</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>This card gains these effects, based on the number of different Attributes the &quot;Yang Zing&quot; monsters in your Graveyard have.● 2 or more: All &quot;Yang Zing&quot; monsters you control gain 500 ATK.● 3 or more: If a &quot;Yang Zing&quot; monster(s) you control would be destroyed by battle or card effect, you can send this card to the Graveyard instead.● 4 or more: Your opponent cannot Set monsters. Change all face-up monsters your opponent controls to Attack Position.● 5 or more: You can send this card to the Graveyard; destroy all cards on the field.</text>
+</card>

@@ -1,14 +1,17 @@
-Steelswarm Scout
-Monster
-DARK
-Effect
-None
-Fiend
-1
-200
-0
-0
-0
-None
-None
-At the start of your Main Phase 1, if you control no Spell/Trap Cards: You can Special Summon this card from your Graveyard. You cannot Special Summon another monster(s) the turn you activate this effect. While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a "Steelswarm" monster, and cannot be used as a Synchro Material Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Steelswarm Scout</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>At the start of your Main Phase 1, if you control no Spell/Trap Cards: You can Special Summon this card from your Graveyard. You cannot Special Summon another monster(s) the turn you activate this effect. While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a &quot;Steelswarm&quot; monster, and cannot be used as a Synchro Material Monster.</text>
+</card>

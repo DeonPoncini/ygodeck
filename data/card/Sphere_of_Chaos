@@ -1,14 +1,17 @@
-Sphere of Chaos
-Monster
-DARK
-Effect
-None
-Machine
-5
-1600
-0
-0
-0
-None
-None
-While this card is face-up on the field its Attribute is also treated as LIGHT. Once per turn, this card cannot be destroyed by battle. When this card is Tribute Summoned, you can add 1 Level 3 monster from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Sphere of Chaos</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1600</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is face-up on the field its Attribute is also treated as LIGHT. Once per turn, this card cannot be destroyed by battle. When this card is Tribute Summoned, you can add 1 Level 3 monster from your Deck to your hand.</text>
+</card>

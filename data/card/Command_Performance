@@ -1,14 +1,17 @@
-Command Performance
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control a "Performapal" monster: Change all face-up Attack Position monsters your opponent controls to Defense Position. Monsters changed to Defense Position by this effect cannot change their battle positions until the end of the next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Command Performance</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control a &quot;Performapal&quot; monster: Change all face-up Attack Position monsters your opponent controls to Defense Position. Monsters changed to Defense Position by this effect cannot change their battle positions until the end of the next turn.</text>
+</card>

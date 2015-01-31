@@ -1,14 +1,17 @@
-Doomkaiser Dragon/Assault Mode
-Monster
-FIRE
-Effect
-None
-Zombie
-8
-2900
-2000
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Assault Mode Activate". When this card is Special Summoned, Special Summon any number of Zombie-Type monsters from either player's Graveyard(s) to your side of the field. Those monsters' effects are negated, and they are destroyed during the End Phase this turn. When this card on the field is destroyed, you can Special Summon 1 "Doomkaiser Dragon" from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Doomkaiser Dragon/Assault Mode</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with &quot;Assault Mode Activate&quot;. When this card is Special Summoned, Special Summon any number of Zombie-Type monsters from either player's Graveyard(s) to your side of the field. Those monsters' effects are negated, and they are destroyed during the End Phase this turn. When this card on the field is destroyed, you can Special Summon 1 &quot;Doomkaiser Dragon&quot; from your Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Contact Out
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Return 1 "Neos" Fusion Monster you control to the Extra Deck. If all the Fusion Material Monsters listed on that Fusion Monster are in your Deck, you can Special Summon them.
+<?xml version="1.0" ?>
+<card>
+    <name>Contact Out</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Return 1 &quot;Neos&quot; Fusion Monster you control to the Extra Deck. If all the Fusion Material Monsters listed on that Fusion Monster are in your Deck, you can Special Summon them.</text>
+</card>

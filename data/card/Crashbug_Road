@@ -1,14 +1,17 @@
-Crashbug Road
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Each player can Special Summon 1 monster from their hand with the same Level as 1 face-up Level 4 or lower monster they control.
+<?xml version="1.0" ?>
+<card>
+    <name>Crashbug Road</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Each player can Special Summon 1 monster from their hand with the same Level as 1 face-up Level 4 or lower monster they control.</text>
+</card>

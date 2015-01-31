@@ -1,14 +1,17 @@
-Prisman
-Monster
-LIGHT
-Normal
-None
-Rock
-3
-800
-1000
-0
-0
-None
-None
-This crystalline monster focuses light to create a lethal laser.
+<?xml version="1.0" ?>
+<card>
+    <name>Prisman</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This crystalline monster focuses light to create a lethal laser.</text>
+</card>

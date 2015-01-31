@@ -1,14 +1,17 @@
-Dark Ruler Ha Des
-Monster
-DARK
-Effect
-None
-Fiend
-6
-2450
-1600
-0
-0
-None
-None
-Cannot be Special Summoned from the Graveyard. Negate the effects of monsters destroyed by battle with Fiend-Type monsters you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Ruler Ha Des</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2450</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned from the Graveyard. Negate the effects of monsters destroyed by battle with Fiend-Type monsters you control.</text>
+</card>

@@ -1,14 +1,17 @@
-Gem-Enhancement
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Tribute 1 "Gem-Knight" monster, then target 1 "Gem-Knight" monster in your Graveyard; Special Summon that target from the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Enhancement</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Tribute 1 &quot;Gem-Knight&quot; monster, then target 1 &quot;Gem-Knight&quot; monster in your Graveyard; Special Summon that target from the Graveyard.</text>
+</card>

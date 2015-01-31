@@ -1,14 +1,17 @@
-Golden Dragon Summoner
-Monster
-LIGHT
-Effect
-None
-Spellcaster
-4
-1000
-1000
-0
-0
-None
-None
-You can Tribute 1 monster, then target 1 monster on the field; return it to the hand. You can only use this effect of "Golden Dragon Summoner" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Golden Dragon Summoner</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute 1 monster, then target 1 monster on the field; return it to the hand. You can only use this effect of &quot;Golden Dragon Summoner&quot; once per turn.</text>
+</card>

@@ -1,14 +1,17 @@
-Painful Return
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Painful Return</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.</text>
+</card>

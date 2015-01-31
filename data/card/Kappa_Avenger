@@ -1,14 +1,17 @@
-Kappa Avenger
-Monster
-WATER
-Normal
-None
-Aqua
-3
-1200
-900
-0
-0
-None
-None
-An amphibian that sold his soul for unlimited power to avenge his late friend.
+<?xml version="1.0" ?>
+<card>
+    <name>Kappa Avenger</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An amphibian that sold his soul for unlimited power to avenge his late friend.</text>
+</card>

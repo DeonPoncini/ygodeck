@@ -1,14 +1,17 @@
-Lemuria, the Forgotten City
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-This card's name is treated as "Umi". All WATER monsters gain 200 ATK and DEF. Once per turn, during your Main Phase: You can have all WATER monsters you currently control gain Levels equal to the number of WATER monsters you currently control, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Lemuria, the Forgotten City</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>This card's name is treated as &quot;Umi&quot;. All WATER monsters gain 200 ATK and DEF. Once per turn, during your Main Phase: You can have all WATER monsters you currently control gain Levels equal to the number of WATER monsters you currently control, until the End Phase.</text>
+</card>

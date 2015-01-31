@@ -1,14 +1,17 @@
-Neo Flamvell Garuda
-Monster
-FIRE
-Effect
-None
-Pyro
-3
-1200
-1800
-0
-0
-None
-None
-During your End Phase, if you control another face-up "Flamvell" monster, select 1 card in your opponent's Graveyard and remove it from play.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo Flamvell Garuda</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your End Phase, if you control another face-up &quot;Flamvell&quot; monster, select 1 card in your opponent's Graveyard and remove it from play.</text>
+</card>

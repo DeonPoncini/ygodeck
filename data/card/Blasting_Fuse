@@ -1,14 +1,17 @@
-Blasting Fuse
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when all (4) zones of this card's column are occupied. Destroy all cards in this column.
+<?xml version="1.0" ?>
+<card>
+    <name>Blasting Fuse</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when all (4) zones of this card's column are occupied. Destroy all cards in this column.</text>
+</card>

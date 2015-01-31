@@ -1,14 +1,17 @@
-Temple of the Kings
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-The controller of this card can activate Trap Cards the same turn they are Set. If you control "Mystical Beast of Serket" and this card, you can send both to the Graveyard to Special Summon 1 monster from your hand, Deck or Extra Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Temple of the Kings</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>The controller of this card can activate Trap Cards the same turn they are Set. If you control &quot;Mystical Beast of Serket&quot; and this card, you can send both to the Graveyard to Special Summon 1 monster from your hand, Deck or Extra Deck.</text>
+</card>

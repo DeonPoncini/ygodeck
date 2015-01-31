@@ -1,14 +1,17 @@
-Raidraptor - Revolution Falcon
-Monster
-DARK
-Xyz
-Effect
-Winged Beast
-6
-2000
-3000
-0
-0
-None
-None
-3 Level 6 Winged-Beast-Type monstersYou can detach 1 Xyz Material from this card; this turn, this card can attack all monsters your opponent controls, once each. At the start of the Damage Step, if this card battles a face-up Special Summoned monster: That monster's ATK and DEF become 0. If this card has a "Raidraptor" Xyz Monster as an Xyz Material, it gains this effect.● Once per turn: You can target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to half of its ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Raidraptor - Revolution Falcon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 6 Winged-Beast-Type monstersYou can detach 1 Xyz Material from this card; this turn, this card can attack all monsters your opponent controls, once each. At the start of the Damage Step, if this card battles a face-up Special Summoned monster: That monster's ATK and DEF become 0. If this card has a &quot;Raidraptor&quot; Xyz Monster as an Xyz Material, it gains this effect.● Once per turn: You can target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to half of its ATK.</text>
+</card>

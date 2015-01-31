@@ -1,14 +1,17 @@
-The Gates of Dark World
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All Fiend-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 1 Fiend-Type monster from your Graveyard; discard 1 Fiend-Type monster, then draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>The Gates of Dark World</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All Fiend-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 1 Fiend-Type monster from your Graveyard; discard 1 Fiend-Type monster, then draw 1 card.</text>
+</card>

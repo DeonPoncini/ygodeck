@@ -1,14 +1,17 @@
-Superheavy Samurai Trumpeter
-Monster
-EARTH
-Tuner
-Effect
-Machine
-2
-300
-600
-0
-0
-None
-None
-If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except "Superheavy Samurai" monsters. If this card is Tributed for the Tribute Summon of a "Superheavy Samurai" monster and sent to the Graveyard, and you have no Spell/Trap Cards in your Graveyard: You can Special Summon this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Superheavy Samurai Trumpeter</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except &quot;Superheavy Samurai&quot; monsters. If this card is Tributed for the Tribute Summon of a &quot;Superheavy Samurai&quot; monster and sent to the Graveyard, and you have no Spell/Trap Cards in your Graveyard: You can Special Summon this card.</text>
+</card>

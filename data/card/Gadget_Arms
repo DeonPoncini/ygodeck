@@ -1,14 +1,17 @@
-Gadget Arms
-Monster
-WATER
-Effect
-None
-Machine
-2
-200
-400
-0
-0
-None
-None
-FLIP: Select 1 "Morphtronic" Spell or Trap Card in your Graveyard and add it to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Gadget Arms</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Select 1 &quot;Morphtronic&quot; Spell or Trap Card in your Graveyard and add it to your hand.</text>
+</card>

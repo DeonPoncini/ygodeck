@@ -1,14 +1,17 @@
-Gishki Natalia
-Monster
-WATER
-Spirit
-None
-Spellcaster
-4
-1800
-900
-0
-0
-None
-None
-Cannot be Special Summoned. During the End Phase of the turn this card was Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 "Gishki" monster in your Graveyard; return that target to the top of the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Gishki Natalia</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Spirit</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. During the End Phase of the turn this card was Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 &quot;Gishki&quot; monster in your Graveyard; return that target to the top of the Deck.</text>
+</card>

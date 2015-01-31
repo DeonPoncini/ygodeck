@@ -1,14 +1,17 @@
-Mikazukinoyaiba
-Monster
-DARK
-Normal
-None
-Dragon
-7
-2200
-2350
-0
-0
-None
-None
-A dragon warrior of the moon armed with a crescent sword.
+<?xml version="1.0" ?>
+<card>
+    <name>Mikazukinoyaiba</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>7</level>
+    <attack>2200</attack>
+    <defense>2350</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dragon warrior of the moon armed with a crescent sword.</text>
+</card>

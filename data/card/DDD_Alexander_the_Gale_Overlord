@@ -1,14 +1,17 @@
-DDD Alexander the Gale Overlord
-Monster
-WIND
-Synchro
-Effect
-Fiend
-7
-2500
-2000
-0
-0
-None
-None
-1 "DD" Tuner + 1 or more non-Tuner monstersIf a "DD" monster(s) is Normal or Special Summoned to your side of the field, except this card (except during the Damage Step): You can target 1 Level 4 or lower "DD" monster in your Graveyard; Special Summon that target. You can only use this effect of "DDD Alexander the Gale Overlord" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>DDD Alexander the Gale Overlord</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;D/D&quot; Tuner + 1 or more non-Tuner monstersIf a &quot;D/D&quot; monster(s) is Normal or Special Summoned to your side of the field, except this card (except during the Damage Step): You can target 1 Level 4 or lower &quot;D/D&quot; monster in your Graveyard; Special Summon that target. You can only use this effect of &quot;DDD Alexander the Gale Overlord&quot; once per turn.</text>
+</card>

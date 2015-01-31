@@ -1,14 +1,17 @@
-Elemental HERO Terra Firma
-Monster
-EARTH
-Fusion
-Effect
-Warrior
-8
-2500
-2000
-0
-0
-None
-None
-"Elemental HERO Ocean" + "Elemental HERO Woodsman"Must be Fusion Summoned and cannot be Special Summoned by other ways. You can Tribute 1 face-up "Elemental HERO" monster; this card gains ATK equal to the Tributed monster's ATK, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Terra Firma</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Ocean&quot; + &quot;Elemental HERO Woodsman&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. You can Tribute 1 face-up &quot;Elemental HERO&quot; monster; this card gains ATK equal to the Tributed monster's ATK, until the End Phase.</text>
+</card>

@@ -1,14 +1,17 @@
-Flame Tiger
-Monster
-FIRE
-Effect
-None
-Beast
-4
-1800
-0
-0
-0
-None
-None
-During your Draw Phase, if this card is in your Graveyard and you control no monsters, instead of conducting your normal draw: You can Special Summon this card, and if you do, banish it when it leaves the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Flame Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your Draw Phase, if this card is in your Graveyard and you control no monsters, instead of conducting your normal draw: You can Special Summon this card, and if you do, banish it when it leaves the field.</text>
+</card>

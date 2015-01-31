@@ -1,14 +1,17 @@
-Blue Duston
-Monster
-WATER
-Effect
-None
-Fiend
-1
-0
-1000
-0
-0
-None
-None
-Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: Banish 1 random card from the controller's hand, face-down, until the next turn's Standby Phase. You can only control 1 face-up "Blue Duston".
+<?xml version="1.0" ?>
+<card>
+    <name>Blue Duston</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: Banish 1 random card from the controller's hand, face-down, until the next turn's Standby Phase. You can only control 1 face-up &quot;Blue Duston&quot;.</text>
+</card>

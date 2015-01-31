@@ -1,14 +1,17 @@
-Twin-Headed Thunder Dragon
-Monster
-LIGHT
-Fusion
-None
-Thunder
-7
-2800
-2100
-0
-0
-None
-None
-"Thunder Dragon" + "Thunder Dragon"
+<?xml version="1.0" ?>
+<card>
+    <name>Twin-Headed Thunder Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Thunder</type>
+    <level>7</level>
+    <attack>2800</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Thunder Dragon&quot; + &quot;Thunder Dragon&quot;</text>
+</card>

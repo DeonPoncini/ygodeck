@@ -1,14 +1,17 @@
-Tongyo
-Monster
-WATER
-Normal
-None
-Fish
-4
-1350
-800
-0
-0
-None
-None
-This monster captures other fish with its long tongue and sucks the energy out of them.
+<?xml version="1.0" ?>
+<card>
+    <name>Tongyo</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fish</type>
+    <level>4</level>
+    <attack>1350</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster captures other fish with its long tongue and sucks the energy out of them.</text>
+</card>

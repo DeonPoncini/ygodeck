@@ -1,14 +1,17 @@
-Blue Mountain Butterspy
-Monster
-DARK
-Effect
-None
-Warrior
-4
-0
-1700
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. When you Normal Summon a Warrior-Type monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Blue Mountain Butterspy</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>0</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. When you Normal Summon a Warrior-Type monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.</text>
+</card>

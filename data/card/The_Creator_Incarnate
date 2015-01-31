@@ -1,14 +1,17 @@
-The Creator Incarnate
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1600
-1500
-0
-0
-None
-None
-You can Tribute this card; Special Summon 1 "The Creator" from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>The Creator Incarnate</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card; Special Summon 1 &quot;The Creator&quot; from your hand.</text>
+</card>

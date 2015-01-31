@@ -1,14 +1,17 @@
-Laval Forest Sprite
-Monster
-FIRE
-Tuner
-None
-Pyro
-2
-300
-200
-0
-0
-None
-None
-When this card is sent from the field to the Graveyard: All face-up "Laval" monsters you currently control gain 200 ATK for each "Laval" monster in your Graveyard, until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Forest Sprite</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent from the field to the Graveyard: All face-up &quot;Laval&quot; monsters you currently control gain 200 ATK for each &quot;Laval&quot; monster in your Graveyard, until the End Phase.</text>
+</card>

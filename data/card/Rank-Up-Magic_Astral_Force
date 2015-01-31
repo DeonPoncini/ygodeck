@@ -1,14 +1,17 @@
-Rank-Up-Magic Astral Force
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Target the 1 Xyz Monster you control with the highest Rank (your choice, if tied); Special Summon from your Extra Deck, 1 monster with the same Type and Attribute as that monster you control but 2 Ranks higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) During your Draw Phase, if this card is in your Graveyard, instead of conducting your normal draw: You can add this card from your Graveyard to your hand. You cannot Special Summon during the turn you activate this effect, except by the effect of "Rank-Up-Magic Astral Force".
+<?xml version="1.0" ?>
+<card>
+    <name>Rank-Up-Magic Astral Force</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Target the 1 Xyz Monster you control with the highest Rank (your choice, if tied); Special Summon from your Extra Deck, 1 monster with the same Type and Attribute as that monster you control but 2 Ranks higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) During your Draw Phase, if this card is in your Graveyard, instead of conducting your normal draw: You can add this card from your Graveyard to your hand. You cannot Special Summon during the turn you activate this effect, except by the effect of &quot;Rank-Up-Magic Astral Force&quot;.</text>
+</card>

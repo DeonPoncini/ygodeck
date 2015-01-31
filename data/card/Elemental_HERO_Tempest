@@ -1,14 +1,17 @@
-Elemental HERO Tempest
-Monster
-WIND
-Fusion
-Effect
-Warrior
-8
-2800
-2800
-0
-0
-None
-None
-"Elemental HERO Avian" + "Elemental HERO Sparkman" + "Elemental HERO Bubbleman"Must be Fusion Summoned and cannot be Special Summoned by other ways. You can send 1 other card you control to the Graveyard to target 1 monster you control; while this card is face-up on the field, that monster cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Tempest</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Elemental HERO Avian&quot; + &quot;Elemental HERO Sparkman&quot; + &quot;Elemental HERO Bubbleman&quot;Must be Fusion Summoned and cannot be Special Summoned by other ways. You can send 1 other card you control to the Graveyard to target 1 monster you control; while this card is face-up on the field, that monster cannot be destroyed by battle.</text>
+</card>

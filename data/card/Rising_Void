@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<card>
+    <name>Rising Void</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>If you control a monster that is not an &quot;Infernoid&quot; monster, send this card to the Graveyard. You can only use each of these effects of &quot;Rising Void&quot; once per turn.● During each of your opponent's Standby Phases: You can target 1 &quot;Infernoid&quot; monster in your Graveyard; add it to your hand.● During each of your Standby Phases: You can target 1 of your banished &quot;Infernoid&quot; monsters; return it to the Graveyard.</text>
+</card>

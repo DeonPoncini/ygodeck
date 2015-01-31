@@ -1,14 +1,17 @@
-Apoqliphort Skybase
-Monster
-EARTH
-Effect
-None
-Machine
-9
-2900
-2500
-0
-0
-None
-None
-Cannot be Special Summoned. Requires 3 "Qli" Tributes to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card's current Level. Once per turn: You can target 1 monster your opponent controls; take control of it until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Apoqliphort Skybase</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>9</level>
+    <attack>2900</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. Requires 3 &quot;Qli&quot; Tributes to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card's current Level. Once per turn: You can target 1 monster your opponent controls; take control of it until the End Phase.</text>
+</card>

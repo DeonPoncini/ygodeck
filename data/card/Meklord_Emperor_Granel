@@ -1,14 +1,17 @@
-Meklord Emperor Granel
-Monster
-EARTH
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. This card gains ATK and DEF equal to half of your LP. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can target 1 of these equipped monsters; Special Summon that target to your side of the field in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Meklord Emperor Granel</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. This card gains ATK and DEF equal to half of your LP. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can target 1 of these equipped monsters; Special Summon that target to your side of the field in Defense Position.</text>
+</card>

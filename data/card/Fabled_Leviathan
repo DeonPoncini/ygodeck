@@ -1,14 +1,17 @@
-Fabled Leviathan
-Monster
-LIGHT
-Synchro
-Effect
-Fiend
-10
-3000
-2000
-0
-0
-None
-None
-1 "Fabled" Tuner + 1 or more non-Tuner monstersWhen this card on the field is destroyed and sent to the Graveyard, you can select up to 3 "Fabled" monsters in your Graveyard. Add them to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Leviathan</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 &quot;Fabled&quot; Tuner + 1 or more non-Tuner monstersWhen this card on the field is destroyed and sent to the Graveyard, you can select up to 3 &quot;Fabled&quot; monsters in your Graveyard. Add them to your hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Fairy Knight Ingunar
-Monster
-EARTH
-Xyz
-Effect
-Plant
-6
-2200
-3000
-0
-0
-None
-None
-3 Level 6 monstersOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect’s activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Fairy Knight Ingunar</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Plant</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>3 Level 6 monstersOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect’s activation.</text>
+</card>

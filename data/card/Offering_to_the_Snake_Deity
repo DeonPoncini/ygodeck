@@ -1,14 +1,17 @@
-Offering to the Snake Deity
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Target 1 face-up Reptile-Type monster you control and 2 cards your opponent controls; destroy all three targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Offering to the Snake Deity</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Target 1 face-up Reptile-Type monster you control and 2 cards your opponent controls; destroy all three targets.</text>
+</card>

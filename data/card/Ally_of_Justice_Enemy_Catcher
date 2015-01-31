@@ -1,14 +1,17 @@
-Ally of Justice Enemy Catcher
-Monster
-DARK
-Effect
-None
-Machine
-6
-1800
-1800
-0
-0
-None
-None
-When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Ally of Justice Enemy Catcher</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>1800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.</text>
+</card>

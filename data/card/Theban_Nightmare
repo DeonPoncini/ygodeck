@@ -1,14 +1,17 @@
-Theban Nightmare
-Monster
-LIGHT
-Effect
-None
-Fiend
-4
-1500
-500
-0
-0
-None
-None
-While you have no cards in your hand nor in your Spell & Trap Card Zones, this card gains 1500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Theban Nightmare</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you have no cards in your hand nor in your Spell &amp; Trap Card Zones, this card gains 1500 ATK.</text>
+</card>

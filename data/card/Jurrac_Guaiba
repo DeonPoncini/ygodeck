@@ -1,14 +1,17 @@
-Jurrac Guaiba
-Monster
-FIRE
-Effect
-None
-Dinosaur
-4
-1700
-400
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle: You can Special Summon 1 "Jurrac" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Guaiba</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle: You can Special Summon 1 &quot;Jurrac&quot; monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.</text>
+</card>

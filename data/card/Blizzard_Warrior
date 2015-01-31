@@ -1,14 +1,17 @@
-Blizzard Warrior
-Monster
-WATER
-Effect
-None
-Warrior
-3
-1400
-400
-0
-0
-None
-None
-If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return it to either the top or bottom of their Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Blizzard Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return it to either the top or bottom of their Deck.</text>
+</card>

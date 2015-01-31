@@ -1,14 +1,17 @@
-Urgent Synthesis
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Return 1 "Iron Core of Koa'ki Meiru" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower "Koa'ki Meiru" monster from your hand or your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Urgent Synthesis</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Return 1 &quot;Iron Core of Koa'ki Meiru&quot; from your Graveyard to the Deck. Special Summon 1 Level 4 or lower &quot;Koa'ki Meiru&quot; monster from your hand or your Graveyard.</text>
+</card>

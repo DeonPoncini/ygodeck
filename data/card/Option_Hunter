@@ -1,14 +1,17 @@
-Option Hunter
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Gain Life Points equal to the original ATK of the destroyed monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Option Hunter</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Gain Life Points equal to the original ATK of the destroyed monster.</text>
+</card>

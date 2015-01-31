@@ -1,14 +1,17 @@
-Order to Smash
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Select 1 face-up Level 2 or lower Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, you can Tribute the selected Normal Monster and destroy 1 or 2 Spell or Trap Cards on your opponent's side of the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Order to Smash</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Select 1 face-up Level 2 or lower Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, you can Tribute the selected Normal Monster and destroy 1 or 2 Spell or Trap Cards on your opponent's side of the field.</text>
+</card>

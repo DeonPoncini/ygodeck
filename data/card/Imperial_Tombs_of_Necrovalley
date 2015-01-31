@@ -1,14 +1,17 @@
-Imperial Tombs of Necrovalley
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When a Spell Card, Trap Card, or monster effect is activated, while both a "Gravekeeper's" monster and "Necrovalley" are on the field: Negate the activation, and if you do, destroy it. You can only activate 1 "Imperial Tombs of Necrovalley" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Imperial Tombs of Necrovalley</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When a Spell Card, Trap Card, or monster effect is activated, while both a &quot;Gravekeeper's&quot; monster and &quot;Necrovalley&quot; are on the field: Negate the activation, and if you do, destroy it. You can only activate 1 &quot;Imperial Tombs of Necrovalley&quot; per turn.</text>
+</card>

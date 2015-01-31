@@ -1,14 +1,17 @@
-Skull Dog Marron
-Monster
-EARTH
-Normal
-None
-Beast
-4
-1350
-2000
-0
-0
-None
-None
-A lost dog that wandered off 1000 years ago. He's still waiting for his master to come for him.
+<?xml version="1.0" ?>
+<card>
+    <name>Skull Dog Marron</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1350</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A lost dog that wandered off 1000 years ago. He's still waiting for his master to come for him.</text>
+</card>

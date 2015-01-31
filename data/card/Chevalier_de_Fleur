@@ -1,14 +1,17 @@
-Chevalier de Fleur
-Monster
-WIND
-Synchro
-Effect
-Warrior
-8
-2700
-2300
-0
-0
-None
-None
-"Fleur Synchron" + 1 or more non-Tuner monstersOnce during each of your turns, when your opponent activates a Spell/Trap Card, you can negate the activation and destroy that card.
+<?xml version="1.0" ?>
+<card>
+    <name>Chevalier de Fleur</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2700</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Fleur Synchron&quot; + 1 or more non-Tuner monstersOnce during each of your turns, when your opponent activates a Spell/Trap Card, you can negate the activation and destroy that card.</text>
+</card>

@@ -1,14 +1,17 @@
-Mist Valley Soldier
-Monster
-WIND
-Tuner
-None
-Winged Beast
-4
-1700
-300
-0
-0
-None
-None
-While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by battle, returns to its owner's hand at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Soldier</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by battle, returns to its owner's hand at the end of the Damage Step.</text>
+</card>

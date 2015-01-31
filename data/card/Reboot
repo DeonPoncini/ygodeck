@@ -1,14 +1,17 @@
-Reboot
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Shuffle 1 "Meklord" monster from your hand into the Deck, then target 1 "Meklord" card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Reboot</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Shuffle 1 &quot;Meklord&quot; monster from your hand into the Deck, then target 1 &quot;Meklord&quot; card in your Graveyard; add that target to your hand.</text>
+</card>

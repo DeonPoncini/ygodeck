@@ -1,14 +1,17 @@
-Queen of Thorns
-Monster
-LIGHT
-Synchro
-Effect
-Plant
-6
-2200
-1800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner Plant-Type monstersEach player must pay 1000 LP for each monster Normal or Special Summoned from their hand, except for Plant-Type monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Queen of Thorns</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Plant</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner Plant-Type monstersEach player must pay 1000 LP for each monster Normal or Special Summoned from their hand, except for Plant-Type monsters.</text>
+</card>

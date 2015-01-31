@@ -1,14 +1,17 @@
-Depth Amulet
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When your opponent's monster declares an attack, you can discard 1 card to negate the attack. Destroy this card during your opponent's 3rd End Phase after activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Depth Amulet</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When your opponent's monster declares an attack, you can discard 1 card to negate the attack. Destroy this card during your opponent's 3rd End Phase after activation.</text>
+</card>

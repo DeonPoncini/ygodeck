@@ -1,14 +1,17 @@
-Yosenju Kamaitachi
-Monster
-WIND
-Effect
-None
-Beast-Warrior
-4
-1600
-500
-0
-0
-None
-None
-If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 "Yosenju" monster from your hand, except "Yosenju Kamaitachi". If you control another "Yosenju" monster: You can target 1 face-up card your opponent controls; return it to the hand. This effect can only be used once while this card is face-up on the field. During the End Phase, if this card was Normal Summoned this turn: Return it to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Yosenju Kamaitachi</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 &quot;Yosenju&quot; monster from your hand, except &quot;Yosenju Kamaitachi&quot;. If you control another &quot;Yosenju&quot; monster: You can target 1 face-up card your opponent controls; return it to the hand. This effect can only be used once while this card is face-up on the field. During the End Phase, if this card was Normal Summoned this turn: Return it to the hand.</text>
+</card>

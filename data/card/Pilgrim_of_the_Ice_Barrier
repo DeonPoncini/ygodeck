@@ -1,14 +1,17 @@
-Pilgrim of the Ice Barrier
-Monster
-WATER
-Effect
-None
-Warrior
-4
-1500
-1000
-0
-0
-None
-None
-This card cannot be destroyed by battle with a monster with 1900 or more ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Pilgrim of the Ice Barrier</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be destroyed by battle with a monster with 1900 or more ATK.</text>
+</card>

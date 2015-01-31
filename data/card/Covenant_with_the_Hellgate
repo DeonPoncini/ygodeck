@@ -1,14 +1,17 @@
-Covenant with the Hellgate
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During your Main Phase: You can add 1 "DD" monster from your Deck to your hand. You can only use this effect of "Covenant with the Infernal Gate" once per turn. During each of your Standby Phases: You take 1000 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Covenant with the Hellgate</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase: You can add 1 &quot;D/D&quot; monster from your Deck to your hand. You can only use this effect of &quot;Covenant with the Infernal Gate&quot; once per turn. During each of your Standby Phases: You take 1000 damage.</text>
+</card>

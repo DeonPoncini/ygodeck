@@ -1,14 +1,17 @@
-Vylon Omega
-Monster
-LIGHT
-Synchro
-Effect
-Fairy
-10
-3200
-1900
-0
-0
-None
-None
-2 Tuners + 1 non-Tuner "Vylon" monsterWhen this card is Synchro Summoned: Destroy all face-up monsters that were Normal Summoned/Set. Once per turn: You can target 1 "Vylon" monster in your Graveyard; equip that target to this card. During either player's turn, when a monster effect activates: You can send 1 Equip Card equipped to this card to the Graveyard; negate the activation, and if you do, destroy that monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Omega</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>10</level>
+    <attack>3200</attack>
+    <defense>1900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Tuners + 1 non-Tuner &quot;Vylon&quot; monsterWhen this card is Synchro Summoned: Destroy all face-up monsters that were Normal Summoned/Set. Once per turn: You can target 1 &quot;Vylon&quot; monster in your Graveyard; equip that target to this card. During either player's turn, when a monster effect activates: You can send 1 Equip Card equipped to this card to the Graveyard; negate the activation, and if you do, destroy that monster.</text>
+</card>

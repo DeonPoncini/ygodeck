@@ -1,14 +1,17 @@
-Level Modulation
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Your opponent draws 2 cards. Special Summon 1 "LV" monster from your Graveyard, ignoring the Summoning conditions. The monster that was Special Summoned by this effect cannot attack, nor activate or apply its effect this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Level Modulation</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent draws 2 cards. Special Summon 1 &quot;LV&quot; monster from your Graveyard, ignoring the Summoning conditions. The monster that was Special Summoned by this effect cannot attack, nor activate or apply its effect this turn.</text>
+</card>

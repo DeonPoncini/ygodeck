@@ -1,14 +1,17 @@
-Red-Eyes Black Metal Dragon
-Monster
-DARK
-Effect
-None
-Machine
-8
-2800
-2400
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing "Red-Eyes B. Dragon" equipped with "Metalmorph".
+<?xml version="1.0" ?>
+<card>
+    <name>Red-Eyes Black Metal Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing &quot;Red-Eyes B. Dragon&quot; equipped with &quot;Metalmorph&quot;.</text>
+</card>

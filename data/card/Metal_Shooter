@@ -1,14 +1,17 @@
-Metal Shooter
-Monster
-LIGHT
-Effect
-None
-Machine
-5
-800
-800
-0
-0
-None
-None
-When this card is Normal Summoned, place 2 counters on it. This card gains 800 ATK for each of these counters on it. If this card would be destroyed by a card effect, remove 1 of this card's counters instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Metal Shooter</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>800</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, place 2 counters on it. This card gains 800 ATK for each of these counters on it. If this card would be destroyed by a card effect, remove 1 of this card's counters instead.</text>
+</card>

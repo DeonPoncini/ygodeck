@@ -1,14 +1,17 @@
-Number 11: Big Eye
-Monster
-DARK
-Xyz
-Effect
-Spellcaster
-7
-2600
-2000
-0
-0
-None
-None
-2 Level 7 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; take control of that monster. This card cannot attack the turn you activate this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 11: Big Eye</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>7</level>
+    <attack>2600</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 7 monstersOnce per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; take control of that monster. This card cannot attack the turn you activate this effect.</text>
+</card>

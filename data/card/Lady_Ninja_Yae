@@ -1,14 +1,17 @@
-Lady Ninja Yae
-Monster
-WIND
-Effect
-None
-Warrior
-3
-1100
-200
-0
-0
-None
-None
-By discarding 1 WIND monster from your hand to the Graveyard, return all Spell and Trap Cards on your opponent's side of the field to the owner's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Lady Ninja Yae</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>By discarding 1 WIND monster from your hand to the Graveyard, return all Spell and Trap Cards on your opponent's side of the field to the owner's hand.</text>
+</card>

@@ -1,14 +1,17 @@
-Spellbook of the Master
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control a Spellcaster-Type monster: You can reveal 1 other "Spellbook" card in your hand, then target 1 "Spellbook" Normal Spell Card in your Graveyard, except "Spellbook of the Master"; this card's effect becomes that target's effect. You can only activate 1 "Spellbook of the Master" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Spellbook of the Master</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control a Spellcaster-Type monster: You can reveal 1 other &quot;Spellbook&quot; card in your hand, then target 1 &quot;Spellbook&quot; Normal Spell Card in your Graveyard, except &quot;Spellbook of the Master&quot;; this card's effect becomes that target's effect. You can only activate 1 &quot;Spellbook of the Master&quot; per turn.</text>
+</card>

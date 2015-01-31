@@ -1,14 +1,17 @@
-Turbo Rocket
-Monster
-WIND
-Tuner
-None
-Machine
-2
-0
-0
-0
-0
-None
-None
-While attacking, this card cannot be destroyed by battle. If this card attacks, after damage calculation, inflict effect damage equal to half the ATK of the attack target to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Turbo Rocket</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While attacking, this card cannot be destroyed by battle. If this card attacks, after damage calculation, inflict effect damage equal to half the ATK of the attack target to your opponent.</text>
+</card>

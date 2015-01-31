@@ -1,14 +1,17 @@
-Waterdragon Fairy
-Monster
-WATER
-Normal
-None
-Aqua
-3
-1100
-700
-0
-0
-None
-None
-A water fairy that is said to be able to summon a giant sea serpent.
+<?xml version="1.0" ?>
+<card>
+    <name>Waterdragon Fairy</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A water fairy that is said to be able to summon a giant sea serpent.</text>
+</card>

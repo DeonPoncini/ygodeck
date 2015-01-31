@@ -1,14 +1,17 @@
-Evoltile Gephyro
-Monster
-FIRE
-Effect
-None
-Reptile
-1
-200
-400
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can target 1 "Evolsaur" monster in your Graveyard; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Evoltile Gephyro</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can target 1 &quot;Evolsaur&quot; monster in your Graveyard; Special Summon that target.</text>
+</card>

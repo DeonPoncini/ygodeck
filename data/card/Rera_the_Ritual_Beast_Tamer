@@ -1,14 +1,17 @@
-Rera the Ritual Beast Tamer
-Monster
-WIND
-Effect
-None
-Psychic
-1
-100
-2000
-0
-0
-None
-None
-If this card is Normal Summoned: You can target 1 "Ritual Beast" monster in your Graveyard; Special Summon it. You can only Special Summon "Rera the Ritual Beast Tamer" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Rera the Ritual Beast Tamer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal Summoned: You can target 1 &quot;Ritual Beast&quot; monster in your Graveyard; Special Summon it. You can only Special Summon &quot;Rera the Ritual Beast Tamer&quot; once per turn.</text>
+</card>

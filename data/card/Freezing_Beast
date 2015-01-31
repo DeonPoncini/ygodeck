@@ -1,14 +1,17 @@
-Freezing Beast
-Monster
-WATER
-Union
-None
-Aqua
-4
-1500
-1000
-0
-0
-None
-None
-Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Burning Beast" as an Equip Spell Card OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster inflicts Battle Damage to your opponent, destroy 1 face-down Spell or Trap Card on the field. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
+<?xml version="1.0" ?>
+<card>
+    <name>Freezing Beast</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Union</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your &quot;Burning Beast&quot; as an Equip Spell Card OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster inflicts Battle Damage to your opponent, destroy 1 face-down Spell or Trap Card on the field. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)</text>
+</card>

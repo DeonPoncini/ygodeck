@@ -1,14 +1,17 @@
-Black Potan
-Monster
-DARK
-Effect
-None
-Fiend
-1
-200
-100
-0
-0
-None
-None
-If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster(s) you control is removed from the field, gain 800 Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Black Potan</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>200</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster(s) you control is removed from the field, gain 800 Life Points.</text>
+</card>

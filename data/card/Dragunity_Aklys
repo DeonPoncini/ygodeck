@@ -1,14 +1,17 @@
-Dragunity Aklys
-Monster
-WIND
-Tuner
-None
-Dragon
-2
-1000
-800
-0
-0
-None
-None
-When this card is Normal Summoned, you can Special Summon 1 "Dragunity" monster from your hand, then equip it with this card. When this card is sent to the Graveyard while equipped to a monster, select 1 card on the field, and destroy it.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragunity Aklys</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal Summoned, you can Special Summon 1 &quot;Dragunity&quot; monster from your hand, then equip it with this card. When this card is sent to the Graveyard while equipped to a monster, select 1 card on the field, and destroy it.</text>
+</card>

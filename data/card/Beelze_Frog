@@ -1,14 +1,17 @@
-Beelze Frog
-Monster
-WATER
-Effect
-None
-Aqua
-3
-1200
-800
-0
-0
-None
-None
-This card gains 300 ATK for each "T.A.D.P.O.L.E." in your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Beelze Frog</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 300 ATK for each &quot;T.A.D.P.O.L.E.&quot; in your Graveyard.</text>
+</card>

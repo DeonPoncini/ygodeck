@@ -1,14 +1,17 @@
-Gearspring Spirit
-Monster
-DARK
-Effect
-None
-Machine
-8
-100
-100
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having only Machine-Type monsters in your Graveyard (min. 1). Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Gearspring Spirit</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having only Machine-Type monsters in your Graveyard (min. 1). Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.</text>
+</card>

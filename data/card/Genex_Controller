@@ -1,14 +1,17 @@
-Genex Controller
-Monster
-DARK
-Tuner
-None
-Machine
-3
-1400
-1200
-0
-0
-None
-None
-As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.
+<?xml version="1.0" ?>
+<card>
+    <name>Genex Controller</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.</text>
+</card>

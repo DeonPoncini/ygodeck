@@ -1,14 +1,17 @@
-Ghostrick Dullahan
-Monster
-DARK
-Xyz
-Effect
-Fiend
-1
-1000
-0
-0
-0
-None
-None
-2 Level 1 monstersThis card gains 200 ATK for each "Ghostrick" card you control. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; halve its ATK, until the end of this turn. If this card is sent to the Graveyard: You can target 1 other "Ghostrick" card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Ghostrick Dullahan</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>1</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 1 monstersThis card gains 200 ATK for each &quot;Ghostrick&quot; card you control. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; halve its ATK, until the end of this turn. If this card is sent to the Graveyard: You can target 1 other &quot;Ghostrick&quot; card in your Graveyard; add that target to your hand.</text>
+</card>

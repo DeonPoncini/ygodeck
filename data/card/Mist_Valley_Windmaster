@@ -1,14 +1,17 @@
-Mist Valley Windmaster
-Monster
-WIND
-Tuner
-None
-Winged Beast
-2
-400
-800
-0
-0
-None
-None
-Once per turn, if both players have 5 or more cards in their hand, you can activate this effect to make both players send cards from their hands to the Graveyards until they have 4 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Mist Valley Windmaster</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>400</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, if both players have 5 or more cards in their hand, you can activate this effect to make both players send cards from their hands to the Graveyards until they have 4 cards.</text>
+</card>

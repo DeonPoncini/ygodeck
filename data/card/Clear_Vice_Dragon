@@ -1,14 +1,17 @@
-Clear Vice Dragon
-Monster
-DARK
-Effect
-None
-Dragon
-8
-?
-0
-0
-0
-None
-None
-You are unaffected by the effects of "Clear World". If this card attacks an opponent's monster, the ATK of this card becomes twice the ATK of the attack target, during damage calculation only. If this card would be destroyed by an opponent's card effect, you can discard 1 card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Clear Vice Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>8</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You are unaffected by the effects of &quot;Clear World&quot;. If this card attacks an opponent's monster, the ATK of this card becomes twice the ATK of the attack target, during damage calculation only. If this card would be destroyed by an opponent's card effect, you can discard 1 card instead.</text>
+</card>

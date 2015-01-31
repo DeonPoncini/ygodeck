@@ -1,14 +1,17 @@
-Kamui, Hope of Gusto
-Monster
-WIND
-Effect
-None
-Psychic
-2
-200
-1000
-0
-0
-None
-None
-FLIP: Special Summon 1 "Gusto" Tuner monster from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Kamui, Hope of Gusto</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Psychic</type>
+    <level>2</level>
+    <attack>200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Special Summon 1 &quot;Gusto&quot; Tuner monster from your Deck.</text>
+</card>

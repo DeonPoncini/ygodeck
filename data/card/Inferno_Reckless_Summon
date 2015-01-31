@@ -1,14 +1,17 @@
-Inferno Reckless Summon
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-When exactly 1 monster with 1500 or less ATK is Special Summoned to your side of the field while your opponent controls a face-up monster: Your opponent chooses 1 face-up monster they control, you Special Summon all cards with the same name as the Summoned monster from your hand, Deck, and Graveyard in face-up Attack Position, also your opponent Special Summons all cards with the same name as the chosen monster from their hand, Deck, and Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Inferno Reckless Summon</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>When exactly 1 monster with 1500 or less ATK is Special Summoned to your side of the field while your opponent controls a face-up monster: Your opponent chooses 1 face-up monster they control, you Special Summon all cards with the same name as the Summoned monster from your hand, Deck, and Graveyard in face-up Attack Position, also your opponent Special Summons all cards with the same name as the chosen monster from their hand, Deck, and Graveyard.</text>
+</card>

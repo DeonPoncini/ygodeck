@@ -1,14 +1,17 @@
-Punished Eagle
-Monster
-WIND
-Fusion
-None
-Winged Beast
-6
-2100
-1800
-0
-0
-None
-None
-"Blue-Winged Crown" + "Niwatori"
+<?xml version="1.0" ?>
+<card>
+    <name>Punished Eagle</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>6</level>
+    <attack>2100</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Blue-Winged Crown&quot; + &quot;Niwatori&quot;</text>
+</card>

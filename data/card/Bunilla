@@ -1,14 +1,17 @@
-Bunilla
-Monster
-EARTH
-Normal
-None
-Beast
-1
-150
-2050
-0
-0
-None
-None
-This rabbit's got a sweet tooth! He's on a quest for the world's sweetest carrot, and just wants to nibble carrots all day today, tomorrow, and the day after that!
+<?xml version="1.0" ?>
+<card>
+    <name>Bunilla</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>1</level>
+    <attack>150</attack>
+    <defense>2050</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This rabbit's got a sweet tooth! He's on a quest for the world's sweetest carrot, and just wants to nibble carrots all day today, tomorrow, and the day after that!</text>
+</card>

@@ -1,14 +1,17 @@
-XX-Saber Hyunlei
-Monster
-EARTH
-Synchro
-Effect
-Warrior
-6
-2300
-1300
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner "X-Saber" monstersWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>XX-Saber Hyunlei</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner &quot;X-Saber&quot; monstersWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.</text>
+</card>

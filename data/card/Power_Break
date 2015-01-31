@@ -1,14 +1,17 @@
-Power Break
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only while you control a face-up "Power Tool Dragon". Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.
+<?xml version="1.0" ?>
+<card>
+    <name>Power Break</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only while you control a face-up &quot;Power Tool Dragon&quot;. Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.</text>
+</card>

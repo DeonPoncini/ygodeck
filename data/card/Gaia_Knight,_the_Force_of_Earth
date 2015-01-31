@@ -1,14 +1,17 @@
-Gaia Knight, the Force of Earth
-Monster
-EARTH
-Synchro
-None
-Warrior
-6
-2600
-800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monsters
+<?xml version="1.0" ?>
+<card>
+    <name>Gaia Knight, the Force of Earth</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monsters</text>
+</card>

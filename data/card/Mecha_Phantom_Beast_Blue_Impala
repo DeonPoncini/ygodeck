@@ -1,14 +1,17 @@
-Mecha Phantom Beast Blue Impala
-Monster
-WIND
-Tuner
-Effect
-Machine
-3
-1400
-1100
-0
-0
-None
-None
-Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Machine-Type monster. The other Synchro Material Monster(s) are "Mecha Phantom Beast" monsters in your hand or on your side of the field. While you control a Token, this card cannot be destroyed by battle or card effects. If your opponent controls a monster and you control no monsters: You can banish this card from your Graveyard; Special Summon 1 "Mecha Phantom Beast Token" (Machine-Type/WIND/Level 3/ATK 0/DEF 0).
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Blue Impala</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Machine-Type monster. The other Synchro Material Monster(s) are &quot;Mecha Phantom Beast&quot; monsters in your hand or on your side of the field. While you control a Token, this card cannot be destroyed by battle or card effects. If your opponent controls a monster and you control no monsters: You can banish this card from your Graveyard; Special Summon 1 &quot;Mecha Phantom Beast Token&quot; (Machine-Type/WIND/Level 3/ATK 0/DEF 0).</text>
+</card>

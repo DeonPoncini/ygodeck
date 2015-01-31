@@ -1,14 +1,17 @@
-Telekinetic Power Well
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Special Summon any number of Level 2 or lower Psychic-Type monsters from your Graveyard. You take damage equal to the total Levels of those monsters x 300.
+<?xml version="1.0" ?>
+<card>
+    <name>Telekinetic Power Well</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Special Summon any number of Level 2 or lower Psychic-Type monsters from your Graveyard. You take damage equal to the total Levels of those monsters x 300.</text>
+</card>

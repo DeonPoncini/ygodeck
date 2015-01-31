@@ -1,14 +1,17 @@
-Vylon Stigma
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1600
-1000
-0
-0
-None
-None
-Once per turn, during either player's turn: You can target 1 face-up "Vylon" Equip Card you control and 1 appropriate face-up monster; equip the first target to the second target.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Stigma</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, during either player's turn: You can target 1 face-up &quot;Vylon&quot; Equip Card you control and 1 appropriate face-up monster; equip the first target to the second target.</text>
+</card>

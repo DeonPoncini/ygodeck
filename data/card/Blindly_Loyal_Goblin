@@ -1,14 +1,17 @@
-Blindly Loyal Goblin
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1800
-1500
-0
-0
-None
-None
-As long as this card remains face-up on the field, control of this card cannot switch.
+<?xml version="1.0" ?>
+<card>
+    <name>Blindly Loyal Goblin</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>As long as this card remains face-up on the field, control of this card cannot switch.</text>
+</card>

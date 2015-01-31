@@ -1,14 +1,17 @@
-Chaos Seed
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If you control both LIGHT and DARK monster(s): You can target 1 of your banished LIGHT or DARK Warrior-Type monsters; add it to your hand. You can only activate 1 "Chaos Seed" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Chaos Seed</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If you control both LIGHT and DARK monster(s): You can target 1 of your banished LIGHT or DARK Warrior-Type monsters; add it to your hand. You can only activate 1 &quot;Chaos Seed&quot; per turn.</text>
+</card>

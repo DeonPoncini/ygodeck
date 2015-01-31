@@ -1,14 +1,17 @@
-Laval Dual Slasher
-Monster
-FIRE
-Synchro
-Effect
-Warrior
-5
-2400
-200
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner FIRE monstersThis card gains effects based on the number of "Laval" monsters in your Graveyard:● 2+: Once per turn, if this card attacks a Defense Position monster, it can attack once again in a row.● 3+: If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Laval Dual Slasher</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner FIRE monstersThis card gains effects based on the number of &quot;Laval&quot; monsters in your Graveyard:● 2+: Once per turn, if this card attacks a Defense Position monster, it can attack once again in a row.● 3+: If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.</text>
+</card>

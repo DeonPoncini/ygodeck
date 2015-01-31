@@ -1,14 +1,17 @@
-Majestic Dragon
-Monster
-LIGHT
-Tuner
-Effect
-Dragon
-1
-0
-0
-0
-0
-None
-None
-Cannot be used as a Synchro Material, except for the Synchro Summon of a "Majestic" monster.
+<?xml version="1.0" ?>
+<card>
+    <name>Majestic Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be used as a Synchro Material, except for the Synchro Summon of a &quot;Majestic&quot; monster.</text>
+</card>

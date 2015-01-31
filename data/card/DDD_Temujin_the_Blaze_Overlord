@@ -1,14 +1,17 @@
-DDD Temujin the Blaze Overlord
-Monster
-FIRE
-Fusion
-Effect
-Fiend
-6
-2000
-1500
-0
-0
-None
-None
-2 "DD" monstersIf a "DD" monster(s) is Special Summoned to your side of the field, except this card (except during the Damage Step): You can target 1 "DD" monster in your Graveyard; Special Summon that target. You can only use this effect of "DDD Temujin the Blaze Overlord" once per turn. If this card is destroyed by battle, or if this card in your possession is destroyed by an opponent's card effect: You can target 1 "Covenant" card in your Graveyard; add that target to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>DDD Temujin the Blaze Overlord</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 &quot;D/D&quot; monstersIf a &quot;D/D&quot; monster(s) is Special Summoned to your side of the field, except this card (except during the Damage Step): You can target 1 &quot;D/D&quot; monster in your Graveyard; Special Summon that target. You can only use this effect of &quot;DDD Temujin the Blaze Overlord&quot; once per turn. If this card is destroyed by battle, or if this card in your possession is destroyed by an opponent's card effect: You can target 1 &quot;Covenant&quot; card in your Graveyard; add that target to your hand.</text>
+</card>

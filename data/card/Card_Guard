@@ -1,14 +1,17 @@
-Card Guard
-Monster
-DARK
-Effect
-None
-Fiend
-4
-1600
-500
-0
-0
-None
-None
-If this card is Normal or Special Summoned: Place 1 Guard Counter on it. This card gains 300 ATK for each Guard Counter on it. Once per turn: You can target 1 other face-up card you control; remove 1 Guard Counter from this card, and if you do, place 1 Guard Counter on that target (if that card would ever be destroyed, remove 1 Guard Counter from it instead).
+<?xml version="1.0" ?>
+<card>
+    <name>Card Guard</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Normal or Special Summoned: Place 1 Guard Counter on it. This card gains 300 ATK for each Guard Counter on it. Once per turn: You can target 1 other face-up card you control; remove 1 Guard Counter from this card, and if you do, place 1 Guard Counter on that target (if that card would ever be destroyed, remove 1 Guard Counter from it instead).</text>
+</card>

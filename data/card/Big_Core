@@ -1,14 +1,17 @@
-Big Core
-Monster
-DARK
-Effect
-None
-Machine
-6
-2300
-1100
-0
-0
-None
-None
-Put 3 counters on this card when you Normal Summon it. This card cannot be destroyed by battle. If this card battles a monster, remove 1 counter from this card at the end of the Damage Step. If this card battles without a counter, destroy this card at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Big Core</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>6</level>
+    <attack>2300</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Put 3 counters on this card when you Normal Summon it. This card cannot be destroyed by battle. If this card battles a monster, remove 1 counter from this card at the end of the Damage Step. If this card battles without a counter, destroy this card at the end of the Damage Step.</text>
+</card>

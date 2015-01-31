@@ -1,14 +1,17 @@
-Sephylon, the Ultimate Timelord
-Monster
-LIGHT
-Effect
-None
-Fairy
-10
-4000
-4000
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can Special Summon 1 Level 8 or higher Fairy-Type monster from your hand or Graveyard, but its effects are negated, also its ATK becomes 4000.
+<?xml version="1.0" ?>
+<card>
+    <name>Sephylon, the Ultimate Timelord</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>10</level>
+    <attack>4000</attack>
+    <defense>4000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can Special Summon 1 Level 8 or higher Fairy-Type monster from your hand or Graveyard, but its effects are negated, also its ATK becomes 4000.</text>
+</card>

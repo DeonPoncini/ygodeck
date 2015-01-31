@@ -1,14 +1,17 @@
-Moon Envoy
-Monster
-LIGHT
-Normal
-None
-Warrior
-4
-1100
-1000
-0
-0
-None
-None
-Many have fallen victim to this lunar warrior's crescent pike.
+<?xml version="1.0" ?>
+<card>
+    <name>Moon Envoy</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Many have fallen victim to this lunar warrior's crescent pike.</text>
+</card>

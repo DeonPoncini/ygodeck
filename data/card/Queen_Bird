@@ -1,14 +1,17 @@
-Queen Bird
-Monster
-WIND
-Normal
-None
-Winged Beast
-5
-1200
-2000
-0
-0
-None
-None
-This monster attacks enemies using its huge beak.
+<?xml version="1.0" ?>
+<card>
+    <name>Queen Bird</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>5</level>
+    <attack>1200</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This monster attacks enemies using its huge beak.</text>
+</card>

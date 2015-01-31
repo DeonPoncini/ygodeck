@@ -1,14 +1,17 @@
-Thorn of Malice
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to "Black Rose Dragon" or a Plant-Type monster. It gains 600 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If the equipped monster attacks a monster, after damage calculation: The attacked monster loses 600 ATK and DEF. An opponent's monster that battles with the equipped monster cannot be destroyed by that battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Thorn of Malice</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to &quot;Black Rose Dragon&quot; or a Plant-Type monster. It gains 600 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If the equipped monster attacks a monster, after damage calculation: The attacked monster loses 600 ATK and DEF. An opponent's monster that battles with the equipped monster cannot be destroyed by that battle.</text>
+</card>

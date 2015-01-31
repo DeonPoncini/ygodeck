@@ -1,14 +1,17 @@
-Crystal Hoard
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Once per turn, if a face-up "Crystal Beast" monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 "Crystal Beast" monster from your Deck. You can send this face-up card from the field to the Graveyard, then target 1 "Crystal Beast" card you control and 1 other card on the field; return them to the hand. You cannot activate these effects in the same chain.
+<?xml version="1.0" ?>
+<card>
+    <name>Crystal Hoard</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Once per turn, if a face-up &quot;Crystal Beast&quot; monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 &quot;Crystal Beast&quot; monster from your Deck. You can send this face-up card from the field to the Graveyard, then target 1 &quot;Crystal Beast&quot; card you control and 1 other card on the field; return them to the hand. You cannot activate these effects in the same chain.</text>
+</card>

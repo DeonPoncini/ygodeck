@@ -1,14 +1,17 @@
-Phoenixian Cluster Amaryllis
-Monster
-FIRE
-Effect
-None
-Plant
-8
-2200
-0
-0
-0
-None
-None
-This card cannot be Special Summoned except with its own effect or with "Phoenixian Seed". If this card attacks, it is destroyed after damage calculation. If this card you control is destroyed and sent to the Graveyard, inflict 800 damage to your opponent. During your End Phase, you can remove from play 1 Plant-Type monster from your Graveyard to Special Summon this card from your Graveyard in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Phoenixian Cluster Amaryllis</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>8</level>
+    <attack>2200</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Special Summoned except with its own effect or with &quot;Phoenixian Seed&quot;. If this card attacks, it is destroyed after damage calculation. If this card you control is destroyed and sent to the Graveyard, inflict 800 damage to your opponent. During your End Phase, you can remove from play 1 Plant-Type monster from your Graveyard to Special Summon this card from your Graveyard in Defense Position.</text>
+</card>

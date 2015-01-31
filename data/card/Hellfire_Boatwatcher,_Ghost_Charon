@@ -1,14 +1,17 @@
-Hellfire Boatwatcher, Ghost Charon
-Monster
-DARK
-Tuner
-Effect
-Zombie
-2
-500
-0
-0
-0
-None
-None
-If your opponent controls a monster and you control no other monsters: You can target 1 Fusion Monster in your Graveyard; banish both that target and this card, and if you do, Special Summon 1 Dragon-Type Synchro Monster from your Extra Deck whose Level equals the total Levels of the banished monsters. You cannot Special Summon monsters the turn you activate this effect, except Dragon-Type monsters. You can only use this effect of "Hellfire Boatwatcher, Ghost Charon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Hellfire Boatwatcher, Ghost Charon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Zombie</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no other monsters: You can target 1 Fusion Monster in your Graveyard; banish both that target and this card, and if you do, Special Summon 1 Dragon-Type Synchro Monster from your Extra Deck whose Level equals the total Levels of the banished monsters. You cannot Special Summon monsters the turn you activate this effect, except Dragon-Type monsters. You can only use this effect of &quot;Hellfire Boatwatcher, Ghost Charon&quot; once per turn.</text>
+</card>

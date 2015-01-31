@@ -1,14 +1,17 @@
-Sea Kamen
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1100
-1300
-0
-0
-None
-None
-A merciless monster that tears opponents to shreds with razor-like claws.
+<?xml version="1.0" ?>
+<card>
+    <name>Sea Kamen</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A merciless monster that tears opponents to shreds with razor-like claws.</text>
+</card>

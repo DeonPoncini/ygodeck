@@ -1,14 +1,17 @@
-Danipon
-Monster
-EARTH
-Effect
-None
-Insect
-2
-600
-600
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can add 1 Insect-Type monster with 1000 DEF or less from your Deck to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Danipon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can add 1 Insect-Type monster with 1000 DEF or less from your Deck to your hand.</text>
+</card>

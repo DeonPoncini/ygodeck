@@ -1,14 +1,17 @@
-Great Mammoth of Goldfine
-Monster
-DARK
-Fusion
-None
-Zombie
-6
-2200
-1800
-0
-0
-None
-None
-"The Snake Hair" + "Dragon Zombie"
+<?xml version="1.0" ?>
+<card>
+    <name>Great Mammoth of Goldfine</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;The Snake Hair&quot; + &quot;Dragon Zombie&quot;</text>
+</card>

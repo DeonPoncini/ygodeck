@@ -1,14 +1,17 @@
-Gusto Falco
-Monster
-WIND
-Tuner
-None
-Winged Beast
-2
-600
-1400
-0
-0
-None
-None
-When this face-up card on the field is sent to the Graveyard, except by battle: You can Special Summon 1 "Gusto" monster from your Deck in face-down Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Gusto Falco</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>600</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this face-up card on the field is sent to the Graveyard, except by battle: You can Special Summon 1 &quot;Gusto&quot; monster from your Deck in face-down Defense Position.</text>
+</card>

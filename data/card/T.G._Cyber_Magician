@@ -1,14 +1,17 @@
-T.G. Cyber Magician
-Monster
-LIGHT
-Tuner
-Effect
-Spellcaster
-1
-0
-0
-0
-0
-None
-None
-When using this card you control as a Synchro Material for a "T.G." Synchro Monster, you can use "T.G." monsters in your hand as non-Tuner Synchro Materials. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 "T.G." monster from your Deck to your hand, except "T.G. Cyber Magician".
+<?xml version="1.0" ?>
+<card>
+    <name>T.G. Cyber Magician</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Spellcaster</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When using this card you control as a Synchro Material for a &quot;T.G.&quot; Synchro Monster, you can use &quot;T.G.&quot; monsters in your hand as non-Tuner Synchro Materials. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 &quot;T.G.&quot; monster from your Deck to your hand, except &quot;T.G. Cyber Magician&quot;.</text>
+</card>

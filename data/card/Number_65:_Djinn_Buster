@@ -1,14 +1,17 @@
-Number 65: Djinn Buster
-Monster
-DARK
-Xyz
-Effect
-Fiend
-2
-1300
-0
-0
-0
-None
-None
-2 Level 2 DARK monstersDuring either player's turn, when an effect of an opponent's monster is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, inflict 500 damage to your opponent.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 65: Djinn Buster</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>1300</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 2 DARK monstersDuring either player's turn, when an effect of an opponent's monster is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, inflict 500 damage to your opponent.</text>
+</card>

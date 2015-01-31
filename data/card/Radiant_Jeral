@@ -1,14 +1,17 @@
-Radiant Jeral
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1000
-2000
-0
-0
-None
-None
-When this card is sent to the Graveyard (except if destroyed by battle), gain 1000 Life Points if "The Sanctuary in the Sky" is on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Radiant Jeral</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard (except if destroyed by battle), gain 1000 Life Points if &quot;The Sanctuary in the Sky&quot; is on the field.</text>
+</card>

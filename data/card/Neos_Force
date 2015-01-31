@@ -1,14 +1,17 @@
-Neos Force
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to "Elemental HERO Neos". It gains 800 ATK. When it destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the original ATK of the destroyed monster in the Graveyard. During the End Phase: Shuffle this card into the Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Neos Force</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to &quot;Elemental HERO Neos&quot;. It gains 800 ATK. When it destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the original ATK of the destroyed monster in the Graveyard. During the End Phase: Shuffle this card into the Deck.</text>
+</card>

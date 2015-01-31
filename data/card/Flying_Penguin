@@ -1,14 +1,17 @@
-Flying Penguin
-Monster
-WATER
-Normal
-None
-Aqua
-4
-1200
-1000
-0
-0
-None
-None
-A very rare penguin that takes to the air with ears shaped like wings.
+<?xml version="1.0" ?>
+<card>
+    <name>Flying Penguin</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A very rare penguin that takes to the air with ears shaped like wings.</text>
+</card>

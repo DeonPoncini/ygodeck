@@ -1,14 +1,17 @@
-Verdant Sanctuary
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Verdant Sanctuary</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.</text>
+</card>

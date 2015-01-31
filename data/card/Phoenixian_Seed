@@ -1,14 +1,17 @@
-Phoenixian Seed
-Monster
-FIRE
-Effect
-None
-Plant
-2
-800
-0
-0
-0
-None
-None
-You can send this face-up card to the Graveyard to Special Summon 1 "Phoenixian Cluster Amaryllis" from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Phoenixian Seed</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can send this face-up card to the Graveyard to Special Summon 1 &quot;Phoenixian Cluster Amaryllis&quot; from your hand.</text>
+</card>

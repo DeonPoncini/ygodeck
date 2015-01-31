@@ -1,14 +1,17 @@
-BOXer
-Monster
-EARTH
-Effect
-None
-Warrior
-4
-1800
-1000
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can place 1 counter on this card. You can send this card with 2 or more counters to the Graveyard; Special Summon 1 EARTH monster from your Deck. If this card would be destroyed by battle or card effect, you can remove 1 counter from this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>BOXer</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can place 1 counter on this card. You can send this card with 2 or more counters to the Graveyard; Special Summon 1 EARTH monster from your Deck. If this card would be destroyed by battle or card effect, you can remove 1 counter from this card instead.</text>
+</card>

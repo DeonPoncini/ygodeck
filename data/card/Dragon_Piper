@@ -1,14 +1,17 @@
-Dragon Piper
-Monster
-FIRE
-Effect
-None
-Pyro
-3
-200
-1800
-0
-0
-None
-None
-FLIP: Destroy all face-up "Dragon Capture Jar"(s) on the field. If you destroy any, change all face-up Dragon-Type monsters on the field to Attack Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Dragon Piper</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Destroy all face-up &quot;Dragon Capture Jar&quot;(s) on the field. If you destroy any, change all face-up Dragon-Type monsters on the field to Attack Position.</text>
+</card>

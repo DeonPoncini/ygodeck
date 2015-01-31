@@ -1,14 +1,17 @@
-U.A. Blockbacker
-Monster
-EARTH
-Effect
-None
-Warrior
-7
-1600
-2700
-0
-0
-None
-None
-You can Special Summon this card (from your hand) by returning 1 "U.A." monster you control to the hand, except "U.A. Blockbacker". You can only Special Summon "U.A. Blockbacker" once per turn this way. Once per turn, when your opponent Special Summons a monster(s): You can change their battle positions, and if you do, negate their effects.
+<?xml version="1.0" ?>
+<card>
+    <name>U.A. Blockbacker</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>1600</attack>
+    <defense>2700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Special Summon this card (from your hand) by returning 1 &quot;U.A.&quot; monster you control to the hand, except &quot;U.A. Blockbacker&quot;. You can only Special Summon &quot;U.A. Blockbacker&quot; once per turn this way. Once per turn, when your opponent Special Summons a monster(s): You can change their battle positions, and if you do, negate their effects.</text>
+</card>

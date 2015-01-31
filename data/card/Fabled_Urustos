@@ -1,14 +1,17 @@
-Fabled Urustos
-Monster
-LIGHT
-Effect
-None
-Fiend
-4
-1500
-200
-0
-0
-None
-None
-While you have 2 or less cards in your hand, all face-up "Fabled" monsters you control gain 400 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Fabled Urustos</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While you have 2 or less cards in your hand, all face-up &quot;Fabled&quot; monsters you control gain 400 ATK.</text>
+</card>

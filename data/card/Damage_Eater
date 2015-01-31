@@ -1,14 +1,17 @@
-Damage Eater
-Monster
-DARK
-Effect
-None
-Fiend
-2
-100
-800
-0
-0
-None
-None
-During your opponent's turn, when your opponent activates a card or effect that would inflict damage, you can remove from play this card in your Graveyard to change that effect so it increases Life Points by the same amount instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Damage Eater</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During your opponent's turn, when your opponent activates a card or effect that would inflict damage, you can remove from play this card in your Graveyard to change that effect so it increases Life Points by the same amount instead.</text>
+</card>

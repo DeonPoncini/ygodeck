@@ -1,14 +1,17 @@
-Jurrac Ptera
-Monster
-FIRE
-Effect
-None
-Dinosaur
-3
-800
-1500
-0
-0
-None
-None
-If this card is attacked, return the attacking monster to the hand after damage calculation and this card gains DEF equal to the returned monster's Level x 100.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Ptera</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is attacked, return the attacking monster to the hand after damage calculation and this card gains DEF equal to the returned monster's Level x 100.</text>
+</card>

@@ -1,14 +1,17 @@
-Obsidian Dragon
-Monster
-DARK
-Effect
-None
-Rock
-4
-800
-2100
-0
-0
-None
-None
-Negate the effects of Spell and Trap Cards that target only 1 face-up DARK monster you control, and destroy them.
+<?xml version="1.0" ?>
+<card>
+    <name>Obsidian Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Negate the effects of Spell and Trap Cards that target only 1 face-up DARK monster you control, and destroy them.</text>
+</card>

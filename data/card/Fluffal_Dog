@@ -1,14 +1,17 @@
-Fluffal Dog
-Monster
-EARTH
-Effect
-None
-Fairy
-4
-1700
-1000
-0
-0
-None
-None
-When this card is Normal or Special Summoned from the hand: You can add 1 "Edge Imp Sabres" or 1 "Fluffal" monster from your Deck to your hand, except "Fluffal Dog". You can only use this effect of "Fluffal Dog" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Fluffal Dog</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned from the hand: You can add 1 &quot;Edge Imp Sabres&quot; or 1 &quot;Fluffal&quot; monster from your Deck to your hand, except &quot;Fluffal Dog&quot;. You can only use this effect of &quot;Fluffal Dog&quot; once per turn.</text>
+</card>

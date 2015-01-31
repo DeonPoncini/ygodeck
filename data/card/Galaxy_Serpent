@@ -1,14 +1,17 @@
-Galaxy Serpent
-Monster
-LIGHT
-Tuner
-None
-Dragon
-2
-1000
-0
-0
-0
-None
-None
-Your hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.
+<?xml version="1.0" ?>
+<card>
+    <name>Galaxy Serpent</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.</text>
+</card>

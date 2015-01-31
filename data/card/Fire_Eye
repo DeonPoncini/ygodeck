@@ -1,14 +1,17 @@
-Fire Eye
-Monster
-FIRE
-Normal
-None
-Pyro
-2
-800
-600
-0
-0
-None
-None
-An eye engulfed in flames that flaps its wings to create hot blasts of air.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Eye</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Pyro</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>An eye engulfed in flames that flaps its wings to create hot blasts of air.</text>
+</card>

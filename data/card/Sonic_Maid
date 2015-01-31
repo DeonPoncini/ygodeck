@@ -1,14 +1,17 @@
-Sonic Maid
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-1200
-900
-0
-0
-None
-None
-A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.
+<?xml version="1.0" ?>
+<card>
+    <name>Sonic Maid</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1200</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.</text>
+</card>

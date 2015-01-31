@@ -1,14 +1,17 @@
-Gravekeeper's Nobleman
-Monster
-DARK
-Effect
-None
-Spellcaster
-3
-1000
-1000
-0
-0
-None
-None
-When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 "Gravekeeper's" monster from your Deck in face-down Defense Position, except "Gravekeeper's Nobleman".
+<?xml version="1.0" ?>
+<card>
+    <name>Gravekeeper's Nobleman</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 &quot;Gravekeeper's&quot; monster from your Deck in face-down Defense Position, except &quot;Gravekeeper's Nobleman&quot;.</text>
+</card>

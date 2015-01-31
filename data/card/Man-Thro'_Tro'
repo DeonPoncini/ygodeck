@@ -1,14 +1,17 @@
-Man-Thro' Tro'
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-4
-1000
-1000
-0
-0
-None
-None
-By Tributing 1 Normal Monster (except a Token) on your side of the field, inflict 800 points of damage to your opponent's Life Points.
+<?xml version="1.0" ?>
+<card>
+    <name>Man-Thro' Tro'</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>By Tributing 1 Normal Monster (except a Token) on your side of the field, inflict 800 points of damage to your opponent's Life Points.</text>
+</card>

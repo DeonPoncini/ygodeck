@@ -1,14 +1,17 @@
-Megasonic Eye
-Monster
-DARK
-Normal
-None
-Machine
-5
-1500
-1800
-0
-0
-None
-None
-Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.
+<?xml version="1.0" ?>
+<card>
+    <name>Megasonic Eye</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>1500</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.</text>
+</card>

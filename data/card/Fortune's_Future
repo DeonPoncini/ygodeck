@@ -1,14 +1,17 @@
-Fortune's Future
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Select 1 of your removed from play "Fortune Lady" monsters and return it to the Graveyard. Then draw 2 cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Fortune's Future</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Select 1 of your removed from play &quot;Fortune Lady&quot; monsters and return it to the Graveyard. Then draw 2 cards.</text>
+</card>

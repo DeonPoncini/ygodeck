@@ -1,14 +1,17 @@
-Big Evolution Pill
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Tribute 1 Dinosaur-Type monster; while this card is face-up on the field, you can Normal Summon Dinosaur-Type monsters without Tributing. This card remains on the field for 3 of your opponent's turns.
+<?xml version="1.0" ?>
+<card>
+    <name>Big Evolution Pill</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Tribute 1 Dinosaur-Type monster; while this card is face-up on the field, you can Normal Summon Dinosaur-Type monsters without Tributing. This card remains on the field for 3 of your opponent's turns.</text>
+</card>

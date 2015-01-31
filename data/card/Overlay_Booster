@@ -1,14 +1,17 @@
-Overlay Booster
-Monster
-LIGHT
-Effect
-None
-Warrior
-5
-2000
-0
-0
-0
-None
-None
-If you control a monster with 2000 or more ATK, you can Special Summon this card (from your hand) in face-up Defense Position. You can only Special Summon "Overlay Booster" once per turn this way. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Xyz Monster you control that has Xyz Material; it gains 500 ATK for each Xyz Material attached to it.
+<?xml version="1.0" ?>
+<card>
+    <name>Overlay Booster</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a monster with 2000 or more ATK, you can Special Summon this card (from your hand) in face-up Defense Position. You can only Special Summon &quot;Overlay Booster&quot; once per turn this way. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Xyz Monster you control that has Xyz Material; it gains 500 ATK for each Xyz Material attached to it.</text>
+</card>

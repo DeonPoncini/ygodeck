@@ -1,14 +1,17 @@
-Supporter in the Shadows
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-1000
-1000
-0
-0
-None
-None
-A cute little elf that hides in the shadows and provides spiritual support.
+<?xml version="1.0" ?>
+<card>
+    <name>Supporter in the Shadows</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A cute little elf that hides in the shadows and provides spiritual support.</text>
+</card>

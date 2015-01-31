@@ -1,14 +1,17 @@
-Sonic Warrior
-Monster
-WIND
-Effect
-None
-Warrior
-2
-1000
-0
-0
-0
-None
-None
-When this card is sent to the Graveyard: All Level 2 or lower monsters you currently control gain 500 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Sonic Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is sent to the Graveyard: All Level 2 or lower monsters you currently control gain 500 ATK.</text>
+</card>

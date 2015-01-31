@@ -1,14 +1,17 @@
-Naturia Pineapple
-Monster
-EARTH
-Effect
-None
-Plant
-2
-100
-100
-0
-0
-None
-None
-All face-up monsters you control are treated as Plant-Type. During your Standby Phase, if you do not control a face-up "Naturia Pineapple", and have no monsters in your Graveyard except Plant or Beast-Type: You can Special Summon this card from your Graveyard. You must not control any Spell or Trap Cards to activate and resolve this effect.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Pineapple</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All face-up monsters you control are treated as Plant-Type. During your Standby Phase, if you do not control a face-up &quot;Naturia Pineapple&quot;, and have no monsters in your Graveyard except Plant or Beast-Type: You can Special Summon this card from your Graveyard. You must not control any Spell or Trap Cards to activate and resolve this effect.</text>
+</card>

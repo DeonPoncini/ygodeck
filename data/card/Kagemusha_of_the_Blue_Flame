@@ -1,14 +1,17 @@
-Kagemusha of the Blue Flame
-Monster
-EARTH
-Normal
-None
-Warrior
-2
-800
-400
-0
-0
-None
-None
-Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.
+<?xml version="1.0" ?>
+<card>
+    <name>Kagemusha of the Blue Flame</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>2</level>
+    <attack>800</attack>
+    <defense>400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.</text>
+</card>

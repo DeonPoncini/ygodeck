@@ -1,14 +1,17 @@
-Tower of Babel
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Tower of Babel</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage.</text>
+</card>

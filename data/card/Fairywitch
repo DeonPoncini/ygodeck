@@ -1,14 +1,17 @@
-Fairywitch
-Monster
-DARK
-Normal
-None
-Spellcaster
-3
-800
-1000
-0
-0
-None
-None
-Though destined to be a fairy, this creature chose the way of the witch instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Fairywitch</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>3</level>
+    <attack>800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Though destined to be a fairy, this creature chose the way of the witch instead.</text>
+</card>

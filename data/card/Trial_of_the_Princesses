@@ -1,14 +1,17 @@
-Trial of the Princesses
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to "White Magician Pikeru" or "Ebon Magician Curran"; it gains 800 ATK. During a turn that the equipped monster destroyed a Level 5 or higher monster by battle, you can Tribute the equipped monster and this card to Special Summon from your hand or Deck: 1 "Princess Pikeru" if you Tributed "White Magician Pikeru", or 1 "Princess Curran" if you Tributed "Ebon Magician Curran".
+<?xml version="1.0" ?>
+<card>
+    <name>Trial of the Princesses</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to &quot;White Magician Pikeru&quot; or &quot;Ebon Magician Curran&quot;; it gains 800 ATK. During a turn that the equipped monster destroyed a Level 5 or higher monster by battle, you can Tribute the equipped monster and this card to Special Summon from your hand or Deck: 1 &quot;Princess Pikeru&quot; if you Tributed &quot;White Magician Pikeru&quot;, or 1 &quot;Princess Curran&quot; if you Tributed &quot;Ebon Magician Curran&quot;.</text>
+</card>

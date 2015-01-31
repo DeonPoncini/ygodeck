@@ -1,14 +1,17 @@
-Night Dragolich
-Monster
-DARK
-Effect
-None
-Wyrm
-4
-1700
-0
-0
-0
-None
-None
-Change all non-Wyrm-Type Attack Position monsters that were Special Summoned from the Main or Extra Deck to Defense Position. All non-Wyrm-Type monsters that were Special Summoned from the Main or Extra Deck lose DEF equal to their original DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>Night Dragolich</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Wyrm</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Change all non-Wyrm-Type Attack Position monsters that were Special Summoned from the Main or Extra Deck to Defense Position. All non-Wyrm-Type monsters that were Special Summoned from the Main or Extra Deck lose DEF equal to their original DEF.</text>
+</card>

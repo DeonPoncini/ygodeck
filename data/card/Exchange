@@ -1,14 +1,17 @@
-Exchange
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Both players reveal their hands and add 1 card from each other's hand to their hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Exchange</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Both players reveal their hands and add 1 card from each other's hand to their hand.</text>
+</card>

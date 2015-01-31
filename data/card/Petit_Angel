@@ -1,14 +1,17 @@
-Petit Angel
-Monster
-LIGHT
-Normal
-None
-Fairy
-3
-600
-900
-0
-0
-None
-None
-A quick-moving and tiny fairy that's very difficult to hit.
+<?xml version="1.0" ?>
+<card>
+    <name>Petit Angel</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>3</level>
+    <attack>600</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A quick-moving and tiny fairy that's very difficult to hit.</text>
+</card>

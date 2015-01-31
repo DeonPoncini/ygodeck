@@ -1,14 +1,17 @@
-Jurrac Brachis
-Monster
-FIRE
-Tuner
-None
-Dinosaur
-3
-1000
-1000
-0
-0
-None
-None
-While another face-up "Jurrac" monster is on the field, this card cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>Jurrac Brachis</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dinosaur</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While another face-up &quot;Jurrac&quot; monster is on the field, this card cannot be destroyed by battle.</text>
+</card>

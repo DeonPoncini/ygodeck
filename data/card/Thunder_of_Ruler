@@ -1,14 +1,17 @@
-Thunder of Ruler
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Thunder of Ruler</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn.</text>
+</card>

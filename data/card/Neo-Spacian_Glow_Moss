@@ -1,14 +1,17 @@
-Neo-Spacian Glow Moss
-Monster
-LIGHT
-Effect
-None
-Plant
-3
-300
-900
-0
-0
-None
-None
-When this card attacks or is attacked: Your opponent draws 1 card. Reveal it, and based on its type apply this effect. ● Monster: End the Battle Phase. ● Spell: If this card is attacking, you can change it to a direct attack instead. ● Trap: Change this card to Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Neo-Spacian Glow Moss</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>900</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card attacks or is attacked: Your opponent draws 1 card. Reveal it, and based on its type apply this effect. ● Monster: End the Battle Phase. ● Spell: If this card is attacking, you can change it to a direct attack instead. ● Trap: Change this card to Defense Position.</text>
+</card>

@@ -1,14 +1,17 @@
-Bokoichi the Freightening Car
-Monster
-DARK
-Normal
-None
-Machine
-2
-500
-500
-0
-0
-None
-None
-A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.
+<?xml version="1.0" ?>
+<card>
+    <name>Bokoichi the Freightening Car</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>500</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.</text>
+</card>

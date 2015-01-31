@@ -1,14 +1,17 @@
-Arcana Force XIV - Temperance
-Monster
-LIGHT
-Effect
-None
-Fairy
-6
-2400
-2400
-0
-0
-None
-None
-During damage calculation, in either player's turn: You can discard this card; you take no Battle Damage from that battle. When this card is Summoned: Toss a coin and apply this effect. The effect lasts while this card is face-up on the field.● Heads: Halve all Battle Damage you take.● Tails: Halve all Battle Damage your opponent takes.
+<?xml version="1.0" ?>
+<card>
+    <name>Arcana Force XIV - Temperance</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>2400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During damage calculation, in either player's turn: You can discard this card; you take no Battle Damage from that battle. When this card is Summoned: Toss a coin and apply this effect. The effect lasts while this card is face-up on the field.● Heads: Halve all Battle Damage you take.● Tails: Halve all Battle Damage your opponent takes.</text>
+</card>

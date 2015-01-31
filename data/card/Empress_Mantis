@@ -1,14 +1,17 @@
-Empress Mantis
-Monster
-WIND
-Normal
-None
-Insect
-6
-2200
-1400
-0
-0
-None
-None
-Queen of an army of giant mantises whose command moves legions.
+<?xml version="1.0" ?>
+<card>
+    <name>Empress Mantis</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Insect</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Queen of an army of giant mantises whose command moves legions.</text>
+</card>

@@ -1,14 +1,17 @@
-Prickle Fairy
-Monster
-EARTH
-Effect
-None
-Plant
-4
-300
-2000
-0
-0
-None
-None
-While this card is face-up on your side of the field, your opponent cannot attack Insect-Type monsters. The battle position of a monster that battles with this card is changed to Defense Position at the end of the Damage Step.
+<?xml version="1.0" ?>
+<card>
+    <name>Prickle Fairy</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>300</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While this card is face-up on your side of the field, your opponent cannot attack Insect-Type monsters. The battle position of a monster that battles with this card is changed to Defense Position at the end of the Damage Step.</text>
+</card>

@@ -1,14 +1,17 @@
-Rose Spectre of Dunn
-Monster
-DARK
-Fusion
-None
-Plant
-6
-2000
-1800
-0
-0
-None
-None
-"Feral Imp" + "Snakeyashi"
+<?xml version="1.0" ?>
+<card>
+    <name>Rose Spectre of Dunn</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>6</level>
+    <attack>2000</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Feral Imp&quot; + &quot;Snakeyashi&quot;</text>
+</card>

@@ -1,14 +1,17 @@
-Battle Fusion
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-When an attack is declared involving a Fusion Monster you control and an opponent's monster: That monster you control gains ATK equal to the ATK of the opponent's monster, until the end of the Damage Step. You can only activate 1 "Battle Fusion" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Battle Fusion</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>When an attack is declared involving a Fusion Monster you control and an opponent's monster: That monster you control gains ATK equal to the ATK of the opponent's monster, until the end of the Damage Step. You can only activate 1 &quot;Battle Fusion&quot; per turn.</text>
+</card>

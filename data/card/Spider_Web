@@ -1,14 +1,17 @@
-Spider Web
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-If a monster declares an attack, it is changed to Defense Position at the end of the Damage Step. It cannot change its battle position until the End Phase of its controller's next turn, while this card remains on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Spider Web</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>If a monster declares an attack, it is changed to Defense Position at the end of the Damage Step. It cannot change its battle position until the End Phase of its controller's next turn, while this card remains on the field.</text>
+</card>

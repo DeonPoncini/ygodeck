@@ -1,14 +1,17 @@
-Revival Rose
-Monster
-DARK
-Effect
-None
-Plant
-4
-1300
-1300
-0
-0
-None
-None
-If a Level 5 or higher Plant-Type monster you control is destroyed, you can Special Summon this card from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Revival Rose</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If a Level 5 or higher Plant-Type monster you control is destroyed, you can Special Summon this card from your Graveyard.</text>
+</card>

@@ -1,14 +1,17 @@
-Karakuri Ninja mdl 7749 "Nanashick"
-Monster
-EARTH
-Effect
-None
-Machine
-5
-2200
-1800
-0
-0
-None
-None
-This card must attack if able. When this face-up card on the field is selected as an attack target, change its battle position. When this card is Normal Summoned, you can draw 1 card for each face-up Defense Position "Karakuri" monster you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Karakuri Ninja mdl 7749 &quot;Nanashick&quot;</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>5</level>
+    <attack>2200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card must attack if able. When this face-up card on the field is selected as an attack target, change its battle position. When this card is Normal Summoned, you can draw 1 card for each face-up Defense Position &quot;Karakuri&quot; monster you control.</text>
+</card>

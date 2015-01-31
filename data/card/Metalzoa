@@ -1,14 +1,17 @@
-Metalzoa
-Monster
-DARK
-Effect
-None
-Machine
-8
-3000
-2300
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing "Zoa" equipped with "Metalmorph".
+<?xml version="1.0" ?>
+<card>
+    <name>Metalzoa</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing &quot;Zoa&quot; equipped with &quot;Metalmorph&quot;.</text>
+</card>

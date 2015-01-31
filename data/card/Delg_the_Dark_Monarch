@@ -1,14 +1,17 @@
-Delg the Dark Monarch
-Monster
-DARK
-Effect
-None
-Spellcaster
-6
-2400
-1000
-0
-0
-None
-None
-When this card is Normal or Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish that target(s), then send the same number of cards from the top of their Deck to the Graveyard. This card cannot attack during the turn it is Normal or Special Summoned.
+<?xml version="1.0" ?>
+<card>
+    <name>Delg the Dark Monarch</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Normal or Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish that target(s), then send the same number of cards from the top of their Deck to the Graveyard. This card cannot attack during the turn it is Normal or Special Summoned.</text>
+</card>

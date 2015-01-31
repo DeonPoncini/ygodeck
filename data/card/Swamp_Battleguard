@@ -1,14 +1,17 @@
-Swamp Battleguard
-Monster
-EARTH
-Effect
-None
-Warrior
-5
-1800
-1500
-0
-0
-None
-None
-This card gains 500 ATK for each "Lava Battleguard" you control.
+<?xml version="1.0" ?>
+<card>
+    <name>Swamp Battleguard</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card gains 500 ATK for each &quot;Lava Battleguard&quot; you control.</text>
+</card>

@@ -1,14 +1,17 @@
-Reptilianne Gorgon
-Monster
-DARK
-Effect
-None
-Reptile
-3
-1400
-1400
-0
-0
-None
-None
-If this card attacks a monster, after damage calculation: The ATK of that monster becomes 0, also it cannot change its battle position.
+<?xml version="1.0" ?>
+<card>
+    <name>Reptilianne Gorgon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Reptile</type>
+    <level>3</level>
+    <attack>1400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card attacks a monster, after damage calculation: The ATK of that monster becomes 0, also it cannot change its battle position.</text>
+</card>

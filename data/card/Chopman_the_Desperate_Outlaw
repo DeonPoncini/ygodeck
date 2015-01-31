@@ -1,14 +1,17 @@
-Chopman the Desperate Outlaw
-Monster
-DARK
-Effect
-None
-Zombie
-3
-1100
-500
-0
-0
-None
-None
-When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Chopman the Desperate Outlaw</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card.</text>
+</card>

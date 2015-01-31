@@ -1,14 +1,17 @@
-Mystic Horseman
-Monster
-EARTH
-Normal
-None
-Beast
-4
-1300
-1550
-0
-0
-None
-None
-Half man and half horse, this monster is known for its extreme speed.
+<?xml version="1.0" ?>
+<card>
+    <name>Mystic Horseman</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1300</attack>
+    <defense>1550</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Half man and half horse, this monster is known for its extreme speed.</text>
+</card>

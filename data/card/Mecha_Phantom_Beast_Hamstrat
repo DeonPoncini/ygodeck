@@ -1,14 +1,17 @@
-Mecha Phantom Beast Hamstrat
-Monster
-WIND
-Effect
-None
-Machine
-3
-1100
-1600
-0
-0
-None
-None
-When this card is flipped face-up: Special Summon 2 "Mecha Phantom Beast Tokens" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. You can Tribute 1 Token, then target 1 "Mecha Phantom Beast" monster in your Graveyard; Special Summon that target. You can only use this effect of "Mecha Phantom Beast Hamstrat" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Mecha Phantom Beast Hamstrat</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>1100</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is flipped face-up: Special Summon 2 &quot;Mecha Phantom Beast Tokens&quot; (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all &quot;Mecha Phantom Beast Tokens&quot; you control. While you control a Token, this card cannot be destroyed by battle or card effects. You can Tribute 1 Token, then target 1 &quot;Mecha Phantom Beast&quot; monster in your Graveyard; Special Summon that target. You can only use this effect of &quot;Mecha Phantom Beast Hamstrat&quot; once per turn.</text>
+</card>

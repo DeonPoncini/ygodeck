@@ -1,14 +1,17 @@
-Gagaga Academy Emergency Network
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-If your opponent controls a monster and you control no monsters: Special Summon 1 "Gagaga" monster from your Deck. You cannot Special Summon any other monsters, except by Xyz Summon, during the turn you activate this card. You can only activate 1 "Gagaga Academy Emergency Network" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Gagaga Academy Emergency Network</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls a monster and you control no monsters: Special Summon 1 &quot;Gagaga&quot; monster from your Deck. You cannot Special Summon any other monsters, except by Xyz Summon, during the turn you activate this card. You can only activate 1 &quot;Gagaga Academy Emergency Network&quot; per turn.</text>
+</card>

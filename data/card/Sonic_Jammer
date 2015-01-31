@@ -1,14 +1,17 @@
-Sonic Jammer
-Monster
-WIND
-Effect
-None
-Machine
-2
-350
-650
-0
-0
-None
-None
-FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Sonic Jammer</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>2</level>
+    <attack>350</attack>
+    <defense>650</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.</text>
+</card>

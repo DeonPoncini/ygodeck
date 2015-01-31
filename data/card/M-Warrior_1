@@ -1,14 +1,17 @@
-M-Warrior 1
-Monster
-EARTH
-Normal
-None
-Warrior
-3
-1000
-500
-0
-0
-None
-None
-Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.
+<?xml version="1.0" ?>
+<card>
+    <name>M-Warrior #1</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>3</level>
+    <attack>1000</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.</text>
+</card>

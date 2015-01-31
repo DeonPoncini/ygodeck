@@ -1,14 +1,17 @@
-Phonon Pulse Dragon
-Monster
-DARK
-Synchro
-Tuner
-Dragon
-4
-1900
-800
-0
-0
-None
-None
-1 Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can declare a Level from 1 to 3; the Level of this card becomes that Level, but you cannot Special Summon for the rest of this turn, except for a Synchro Summon using this card as a Synchro Material Monster. You can only Special Summon "Phonon Pulse Dragon" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Phonon Pulse Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Tuner</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 Tuner + 1 or more non-Tuner monstersWhen this card is Synchro Summoned: You can declare a Level from 1 to 3; the Level of this card becomes that Level, but you cannot Special Summon for the rest of this turn, except for a Synchro Summon using this card as a Synchro Material Monster. You can only Special Summon &quot;Phonon Pulse Dragon&quot; once per turn.</text>
+</card>

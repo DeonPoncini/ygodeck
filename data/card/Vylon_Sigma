@@ -1,14 +1,17 @@
-Vylon Sigma
-Monster
-LIGHT
-Synchro
-Effect
-Fairy
-7
-1800
-1000
-0
-0
-None
-None
-1 LIGHT Tuner + 1 or more non-Tuner LIGHT monstersWhen this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.
+<?xml version="1.0" ?>
+<card>
+    <name>Vylon Sigma</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fairy</type>
+    <level>7</level>
+    <attack>1800</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>1 LIGHT Tuner + 1 or more non-Tuner LIGHT monstersWhen this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.</text>
+</card>

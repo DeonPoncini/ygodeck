@@ -1,14 +1,17 @@
-Gem-Knight Lady Lapis Lazuli
-Monster
-EARTH
-Fusion
-Effect
-Rock
-5
-2400
-1000
-0
-0
-None
-None
-"Gem-Knight Lapis" + 1 "Gem-Knight" monsterMust first be Fusion Summoned with the above Fusion Materials. You can only Special Summon "Gem-Knight Lady Lapis Lazuli(s)" once per turn. Once per turn: You can send 1 "Gem-Knight" monster from your Main Deck or Extra Deck to the Graveyard, and if you do, inflict 500 damage to your opponent for each Special Summoned monster on the field.
+<?xml version="1.0" ?>
+<card>
+    <name>Gem-Knight Lady Lapis Lazuli</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Fusion</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Rock</type>
+    <level>5</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Gem-Knight Lapis&quot; + 1 &quot;Gem-Knight&quot; monsterMust first be Fusion Summoned with the above Fusion Materials. You can only Special Summon &quot;Gem-Knight Lady Lapis Lazuli(s)&quot; once per turn. Once per turn: You can send 1 &quot;Gem-Knight&quot; monster from your Main Deck or Extra Deck to the Graveyard, and if you do, inflict 500 damage to your opponent for each Special Summoned monster on the field.</text>
+</card>

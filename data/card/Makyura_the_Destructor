@@ -1,14 +1,17 @@
-Makyura the Destructor
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1600
-1200
-0
-0
-None
-None
-During the turn this card was sent to the Graveyard, you can activate Trap Cards from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Makyura the Destructor</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During the turn this card was sent to the Graveyard, you can activate Trap Cards from your hand.</text>
+</card>

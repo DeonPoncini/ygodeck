@@ -1,14 +1,17 @@
-Invader of Darkness
-Monster
-DARK
-Effect
-None
-Fiend
-8
-2900
-2500
-0
-0
-None
-None
-Your opponent cannot activate Quick-Play Spell Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Invader of Darkness</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>8</level>
+    <attack>2900</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot activate Quick-Play Spell Cards.</text>
+</card>

@@ -1,14 +1,17 @@
-Fire Formation - Tensu
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-During your Main Phase, you can Normal Summon 1 Beast-Warrior-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) All Beast-Warrior-Type monsters you control gain 100 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Fire Formation - Tensu</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>During your Main Phase, you can Normal Summon 1 Beast-Warrior-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) All Beast-Warrior-Type monsters you control gain 100 ATK.</text>
+</card>

@@ -1,14 +1,17 @@
-Mobius the Frost Monarch
-Monster
-WATER
-Effect
-None
-Aqua
-6
-2400
-1000
-0
-0
-None
-None
-When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.
+<?xml version="1.0" ?>
+<card>
+    <name>Mobius the Frost Monarch</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>6</level>
+    <attack>2400</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.</text>
+</card>

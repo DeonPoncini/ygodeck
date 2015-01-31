@@ -1,14 +1,17 @@
-Soprano the Melodious Songstress
-Monster
-LIGHT
-Effect
-None
-Fairy
-4
-1400
-1400
-0
-0
-None
-None
-When this card is Special Summoned: You can target 1 "Melodious" monster in your Graveyard, except "Soprano the Melodious Songstress"; add it to your hand. You can only use this effect of "Soprano the Melodious Songstress" once per turn. Once per turn: You can Fusion Summon 1 "Melodious" Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Soprano the Melodious Songstress</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned: You can target 1 &quot;Melodious&quot; monster in your Graveyard, except &quot;Soprano the Melodious Songstress&quot;; add it to your hand. You can only use this effect of &quot;Soprano the Melodious Songstress&quot; once per turn. Once per turn: You can Fusion Summon 1 &quot;Melodious&quot; Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.</text>
+</card>

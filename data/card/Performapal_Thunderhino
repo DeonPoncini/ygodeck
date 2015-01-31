@@ -1,14 +1,17 @@
-Performapal Thunderhino
-Monster
-LIGHT
-Effect
-None
-Rock
-3
-200
-1800
-0
-0
-None
-None
-Your opponent cannot target other "Performapal" monsters for attacks, except this one. If a "Performapal" card(s) you control would be destroyed by battle or card effect, except "Performapal Thunderhino", while this card is in your Graveyard, you can banish this card instead.
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Thunderhino</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>3</level>
+    <attack>200</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Your opponent cannot target other &quot;Performapal&quot; monsters for attacks, except this one. If a &quot;Performapal&quot; card(s) you control would be destroyed by battle or card effect, except &quot;Performapal Thunderhino&quot;, while this card is in your Graveyard, you can banish this card instead.</text>
+</card>

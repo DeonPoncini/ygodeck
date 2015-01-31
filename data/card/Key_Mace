@@ -1,14 +1,17 @@
-Key Mace
-Monster
-LIGHT
-Normal
-None
-Fairy
-1
-400
-300
-0
-0
-None
-None
-Enemies' hearts will melt at the sight of this small fairy's cuteness.
+<?xml version="1.0" ?>
+<card>
+    <name>Key Mace</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>1</level>
+    <attack>400</attack>
+    <defense>300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Enemies' hearts will melt at the sight of this small fairy's cuteness.</text>
+</card>

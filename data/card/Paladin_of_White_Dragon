@@ -1,14 +1,17 @@
-Paladin of White Dragon
-Monster
-LIGHT
-Ritual
-Effect
-Dragon
-4
-1900
-1200
-0
-0
-None
-None
-You can Ritual Summon this card with "White Dragon Ritual". At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster. You can Tribute this card; Special Summon 1 "Blue-Eyes White Dragon" from your hand or Deck, but "Blue-Eyes White Dragons" cannot attack for the rest of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Paladin of White Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Ritual</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1900</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Ritual Summon this card with &quot;White Dragon Ritual&quot;. At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster. You can Tribute this card; Special Summon 1 &quot;Blue-Eyes White Dragon&quot; from your hand or Deck, but &quot;Blue-Eyes White Dragons&quot; cannot attack for the rest of this turn.</text>
+</card>

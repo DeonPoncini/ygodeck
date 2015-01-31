@@ -1,14 +1,17 @@
-Sophia, Goddess of Rebirth
-Monster
-DARK
-Effect
-None
-Fairy
-11
-3600
-3400
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up Ritual, Fusion, Synchro, and Xyz Monster from anywhere on the field, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. When this card is Special Summoned: Banish all other cards from both players' hands, fields, and Graveyards. Cards and effects cannot be activated in response to this effect's activation.
+<?xml version="1.0" ?>
+<card>
+    <name>Sophia, Goddess of Rebirth</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>11</level>
+    <attack>3600</attack>
+    <defense>3400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up Ritual, Fusion, Synchro, and Xyz Monster from anywhere on the field, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. When this card is Special Summoned: Banish all other cards from both players' hands, fields, and Graveyards. Cards and effects cannot be activated in response to this effect's activation.</text>
+</card>

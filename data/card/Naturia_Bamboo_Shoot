@@ -1,14 +1,17 @@
-Naturia Bamboo Shoot
-Monster
-EARTH
-Effect
-None
-Plant
-5
-2000
-2000
-0
-0
-None
-None
-If this card is Tribute Summoned by Tributing a "Naturia" monster, while this card remains face-up on the field, your opponent cannot activate Spell or Trap Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Naturia Bamboo Shoot</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is Tribute Summoned by Tributing a &quot;Naturia&quot; monster, while this card remains face-up on the field, your opponent cannot activate Spell or Trap Cards.</text>
+</card>

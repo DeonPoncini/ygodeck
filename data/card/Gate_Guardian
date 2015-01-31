@@ -1,14 +1,17 @@
-Gate Guardian
-Monster
-DARK
-Effect
-None
-Warrior
-11
-3750
-3400
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 "Sanga of the Thunder", "Kazejin", and "Suijin".
+<?xml version="1.0" ?>
+<card>
+    <name>Gate Guardian</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>11</level>
+    <attack>3750</attack>
+    <defense>3400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 &quot;Sanga of the Thunder&quot;, &quot;Kazejin&quot;, and &quot;Suijin&quot;.</text>
+</card>

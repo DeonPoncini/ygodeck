@@ -1,14 +1,17 @@
-Machina Armored Unit
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard: You can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Machina Armored Unit</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard: You can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the Graveyard.</text>
+</card>

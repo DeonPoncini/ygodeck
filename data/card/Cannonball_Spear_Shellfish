@@ -1,14 +1,17 @@
-Cannonball Spear Shellfish
-Monster
-WATER
-Effect
-None
-Aqua
-2
-1000
-1000
-0
-0
-None
-None
-While "Umi" is face-up on the field, this card is unaffected by any Spell Cards.
+<?xml version="1.0" ?>
+<card>
+    <name>Cannonball Spear Shellfish</name>
+    <cardType>Monster</cardType>
+    <attribute>WATER</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Aqua</type>
+    <level>2</level>
+    <attack>1000</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>While &quot;Umi&quot; is face-up on the field, this card is unaffected by any Spell Cards.</text>
+</card>

@@ -1,14 +1,17 @@
-Stardust Dragon/Assault Mode
-Monster
-WIND
-Effect
-None
-Dragon
-10
-3000
-2500
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with its own effect or with "Assault Mode Activate". You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card. If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase. When this card on the field is destroyed, you can Special Summon 1 "Stardust Dragon" from your Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Stardust Dragon/Assault Mode</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>10</level>
+    <attack>3000</attack>
+    <defense>2500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with its own effect or with &quot;Assault Mode Activate&quot;. You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card. If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase. When this card on the field is destroyed, you can Special Summon 1 &quot;Stardust Dragon&quot; from your Graveyard.</text>
+</card>

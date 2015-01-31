@@ -1,14 +1,17 @@
-Amazoness Village
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-All "Amazoness" monsters gain 200 ATK. Once per turn, when an "Amazoness" monster is destroyed by battle or by a card effect and sent to the Graveyard: You can Special Summon 1 "Amazoness" monster from your Deck with a Level less than or equal to that "Amazoness" monster in the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Amazoness Village</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>All &quot;Amazoness&quot; monsters gain 200 ATK. Once per turn, when an &quot;Amazoness&quot; monster is destroyed by battle or by a card effect and sent to the Graveyard: You can Special Summon 1 &quot;Amazoness&quot; monster from your Deck with a Level less than or equal to that &quot;Amazoness&quot; monster in the Graveyard.</text>
+</card>

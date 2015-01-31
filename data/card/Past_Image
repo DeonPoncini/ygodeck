@@ -1,14 +1,17 @@
-Past Image
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-If you control a face-up Psychic-Type monster: Target 1 monster your opponent controls; banish it. During the next Standby Phase, it returns to the opponent's side of the field in the same Battle Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Past Image</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>If you control a face-up Psychic-Type monster: Target 1 monster your opponent controls; banish it. During the next Standby Phase, it returns to the opponent's side of the field in the same Battle Position.</text>
+</card>

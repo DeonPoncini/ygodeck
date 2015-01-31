@@ -1,14 +1,17 @@
-Blessings of the Nile
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Continuous
-None
-Each time card(s) are discarded from your hand to the Graveyard by the effect of a card controlled by your opponent, increase your Life Points by 1000 points.
+<?xml version="1.0" ?>
+<card>
+    <name>Blessings of the Nile</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Continuous</spellType>
+    <trapType>None</trapType>
+    <text>Each time card(s) are discarded from your hand to the Graveyard by the effect of a card controlled by your opponent, increase your Life Points by 1000 points.</text>
+</card>

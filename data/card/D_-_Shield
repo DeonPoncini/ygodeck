@@ -1,14 +1,17 @@
-D - Shield
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-When an Attack Position "Destiny HERO" monster you control is targeted for an attack: Target it; change it to Defense Position and equip it with this card. The equipped monster cannot be destroyed by battle.
+<?xml version="1.0" ?>
+<card>
+    <name>D - Shield</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>When an Attack Position &quot;Destiny HERO&quot; monster you control is targeted for an attack: Target it; change it to Defense Position and equip it with this card. The equipped monster cannot be destroyed by battle.</text>
+</card>

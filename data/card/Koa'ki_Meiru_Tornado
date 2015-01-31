@@ -1,14 +1,17 @@
-Koa'ki Meiru Tornado
-Monster
-WIND
-Effect
-None
-Winged Beast
-4
-1500
-1200
-0
-0
-None
-None
-You can return 1 "Iron Core of Koa'ki Meiru" from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Tornado</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Winged Beast</type>
+    <level>4</level>
+    <attack>1500</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can return 1 &quot;Iron Core of Koa'ki Meiru&quot; from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.</text>
+</card>

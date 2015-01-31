@@ -1,14 +1,17 @@
-Performapal Warrior Tiger
-Monster
-EARTH
-Effect
-None
-Beast-Warrior
-4
-1700
-500
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 "Performapal" Pendulum Monster from your Deck to your hand. You can only use this effect of "Performapal Warrior Tiger" once per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Warrior Tiger</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast-Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 &quot;Performapal&quot; Pendulum Monster from your Deck to your hand. You can only use this effect of &quot;Performapal Warrior Tiger&quot; once per turn.</text>
+</card>

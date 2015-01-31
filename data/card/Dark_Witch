@@ -1,14 +1,17 @@
-Dark Witch
-Monster
-LIGHT
-Normal
-None
-Fairy
-5
-1800
-1700
-0
-0
-None
-None
-A popular creature in mythology that delivers fatal attacks with a sharp spear.
+<?xml version="1.0" ?>
+<card>
+    <name>Dark Witch</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fairy</type>
+    <level>5</level>
+    <attack>1800</attack>
+    <defense>1700</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A popular creature in mythology that delivers fatal attacks with a sharp spear.</text>
+</card>

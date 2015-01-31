@@ -1,14 +1,17 @@
-Lord of D.
-Monster
-DARK
-Effect
-None
-Spellcaster
-4
-1200
-1100
-0
-0
-None
-None
-Dragon-Type monsters on the field cannot be targeted by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Lord of D.</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Dragon-Type monsters on the field cannot be targeted by card effects.</text>
+</card>

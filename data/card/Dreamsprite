@@ -1,14 +1,17 @@
-Dreamsprite
-Monster
-LIGHT
-Effect
-None
-Plant
-2
-300
-200
-0
-0
-None
-None
-When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.
+<?xml version="1.0" ?>
+<card>
+    <name>Dreamsprite</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Plant</type>
+    <level>2</level>
+    <attack>300</attack>
+    <defense>200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.</text>
+</card>

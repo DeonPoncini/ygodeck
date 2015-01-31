@@ -1,14 +1,17 @@
-Daybreaker
-Monster
-LIGHT
-Effect
-None
-Warrior
-4
-1700
-0
-0
-0
-None
-None
-When this card is Special Summoned: You can Special Summon 1 "Daybreaker" from your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Daybreaker</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is Special Summoned: You can Special Summon 1 &quot;Daybreaker&quot; from your hand.</text>
+</card>

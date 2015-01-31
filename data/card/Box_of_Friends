@@ -1,14 +1,17 @@
-Box of Friends
-Monster
-LIGHT
-Effect
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-If this card is destroyed and sent to the Graveyard: You can Special Summon from your Deck, 2 Normal Monsters with different names whose ATK or DEF is 0, in face-up Defense Position. You can only use this effect of "Box of Friends" once per turn. Monsters Special Summoned by this effect cannot be used as a Synchro Material Monster, also they are destroyed during your next End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Box of Friends</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If this card is destroyed and sent to the Graveyard: You can Special Summon from your Deck, 2 Normal Monsters with different names whose ATK or DEF is 0, in face-up Defense Position. You can only use this effect of &quot;Box of Friends&quot; once per turn. Monsters Special Summoned by this effect cannot be used as a Synchro Material Monster, also they are destroyed during your next End Phase.</text>
+</card>

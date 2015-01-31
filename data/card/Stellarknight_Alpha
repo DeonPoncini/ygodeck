@@ -1,14 +1,17 @@
-Stellarknight Alpha
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Equip
-None
-Equip only to a "tellarknight" monster you control. It gains 500 ATK and DEF, also it is unaffected by your opponent's card effects. If you control a face-up monster that is not a "tellarknight" monster, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Stellarknight Alpha</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Equip</spellType>
+    <trapType>None</trapType>
+    <text>Equip only to a &quot;tellarknight&quot; monster you control. It gains 500 ATK and DEF, also it is unaffected by your opponent's card effects. If you control a face-up monster that is not a &quot;tellarknight&quot; monster, destroy this card.</text>
+</card>

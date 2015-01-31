@@ -1,14 +1,17 @@
-The Fabled Kokkator
-Monster
-LIGHT
-Effect
-None
-Beast
-4
-1700
-1500
-0
-0
-None
-None
-When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can discard 1 "Fabled" monster to the Graveyard to draw 1 card.
+<?xml version="1.0" ?>
+<card>
+    <name>The Fabled Kokkator</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1700</attack>
+    <defense>1500</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can discard 1 &quot;Fabled&quot; monster to the Graveyard to draw 1 card.</text>
+</card>

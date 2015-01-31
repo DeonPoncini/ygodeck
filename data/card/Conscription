@@ -1,14 +1,17 @@
-Conscription
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your side of the field. Otherwise, add that card to your opponent's hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Conscription</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your side of the field. Otherwise, add that card to your opponent's hand.</text>
+</card>

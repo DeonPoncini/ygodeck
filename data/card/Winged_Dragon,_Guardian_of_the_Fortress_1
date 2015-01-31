@@ -1,14 +1,17 @@
-Winged Dragon, Guardian of the Fortress 1
-Monster
-WIND
-Normal
-None
-Dragon
-4
-1400
-1200
-0
-0
-None
-None
-A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.
+<?xml version="1.0" ?>
+<card>
+    <name>Winged Dragon, Guardian of the Fortress #1</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.</text>
+</card>

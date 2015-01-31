@@ -1,14 +1,17 @@
-Cyber Kirin
-Monster
-LIGHT
-Effect
-None
-Machine
-3
-300
-800
-0
-0
-None
-None
-You can Tribute this card to make any effect damage you take this turn 0.
+<?xml version="1.0" ?>
+<card>
+    <name>Cyber Kirin</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can Tribute this card to make any effect damage you take this turn 0.</text>
+</card>

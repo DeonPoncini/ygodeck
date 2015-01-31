@@ -1,14 +1,17 @@
-Vampire Genesis
-Monster
-DARK
-Effect
-None
-Zombie
-8
-3000
-2100
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 "Vampire Lord" you control, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 Zombie-Type monster to the Graveyard, then target 1 Zombie-Type monster in your Graveyard with a Level less than the discarded Zombie-Type monster's; Special Summon that target.
+<?xml version="1.0" ?>
+<card>
+    <name>Vampire Genesis</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>8</level>
+    <attack>3000</attack>
+    <defense>2100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 &quot;Vampire Lord&quot; you control, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 Zombie-Type monster to the Graveyard, then target 1 Zombie-Type monster in your Graveyard with a Level less than the discarded Zombie-Type monster's; Special Summon that target.</text>
+</card>

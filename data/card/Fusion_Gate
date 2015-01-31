@@ -1,14 +1,17 @@
-Fusion Gate
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-While this card is on the field: Either player can Fusion Summon a Fusion Monster without using "Polymerization", but the Fusion Material Monsters are banished instead of being sent to the Graveyard.
+<?xml version="1.0" ?>
+<card>
+    <name>Fusion Gate</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>While this card is on the field: Either player can Fusion Summon a Fusion Monster without using &quot;Polymerization&quot;, but the Fusion Material Monsters are banished instead of being sent to the Graveyard.</text>
+</card>

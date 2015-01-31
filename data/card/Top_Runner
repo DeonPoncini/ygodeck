@@ -1,14 +1,17 @@
-Top Runner
-Monster
-WIND
-Tuner
-None
-Machine
-4
-1100
-800
-0
-0
-None
-None
-All face-up Synchro Monsters you control gain 600 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Top Runner</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>All face-up Synchro Monsters you control gain 600 ATK.</text>
+</card>

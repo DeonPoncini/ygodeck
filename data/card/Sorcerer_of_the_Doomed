@@ -1,14 +1,17 @@
-Sorcerer of the Doomed
-Monster
-DARK
-Normal
-None
-Spellcaster
-4
-1450
-1200
-0
-0
-None
-None
-A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.
+<?xml version="1.0" ?>
+<card>
+    <name>Sorcerer of the Doomed</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>4</level>
+    <attack>1450</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.</text>
+</card>

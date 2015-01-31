@@ -1,14 +1,17 @@
-Golem Sentry
-Monster
-EARTH
-Effect
-None
-Rock
-4
-800
-1800
-0
-0
-None
-None
-Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; return that target to the hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Golem Sentry</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Rock</type>
+    <level>4</level>
+    <attack>800</attack>
+    <defense>1800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; return that target to the hand.</text>
+</card>

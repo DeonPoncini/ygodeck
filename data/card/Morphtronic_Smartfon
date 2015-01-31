@@ -1,14 +1,17 @@
-Morphtronic Smartfon
-Monster
-EARTH
-Tuner
-Effect
-Machine
-1
-100
-100
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 "Morphtronic" monster from your Graveyard.● While in Attack Position: Once per turn: You can roll a six-sided die, excavate that many cards from the top of your Deck, add 1 excavated "Morphtronic" card to your hand, also shuffle the rest back into the Deck.● While in Defense Position: Once per turn: You can roll a six-sided die, look at that many cards from the top of your Deck, then place all of them on either the top or the bottom of the Deck in any order.
+<?xml version="1.0" ?>
+<card>
+    <name>Morphtronic Smartfon</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>100</attack>
+    <defense>100</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 &quot;Morphtronic&quot; monster from your Graveyard.● While in Attack Position: Once per turn: You can roll a six-sided die, excavate that many cards from the top of your Deck, add 1 excavated &quot;Morphtronic&quot; card to your hand, also shuffle the rest back into the Deck.● While in Defense Position: Once per turn: You can roll a six-sided die, look at that many cards from the top of your Deck, then place all of them on either the top or the bottom of the Deck in any order.</text>
+</card>

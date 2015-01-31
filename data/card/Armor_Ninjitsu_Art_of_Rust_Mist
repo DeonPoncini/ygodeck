@@ -1,14 +1,17 @@
-Armor Ninjitsu Art of Rust Mist
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Continuous
-When a monster(s) is Special Summoned to your opponent's side of the field, if you control a face-up "Ninja" monster: Halve the ATK of that Special Summoned monster(s).
+<?xml version="1.0" ?>
+<card>
+    <name>Armor Ninjitsu Art of Rust Mist</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Continuous</trapType>
+    <text>When a monster(s) is Special Summoned to your opponent's side of the field, if you control a face-up &quot;Ninja&quot; monster: Halve the ATK of that Special Summoned monster(s).</text>
+</card>

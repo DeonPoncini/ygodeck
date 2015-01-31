@@ -1,14 +1,17 @@
-Number 42: Galaxy Tomahawk
-Monster
-WIND
-Xyz
-Effect
-Machine
-7
-0
-3000
-0
-0
-None
-None
-2 Level 7 monstersYou can detach 2 Xyz Materials from this card; Special Summon as many "Battle Eagle Tokens" (Machine-Type/WIND/Level 6/ATK 2000/DEF 0) as possible, but destroy them during the End Phase of this turn, also your opponent takes no further battle damage this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Number 42: Galaxy Tomahawk</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Xyz</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>7</level>
+    <attack>0</attack>
+    <defense>3000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>2 Level 7 monstersYou can detach 2 Xyz Materials from this card; Special Summon as many &quot;Battle Eagle Tokens&quot; (Machine-Type/WIND/Level 6/ATK 2000/DEF 0) as possible, but destroy them during the End Phase of this turn, also your opponent takes no further battle damage this turn.</text>
+</card>

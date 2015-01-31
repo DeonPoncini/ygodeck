@@ -1,14 +1,17 @@
-Junk Collector
-Monster
-LIGHT
-Effect
-None
-Warrior
-5
-1000
-2200
-0
-0
-None
-None
-During either player's turn (except during the Damage Step): You can banish this face-up card you control and 1 Normal Trap Card from your Graveyard; activate the effect of the banished Trap Card as this card's effect. You can only activate this effect if the activation requirement of the Normal Trap Card you would banish is met.
+<?xml version="1.0" ?>
+<card>
+    <name>Junk Collector</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>1000</attack>
+    <defense>2200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>During either player's turn (except during the Damage Step): You can banish this face-up card you control and 1 Normal Trap Card from your Graveyard; activate the effect of the banished Trap Card as this card's effect. You can only activate this effect if the activation requirement of the Normal Trap Card you would banish is met.</text>
+</card>

@@ -1,14 +1,17 @@
-Lesser Dragon
-Monster
-WIND
-Normal
-None
-Dragon
-4
-1200
-1000
-0
-0
-None
-None
-A minor dragon incapable of breathing fire.
+<?xml version="1.0" ?>
+<card>
+    <name>Lesser Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A minor dragon incapable of breathing fire.</text>
+</card>

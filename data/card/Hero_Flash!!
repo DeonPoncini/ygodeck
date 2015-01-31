@@ -1,14 +1,17 @@
-Hero Flash!!
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Banish "H - Heated Heart", "E - Emergency Call", "R - Righteous Justice" and "O - Oversoul" from your Graveyard; Special Summon 1 "Elemental HERO" Normal Monster from your Deck. All "Elemental HERO" Normal Monsters you currently control can attack your opponent directly this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Hero Flash!!</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Banish &quot;H - Heated Heart&quot;, &quot;E - Emergency Call&quot;, &quot;R - Righteous Justice&quot; and &quot;O - Oversoul&quot; from your Graveyard; Special Summon 1 &quot;Elemental HERO&quot; Normal Monster from your Deck. All &quot;Elemental HERO&quot; Normal Monsters you currently control can attack your opponent directly this turn.</text>
+</card>

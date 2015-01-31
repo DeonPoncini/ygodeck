@@ -1,14 +1,17 @@
-Vertical Landing
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Quick-Play
-None
-Tribute any number of WIND monsters, except Tokens; Special Summon an equal number of "Mecha Phantom Beast Tokens" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only activate 1 "Vertical Landing" per turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Vertical Landing</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Quick-Play</spellType>
+    <trapType>None</trapType>
+    <text>Tribute any number of WIND monsters, except Tokens; Special Summon an equal number of &quot;Mecha Phantom Beast Tokens&quot; (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only activate 1 &quot;Vertical Landing&quot; per turn.</text>
+</card>

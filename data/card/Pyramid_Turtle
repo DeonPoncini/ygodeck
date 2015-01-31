@@ -1,14 +1,17 @@
-Pyramid Turtle
-Monster
-EARTH
-Effect
-None
-Zombie
-4
-1200
-1400
-0
-0
-None
-None
-When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Zombie-Type monster with 2000 or less DEF from your Deck.
+<?xml version="1.0" ?>
+<card>
+    <name>Pyramid Turtle</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Zombie</type>
+    <level>4</level>
+    <attack>1200</attack>
+    <defense>1400</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Zombie-Type monster with 2000 or less DEF from your Deck.</text>
+</card>

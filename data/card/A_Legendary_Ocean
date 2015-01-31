@@ -1,14 +1,17 @@
-A Legendary Ocean
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Field
-None
-This card's name is treated as "Umi". Reduce the Level of all WATER monsters in both players' hands and on the field by 1. All WATER monsters gain 200 ATK and DEF.
+<?xml version="1.0" ?>
+<card>
+    <name>A Legendary Ocean</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Field</spellType>
+    <trapType>None</trapType>
+    <text>This card's name is treated as &quot;Umi&quot;. Reduce the Level of all WATER monsters in both players' hands and on the field by 1. All WATER monsters gain 200 ATK and DEF.</text>
+</card>

@@ -1,14 +1,17 @@
-Earthbound Revival
-Spell
-None
-None
-None
-None
-0
-0
-0
-0
-0
-Normal
-None
-Discard 1 card, then target 1 "Earthbound Immortal" monster and 1 Field Spell Card in your Graveyard; add those targets to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Earthbound Revival</name>
+    <cardType>Spell</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>Normal</spellType>
+    <trapType>None</trapType>
+    <text>Discard 1 card, then target 1 &quot;Earthbound Immortal&quot; monster and 1 Field Spell Card in your Graveyard; add those targets to your hand.</text>
+</card>

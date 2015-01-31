@@ -1,14 +1,17 @@
-Exodius the Ultimate Forbidden Lord
-Monster
-DARK
-Effect
-None
-Spellcaster
-10
-?
-0
-0
-0
-None
-None
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling all monsters in your Graveyard into the Deck, and cannot be Special Summoned by other ways. When this card declares an attack: Send 1 monster from your hand or Deck to the Graveyard. This card gains 1000 ATK for each Normal Monster in your Graveyard. If this face-up card would leave the field, banish it instead. If there are 5 different "Forbidden One" cards in your Graveyard that were sent there by this card's effect, you win the Duel.
+<?xml version="1.0" ?>
+<card>
+    <name>Exodius the Ultimate Forbidden Lord</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Spellcaster</type>
+    <level>10</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling all monsters in your Graveyard into the Deck, and cannot be Special Summoned by other ways. When this card declares an attack: Send 1 monster from your hand or Deck to the Graveyard. This card gains 1000 ATK for each Normal Monster in your Graveyard. If this face-up card would leave the field, banish it instead. If there are 5 different &quot;Forbidden One&quot; cards in your Graveyard that were sent there by this card's effect, you win the Duel.</text>
+</card>

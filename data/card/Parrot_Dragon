@@ -1,14 +1,17 @@
-Parrot Dragon
-Monster
-WIND
-Normal
-None
-Dragon
-5
-2000
-1300
-0
-0
-None
-None
-A dragon from the cartoons that's more dangerous than it appears to be.
+<?xml version="1.0" ?>
+<card>
+    <name>Parrot Dragon</name>
+    <cardType>Monster</cardType>
+    <attribute>WIND</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Dragon</type>
+    <level>5</level>
+    <attack>2000</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A dragon from the cartoons that's more dangerous than it appears to be.</text>
+</card>

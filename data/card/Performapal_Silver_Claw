@@ -1,18 +1,21 @@
-Performapal Silver Claw
-Monster
-DARK
-Pendulum
-Effect
-Beast
-4
-1800
-700
-5
-5
-None
-None
-Pendulum Effect
- All "Performapal" monsters you control gain 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Performapal Silver Claw</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Pendulum</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Beast</type>
+    <level>4</level>
+    <attack>1800</attack>
+    <defense>700</defense>
+    <lpendulum>5</lpendulum>
+    <rpendulum>5</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Pendulum Effect
+ All &quot;Performapal&quot; monsters you control gain 300 ATK.
 
  Monster Effect
- If this card declares an attack: All "Performapal" monsters you currently control gain 300 ATK until the end of the Battle Phase.
+ If this card declares an attack: All &quot;Performapal&quot; monsters you currently control gain 300 ATK until the end of the Battle Phase.</text>
+</card>

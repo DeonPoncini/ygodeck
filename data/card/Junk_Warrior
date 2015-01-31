@@ -1,14 +1,17 @@
-Junk Warrior
-Monster
-DARK
-Synchro
-Effect
-Warrior
-5
-2300
-1300
-0
-0
-None
-None
-"Junk Synchron" + 1 or more non-Tuner monstersIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.
+<?xml version="1.0" ?>
+<card>
+    <name>Junk Warrior</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Synchro</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Warrior</type>
+    <level>5</level>
+    <attack>2300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>&quot;Junk Synchron&quot; + 1 or more non-Tuner monstersIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.</text>
+</card>

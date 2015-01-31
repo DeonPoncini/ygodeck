@@ -1,14 +1,17 @@
-Retort
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Counter
-When your opponent activates a Spell/Trap Card with the same name as one in your Graveyard: Negate the activation, and if you do, destroy that card. Then, you can add 1 card with that name from your Graveyard to your hand.
+<?xml version="1.0" ?>
+<card>
+    <name>Retort</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Counter</trapType>
+    <text>When your opponent activates a Spell/Trap Card with the same name as one in your Graveyard: Negate the activation, and if you do, destroy that card. Then, you can add 1 card with that name from your Graveyard to your hand.</text>
+</card>

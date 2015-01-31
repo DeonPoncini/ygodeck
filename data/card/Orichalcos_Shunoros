@@ -1,14 +1,17 @@
-Orichalcos Shunoros
-Monster
-DARK
-Effect
-None
-Machine
-10
-?
-0
-0
-0
-None
-None
-This card cannot be Normal Summoned or Set. If a Normal Monster you control is destroyed by battle, you can Special Summon this card from your hand. This card gains 1000 ATK for each monster your opponent controls. Face-up Level 4 Normal Monsters on the field cannot be destroyed by card effects.
+<?xml version="1.0" ?>
+<card>
+    <name>Orichalcos Shunoros</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>10</level>
+    <attack>?</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>This card cannot be Normal Summoned or Set. If a Normal Monster you control is destroyed by battle, you can Special Summon this card from your hand. This card gains 1000 ATK for each monster your opponent controls. Face-up Level 4 Normal Monsters on the field cannot be destroyed by card effects.</text>
+</card>

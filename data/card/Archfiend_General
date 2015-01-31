@@ -1,14 +1,17 @@
-Archfiend General
-Monster
-DARK
-Effect
-None
-Fiend
-4
-2100
-800
-0
-0
-None
-None
-You can discard this card to the Graveyard to add 1 "Pandemonium" from your Deck to your hand. If this card is on the field but "Pandemonium" is not on the field, destroy this card.
+<?xml version="1.0" ?>
+<card>
+    <name>Archfiend General</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Fiend</type>
+    <level>4</level>
+    <attack>2100</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>You can discard this card to the Graveyard to add 1 &quot;Pandemonium&quot; from your Deck to your hand. If this card is on the field but &quot;Pandemonium&quot; is not on the field, destroy this card.</text>
+</card>

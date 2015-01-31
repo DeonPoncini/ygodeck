@@ -1,14 +1,17 @@
-Destiny HERO - Diamond Dude
-Monster
-DARK
-Effect
-None
-Warrior
-4
-1400
-1600
-0
-0
-None
-None
-Once per turn: You can reveal the top card of your Deck, and if it is a Normal Spell Card, send it to the Graveyard, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell Card in your Graveyard (even if you no longer control this face-up card).
+<?xml version="1.0" ?>
+<card>
+    <name>Destiny HERO - Diamond Dude</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>4</level>
+    <attack>1400</attack>
+    <defense>1600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn: You can reveal the top card of your Deck, and if it is a Normal Spell Card, send it to the Graveyard, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell Card in your Graveyard (even if you no longer control this face-up card).</text>
+</card>

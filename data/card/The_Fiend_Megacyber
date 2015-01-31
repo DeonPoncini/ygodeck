@@ -1,14 +1,17 @@
-The Fiend Megacyber
-Monster
-DARK
-Effect
-None
-Warrior
-6
-2200
-1200
-0
-0
-None
-None
-If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand).
+<?xml version="1.0" ?>
+<card>
+    <name>The Fiend Megacyber</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>6</level>
+    <attack>2200</attack>
+    <defense>1200</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand).</text>
+</card>

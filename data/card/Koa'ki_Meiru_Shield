@@ -1,14 +1,17 @@
-Koa'ki Meiru Shield
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Activate only when your opponent's monster declares an attack if you have 2 or more "Iron Core of Koa'ki Meiru" in your Graveyard. Destroy all face-up Attack Position monsters your opponent controls.
+<?xml version="1.0" ?>
+<card>
+    <name>Koa'ki Meiru Shield</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Activate only when your opponent's monster declares an attack if you have 2 or more &quot;Iron Core of Koa'ki Meiru&quot; in your Graveyard. Destroy all face-up Attack Position monsters your opponent controls.</text>
+</card>

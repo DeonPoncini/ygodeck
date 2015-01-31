@@ -1,14 +1,17 @@
-Flare Resonator
-Monster
-FIRE
-Tuner
-Effect
-Fiend
-3
-300
-1300
-0
-0
-None
-None
-A Synchro Monster that used this card as a Synchro Material gains 300 ATK.
+<?xml version="1.0" ?>
+<card>
+    <name>Flare Resonator</name>
+    <cardType>Monster</cardType>
+    <attribute>FIRE</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Fiend</type>
+    <level>3</level>
+    <attack>300</attack>
+    <defense>1300</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A Synchro Monster that used this card as a Synchro Material gains 300 ATK.</text>
+</card>

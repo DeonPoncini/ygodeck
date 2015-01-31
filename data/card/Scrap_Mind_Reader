@@ -1,14 +1,17 @@
-Scrap Mind Reader
-Monster
-EARTH
-Tuner
-None
-Machine
-1
-0
-0
-0
-0
-None
-None
-Once per turn, while this card is in your Graveyard during your Main Phase 2, you can select 1 face-up "Scrap" monster you control, except "Scrap Mind Reader". Destroy that monster and Special Summon this card from the Graveyard. If you do, remove this card from play when it is removed from the field. If this card is used as a Synchro Material Monster, all other Synchro Material Monsters must be "Scrap" monsters.
+<?xml version="1.0" ?>
+<card>
+    <name>Scrap Mind Reader</name>
+    <cardType>Monster</cardType>
+    <attribute>EARTH</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Machine</type>
+    <level>1</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Once per turn, while this card is in your Graveyard during your Main Phase 2, you can select 1 face-up &quot;Scrap&quot; monster you control, except &quot;Scrap Mind Reader&quot;. Destroy that monster and Special Summon this card from the Graveyard. If you do, remove this card from play when it is removed from the field. If this card is used as a Synchro Material Monster, all other Synchro Material Monsters must be &quot;Scrap&quot; monsters.</text>
+</card>

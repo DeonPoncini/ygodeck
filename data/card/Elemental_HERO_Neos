@@ -1,14 +1,17 @@
-Elemental HERO Neos
-Monster
-LIGHT
-Normal
-None
-Warrior
-7
-2500
-2000
-0
-0
-None
-None
-A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian, his unknown powers are unleashed.
+<?xml version="1.0" ?>
+<card>
+    <name>Elemental HERO Neos</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Normal</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>7</level>
+    <attack>2500</attack>
+    <defense>2000</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian, his unknown powers are unleashed.</text>
+</card>

@@ -1,14 +1,17 @@
-Galaxy Knight
-Monster
-LIGHT
-Effect
-None
-Warrior
-8
-2800
-2600
-0
-0
-None
-None
-If you control a "Photon" or "Galaxy" monster, you can Normal Summon this card without Tributing. When you do: Target 1 "Galaxy-Eyes Photon Dragon" in your Graveyard (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in face-up Defense Position. This ATK decrease lasts until the End Phase.
+<?xml version="1.0" ?>
+<card>
+    <name>Galaxy Knight</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Effect</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>Warrior</type>
+    <level>8</level>
+    <attack>2800</attack>
+    <defense>2600</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>If you control a &quot;Photon&quot; or &quot;Galaxy&quot; monster, you can Normal Summon this card without Tributing. When you do: Target 1 &quot;Galaxy-Eyes Photon Dragon&quot; in your Graveyard (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in face-up Defense Position. This ATK decrease lasts until the End Phase.</text>
+</card>

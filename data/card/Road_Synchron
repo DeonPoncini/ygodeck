@@ -1,14 +1,17 @@
-Road Synchron
-Monster
-LIGHT
-Tuner
-Effect
-Machine
-4
-1600
-800
-0
-0
-None
-None
-When using this card as Synchro Material for the Synchro Summon of a monster other than "Road Warrior", reduce this card's Level by 2. If this card attacks, at the end of the Damage Step: Increase its Level by 1 until the end of this turn.
+<?xml version="1.0" ?>
+<card>
+    <name>Road Synchron</name>
+    <cardType>Monster</cardType>
+    <attribute>LIGHT</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Machine</type>
+    <level>4</level>
+    <attack>1600</attack>
+    <defense>800</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>When using this card as Synchro Material for the Synchro Summon of a monster other than &quot;Road Warrior&quot;, reduce this card's Level by 2. If this card attacks, at the end of the Damage Step: Increase its Level by 1 until the end of this turn.</text>
+</card>

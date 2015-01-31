@@ -1,14 +1,17 @@
-The League of Uniform Nomenclature
-Trap
-None
-None
-None
-None
-0
-0
-0
-0
-0
-None
-Normal
-Select 1 face-up Level 2 or lower Normal Monster on your side of the field to activate this card. Special Summon from your Deck to your side of the field as many cards as possible with the same name as the selected monster.
+<?xml version="1.0" ?>
+<card>
+    <name>The League of Uniform Nomenclature</name>
+    <cardType>Trap</cardType>
+    <attribute>None</attribute>
+    <monsterType>None</monsterType>
+    <monsterAbility>None</monsterAbility>
+    <type>None</type>
+    <level>0</level>
+    <attack>0</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>Normal</trapType>
+    <text>Select 1 face-up Level 2 or lower Normal Monster on your side of the field to activate this card. Special Summon from your Deck to your side of the field as many cards as possible with the same name as the selected monster.</text>
+</card>

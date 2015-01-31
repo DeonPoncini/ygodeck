@@ -1,14 +1,17 @@
-Blackwing - Blizzard the Far North
-Monster
-DARK
-Tuner
-Effect
-Winged Beast
-2
-1300
-0
-0
-0
-None
-None
-Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 Level 4 or lower "Blackwing" monster in your Graveyard; Special Summon that target in Defense Position.
+<?xml version="1.0" ?>
+<card>
+    <name>Blackwing - Blizzard the Far North</name>
+    <cardType>Monster</cardType>
+    <attribute>DARK</attribute>
+    <monsterType>Tuner</monsterType>
+    <monsterAbility>Effect</monsterAbility>
+    <type>Winged Beast</type>
+    <level>2</level>
+    <attack>1300</attack>
+    <defense>0</defense>
+    <lpendulum>0</lpendulum>
+    <rpendulum>0</rpendulum>
+    <spellType>None</spellType>
+    <trapType>None</trapType>
+    <text>Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 Level 4 or lower &quot;Blackwing&quot; monster in your Graveyard; Special Summon that target in Defense Position.</text>
+</card>
