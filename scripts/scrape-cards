@@ -13,6 +13,8 @@ import requests
 import sys
 
 from bs4 import BeautifulSoup
+from xml.dom import minidom
+from xml.dom.minidom import Document
 
 CARD_PATH = sys.argv[1]
 ERROR_PATH = sys.argv[2]
@@ -60,29 +62,82 @@ def normalize(field):
     return field.replace(' ','').replace('-','').upper()
 
 def validate_output(data):
+    if not data['name']:
+        print 'Invalid empty name'
+        return False
+
     try:
         DataTypes.CardType.reverse_mapping[normalize(data['cardType'])]
-        DataTypes.Attribute.reverse_mapping[normalize(data['attribute'])]
-        DataTypes.MonsterType.reverse_mapping[normalize(data['monsterType'])]
-        DataTypes.MonsterType.reverse_mapping[normalize(data['monsterAbility'])]
-        DataTypes.Type.reverse_mapping[normalize(data['type'])]
-        DataTypes.SpellType.reverse_mapping[normalize(data['spellType'])]
-        DataTypes.TrapType.reverse_mapping[normalize(data['trapType'])]
-        if not str(data['level']).isdigit():
-            return False
-        if not str(data['attack']).isdigit():
-            if str(data['attack']) != '?':
-                return False
-        if not str(data['defense']).isdigit():
-            if str(data['defense']) != '?':
-                return False
-        if not str(data['lpendulum']).isdigit():
-            return False
-        if not str(data['rpendulum']).isdigit():
-            return False
-        return True
     except KeyError:
+        print data['name'] + ' Invalid cardType: ' + data['cardType']
         return False
+    try:
+        DataTypes.Attribute.reverse_mapping[normalize(data['attribute'])]
+    except KeyError:
+        print data['name'] + ' Invalid attribute: ' + data['attribute']
+        return False
+
+    try:
+        DataTypes.MonsterType.reverse_mapping[normalize(data['monsterType'])]
+    except KeyError:
+        print data['name'] + ' Invalid monsterType: ' + data['monsterType']
+        return False
+
+    try:
+        DataTypes.MonsterType.reverse_mapping[normalize(data['monsterAbility'])]
+    except KeyError:
+        print data['name'] + ' Invalid monsterAbility: ' + data['monsterAbility']
+        return False
+
+    try:
+        DataTypes.Type.reverse_mapping[normalize(data['type'])]
+    except KeyError:
+        print data['name'] + ' Invalid type: ' + data['type']
+        return False
+
+    try:
+        DataTypes.SpellType.reverse_mapping[normalize(data['spellType'])]
+    except KeyError:
+        print data['name'] + ' Invalid spellType: ' + data['spellType']
+        return False
+
+    try:
+        DataTypes.TrapType.reverse_mapping[normalize(data['trapType'])]
+    except KeyError:
+        print data['name'] + ' Invalid trapType: ' + data['trapType']
+        return False
+
+    if not str(data['level']).strip().isdigit():
+        print data['name'] + ' Invalid level: ' + data['level']
+        return False
+    if not str(data['attack']).strip().isdigit():
+        if str(data['attack']).strip() != '?':
+            print data['name'] + ' Invalid attack: ' + data['attack']
+            return False
+    if not str(data['defense']).strip().isdigit():
+        if str(data['defense']).strip() != '?':
+            print data['name'] + ' Invalid defense: ' + data['defense']
+            return False
+    if not str(data['lpendulum']).strip().isdigit():
+        print data['name'] + ' Invalid lpendulum: ' + data['lpendulum']
+        return False
+    if not str(data['rpendulum']).strip().isdigit():
+        print data['name'] + ' Invalid rpendulum: ' + data['rpendulum']
+        return False
+    if not data['text']:
+        print data['name'] + ' has empty text'
+        return False
+    return True
+
+def append_xml(doc, root, data, element):
+    node = doc.createElement(element)
+    root.appendChild(node)
+    value = data[element]
+    if isinstance(value, (int, long)):
+        text = doc.createTextNode(str(value))
+    else:
+        text = doc.createTextNode(value)
+    node.appendChild(text)
 
 def print_output(data, cardname):
     if not validate_output(data):
@@ -91,21 +146,30 @@ def print_output(data, cardname):
         return
 
     cardpath = card_path(cardname)
-    cardout = codecs.open(cardpath,'w','utf-8')
-    cardout.write(data['name'] + '\n' + \
-          data['cardType'] + '\n' + \
-          data['attribute'] + '\n' + \
-          data['monsterType'] + '\n' + \
-          data['monsterAbility'] + '\n' + \
-          data['type'] + '\n' + \
-          str(data['level']) + '\n' + \
-          str(data['attack']) + '\n' + \
-          str(data['defense']) + '\n' + \
-          str(data['lpendulum']) + '\n' + \
-          str(data['rpendulum']) + '\n' + \
-          data['spellType'] + '\n' + \
-          data['trapType'] + '\n' + \
-          data['text'] + '\n')
+    doc = Document()
+    root = doc.createElement('card')
+    doc.appendChild(root)
+
+    append_xml(doc, root, data, 'name')
+    append_xml(doc, root, data, 'cardType')
+    append_xml(doc, root, data, 'attribute')
+    append_xml(doc, root, data, 'monsterType')
+    append_xml(doc, root, data, 'monsterAbility')
+    append_xml(doc, root, data, 'type')
+    append_xml(doc, root, data, 'level')
+    append_xml(doc, root, data, 'attack')
+    append_xml(doc, root, data, 'defense')
+    append_xml(doc, root, data, 'lpendulum')
+    append_xml(doc, root, data, 'rpendulum')
+    append_xml(doc, root, data, 'spellType')
+    append_xml(doc, root, data, 'trapType')
+    append_xml(doc, root, data, 'text')
+
+    doc.writexml(codecs.open(cardpath,'w','utf-8'),
+            indent="",
+            addindent="    ",
+            newl='\n')
+    doc.unlink()
 
     print "Writing " + cardname
 
@@ -220,7 +284,9 @@ def parse_card(uri, cardname):
             for tdTag in tdTags:
                 info.append(tdTag.text.strip())
             if len(headers) == 1 and len(info) == 1:
-                if headers[0].strip() == 'Attribute':
+                if headers[0].strip() == 'English':
+                    data['name'] = info[0].strip()
+                elif headers[0].strip() == 'Attribute':
                     data['cardType'] = 'Monster'
                     data['attribute'] = info[0].strip()
                 elif headers[0].strip() == 'Type':

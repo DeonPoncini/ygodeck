@@ -92,17 +92,71 @@ for filename in os.listdir(FORMAT_PATH):
 
 # read up every card and write into the database
 for filename in os.listdir(CARD_PATH):
-    ff = codecs.open(os.path.join(CARD_PATH, filename), 'r', 'utf-8')
-    content = ff.readlines()
-    card = [None]
-    for line in content:
-        card.append(line.rstrip())
-    # check for multi line text descriptions
-    if len(card) > 15:
-        card[14:] = [''.join(card[14:])]
-    if len(card) != 15:
-        print "Error in file: " + filename
+    # skip hidden files
+    if filename.startswith('.'):
         continue
+
+    formatDom = minidom.parse(os.path.join(CARD_PATH, filename))
+    cards = formatDom.getElementsByTagName('card')
+    card = [None]
+
+    for k in cards:
+        tag = k.getElementsByTagName('name')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('cardType')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('attribute')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('monsterType')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('monsterAbility')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('type')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('level')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('attack')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('defense')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('lpendulum')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('rpendulum')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('spellType')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('trapType')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
+        tag = k.getElementsByTagName('text')
+        text = tag[0].firstChild.nodeValue
+        card.append(text)
+
     c.execute('INSERT INTO card VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)', card)
 
 db.commit()
