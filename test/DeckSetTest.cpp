@@ -212,4 +212,24 @@ BOOST_AUTO_TEST_CASE(Validate)
     BOOST_CHECK_EQUAL(deckSet->validate(), true);
 }
 
+BOOST_AUTO_TEST_CASE(Synonyms)
+{
+    auto err = deckSet->addCard(ygo::data::DeckType::MAIN, "Cyber Harpie Lady");
+    BOOST_CHECK(err == ygo::deck::DeckError::OK);
+    err = deckSet->addCard(ygo::data::DeckType::MAIN, "Harpie Lady 1");
+    BOOST_CHECK(err == ygo::deck::DeckError::OK);
+    err = deckSet->addCard(ygo::data::DeckType::MAIN, "Harpie Lady 2");
+    BOOST_CHECK(err == ygo::deck::DeckError::OK);
+    err = deckSet->addCard(ygo::data::DeckType::MAIN, "Harpie Lady 3");
+    BOOST_CHECK(err == ygo::deck::DeckError::LIMIT_REACHED);
+    err = deckSet->addCard(ygo::data::DeckType::MAIN, "Umi");
+    BOOST_CHECK(err == ygo::deck::DeckError::OK);
+    err = deckSet->addCard(ygo::data::DeckType::MAIN, "Umi");
+    BOOST_CHECK(err == ygo::deck::DeckError::OK);
+    err = deckSet->addCard(ygo::data::DeckType::MAIN, "Umi");
+    BOOST_CHECK(err == ygo::deck::DeckError::OK);
+    err = deckSet->addCard(ygo::data::DeckType::MAIN, "A Legendary Ocean");
+    BOOST_CHECK(err == ygo::deck::DeckError::LIMIT_REACHED);
+}
+
 BOOST_AUTO_TEST_SUITE_END()

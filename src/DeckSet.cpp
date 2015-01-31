@@ -7,11 +7,49 @@
 #include <ygo/data/Serialize.h>
 
 #include <stdexcept>
+#include <vector>
+#include <unordered_map>
 
 namespace ygo
 {
 namespace deck
 {
+
+static const std::unordered_map<std::string, std::vector<std::string>>
+nameConditions = {
+    {"A Legendary Ocean",
+        {"Lemuria, the Forgotten City", "Umi"}},
+    {"Lemuria, the Forgotten City",
+        {"A Legendary Ocean", "Umi"}},
+    {"Umi",
+        {"A Legendary Ocean", "Lemuria, the Forgotten City"}},
+    {"Cyber Harpie Lady",
+        {"Harpie Lady", "Harpie Lady 1", "Harpie Lady 2", "Harpie Lady 3"}},
+    {"Harpie Lady",
+        {"Cyber Harpie Lady", "Harpie Lady 1", "Harpie Lady 2", "Harpie Lady 3"}},
+    {"Harpie Lady 1",
+        {"Cyber Harpie Lady", "Harpie Lady", "Harpie Lady 2", "Harpie Lady 3"}},
+    {"Harpie Lady 2",
+        {"Cyber Harpie Lady", "Harpie Lady", "Harpie Lady 1", "Harpie Lady 3"}},
+    {"Harpie Lady 3",
+        {"Cyber Harpie Lady", "Harpie Lady", "Harpie Lady 1", "Harpie Lady 2"}},
+    {"Neo-Spacian Aqua Dolphin",
+        {"Neo-Spacian Marine Dolphin"}},
+    {"Neo-Spacian Marine Dolphin",
+        {"Neo-Spacian Aqua Dolphin"}},
+    {"The Eye of Timaeus",
+        {"Legendary Dragon Timaeus"}},
+    {"Legendary Dragon Timaeus",
+        {"The Eye of Timaeus"}},
+    {"Fusion Substitute",
+        {"Polymerization"}},
+    {"Polymerization",
+        {"Fusion Substitute"}},
+    {"Neo-Spacian Glow Moss",
+        {"Neo-Spacian Twinkle Moss"}},
+    {"Neo-Spacian Twinkle Moss",
+        {"Neo-Spacian Glow Moss"}},
+};
 
 std::string cardID(const std::string& name)
 {
@@ -165,12 +203,22 @@ DeckError DeckSet::addCard(data::DeckType deckType,
     // check if we can add to any card list
     auto count = mFormat.cardCount(name);
     KIZHI_TRACE_F << name << " is allowed " << count << " times in a deck";
-    auto cardid = cardID(name);
     auto exist = 0;
-    for (auto&& kv : mDeckMap) {
-        exist += cardCheck(cardid,kv.second.id());
+    // check the existance of any synonyms
+    auto it = nameConditions.find(name);
+    std::vector<std::string> synonyms = {name};
+    if (it != nameConditions.end()) {
+        synonyms.insert(std::end(synonyms),
+                std::begin(it->second), std::end(it->second));
+    }
+    for (auto&& n : synonyms) {
+        auto cardid = cardID(n);
+        for (auto&& kv : mDeckMap) {
+            exist += cardCheck(cardid,kv.second.id());
+        }
     }
     KIZHI_TRACE_F << name << " exists " << exist << " times in our decks";
+
     if (count <= exist) {
         KIZHI_TRACE_F << name << " has reached a limit in our deck";
         return DeckError::LIMIT_REACHED;
