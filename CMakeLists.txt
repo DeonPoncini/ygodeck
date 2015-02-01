@@ -12,6 +12,7 @@ set(DECK_VERSION "0.0.1")
 ################################
 find_package(kizhi)
 find_package(mindbw)
+find_package(sinc)
 find_package(ygodata)
 find_package(zephyr)
 
@@ -53,7 +54,7 @@ target_link_libraries(ygodeck
 add_custom_command(OUTPUT
     ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck/cpp/DataTypes.h
     COMMAND python
-    ARGS $ENV{PROJECT_SCRIPT_DIR}/include/generate-data.py
+    ARGS ${SINC_PYTHON_INCLUDE_DIRS}/sinc.py
     ${CMAKE_CURRENT_LIST_DIR}/data/xml/data.xml
     ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck)
 
