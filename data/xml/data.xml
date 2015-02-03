@@ -1,14 +1,20 @@
 <data name="DataTypes">
-    <package uri="sectorsoftware.net">
-        <namespace>ygo</namespace>
-        <namespace>deck</namespace>
+    <package>
+        <uri>sectorsoftware.net</uri>
+        <namespaces>
+            <namespace>ygo</namespace>
+            <namespace>deck</namespace>
+        </namespaces>
     </package>
 
-    <enum name="DeckError">
-        <entry>OK</entry>
-        <entry>FORBIDDEN</entry>
-        <entry>LIMIT_REACHED</entry>
-        <entry>DECK_FULL</entry>
+    <enum>
+        <name>DeckError</name>
+        <entries>
+            <entry>OK</entry>
+            <entry>FORBIDDEN</entry>
+            <entry>LIMIT_REACHED</entry>
+            <entry>DECK_FULL</entry>
+        </entries>
     </enum>
 
 </data>

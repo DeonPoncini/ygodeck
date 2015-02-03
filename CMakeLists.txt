@@ -56,7 +56,8 @@ add_custom_command(OUTPUT
     COMMAND python
     ARGS ${SINC_PYTHON_INCLUDE_DIRS}/sinc.py
     ${CMAKE_CURRENT_LIST_DIR}/data/xml/data.xml
-    ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck)
+    ${CMAKE_CURRENT_BINARY_DIR}/include/ygo/deck
+    ${SINC_DATA}/schema.xsd)
 
 ################################
 # Generate database file
